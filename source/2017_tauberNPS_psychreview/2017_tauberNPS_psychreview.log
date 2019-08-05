@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.5)  5 AUG 2019 16:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.5)  5 AUG 2019 20:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -710,33 +710,43 @@ LaTeX Info: Redefining \addtolength on input line 81.
 )
 \c@@todonotes@numberoftodonotes=\count151
 )
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/draftwatermark/draftwatermark.sty
+Package: draftwatermark 2015/02/19 1.2 Put a gray textual watermark on document
+ pages
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/everypage/everypage.sty
+Package: everypage 2007/06/20 1.1 Hooks to run on every page
+)
+\sc@wm@hcenter=\skip77
+\sc@wm@vcenter=\skip78
+\sc@wm@fontsize=\skip79
+)
 
-Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 45.
+Package csquotes Warning: Load 'inputenc' before 'csquotes' on input line 57.
 
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 
 Package csquotes Warning: No style for language 'nil'.
-(csquotes)                Using fallback style on input line 45.
+(csquotes)                Using fallback style on input line 57.
 
 Package csquotes Info: Redefining alias 'default' -> 'fallback'.
 (./2017_tauberNPS_psychreview.aux)
 \openout1 = `2017_tauberNPS_psychreview.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 45.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 57.
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -835,39 +845,39 @@ Package apacite Warning: No suitable language definition file (nil.apc) found.
 
 ABD: EveryShipout initializing macros
 Using title for running head
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 46.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 58.
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 46.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 58.
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 46.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 58.
 
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 46.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 58.
 
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 46.
+(Font)              <10.95> on input line 58.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 46.
+(Font)              <8> on input line 58.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 46.
-LaTeX Font Info:    Try loading font information for U+msa on input line 46.
+(Font)              <6> on input line 58.
+LaTeX Font Info:    Try loading font information for U+msa on input line 58.
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 46.
+LaTeX Font Info:    Try loading font information for U+msb on input line 58.
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -877,15 +887,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1{/home/danielle/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ] [1] [2]
-<other_figs/threeBayesPic.pdf, id=50, 880.28876pt x 416.55624pt>
+<other_figs/threeBayesPic.pdf, id=51, 880.28876pt x 416.55624pt>
 File: other_figs/threeBayesPic.pdf Graphic file (type pdf)
 <use other_figs/threeBayesPic.pdf>
-Package pdftex.def Info: other_figs/threeBayesPic.pdf  used on input line 101.
+Package pdftex.def Info: other_figs/threeBayesPic.pdf  used on input line 113.
 (pdftex.def)             Requested size: 273.18271pt x 129.27094pt.
-<other_figs/threeBayes.pdf, id=51, 431.6125pt x 368.37625pt>
+<other_figs/threeBayes.pdf, id=52, 431.6125pt x 368.37625pt>
 File: other_figs/threeBayes.pdf Graphic file (type pdf)
 <use other_figs/threeBayes.pdf>
-Package pdftex.def Info: other_figs/threeBayes.pdf  used on input line 102.
+Package pdftex.def Info: other_figs/threeBayes.pdf  used on input line 114.
 (pdftex.def)             Requested size: 143.09538pt x 122.12662pt.
 
 [3]
@@ -893,66 +903,66 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4 <./other_figs/threeBayesPic.pdf> <./other_figs/threeBayes.pdf>]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 114.
+(Font)              <9> on input line 126.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 114.
+(Font)              <5> on input line 126.
  [5] [6] [7] [8]
 [9] [10] [11] [12]
-Underfull \hbox (badness 1320) in paragraph at lines 207--208
+Underfull \hbox (badness 1320) in paragraph at lines 219--220
 \T1/lmr/m/n/10.95 predictions about how different experimental manipulations sh
 ould change people's
  []
 
-<coincidences_figures/gt1aggregate.pdf, id=116, 843.15pt x 254.9525pt>
+<coincidences_figures/gt1aggregate.pdf, id=117, 843.15pt x 254.9525pt>
 File: coincidences_figures/gt1aggregate.pdf Graphic file (type pdf)
 <use coincidences_figures/gt1aggregate.pdf>
 Package pdftex.def Info: coincidences_figures/gt1aggregate.pdf  used on input l
-ine 216.
+ine 228.
 (pdftex.def)             Requested size: 303.53267pt x 91.78282pt.
-<coincidences_figures/usaggregate.pdf, id=117, 867.24pt x 361.35pt>
+<coincidences_figures/usaggregate.pdf, id=118, 867.24pt x 361.35pt>
 File: coincidences_figures/usaggregate.pdf Graphic file (type pdf)
 <use coincidences_figures/usaggregate.pdf>
 Package pdftex.def Info: coincidences_figures/usaggregate.pdf  used on input li
-ne 218.
+ne 230.
 (pdftex.def)             Requested size: 325.215pt x 135.50592pt.
 [13] [14 <./coincidences_figures/gt1aggregate.pdf> <./coincidences_figures/usag
 gregate.pdf>]
-<coincidences_figures/nonoptimal.pdf, id=144, 867.24pt x 361.35pt>
+<coincidences_figures/nonoptimal.pdf, id=145, 867.24pt x 361.35pt>
 File: coincidences_figures/nonoptimal.pdf Graphic file (type pdf)
 <use coincidences_figures/nonoptimal.pdf>
 Package pdftex.def Info: coincidences_figures/nonoptimal.pdf  used on input lin
-e 234.
+e 246.
 (pdftex.def)             Requested size: 433.62pt x 180.67456pt.
 
 Underfull \vbox (badness 2495) has occurred while \output is active []
 
  [15 <./coincidences_figures/nonoptimal.pdf>] [16]
-<coincidences_figures/individuals.pdf, id=157, 650.43pt x 633.36626pt>
+<coincidences_figures/individuals.pdf, id=158, 650.43pt x 633.36626pt>
 File: coincidences_figures/individuals.pdf Graphic file (type pdf)
 <use coincidences_figures/individuals.pdf>
 Package pdftex.def Info: coincidences_figures/individuals.pdf  used on input li
-ne 255.
+ne 267.
 (pdftex.def)             Requested size: 433.62pt x 422.25603pt.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 270.
+               Default added (so using `tbp') on input line 282.
 
-<coincidences_figures/priorVariation.pdf, id=158, 650.43pt x 309.155pt>
+<coincidences_figures/priorVariation.pdf, id=159, 650.43pt x 309.155pt>
 File: coincidences_figures/priorVariation.pdf Graphic file (type pdf)
 <use coincidences_figures/priorVariation.pdf>
 Package pdftex.def Info: coincidences_figures/priorVariation.pdf  used on input
- line 272.
+ line 284.
 (pdftex.def)             Requested size: 411.93767pt x 195.80176pt.
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 277.
+               Default added (so using `tbp') on input line 289.
 
-<coincidences_figures/likelihoodVariation.pdf, id=159, 650.43pt x 309.155pt>
+<coincidences_figures/likelihoodVariation.pdf, id=160, 650.43pt x 309.155pt>
 File: coincidences_figures/likelihoodVariation.pdf Graphic file (type pdf)
 <use coincidences_figures/likelihoodVariation.pdf>
 Package pdftex.def Info: coincidences_figures/likelihoodVariation.pdf  used on 
-input line 279.
+input line 291.
 (pdftex.def)             Requested size: 411.93767pt x 195.80176pt.
 [17] [18 <./coincidences_figures/individuals.pdf>] [19 <./coincidences_figures/
 priorVariation.pdf> <./coincidences_figures/likelihoodVariation.pdf>] [20]
@@ -960,53 +970,53 @@ Underfull \vbox (badness 4072) has occurred while \output is active []
 
  [21]
 [22] [23] [24]
-<predictions_figures/movie_grosses_pred.pdf, id=204, 578.16pt x 433.62pt>
+<predictions_figures/movie_grosses_pred.pdf, id=205, 578.16pt x 433.62pt>
 File: predictions_figures/movie_grosses_pred.pdf Graphic file (type pdf)
 <use predictions_figures/movie_grosses_pred.pdf>
 Package pdftex.def Info: predictions_figures/movie_grosses_pred.pdf  used on in
-put line 407.
+put line 419.
 (pdftex.def)             Requested size: 143.09538pt x 107.31963pt.
-<predictions_figures/poem_lengths_pred.pdf, id=205, 578.16pt x 433.62pt>
+<predictions_figures/poem_lengths_pred.pdf, id=206, 578.16pt x 433.62pt>
 File: predictions_figures/poem_lengths_pred.pdf Graphic file (type pdf)
 <use predictions_figures/poem_lengths_pred.pdf>
 Package pdftex.def Info: predictions_figures/poem_lengths_pred.pdf  used on inp
-ut line 407.
+ut line 419.
 (pdftex.def)             Requested size: 143.09538pt x 107.31963pt.
-<predictions_figures/life_spans_pred.pdf, id=206, 578.16pt x 433.62pt>
+<predictions_figures/life_spans_pred.pdf, id=207, 578.16pt x 433.62pt>
 File: predictions_figures/life_spans_pred.pdf Graphic file (type pdf)
 <use predictions_figures/life_spans_pred.pdf>
 Package pdftex.def Info: predictions_figures/life_spans_pred.pdf  used on input
- line 407.
+ line 419.
 (pdftex.def)             Requested size: 143.09538pt x 107.31963pt.
-<predictions_figures/pharaohs_reigns_pred.pdf, id=207, 578.16pt x 433.62pt>
+<predictions_figures/pharaohs_reigns_pred.pdf, id=208, 578.16pt x 433.62pt>
 File: predictions_figures/pharaohs_reigns_pred.pdf Graphic file (type pdf)
 <use predictions_figures/pharaohs_reigns_pred.pdf>
 Package pdftex.def Info: predictions_figures/pharaohs_reigns_pred.pdf  used on 
-input line 421.
+input line 433.
 (pdftex.def)             Requested size: 143.09538pt x 107.31963pt.
-<predictions_figures/movie_runtimes_pred.pdf, id=208, 578.16pt x 433.62pt>
+<predictions_figures/movie_runtimes_pred.pdf, id=209, 578.16pt x 433.62pt>
 File: predictions_figures/movie_runtimes_pred.pdf Graphic file (type pdf)
 <use predictions_figures/movie_runtimes_pred.pdf>
 Package pdftex.def Info: predictions_figures/movie_runtimes_pred.pdf  used on i
-nput line 421.
+nput line 433.
 (pdftex.def)             Requested size: 143.09538pt x 107.31963pt.
-<predictions_figures/representatives_terms_pred.pdf, id=209, 578.16pt x 433.62p
+<predictions_figures/representatives_terms_pred.pdf, id=210, 578.16pt x 433.62p
 t>
 File: predictions_figures/representatives_terms_pred.pdf Graphic file (type pdf
 )
 <use predictions_figures/representatives_terms_pred.pdf>
 Package pdftex.def Info: predictions_figures/representatives_terms_pred.pdf  us
-ed on input line 421.
+ed on input line 433.
 (pdftex.def)             Requested size: 143.09538pt x 107.31963pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 394--422
+Underfull \hbox (badness 10000) in paragraph at lines 406--434
 
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 448.
+(Font)              <10> on input line 460.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 448.
+(Font)              <7> on input line 460.
 [25] [26 <./predictions_figures/movie_grosses_pred.pdf> <./predictions_figures/
 poem_lengths_pred.pdf
 
@@ -1034,93 +1044,93 @@ pdfTeX warning: /home/danielle/bin/pdflatex (file ./predictions_figures/represe
 ntatives_terms_pred.pdf): PDF inclusion: multiple pdfs with page group included
  in a single page
 >] [27]
-<predictions_figures/priors-subjective-vs-empirical.pdf, id=406, 1454.43375pt x
+<predictions_figures/priors-subjective-vs-empirical.pdf, id=407, 1454.43375pt x
  587.19376pt>
 File: predictions_figures/priors-subjective-vs-empirical.pdf Graphic file (type
  pdf)
 <use predictions_figures/priors-subjective-vs-empirical.pdf>
 Package pdftex.def Info: predictions_figures/priors-subjective-vs-empirical.pdf
-  used on input line 506.
+  used on input line 518.
 (pdftex.def)             Requested size: 433.62pt x 175.06638pt.
  [28] [29 <./predictions_figures/priors-subjective-vs-empirical.pdf>]
 [30] [31] [32]
-<generalization_figs/cows.pdf, id=463, 433.62pt x 361.35pt>
+<generalization_figs/cows.pdf, id=464, 433.62pt x 361.35pt>
 File: generalization_figs/cows.pdf Graphic file (type pdf)
 <use generalization_figs/cows.pdf>
-Package pdftex.def Info: generalization_figs/cows.pdf  used on input line 590.
+Package pdftex.def Info: generalization_figs/cows.pdf  used on input line 602.
 (pdftex.def)             Requested size: 184.9429pt x 154.12033pt.
-<generalization_figs/dolphins.pdf, id=464, 433.62pt x 361.35pt>
+<generalization_figs/dolphins.pdf, id=465, 433.62pt x 361.35pt>
 File: generalization_figs/dolphins.pdf Graphic file (type pdf)
 <use generalization_figs/dolphins.pdf>
-Package pdftex.def Info: generalization_figs/dolphins.pdf  used on input line 5
-91.
+Package pdftex.def Info: generalization_figs/dolphins.pdf  used on input line 6
+03.
 (pdftex.def)             Requested size: 184.9429pt x 154.12033pt.
-<generalization_figs/horses.pdf, id=465, 433.62pt x 361.35pt>
+<generalization_figs/horses.pdf, id=466, 433.62pt x 361.35pt>
 File: generalization_figs/horses.pdf Graphic file (type pdf)
 <use generalization_figs/horses.pdf>
-Package pdftex.def Info: generalization_figs/horses.pdf  used on input line 593
+Package pdftex.def Info: generalization_figs/horses.pdf  used on input line 605
 .
 (pdftex.def)             Requested size: 184.9429pt x 154.12033pt.
-<generalization_figs/dolphinsseals.pdf, id=466, 433.62pt x 361.35pt>
+<generalization_figs/dolphinsseals.pdf, id=467, 433.62pt x 361.35pt>
 File: generalization_figs/dolphinsseals.pdf Graphic file (type pdf)
 <use generalization_figs/dolphinsseals.pdf>
 Package pdftex.def Info: generalization_figs/dolphinsseals.pdf  used on input l
-ine 594.
+ine 606.
 (pdftex.def)             Requested size: 184.9429pt x 154.12033pt.
-<generalization_figs/cowshorses.pdf, id=467, 433.62pt x 361.35pt>
+<generalization_figs/cowshorses.pdf, id=468, 433.62pt x 361.35pt>
 File: generalization_figs/cowshorses.pdf Graphic file (type pdf)
 <use generalization_figs/cowshorses.pdf>
 Package pdftex.def Info: generalization_figs/cowshorses.pdf  used on input line
- 596.
+ 608.
 (pdftex.def)             Requested size: 184.9429pt x 154.12033pt.
-<generalization_figs/dolphinshorses.pdf, id=468, 433.62pt x 361.35pt>
+<generalization_figs/dolphinshorses.pdf, id=469, 433.62pt x 361.35pt>
 File: generalization_figs/dolphinshorses.pdf Graphic file (type pdf)
 <use generalization_figs/dolphinshorses.pdf>
 Package pdftex.def Info: generalization_figs/dolphinshorses.pdf  used on input 
-line 597.
+line 609.
 (pdftex.def)             Requested size: 184.9429pt x 154.12033pt.
  [33] [34 <./generalization_figs/cows.pdf> <./generalization_figs/dolphins.pdf>
  <./generalization_figs/horses.pdf> <./generalization_figs/dolphinsseals.pdf> <
 ./generalization_figs/cowshorses.pdf> <./generalization_figs/dolphinshorses.pdf
 >]
-Underfull \hbox (badness 1142) in paragraph at lines 637--637
+Underfull \hbox (badness 1142) in paragraph at lines 649--649
 \T1/lmr/m/n/10.95 polar bears, rabbits, rhinos, squirrels,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 638--639
+Underfull \hbox (badness 10000) in paragraph at lines 650--651
 []\T1/lmr/m/n/10.95 medium-sized
  []
 
 [35]
-<generalization_figs/hypotheses.png, id=521, 734.745pt x 450.68375pt>
+<generalization_figs/hypotheses.png, id=522, 734.745pt x 450.68375pt>
 File: generalization_figs/hypotheses.png Graphic file (type png)
 <use generalization_figs/hypotheses.png>
 Package pdftex.def Info: generalization_figs/hypotheses.png  used on input line
- 653.
+ 665.
 (pdftex.def)             Requested size: 260.17464pt x 159.59154pt.
-<generalization_figs/allitems.pdf, id=523, 867.24pt x 433.62pt>
+<generalization_figs/allitems.pdf, id=524, 867.24pt x 433.62pt>
 File: generalization_figs/allitems.pdf Graphic file (type pdf)
 <use generalization_figs/allitems.pdf>
 Package pdftex.def Info: generalization_figs/allitems.pdf  used on input line 6
-62.
+74.
 (pdftex.def)             Requested size: 398.33858pt x 199.16988pt.
  [36] [37 <./generalization_figs/hypotheses.png> <./generalization_figs/allitem
 s.pdf>] [38]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 691.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 703.
 
  (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 691.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 703.
 
 [39] [40] [41] [42]
-<other_figs/threeBayesPlusWSLS.pdf, id=555, 431.6125pt x 368.37625pt>
+<other_figs/threeBayesPlusWSLS.pdf, id=556, 431.6125pt x 368.37625pt>
 File: other_figs/threeBayesPlusWSLS.pdf Graphic file (type pdf)
 <use other_figs/threeBayesPlusWSLS.pdf>
 Package pdftex.def Info: other_figs/threeBayesPlusWSLS.pdf  used on input line 
-746.
+758.
 (pdftex.def)             Requested size: 260.17464pt x 222.0617pt.
  [43] [44 <./other_figs/threeBayesPlusWSLS.pdf>] [45]
 (./2017_tauberNPS_psychreview.bbl [46] [47]
@@ -1132,13 +1142,13 @@ Underfull \vbox (badness 2922) has occurred while \output is active []
  [49]
 [50]) [51] [52] [53] [54] [55] (./2017_tauberNPS_psychreview.aux) ) 
 Here is how much of TeX's memory you used:
- 18332 strings out of 494553
- 346449 string characters out of 6176984
- 422624 words of memory out of 5000000
- 21541 multiletter control sequences out of 15000+600000
- 105017 words of font info for 87 fonts, out of 8000000 for 9000
+ 18384 strings out of 494553
+ 347560 string characters out of 6176984
+ 423420 words of memory out of 5000000
+ 21585 multiletter control sequences out of 15000+600000
+ 108009 words of font info for 88 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 62i,12n,81p,3450b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,13n,81p,3450b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/home/danie
 lle/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/home/danielle/.TinyT
 eX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/home/danielle/.TinyTeX/texmf-dist/
@@ -1155,17 +1165,18 @@ i9.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmib10.pfb></
 home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></home/daniel
 le/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></home/danielle/.TinyTeX
 /texmf-dist/fonts/type1/public/lm/lmr6.pfb></home/danielle/.TinyTeX/texmf-dist/
-fonts/type1/public/lm/lmr8.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/
-public/lm/lmr9.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lm
-ri10.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmri9.pfb></
-home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></home/danie
-lle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></home/danielle/.TinyTe
-X/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></home/danielle/.TinyTeX/texmf-dis
-t/fonts/type1/public/lm/lmsy9.pfb>
-Output written on 2017_tauberNPS_psychreview.pdf (56 pages, 724945 bytes).
+fonts/type1/public/lm/lmr7.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/
+public/lm/lmr8.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lm
+r9.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></h
+ome/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmri9.pfb></home/daniell
+e/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></home/danielle/.TinyTeX
+/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></home/danielle/.TinyTeX/texmf-dist
+/fonts/type1/public/lm/lmsy8.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type
+1/public/lm/lmsy9.pfb>
+Output written on 2017_tauberNPS_psychreview.pdf (56 pages, 752884 bytes).
 PDF statistics:
- 679 PDF objects out of 1000 (max. 8388607)
- 345 compressed objects within 4 object streams
+ 683 PDF objects out of 1000 (max. 8388607)
+ 348 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  229 words of extra memory for PDF output out of 10000 (max. 10000000)
 
