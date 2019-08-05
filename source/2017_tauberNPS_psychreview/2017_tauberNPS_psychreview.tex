@@ -1,0 +1,81 @@
+\documentclass[doc,floatsintext]{apa6}
+
+\usepackage[american]{babel}
+
+\usepackage{csquotes}
+%\usepackage[style=apa,sortcites=true,sorting=nyt]{bibtex}
+\usepackage{apacite}
+%\DeclareLanguageMapping{american}{american-apa}
+%\addbibresource{bibliography.bib}
+
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+
+\usepackage[utf8]{inputenc}
+
+%% The amssymb package provides various useful mathematical symbols
+\usepackage{amssymb}
+%% The amsthm package provides extended theorem environments
+ %%\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+%\usepackage{mathtools}
+
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+
+\usepackage{enumitem}
+
+\usepackage[section]{placeins}
+
+\usepackage[textsize=tiny]{todonotes}
+\setlength{\marginparwidth}{2cm}
+
+\newcommand{\mink}{{Min\textit{k}\ }}
+\newcommand{\CITE}{{\bf[CITE]}}
+\newcommand{\CITETHIS}[1]{{\bf[CITE: #1]}}
+\newcommand{\bigh}{\mathcal{H}}
+\newcommand{\be}{\begin{equation}}
+\newcommand{\ee}{\end{equation}}
+\newcommand{\given}{\ | \ }
+\newcommand{\TODO}[1]{ {\bf [TODO: #1] } }
+\newcommand{\stimulus}[1]{\textsc{#1}}
+
+\providecommand{\vbars}[1]{\lvert#1\rvert}
+
+\title{Bayesian models of cognition revisited: Setting optimality aside and letting data drive psychological theory}
+\shorttitle{Bayesian models of cognition revisited}
+
+\fourauthors{\normalsize Sean Tauber}{\normalsize Danielle J. Navarro}{\normalsize Amy Perfors}{\normalsize Mark Steyvers}
+\fouraffiliations{School of Psychology\\University of New South Wales}{School of Psychology\\University of New South Wales}{School of Psychology\\University of Adelaide}{Department of Cognitive Sciences\\University of California, Irvine}
+
+\leftheader{Bayesian models of cognition revisited}
+
+\abstract{Recent debates in the psychological literature have raised questions about the assumptions that underpin Bayesian models of cognition and what inferences they license about human cognition. In this paper we revisit this topic, arguing that there are two qualitatively different ways in which a Bayesian model could be constructed. The most common approach uses a Bayesian model as a normative standard upon which to license a claim about {\it optimality}. In the alternative approach, a {\it descriptive} Bayesian model need not correspond to any claim that the underlying cognition is optimal or rational, and is used solely as a tool for instantiating a substantive psychological theory. We present three case studies in which these two perspectives lead to different computational models and license different conclusions about human cognition. We demonstrate how the descriptive Bayesian approach can be used to answer different sorts of questions than the optimal approach, especially when combined with principled tools for model evaluation and model selection. More generally we argue for the importance of making a clear distinction between the two perspectives. Considerable confusion results when descriptive models and optimal models are conflated, and if Bayesians are to avoid contributing to this confusion it is important to  avoid making normative claims when none are intended.}
+
+
+
+\keywords{Bayesian cognitive models; Bayesian data analysis; rational analysis; optimal predictions; generalization; inductive reasoning}
+
+%\authornote{}
+
+\begin{document}
+\maketitle
+
+
+\input{section1_introduction}
+\input{section2_coincidences}
+\input{section3_predictions}
+\input{section4_generalization}
+\input{section5_discussion}
+
+\bibliographystyle{apacite}
+\bibliography{references,zot3}
+
+\input{appendix}
+
+
+\end{document}
+

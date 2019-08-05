@@ -1,2 +1,3 @@
 # manuscripts
-repository with manuscript versions of my papers
+
+- repository with manuscript versions of my papers
