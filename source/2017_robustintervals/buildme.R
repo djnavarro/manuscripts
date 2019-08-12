@@ -9,6 +9,7 @@ wd <- setwd(here("source", manuscript))
 
 # compile document
 for(i in 1:3) {
+  cat(".")
   latexmk(
     file = paste0(manuscript, ".tex"),
     bib_engine = "biber",

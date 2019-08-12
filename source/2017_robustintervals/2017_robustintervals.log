@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.12)  12 AUG 2019 15:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.12)  12 AUG 2019 16:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -932,6 +932,16 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package: ulem 2012/05/18
 \ULdepth=\dimen260
 )
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/draftwatermark/draftwatermark.sty
+Package: draftwatermark 2015/02/19 1.2 Put a gray textual watermark on document
+ pages
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/everypage/everypage.sty
+Package: everypage 2007/06/20 1.1 Hooks to run on every page
+)
+\sc@wm@hcenter=\skip92
+\sc@wm@vcenter=\skip93
+\sc@wm@fontsize=\skip94
+)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -972,21 +982,21 @@ File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 ))))) (./2017_robustintervals.aux)
 \openout1 = `2017_robustintervals.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 48.
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1053,10 +1063,10 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '2017_robustintervals.bbl' found.
 (./2017_robustintervals.bbl)
-Package biblatex Info: Reference section=0 on input line 32.
-Package biblatex Info: Reference segment=0 on input line 32.
+Package biblatex Info: Reference section=0 on input line 48.
+Package biblatex Info: Reference segment=0 on input line 48.
 \AtBeginShipoutBox=\box44
-Package hyperref Info: Link coloring OFF on input line 32.
+Package hyperref Info: Link coloring OFF on input line 48.
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -1064,163 +1074,163 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count346
 )
-LaTeX Info: Redefining \ref on input line 32.
-LaTeX Info: Redefining \pageref on input line 32.
-LaTeX Info: Redefining \nameref on input line 32.
+LaTeX Info: Redefining \ref on input line 48.
+LaTeX Info: Redefining \pageref on input line 48.
+LaTeX Info: Redefining \nameref on input line 48.
 (./2017_robustintervals.out) (./2017_robustintervals.out)
 \@outlinefile=\write5
 \openout5 = `2017_robustintervals.out'.
 
 Using title for running head
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 35.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 51.
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 35.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 51.
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 35.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 51.
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 35.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 51.
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 35.
+(Font)              <10.95> on input line 51.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 35.
+(Font)              <8> on input line 51.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 35.
-[1
+(Font)              <6> on input line 51.
+[1{/home/danielle/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-{/home/danielle/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+] [2] [3]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 61.
+(Font)              <9> on input line 77.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 61.
-<graphicalmodels.png, id=133, 1370.87157pt x 770.88pt>
+(Font)              <5> on input line 77.
+<graphicalmodels.png, id=134, 1370.87157pt x 770.88pt>
 File: graphicalmodels.png Graphic file (type png)
 <use graphicalmodels.png>
-Package pdftex.def Info: graphicalmodels.png  used on input line 71.
+Package pdftex.def Info: graphicalmodels.png  used on input line 87.
 (pdftex.def)             Requested size: 426.79134pt x 239.99368pt.
 [4] [5 <./graphicalmodels.png>] [6] [7]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 115.
+(Font)              <10> on input line 131.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 115.
+(Font)              <7> on input line 131.
 [8]
-<violins.png, id=237, 1204.5pt x 803.0pt>
+<violins.png, id=238, 1204.5pt x 803.0pt>
 File: violins.png Graphic file (type png)
 <use violins.png>
-Package pdftex.def Info: violins.png  used on input line 143.
+Package pdftex.def Info: violins.png  used on input line 159.
 (pdftex.def)             Requested size: 398.33858pt x 265.55444pt.
 [9] [10 <./violins.png>] [11]
-<CI_n.pdf, id=263, 325.215pt x 433.62pt>
+<CI_n.pdf, id=264, 325.215pt x 433.62pt>
 File: CI_n.pdf Graphic file (type pdf)
 <use CI_n.pdf>
-Package pdftex.def Info: CI_n.pdf  used on input line 173.
+Package pdftex.def Info: CI_n.pdf  used on input line 189.
 (pdftex.def)             Requested size: 142.26378pt x 189.68843pt.
-<CI_cn.pdf, id=264, 325.215pt x 433.62pt>
+<CI_cn.pdf, id=265, 325.215pt x 433.62pt>
 File: CI_cn.pdf Graphic file (type pdf)
 <use CI_cn.pdf>
-Package pdftex.def Info: CI_cn.pdf  used on input line 174.
+Package pdftex.def Info: CI_cn.pdf  used on input line 190.
 (pdftex.def)             Requested size: 142.26378pt x 189.68843pt.
-<CI_tModel.pdf, id=265, 325.215pt x 433.62pt>
+<CI_tModel.pdf, id=266, 325.215pt x 433.62pt>
 File: CI_tModel.pdf Graphic file (type pdf)
 <use CI_tModel.pdf>
-Package pdftex.def Info: CI_tModel.pdf  used on input line 175.
+Package pdftex.def Info: CI_tModel.pdf  used on input line 191.
 (pdftex.def)             Requested size: 142.26378pt x 189.68843pt.
-<CI_bbm.pdf, id=266, 325.215pt x 433.62pt>
+<CI_bbm.pdf, id=267, 325.215pt x 433.62pt>
 File: CI_bbm.pdf Graphic file (type pdf)
 <use CI_bbm.pdf>
-Package pdftex.def Info: CI_bbm.pdf  used on input line 176.
+Package pdftex.def Info: CI_bbm.pdf  used on input line 192.
 (pdftex.def)             Requested size: 142.26378pt x 189.68843pt.
-<CI_bbtm.pdf, id=267, 325.215pt x 433.62pt>
+<CI_bbtm.pdf, id=268, 325.215pt x 433.62pt>
 File: CI_bbtm.pdf Graphic file (type pdf)
 <use CI_bbtm.pdf>
-Package pdftex.def Info: CI_bbtm.pdf  used on input line 177.
+Package pdftex.def Info: CI_bbtm.pdf  used on input line 193.
 (pdftex.def)             Requested size: 142.26378pt x 189.68843pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--187
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
 []\T1/lmr/m/n/10.95 Contam-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--187
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
 []\T1/lmr/m/n/10.95 BB-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--187
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
 []\T1/lmr/m/n/10.95 BB-
  []
 
 
-Overfull \hbox (22.49214pt too wide) in paragraph at lines 186--193
+Overfull \hbox (22.49214pt too wide) in paragraph at lines 202--209
 [][] 
  []
 
 [12] [13 <./CI_n.pdf> <./CI_cn.pdf> <./CI_tModel.pdf> <./CI_bbm.pdf> <./CI_bbtm
 .pdf>]
-<CI2_n.pdf, id=317, 325.215pt x 433.62pt>
+<CI2_n.pdf, id=318, 325.215pt x 433.62pt>
 File: CI2_n.pdf Graphic file (type pdf)
 <use CI2_n.pdf>
-Package pdftex.def Info: CI2_n.pdf  used on input line 212.
+Package pdftex.def Info: CI2_n.pdf  used on input line 228.
 (pdftex.def)             Requested size: 142.26378pt x 189.68843pt.
-<CI2_cn.pdf, id=318, 325.215pt x 433.62pt>
+<CI2_cn.pdf, id=319, 325.215pt x 433.62pt>
 File: CI2_cn.pdf Graphic file (type pdf)
 <use CI2_cn.pdf>
-Package pdftex.def Info: CI2_cn.pdf  used on input line 213.
+Package pdftex.def Info: CI2_cn.pdf  used on input line 229.
 (pdftex.def)             Requested size: 142.26378pt x 189.68843pt.
-<CI2_tModel.pdf, id=319, 325.215pt x 433.62pt>
+<CI2_tModel.pdf, id=320, 325.215pt x 433.62pt>
 File: CI2_tModel.pdf Graphic file (type pdf)
 <use CI2_tModel.pdf>
-Package pdftex.def Info: CI2_tModel.pdf  used on input line 214.
+Package pdftex.def Info: CI2_tModel.pdf  used on input line 230.
 (pdftex.def)             Requested size: 142.26378pt x 189.68843pt.
-<CI2_bbm.pdf, id=320, 325.215pt x 433.62pt>
+<CI2_bbm.pdf, id=321, 325.215pt x 433.62pt>
 File: CI2_bbm.pdf Graphic file (type pdf)
 <use CI2_bbm.pdf>
-Package pdftex.def Info: CI2_bbm.pdf  used on input line 215.
+Package pdftex.def Info: CI2_bbm.pdf  used on input line 231.
 (pdftex.def)             Requested size: 142.26378pt x 189.68843pt.
-<CI2_bbtm.pdf, id=321, 325.215pt x 433.62pt>
+<CI2_bbtm.pdf, id=322, 325.215pt x 433.62pt>
 File: CI2_bbtm.pdf Graphic file (type pdf)
 <use CI2_bbtm.pdf>
-Package pdftex.def Info: CI2_bbtm.pdf  used on input line 216.
+Package pdftex.def Info: CI2_bbtm.pdf  used on input line 232.
 (pdftex.def)             Requested size: 142.26378pt x 189.68843pt.
-<contaminantTypes.pdf, id=325, 655.44875pt x 359.3425pt>
+<contaminantTypes.pdf, id=326, 655.44875pt x 359.3425pt>
 File: contaminantTypes.pdf Graphic file (type pdf)
 <use contaminantTypes.pdf>
-Package pdftex.def Info: contaminantTypes.pdf  used on input line 232.
+Package pdftex.def Info: contaminantTypes.pdf  used on input line 248.
 (pdftex.def)             Requested size: 284.52756pt x 155.98921pt.
 [14] [15 <./CI2_n.pdf> <./CI2_cn.pdf> <./CI2_tModel.pdf> <./CI2_bbm.pdf> <./CI2
 _bbtm.pdf>]
-<simCover.pdf, id=372, 722.7pt x 433.62pt>
+<simCover.pdf, id=373, 722.7pt x 433.62pt>
 File: simCover.pdf Graphic file (type pdf)
 <use simCover.pdf>
-Package pdftex.def Info: simCover.pdf  used on input line 243.
+Package pdftex.def Info: simCover.pdf  used on input line 259.
 (pdftex.def)             Requested size: 398.33858pt x 239.0012pt.
-<simWidth.pdf, id=373, 722.7pt x 433.62pt>
+<simWidth.pdf, id=374, 722.7pt x 433.62pt>
 File: simWidth.pdf Graphic file (type pdf)
 <use simWidth.pdf>
-Package pdftex.def Info: simWidth.pdf  used on input line 250.
+Package pdftex.def Info: simWidth.pdf  used on input line 266.
 (pdftex.def)             Requested size: 398.33858pt x 239.0012pt.
 [16 <./contaminantTypes.pdf>] [17 <./simCover.pdf>] [18]
-<toyContRejection_cn.pdf, id=412, 325.215pt x 433.62pt>
+<toyContRejection_cn.pdf, id=413, 325.215pt x 433.62pt>
 File: toyContRejection_cn.pdf Graphic file (type pdf)
 <use toyContRejection_cn.pdf>
-Package pdftex.def Info: toyContRejection_cn.pdf  used on input line 276.
+Package pdftex.def Info: toyContRejection_cn.pdf  used on input line 292.
 (pdftex.def)             Requested size: 142.26378pt x 189.68843pt.
 [19] [20 <./simWidth.pdf> <./toyContRejection_cn.pdf>] [21] [22] [23]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 303.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 303.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 319.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 319.
 (./2017_robustintervals.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 303.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 303.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 319.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 319.
 Package rerunfilecheck Info: File `2017_robustintervals.out' has not changed.
 (rerunfilecheck)             Checksum: 77829B24043212659D9E6D7F9828B4B3;892.
 
@@ -1236,16 +1246,16 @@ Package logreq Info: Writing requests to '2017_robustintervals.run.xml'.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 44 ({)
+### simple group (level 1) entered at line 60 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 27230 strings out of 494553
- 514305 string characters out of 6176983
- 1002122 words of memory out of 5000000
- 30294 multiletter control sequences out of 15000+600000
- 83651 words of font info for 69 fonts, out of 8000000 for 9000
+ 27282 strings out of 494553
+ 515409 string characters out of 6176983
+ 1002861 words of memory out of 5000000
+ 30337 multiletter control sequences out of 15000+600000
+ 86643 words of font info for 70 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 74i,11n,112p,2132b,3986s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 74i,13n,112p,2132b,3986s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/home/danielle/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.en
 c}{/home/danielle/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/home/d
 anielle/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/home/danielle/.T
@@ -1266,10 +1276,10 @@ xmf-dist/fonts/type1/public/lm/lmsy10.pfb></home/danielle/.TinyTeX/texmf-dist/f
 onts/type1/public/lm/lmsy7.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/
 public/lm/lmsy8.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/l
 msy9.pfb>
-Output written on 2017_robustintervals.pdf (23 pages, 856962 bytes).
+Output written on 2017_robustintervals.pdf (23 pages, 867714 bytes).
 PDF statistics:
- 547 PDF objects out of 1000 (max. 8388607)
- 452 compressed objects within 5 object streams
+ 549 PDF objects out of 1000 (max. 8388607)
+ 454 compressed objects within 5 object streams
  95 named destinations out of 1000 (max. 500000)
  285 words of extra memory for PDF output out of 10000 (max. 10000000)
 
