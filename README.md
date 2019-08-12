@@ -34,3 +34,33 @@ here as they use my correct name.
     124*, 410-441 ([pdf](./manuscripts/2017_descriptivebayes.pdf),
     [source](./source/2017_descriptivebayes/),
     [doi](https://doi.org/10.1037/rev0000052))
+
+## 2016
+
+  - De Deyne, S., Kenett, Y. N., Anaki, D., Faust, M. and Navarro, D. J.
+    (2016). Large-scale network representations of semantics in the
+    mental lexicon. In M. N. Jones (Ed.) *Big Data in Cognitive Science:
+    From Methods to Insights* (pp. 174-202)
+  - De Deyne, S., Navarro D. J., Perfors, A. and Storms, G. (2016).
+    Structure at every scale: A semantic network account of the
+    similarities between very unrelated concept.s. *Journal of
+    Experimental Psychology: General, 145*, 1228-1254
+  - De Deyne, S., Perfors A., and Navarro, D. J. (2016). Predicting
+    human similarity judgments with distributional models: The value of
+    word associations. *Proceedings of COLING 2016, the 27th
+    International Conference on Computational Linguistics*
+  - Gokaydin, D. Navarro, D. J., Ma-Wyatt, A. and Perfors, A. (2016).
+    The structure of sequential effects. *Journal of Experimental
+    Psychology: General, 145*, 110-123
+  - Hendrickson, A., Navarro D. J. and Perfors, A. (2016). Sensitivity
+    to hypothesis size during information search. *Decision, 3*, 62-80
+  - Navarro, D. J., Newell, B. and Schulze, C. (2016). Learning and
+    choosing in an uncertain world: An investigation of the
+    explore-exploit dilemma in static and dynamic environments.
+    *Cognitive Psychology, 85*, 43-77
+  - Ransom, K., Perfors, A. and Navarro, D. J. (2016). Leaping to
+    conclusions: Why premise relevance affects argument strength.
+    *Cognitive Science, 40*, 1775-1796
+  - Vong, W. K., Navarro, D. J. and Perfors, A. (2016). The helpfulness
+    of category labels in semi-supervised learning depends on category
+    structure. *Psychonomic Bulletin and Review, 23*, 230-238
