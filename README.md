@@ -9,6 +9,49 @@ and rebuilding from source. In each case the citation below links to the
 DOI for the version of record, but I strongly prefer the versions hosted
 here as they use my correct name.
 
+## 2019
+
+  - De Deyne, S., Navarro, D. J., Perfors, A., Brysbaert, M. and Storms,
+    G. (2019). The Small World of Words: English word association norms
+    for over 12,000 cue words. *Behavior Research Methods, 51*, 987-1006
+  - Hayes, B. K., Banner, S., Forrester, S. and Navarro, D. J. (2019).
+    Selective sampling and inductive inference: Drawing inferences based
+    on observed and missing evidence. *Cognitive Psychology, 113*
+  - Hayes, B. K., Navarro, D. J., Stephens, R., Ransom, K. and Dilevski,
+    N. (2019). The diversity effect in inductive reasoning depends on
+    sampling assumptions. *Psychonomic Bulletin & Review, 26*, 1043-1050
+  - Hendrickson, A., Perfors, A., Navarro, D. J. and Ransom, K. (2019).
+    Sample size, number of categories and sampling assumptions:
+    Exploring some differences between categorization and
+    generalization. *Cognitive Psychology, 111*, 80-102
+  - Lee, J. C., Lovibond, P. F., Hayes, B. K. and Navarro, D. J. (2019).
+    Negative evidence and inductive reasoning in generalization of
+    associative learning. *Journal of Experimental Psychology: General*,
+    148, 289-303
+  - Navarro, D. J. (2019). Between the devil and the deep blue sea:
+    Tensions between scientific judgement and statistical model
+    selection. *Computational Brain and Behavior, 2*, 28-34
+  - Vong, W. K., Hendrickson, A., Navarro, D. J. and Perfors, A. (2019).
+    Do additional features help or hurt category learning? The curse of
+    dimensionality in human learners. *Cognitive Science, 43*, e12724
+
+## 2018
+
+  - Langsford, S., Perfors, A., Hendrickson, A., Kennedy, L. and
+    Navarro, D. J. (2018). A systematic comparison and reliability
+    analysis of formal measures of sentence acceptability. *Glossa: A
+    Journal of General Linguistics, 3*, 37
+  - Martire, K. A., Growns, B. and Navarro, D. J. (2018). What do the
+    experts know? Calibration, precision, and the wisdom of crowds among
+    forensic handwriting experts. *Psychonomic Bulletin and Review, 25*,
+    2346–2355
+  - Navarro, D. J., Perfors, A., Kary, A., Brown, S. and Donkin, C.
+    (2018). When extremists win: Cultural transmission via iterated
+    learning when priors are heterogeneous. *Cognitive Science, 42*,
+    2108-2149
+  - DJ Navarro, P Tran and N Baz (2018). Aversion to option loss in a
+    restless bandit task. *Computational Brain and Behavior, 1*, 151-164
+
 ## 2017
 
   - Kennedy, L., Navarro, D. J., Perfors, A. and Briggs, N. (2017). Not
@@ -64,3 +107,138 @@ here as they use my correct name.
   - Vong, W. K., Navarro, D. J. and Perfors, A. (2016). The helpfulness
     of category labels in semi-supervised learning depends on category
     structure. *Psychonomic Bulletin and Review, 23*, 230-238
+
+## 2015
+
+  - Voorspoels, W., Navarro, D. J., Perfors, A., Ransom K. and Storms,
+    G. (2015). How do people learn from negative evidence? Non-monotonic
+    generalizations and sampling assumptions in inductive reasoning.
+    *Cognitive Psychology, 81*, 1-25
+
+## 2014
+
+  - De Deyne, S., Voorspoels, W., Verheyen, S., Navarro, D. J. and
+    Storms, G. (2014). Accounting for graded structure in adjective
+    categories with valence-based opposition relationships. *Language
+    and Cognitive Processes, 29*, 568-583
+  - Perfors, A. and Navarro, D. J. (2014). Language evolution can be
+    shaped by the structure of the world. *Cognitive Science, 38*
+
+## 2013
+
+  - De Deyne, S., Navarro, D. J. and Storms, G. (2013). Better
+    explanations of lexical and semantic cognition using networks
+    derived from continued rather than single word associations.
+    *Behavior Research Methods, 45*, 480-498
+
+## 2012
+
+  - Navarro, D. J., Dry, M. J. and Lee, M D. (2012). Sampling
+    assumptions in inductive generalization. *Cognitive Science, 36*,
+    187-223
+  - Shafto, P., Eaves, B., Navarro, D. J. and Perfors, A. (2012).
+    Epistemic trust: Modeling children’s reasoning about others’
+    knowledge and intent. *Developmental Science, 15,* 436-447
+
+## 2011
+
+  - Navarro, D. J. and Perfors, A. (2011). Hypothesis generation, the
+    positive test strategy, and sparse categories. *Psychological
+    Review, 118*, 120-34
+
+## 2010
+
+  - Navarro, D. J. and Perfors, A. (2010). Similarity, feature
+    discovery, and the size principle. *Acta Psychologica, 133*, 256-268
+  - Sanborn, A. N., Griffiths, T. L. and Navarro, D. J. (2010). Rational
+    approximations to rational models: Alternative algorithms for
+    category learning. *Psychological Review, 117*, 1144-1167
+
+## 2009
+
+  - Navarro, D. J. and Fuss, I. (2009). Fast and accurate calculations
+    for first-passage times in Wiener diffusion models. *Journal of
+    Mathematical Psychology, 53*, 222-230
+  - Grunwald, P. and Navarro, D. J. (2009). NML, Bayes and true
+    distributions: A comment on Karabatsos and Walker (2006). *Journal
+    of Mathematical Psychology, 53*, 43-51
+
+## 2008
+
+  - Navarro, D. J. and Griffiths, T. L. (2008). Latent features in
+    similarity judgments: A nonparametric Bayesian approach. *Neural
+    Computation, 20*, 2597-2628
+
+## 2007
+
+  - Griffiths, T. L., Canini, K. R., Sanborn, A. N. and Navarro, D. J.
+    (2007). Unifying rational models of categorization via the
+    hierarchical Dirichlet process. In D. S. McNamara and J. G. Trafton
+    (Eds) *Proceedings of the 29th Annual Conference of the Cognitive
+    Science Society* (pp. 323-328)
+  - Myung, J. I., Pitt, M. A. and Navarro, D. J. (2007). Does response
+    scaling cause the Generalized Context Model to mimic a prototype
+    model? *Psychonomic Bulletin and Review, 14*, 1043-1050
+
+## 2006
+
+  - Myung, J. I., Navarro, D. J. and Pitt, M. A. (2006). Model selection
+    by Normalized Maximum Likelihood. *Journal of Mathematical
+    Psychology, 50*, 167-179
+  - Navarro, D. J., Griffiths, T. L., Steyvers, M. and Lee, M. D.
+    (2006). Modeling individual differences using Dirichlet processes.
+    *Journal of Mathematical Psychology, 50*, 101-122
+  - Pitt, M. A., Kim, W., Navarro, D. J. and Myung, J. I. (2006). Global
+    model analysis by parameter space partitioning. *Psychological
+    Review, 113*, 57-83
+
+## 2005
+
+  - Lee, M. D. and Navarro, D. J. (2005). Minimum description length and
+    psychological clustering models. In P. Grunwald, I. J. Myung and M.
+    A. Pitt (Eds) *Advances in Minimum Description Length: Theory and
+    Applications* (pp. 355-384)
+
+## 2004
+
+  - Navarro, D. J. (2004). A note on the applied use of MDL
+    approximations. *Neural Computation, 16*, 1763-1768
+  - Navarro, D. J. and Lee, M. D. (2004). Common and distinctive
+    features in stimulus representation: A modified version of the
+    contrast model. *Psychonomic Bulletin and Review, 11*, 961-974
+  - Navarro, D. J., Pitt, M. A. and Myung, I. J. (2004). Assessing the
+    distinguishability of models and the informativeness of data.
+    *Cognitive Psychology, 49*, 47-84
+
+## 2003
+
+  - Navarro, D. J. (2003). Regarding the complexity of additive
+    clustering models: Comment on Lee (2001). *Journal of Mathematical
+    Psychology, 47*, 241-243
+  - Navarro, D. J. and Lee, M. D. (2003). Combining dimensions and
+    features in similarity-based representations. In S. Becker, S. Thrun
+    and K. Obermayer (Ed.) *Advances in Neural Information Processing
+    Systems* (pp. 67-74)
+
+## 2002
+
+  - Lee, M. D. and Navarro, D. J. (2002). Extending the ALCOVE model of
+    category learning to featural stimulus domains. *Psychonomic
+    Bulletin and Review, 9*, 43-58
+
+## Books
+
+I’m not really sure how all the *Learning Statistics with {{Software}}*
+books fit into an academic publication list. They seem to sit in their
+own world rather distinct from traditional publication. Anyway, here
+they are:
+
+  - Navarro, D. J. and Foxcroft D. R. (2019). *Learning statistics with
+    jamovi: A tutorial for psychology students and other beginners.*
+    ([site](https://doi.org/10.24384/hgc3-7p15))
+  - Navarro, D. J., Foxcroft D. R. and Faulkenberry, T. J. (2019).
+    *Learning statistics with JASP: A tutorial for psychology students
+    and other beginners.* ([site](https://learnstatswithjasp.com/))
+  - Navarro, D. J. (2015). *Learning statistics with R: A tutorial for
+    psychology students and other beginners*.
+    ([site](https://learningstatisticswithr.com))
