@@ -172,7 +172,9 @@ here as they use my correct name.
 
   - Navarro, D. J., Dry, M. J. and Lee, M D. (2012). Sampling
     assumptions in inductive generalization. *Cognitive Science, 36*,
-    187-223
+    187-223 \[[pdf](./manuscripts/2012_samplingassumptions.pdf),
+    [source](./source/2012_samplingassumptions/),
+    [doi](http://dx.doi.org/10.1111/j.1551-6709.2011.01212.x)\]
   - Shafto, P., Eaves, B., Navarro, D. J. and Perfors, A. (2012).
     Epistemic trust: Modeling children’s reasoning about others’
     knowledge and intent. *Developmental Science, 15,* 436-447
