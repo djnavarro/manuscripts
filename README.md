@@ -44,11 +44,16 @@ here as they use my correct name.
   - Martire, K. A., Growns, B. and Navarro, D. J. (2018). What do the
     experts know? Calibration, precision, and the wisdom of crowds among
     forensic handwriting experts. *Psychonomic Bulletin and Review, 25*,
-    2346–2355
+    2346–2355. \[[pdf](./manuscripts/2018_handwriting.pdf),
+    [source](./source/2018_handwriting),
+    [doi](https://doi.org/10.3758/s13423-018-1448-3),
+    [psyarxiv](http://dx.doi.org/10.17605/OSF.IO/7NPQ6),
+    [osf](https://osf.io/n2g4v/),
+    [github](https://github.com/djnavarro/handwritingwoc)\]
   - Navarro, D. J., Perfors, A., Kary, A., Brown, S. and Donkin, C.
     (2018). When extremists win: Cultural transmission via iterated
     learning when priors are heterogeneous. *Cognitive Science, 42*,
-    2108-2149 \[[pdf](./manuscripts/2018_extremists.pdf),
+    2108-2149. \[[pdf](./manuscripts/2018_extremists.pdf),
     [source](./source/2018_extremists),
     [doi](http://dx.doi.org/10.1111/cogs.12667),
     [psyarxiv](http://dx.doi.org/10.17605/OSF.IO/7NPQ6),
