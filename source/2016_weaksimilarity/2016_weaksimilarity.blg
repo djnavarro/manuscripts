@@ -1,0 +1,15 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is '2016_weaksimilarity.blg'
+[24] biber:315> INFO - === Tue Aug 13, 2019, 19:08:05
+[43] Biber.pm:371> INFO - Reading '2016_weaksimilarity.bcf'
+[107] Biber.pm:889> INFO - Found 95 citekeys in bib section 0
+[117] Biber.pm:4093> INFO - Processing section 0
+[124] Biber.pm:4254> INFO - Looking for bibtex format file 'simon11.bib' for section 0
+[152] bibtex.pm:1523> INFO - LaTeX decoding ...
+[1054] bibtex.pm:1340> INFO - Found BibTeX data source 'simon11.bib'
+[1750] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1750] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1750] Biber.pm:3921> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1750] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[1836] bbl.pm:636> INFO - Writing '2016_weaksimilarity.bbl' with encoding 'UTF-8'
+[1898] bbl.pm:739> INFO - Output to 2016_weaksimilarity.bbl

@@ -105,6 +105,9 @@ here as they use my correct name.
     Structure at every scale: A semantic network account of the
     similarities between very unrelated concepts. *Journal of
     Experimental Psychology: General, 145*, 1228-1254
+    \[[pdf](./manuscripts/2016_weaksimilarity.pdf),
+    [source](./source/2016_weaksimilarity/),
+    [doi](https://doi.org/10.1037/xge0000192)\]
   - De Deyne, S., Perfors A., and Navarro, D. J. (2016). Predicting
     human similarity judgments with distributional models: The value of
     word associations. *Proceedings of COLING 2016, the 27th

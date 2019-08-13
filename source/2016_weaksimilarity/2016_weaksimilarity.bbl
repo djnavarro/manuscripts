@@ -1,0 +1,4087 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{AbbottAusterweil2015}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=4dae414f00761e7404cd6f803a20af28}{%
+           family={Abott},
+           familyi={A\bibinitperiod},
+           given={Joshua\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b77ad830e4ec2b481fdfa653d5841d95}{%
+           family={Austerweil},
+           familyi={A\bibinitperiod},
+           given={Joseph\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=15f19cfb916ba0b8afb494f250ea80a2}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={Thomas\bibnamedelima L},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{36e9965943d02e86faf4ad204c019cb1}
+      \strng{fullhash}{889baea6c54241d243231c01762f9379}
+      \strng{bibnamehash}{889baea6c54241d243231c01762f9379}
+      \strng{authorbibnamehash}{889baea6c54241d243231c01762f9379}
+      \strng{authornamehash}{36e9965943d02e86faf4ad204c019cb1}
+      \strng{authorfullhash}{889baea6c54241d243231c01762f9379}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{title}{Random Walks on Semantic Networks Can Resemble Optimal Foraging.}
+      \field{volume}{122}
+      \field{year}{2015}
+      \field{pages}{558\bibrangedash 559}
+      \range{pages}{2}
+    \endentry
+    \entry{Baayen1993}{book}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=96e0df455ff331fa1c1b8dd005e0c6b6}{%
+           family={Baayen},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=44395d6c31a543fe8dad40e0e9fc54e7}{%
+           family={Piepenbrock},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=55ac03d19724229dda9a8163f262841e}{%
+           family={{van{\,}Rijn}},
+           familyi={v\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia}%
+      }
+      \list{publisher}{1}{%
+        {University of Pennsylvania, Linguistic Data Consortium}%
+      }
+      \strng{namehash}{39b548bf9613f10d33ab4d1876d165d4}
+      \strng{fullhash}{009c0cb0a86d1af9e10c54c997c46e77}
+      \strng{bibnamehash}{009c0cb0a86d1af9e10c54c997c46e77}
+      \strng{authorbibnamehash}{009c0cb0a86d1af9e10c54c997c46e77}
+      \strng{authornamehash}{39b548bf9613f10d33ab4d1876d165d4}
+      \strng{authorfullhash}{009c0cb0a86d1af9e10c54c997c46e77}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Philadelphia: University of Pennsylvania, Linguistic Data Consortium}
+      \field{title}{The {CELEX} lexical database [{CD-ROM}]}
+      \field{year}{1993}
+    \endentry
+    \entry{Baronchelli2013}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=8532d9be6c124f254353927432e2d846}{%
+           family={Baronchelli},
+           familyi={B\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=64a53b7568ffa080b6712e42ea96301f}{%
+           family={Ferrer-i-Cancho},
+           familyi={F\bibinithyphendelim i\bibinithyphendelim C\bibinitperiod},
+           given={Ramon},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c393ec202f2fc7875421592989acbc18}{%
+           family={Pastor-Satorras},
+           familyi={P\bibinithyphendelim S\bibinitperiod},
+           given={Romualdo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=68f539b14c5ba5fb2395b9309d555ad7}{%
+           family={Chater},
+           familyi={C\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=30e62c17dca3f002c0bde7864b8f96fc}{%
+           family={Christiansen},
+           familyi={C\bibinitperiod},
+           given={Morten\bibnamedelima H},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e5640094fd0412ed2bed051c38636d2c}
+      \strng{fullhash}{a0238120871564f978c2035cc28459ef}
+      \strng{bibnamehash}{a0238120871564f978c2035cc28459ef}
+      \strng{authorbibnamehash}{a0238120871564f978c2035cc28459ef}
+      \strng{authornamehash}{e5640094fd0412ed2bed051c38636d2c}
+      \strng{authorfullhash}{a0238120871564f978c2035cc28459ef}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{Trends in Cognitive Sciences}}
+      \field{title}{Networks in cognitive science}
+      \field{volume}{17}
+      \field{year}{2013}
+      \field{pages}{348\bibrangedash 360}
+      \range{pages}{13}
+    \endentry
+    \entry{BorgeHolthoeferArenas2010}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=feaa89a4bdbc9b44a50b4c6eb3df8a18}{%
+           family={Borge-Holthoefer},
+           familyi={B\bibinithyphendelim H\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6a357114624f649b1b1dedd6e3c92cbd}{%
+           family={Arenas},
+           familyi={A\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{43dfa5ef621dd8bc0e0661b189cfad68}
+      \strng{fullhash}{43dfa5ef621dd8bc0e0661b189cfad68}
+      \strng{bibnamehash}{43dfa5ef621dd8bc0e0661b189cfad68}
+      \strng{authorbibnamehash}{43dfa5ef621dd8bc0e0661b189cfad68}
+      \strng{authornamehash}{43dfa5ef621dd8bc0e0661b189cfad68}
+      \strng{authorfullhash}{43dfa5ef621dd8bc0e0661b189cfad68}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The European Physical Journal B-Condensed Matter and Complex Systems}
+      \field{number}{2}
+      \field{title}{Categorizing words through semantic memory navigation}
+      \field{volume}{74}
+      \field{year}{2010}
+      \field{pages}{265\bibrangedash 270}
+      \range{pages}{6}
+    \endentry
+    \entry{Brainerd2008}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=1f2ef5624081dfcb255b83f4011bd3bb}{%
+           family={Brainerd},
+           familyi={B\bibinitperiod},
+           given={C.J.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=865de0ad624b442a018417bf6b85083e}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4735ed5dff4b1f671e4191dc3bb45690}{%
+           family={Reyna},
+           familyi={R\bibinitperiod},
+           given={V.F.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4048af7c340ad2ade34b12cee8e307a0}{%
+           family={Howe},
+           familyi={H\bibinitperiod},
+           given={M.L.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=05c38f3acac0ec388e1a9f9f79879f66}{%
+           family={Mills},
+           familyi={M\bibinitperiod},
+           given={B.A.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{e8b7c96fe0ff45ad323cff3f72b04f98}
+      \strng{fullhash}{3f198f93dda8fc86044ffdeed42b2d02}
+      \strng{bibnamehash}{3f198f93dda8fc86044ffdeed42b2d02}
+      \strng{authorbibnamehash}{3f198f93dda8fc86044ffdeed42b2d02}
+      \strng{authornamehash}{e8b7c96fe0ff45ad323cff3f72b04f98}
+      \strng{authorfullhash}{3f198f93dda8fc86044ffdeed42b2d02}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1069-9384}
+      \field{journaltitle}{Psychonomic Bulletin \& Review}
+      \field{number}{6}
+      \field{title}{Semantic processing in ``associative'' false memory}
+      \field{volume}{15}
+      \field{year}{2008}
+      \field{pages}{1035\bibrangedash 1053}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.3758/PBR.15.6.1035
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.3758/PBR.15.6.1035
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.3758/PBR.15.6.1035
+      \endverb
+    \endentry
+    \entry{BrownHeathcote2008}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=7c45a8eeded8ac3f0346f06537d9a683}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Scott\bibnamedelima D},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c8ccd89b02c0469355258d32916e3403}{%
+           family={Heathcote},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{c14140e0f3c68518c15475c7dd274859}
+      \strng{fullhash}{c14140e0f3c68518c15475c7dd274859}
+      \strng{bibnamehash}{c14140e0f3c68518c15475c7dd274859}
+      \strng{authorbibnamehash}{c14140e0f3c68518c15475c7dd274859}
+      \strng{authornamehash}{c14140e0f3c68518c15475c7dd274859}
+      \strng{authorfullhash}{c14140e0f3c68518c15475c7dd274859}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive psychology}
+      \field{title}{The simplest complete model of choice response time: linear ballistic accumulation}
+      \field{volume}{57}
+      \field{year}{2008}
+      \field{pages}{153\bibrangedash 178}
+      \range{pages}{26}
+    \endentry
+    \entry{Bullinaria2007}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=7acf5da41fee96dbc63c96424264f6d0}{%
+           family={Bullinaria},
+           familyi={B\bibinitperiod},
+           given={John\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bdd77c49e77aa45b039660e77eb4dba6}{%
+           family={Levy},
+           familyi={L\bibinitperiod},
+           given={Joseph\bibnamedelima P},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{a9d815e25ef1cf5772f1bac386996447}
+      \strng{fullhash}{a9d815e25ef1cf5772f1bac386996447}
+      \strng{bibnamehash}{a9d815e25ef1cf5772f1bac386996447}
+      \strng{authorbibnamehash}{a9d815e25ef1cf5772f1bac386996447}
+      \strng{authornamehash}{a9d815e25ef1cf5772f1bac386996447}
+      \strng{authorfullhash}{a9d815e25ef1cf5772f1bac386996447}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavior Research Methods}
+      \field{title}{Extracting semantic representations from word co-occurrence statistics: {A} computational study}
+      \field{volume}{39}
+      \field{year}{2007}
+      \field{pages}{510\bibrangedash 526}
+      \range{pages}{17}
+    \endentry
+    \entry{Burgess1998}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=78ea80b779df1988ee32dac5e103d6db}{%
+           family={Burgess},
+           familyi={B\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=668adeccd6cee45a7e53400a825e5c20}{%
+           family={Livesay},
+           familyi={L\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7c125e33927cfd5c30837ce673dcdb01}{%
+           family={Lund},
+           familyi={L\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7d1b104e6f34dd9bce1816774285906d}
+      \strng{fullhash}{c7cdb86c036f175ad8b2bc6e850e7396}
+      \strng{bibnamehash}{c7cdb86c036f175ad8b2bc6e850e7396}
+      \strng{authorbibnamehash}{c7cdb86c036f175ad8b2bc6e850e7396}
+      \strng{authornamehash}{7d1b104e6f34dd9bce1816774285906d}
+      \strng{authorfullhash}{c7cdb86c036f175ad8b2bc6e850e7396}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Discourse Processes}
+      \field{title}{Explorations in context space: words, sentences, discourse.}
+      \field{volume}{25}
+      \field{year}{1998}
+      \field{pages}{211\bibrangedash 257}
+      \range{pages}{47}
+    \endentry
+    \entry{Burton1976}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=f0c22e6b3126facca0273a1752ca93e6}{%
+           family={Burton},
+           familyi={B\bibinitperiod},
+           given={Michael\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c92f384fc7ba9cded11accc7d96f56bb}{%
+           family={Nerlove},
+           familyi={N\bibinitperiod},
+           given={Sara\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cb418104a118214b3ac1d265567d3996}
+      \strng{fullhash}{cb418104a118214b3ac1d265567d3996}
+      \strng{bibnamehash}{cb418104a118214b3ac1d265567d3996}
+      \strng{authorbibnamehash}{cb418104a118214b3ac1d265567d3996}
+      \strng{authornamehash}{cb418104a118214b3ac1d265567d3996}
+      \strng{authorfullhash}{cb418104a118214b3ac1d265567d3996}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Social Science Research}
+      \field{title}{{Balanced Designs for Triads Tests: Two Examples from English}}
+      \field{volume}{5}
+      \field{year}{1976}
+      \field{pages}{247\bibrangedash 267}
+      \range{pages}{21}
+    \endentry
+    \entry{Collins1975}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=805bd700e03b3bc5f4e09b9a44290cae}{%
+           family={Collins},
+           familyi={C\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bf15ca807e2e791b8116f4806c85eeeb}{%
+           family={Loftus},
+           familyi={L\bibinitperiod},
+           given={E.\bibnamedelimi F.},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3d5ff414c095aec82c18ca57c56b1813}
+      \strng{fullhash}{3d5ff414c095aec82c18ca57c56b1813}
+      \strng{bibnamehash}{3d5ff414c095aec82c18ca57c56b1813}
+      \strng{authorbibnamehash}{3d5ff414c095aec82c18ca57c56b1813}
+      \strng{authornamehash}{3d5ff414c095aec82c18ca57c56b1813}
+      \strng{authorfullhash}{3d5ff414c095aec82c18ca57c56b1813}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{title}{A spreading-activation theory of semantic processing}
+      \field{volume}{82}
+      \field{year}{1975}
+      \field{pages}{407\bibrangedash 428}
+      \range{pages}{22}
+    \endentry
+    \entry{Collins1969}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=805bd700e03b3bc5f4e09b9a44290cae}{%
+           family={Collins},
+           familyi={C\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6a6cc52adccd66e1c173a9ab3a174096}{%
+           family={Quillian},
+           familyi={Q\bibinitperiod},
+           given={M.\bibnamedelimi R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{baa2925bb1fdfbeb9a11afffe78366e0}
+      \strng{fullhash}{baa2925bb1fdfbeb9a11afffe78366e0}
+      \strng{bibnamehash}{baa2925bb1fdfbeb9a11afffe78366e0}
+      \strng{authorbibnamehash}{baa2925bb1fdfbeb9a11afffe78366e0}
+      \strng{authornamehash}{baa2925bb1fdfbeb9a11afffe78366e0}
+      \strng{authorfullhash}{baa2925bb1fdfbeb9a11afffe78366e0}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Verbal Learning and Verbal Behavior}
+      \field{title}{Retrieval time from semantic memory}
+      \field{volume}{9}
+      \field{year}{1969}
+      \field{pages}{240\bibrangedash 247}
+      \range{pages}{8}
+    \endentry
+    \entry{DeDeyneVerheyenNavarro2015}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=648406e053b9743455fdc3abd914fc00}{%
+           family={{De Deyne}},
+           familyi={D\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a590fffd75eef8a271544dd9bb86a1b0}{%
+           family={Verheyen},
+           familyi={V\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6ef053006f709ba77e04b9d5e076de13}{%
+           family={Navarro},
+           familyi={N\bibinitperiod},
+           given={Daniel\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c7911d896a4b92159eaaac6d5b30812b}{%
+           family={Perfors},
+           familyi={P\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8b38c7efc391f7a30d81f916cc49d8d8}{%
+           family={Storms},
+           familyi={S\bibinitperiod},
+           given={Gert},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{7}{}{%
+        {{hash=51e389e779ec9970db3cdeff743542dd}{%
+           family={Dale},
+           familyi={D\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=2b9b685aeb00b7403c66a051d9c8ee6e}{%
+           family={Jennings},
+           familyi={J\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=95bd3a0b4e5fc4c1dc8fd737774ebb6b}{%
+           family={Maglio},
+           familyi={M\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=32e52a87ecb075549693eeef9807ce88}{%
+           family={Matlock},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e04ef4c5cba42ed01f90712cd147d9ba}{%
+           family={Noelle},
+           familyi={N\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5b3da393e214f8a244176edac0cfd012}{%
+           family={Warlaumont},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=71d38e0d824ab2906dddd72398837619}{%
+           family={Yoshimi},
+           familyi={Y\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Austin, TX}%
+      }
+      \list{publisher}{1}{%
+        {Cognitive Science Society}%
+      }
+      \strng{namehash}{217df41b31bf1cb9a0babc8460f2e849}
+      \strng{fullhash}{ce7ea4efbdbcd942e000a1437799cbd9}
+      \strng{bibnamehash}{ce7ea4efbdbcd942e000a1437799cbd9}
+      \strng{authorbibnamehash}{ce7ea4efbdbcd942e000a1437799cbd9}
+      \strng{authornamehash}{217df41b31bf1cb9a0babc8460f2e849}
+      \strng{authorfullhash}{ce7ea4efbdbcd942e000a1437799cbd9}
+      \strng{editorbibnamehash}{c3adffac41f9776018cbdfe2a290d97e}
+      \strng{editornamehash}{d6d933272e3e8b5694bef7a7265ba22d}
+      \strng{editorfullhash}{c3adffac41f9776018cbdfe2a290d97e}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the 33rd Annual Conference of the Cognitive Science Society}}
+      \field{title}{Evidence for widespread thematic structure in the mental lexicon.}
+      \field{year}{2015}
+      \field{pages}{518\bibrangedash 523}
+      \range{pages}{6}
+    \endentry
+    \entry{DeDeyne2012Weak}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=f8555201ee37d500eb8fb1395eb40a55}{%
+           family={{De{\,}Deyne}},
+           familyi={D\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6ef053006f709ba77e04b9d5e076de13}{%
+           family={Navarro},
+           familyi={N\bibinitperiod},
+           given={Daniel\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c7911d896a4b92159eaaac6d5b30812b}{%
+           family={Perfors},
+           familyi={P\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8b38c7efc391f7a30d81f916cc49d8d8}{%
+           family={Storms},
+           familyi={S\bibinitperiod},
+           given={Gert},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Austin, TX: Cognitive Science Society}%
+      }
+      \strng{namehash}{1269fb922db45e4a30fd88ba0fce0fdd}
+      \strng{fullhash}{f21a74e34e32882fdebcaff41dc6bc10}
+      \strng{bibnamehash}{f21a74e34e32882fdebcaff41dc6bc10}
+      \strng{authorbibnamehash}{f21a74e34e32882fdebcaff41dc6bc10}
+      \strng{authornamehash}{1269fb922db45e4a30fd88ba0fce0fdd}
+      \strng{authorfullhash}{f21a74e34e32882fdebcaff41dc6bc10}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the 34th Annual Conference of the Cognitive Science Society}}
+      \field{title}{Strong structure in weak semantic similarity: {A} graph based account}
+      \field{year}{2012}
+      \field{pages}{1464\bibrangedash 1469}
+      \range{pages}{6}
+    \endentry
+    \entry{DeDeyne2013b}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=f8555201ee37d500eb8fb1395eb40a55}{%
+           family={{De{\,}Deyne}},
+           familyi={D\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6ef053006f709ba77e04b9d5e076de13}{%
+           family={Navarro},
+           familyi={N\bibinitperiod},
+           given={Daniel\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8b38c7efc391f7a30d81f916cc49d8d8}{%
+           family={Storms},
+           familyi={S\bibinitperiod},
+           given={Gert},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{1269fb922db45e4a30fd88ba0fce0fdd}
+      \strng{fullhash}{b8e17b172d24a9681a32755c109e6f8c}
+      \strng{bibnamehash}{b8e17b172d24a9681a32755c109e6f8c}
+      \strng{authorbibnamehash}{b8e17b172d24a9681a32755c109e6f8c}
+      \strng{authornamehash}{1269fb922db45e4a30fd88ba0fce0fdd}
+      \strng{authorfullhash}{b8e17b172d24a9681a32755c109e6f8c}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavior Research Methods}
+      \field{title}{Better explanations of lexical and semantic cognition using networks derived from continued rather than single word associations}
+      \field{volume}{45}
+      \field{year}{2013}
+      \field{pages}{480\bibrangedash 498}
+      \range{pages}{19}
+    \endentry
+    \entry{DeDeyne2009}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=f8555201ee37d500eb8fb1395eb40a55}{%
+           family={{De{\,}Deyne}},
+           familyi={D\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=adfd31e4d0df8bf3ace04a297219d45b}{%
+           family={Peirsman},
+           familyi={P\bibinitperiod},
+           given={Yves},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8b38c7efc391f7a30d81f916cc49d8d8}{%
+           family={Storms},
+           familyi={S\bibinitperiod},
+           given={Gert},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=9f39690564e3614d4ca94772bc654171}{%
+           family={Taatgen},
+           familyi={T\bibinitperiod},
+           given={N.\bibnamedelimi A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f671ad692e816dd10de6a38de502074d}{%
+           family={Rijn},
+           familyi={R\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Austin, TX: Cognitive Science Society}%
+      }
+      \strng{namehash}{1269fb922db45e4a30fd88ba0fce0fdd}
+      \strng{fullhash}{9e1251c8adadb064e7ce38361efc296a}
+      \strng{bibnamehash}{9e1251c8adadb064e7ce38361efc296a}
+      \strng{authorbibnamehash}{9e1251c8adadb064e7ce38361efc296a}
+      \strng{authornamehash}{1269fb922db45e4a30fd88ba0fce0fdd}
+      \strng{authorfullhash}{9e1251c8adadb064e7ce38361efc296a}
+      \strng{editorbibnamehash}{2128818ed3fb7419aab2b9c0b4ba1bdb}
+      \strng{editornamehash}{2128818ed3fb7419aab2b9c0b4ba1bdb}
+      \strng{editorfullhash}{2128818ed3fb7419aab2b9c0b4ba1bdb}
+      \field{extraname}{3}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the 31th Annual Conference of the Cognitive Science Society}}
+      \field{title}{Sources of Semantic Similarity}
+      \field{year}{2009}
+      \field{pages}{1834\bibrangedash 1839}
+      \range{pages}{6}
+    \endentry
+    \entry{DeDeyne2008b}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=f8555201ee37d500eb8fb1395eb40a55}{%
+           family={{De{\,}Deyne}},
+           familyi={D\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8b38c7efc391f7a30d81f916cc49d8d8}{%
+           family={Storms},
+           familyi={S\bibinitperiod},
+           given={Gert},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7c1505bd43758995b17252536e7b269c}
+      \strng{fullhash}{7c1505bd43758995b17252536e7b269c}
+      \strng{bibnamehash}{7c1505bd43758995b17252536e7b269c}
+      \strng{authorbibnamehash}{7c1505bd43758995b17252536e7b269c}
+      \strng{authornamehash}{7c1505bd43758995b17252536e7b269c}
+      \strng{authorfullhash}{7c1505bd43758995b17252536e7b269c}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavior Research Methods}
+      \field{title}{{W}ord {A}ssociations: {N}etwork and {S}emantic properties}
+      \field{volume}{40}
+      \field{year}{2008}
+      \field{pages}{213\bibrangedash 231}
+      \range{pages}{19}
+    \endentry
+    \entry{DeDeyne2008a}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=f8555201ee37d500eb8fb1395eb40a55}{%
+           family={{De{\,}Deyne}},
+           familyi={D\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8b38c7efc391f7a30d81f916cc49d8d8}{%
+           family={Storms},
+           familyi={S\bibinitperiod},
+           given={Gert},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7c1505bd43758995b17252536e7b269c}
+      \strng{fullhash}{7c1505bd43758995b17252536e7b269c}
+      \strng{bibnamehash}{7c1505bd43758995b17252536e7b269c}
+      \strng{authorbibnamehash}{7c1505bd43758995b17252536e7b269c}
+      \strng{authornamehash}{7c1505bd43758995b17252536e7b269c}
+      \strng{authorfullhash}{7c1505bd43758995b17252536e7b269c}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavior Research Methods}
+      \field{title}{Word Associations: Norms for 1,424 {D}utch words in a continuous task}
+      \field{volume}{40}
+      \field{year}{2008}
+      \field{pages}{198\bibrangedash 205}
+      \range{pages}{8}
+    \endentry
+    \entry{DeDeyne2008}{article}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=f8555201ee37d500eb8fb1395eb40a55}{%
+           family={{De{\,}Deyne}},
+           familyi={D\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a590fffd75eef8a271544dd9bb86a1b0}{%
+           family={Verheyen},
+           familyi={V\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8dd60cfec86dcae0a3ba96f9d3a5ba6a}{%
+           family={Ameel},
+           familyi={A\bibinitperiod},
+           given={Eef},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a195175d678a58167eee80936100ae21}{%
+           family={Vanpaemel},
+           familyi={V\bibinitperiod},
+           given={Wolf},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=70673ade1a86bf30ec22da602fb4ed6c}{%
+           family={Dry},
+           familyi={D\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f0d43c9cb8b1147ee0b007359a863b56}{%
+           family={Voorspoels},
+           familyi={V\bibinitperiod},
+           given={Wouter},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8b38c7efc391f7a30d81f916cc49d8d8}{%
+           family={Storms},
+           familyi={S\bibinitperiod},
+           given={Gert},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1269fb922db45e4a30fd88ba0fce0fdd}
+      \strng{fullhash}{3bd8b53fc7652f2a49f3e53ad9714a16}
+      \strng{bibnamehash}{3bd8b53fc7652f2a49f3e53ad9714a16}
+      \strng{authorbibnamehash}{3bd8b53fc7652f2a49f3e53ad9714a16}
+      \strng{authornamehash}{1269fb922db45e4a30fd88ba0fce0fdd}
+      \strng{authorfullhash}{3bd8b53fc7652f2a49f3e53ad9714a16}
+      \field{extraname}{4}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavior Research Methods}
+      \field{title}{Exemplar by {F}eature {A}pplicability {M}atrices and {O}ther {D}utch {N}ormative {D}ata for {S}emantic {C}oncepts}
+      \field{volume}{40}
+      \field{year}{2008}
+      \field{pages}{1030\bibrangedash 1048}
+      \range{pages}{19}
+    \endentry
+    \entry{DeDeyne2014CorpusSize}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=f8555201ee37d500eb8fb1395eb40a55}{%
+           family={{De{\,}Deyne}},
+           familyi={D\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a590fffd75eef8a271544dd9bb86a1b0}{%
+           family={Verheyen},
+           familyi={V\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8b38c7efc391f7a30d81f916cc49d8d8}{%
+           family={Storms},
+           familyi={S\bibinitperiod},
+           given={Gert},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1269fb922db45e4a30fd88ba0fce0fdd}
+      \strng{fullhash}{d8b28d93476791963d18ad54fc0facf3}
+      \strng{bibnamehash}{d8b28d93476791963d18ad54fc0facf3}
+      \strng{authorbibnamehash}{d8b28d93476791963d18ad54fc0facf3}
+      \strng{authornamehash}{1269fb922db45e4a30fd88ba0fce0fdd}
+      \strng{authorfullhash}{d8b28d93476791963d18ad54fc0facf3}
+      \field{extraname}{5}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Quarterly Journal of Experimental Psychology}
+      \field{title}{The role of corpus-size and syntax in deriving lexico-semantic representations for a wide range of concepts.}
+      \field{volume}{26}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 22}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1080/17470218.2014.994098
+      \endverb
+    \endentry
+    \entry{DeDeyne2011}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=f8555201ee37d500eb8fb1395eb40a55}{%
+           family={{De{\,}Deyne}},
+           familyi={D\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f0d43c9cb8b1147ee0b007359a863b56}{%
+           family={Voorspoels},
+           familyi={V\bibinitperiod},
+           given={Wouter},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a590fffd75eef8a271544dd9bb86a1b0}{%
+           family={Verheyen},
+           familyi={V\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6ef053006f709ba77e04b9d5e076de13}{%
+           family={Navarro},
+           familyi={N\bibinitperiod},
+           given={Daniel\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8b38c7efc391f7a30d81f916cc49d8d8}{%
+           family={Storms},
+           familyi={S\bibinitperiod},
+           given={Gert},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=72a6003c88e7f10a8d2686a461c4f39f}{%
+           family={Carlson},
+           familyi={C\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f30dffc2e0c77f675f559dc0d7151adf}{%
+           family={H{ö}lscher},
+           familyi={H\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=85d805da2272bac5d4a81486b11f065f}{%
+           family={Shipley},
+           familyi={S\bibinitperiod},
+           given={T.\bibnamedelimi F.},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Austin, TX}%
+      }
+      \list{publisher}{1}{%
+        {Cognitive Science Society}%
+      }
+      \strng{namehash}{1269fb922db45e4a30fd88ba0fce0fdd}
+      \strng{fullhash}{59c74787f91e2dd0475fe85721e152e7}
+      \strng{bibnamehash}{59c74787f91e2dd0475fe85721e152e7}
+      \strng{authorbibnamehash}{59c74787f91e2dd0475fe85721e152e7}
+      \strng{authornamehash}{1269fb922db45e4a30fd88ba0fce0fdd}
+      \strng{authorfullhash}{59c74787f91e2dd0475fe85721e152e7}
+      \strng{editorbibnamehash}{969ceb104a7ca818f06e730809cd4dac}
+      \strng{editornamehash}{0c879d4ffb7b5a360a37bc6ff26c1679}
+      \strng{editorfullhash}{969ceb104a7ca818f06e730809cd4dac}
+      \field{extraname}{6}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the 33rd Annual Conference of the Cognitive Science Society}}
+      \field{title}{Graded structure in adjective categories.}
+      \field{year}{2011}
+      \field{pages}{1834\bibrangedash 1839}
+      \range{pages}{6}
+    \endentry
+    \entry{DeDeyne2013}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=f8555201ee37d500eb8fb1395eb40a55}{%
+           family={{De{\,}Deyne}},
+           familyi={D\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f0d43c9cb8b1147ee0b007359a863b56}{%
+           family={Voorspoels},
+           familyi={V\bibinitperiod},
+           given={Wouter},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a590fffd75eef8a271544dd9bb86a1b0}{%
+           family={Verheyen},
+           familyi={V\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6ef053006f709ba77e04b9d5e076de13}{%
+           family={Navarro},
+           familyi={N\bibinitperiod},
+           given={Daniel\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8b38c7efc391f7a30d81f916cc49d8d8}{%
+           family={Storms},
+           familyi={S\bibinitperiod},
+           given={Gert},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{1269fb922db45e4a30fd88ba0fce0fdd}
+      \strng{fullhash}{59c74787f91e2dd0475fe85721e152e7}
+      \strng{bibnamehash}{59c74787f91e2dd0475fe85721e152e7}
+      \strng{authorbibnamehash}{59c74787f91e2dd0475fe85721e152e7}
+      \strng{authornamehash}{1269fb922db45e4a30fd88ba0fce0fdd}
+      \strng{authorfullhash}{59c74787f91e2dd0475fe85721e152e7}
+      \field{extraname}{7}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language and Cognitive Processes}
+      \field{title}{Accounting for graded structure in adjective categories with valence-based opposition relationships}
+      \field{volume}{29}
+      \field{year}{2014}
+      \field{pages}{568\bibrangedash 583}
+      \range{pages}{16}
+    \endentry
+    \entry{Deese1965}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=0ae1ed16427e18c0338b9a91827e419e}{%
+           family={Deese},
+           familyi={D\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Baltimore, MD}%
+      }
+      \list{publisher}{1}{%
+        {Johns Hopkins Press}%
+      }
+      \strng{namehash}{0ae1ed16427e18c0338b9a91827e419e}
+      \strng{fullhash}{0ae1ed16427e18c0338b9a91827e419e}
+      \strng{bibnamehash}{0ae1ed16427e18c0338b9a91827e419e}
+      \strng{authorbibnamehash}{0ae1ed16427e18c0338b9a91827e419e}
+      \strng{authornamehash}{0ae1ed16427e18c0338b9a91827e419e}
+      \strng{authorfullhash}{0ae1ed16427e18c0338b9a91827e419e}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The structure of associations in language and thought}
+      \field{year}{1965}
+    \endentry
+    \entry{Dry2009}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=70673ade1a86bf30ec22da602fb4ed6c}{%
+           family={Dry},
+           familyi={D\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8b38c7efc391f7a30d81f916cc49d8d8}{%
+           family={Storms},
+           familyi={S\bibinitperiod},
+           given={Gert},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{955a4522f0c914ce58adf85819d21f02}
+      \strng{fullhash}{955a4522f0c914ce58adf85819d21f02}
+      \strng{bibnamehash}{955a4522f0c914ce58adf85819d21f02}
+      \strng{authorbibnamehash}{955a4522f0c914ce58adf85819d21f02}
+      \strng{authornamehash}{955a4522f0c914ce58adf85819d21f02}
+      \strng{authorfullhash}{955a4522f0c914ce58adf85819d21f02}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavior Research Methods}
+      \field{title}{Similar but not the same: {A} comparison of the utility of directly rated and feature-based similarity measures for generating spatial models of conceptual data.}
+      \field{volume}{41}
+      \field{year}{2009}
+      \field{pages}{889\bibrangedash 900}
+      \range{pages}{12}
+    \endentry
+    \entry{Ervin1961}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=6f5c535468c30917204dbedb0c454518}{%
+           family={Ervin},
+           familyi={E\bibinitperiod},
+           given={Susan\bibnamedelima M},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{6f5c535468c30917204dbedb0c454518}
+      \strng{fullhash}{6f5c535468c30917204dbedb0c454518}
+      \strng{bibnamehash}{6f5c535468c30917204dbedb0c454518}
+      \strng{authorbibnamehash}{6f5c535468c30917204dbedb0c454518}
+      \strng{authornamehash}{6f5c535468c30917204dbedb0c454518}
+      \strng{authorfullhash}{6f5c535468c30917204dbedb0c454518}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The American journal of psychology}
+      \field{number}{3}
+      \field{title}{Changes with age in the verbal determinants of word-association}
+      \field{volume}{74}
+      \field{year}{1961}
+      \field{pages}{361\bibrangedash 372}
+      \range{pages}{12}
+    \endentry
+    \entry{EstesGolonka2011}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=a1425e780998945e1a12d3295165dd26}{%
+           family={Estes},
+           familyi={E\bibinitperiod},
+           given={Zachary},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=804836c26744ce8ec35a2425562d0962}{%
+           family={Golonka},
+           familyi={G\bibinitperiod},
+           given={Sabrina},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cf26d39989e0ee5291deb3ae037f6759}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Lara},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3514eae59d780826bc61fe504ce87a97}
+      \strng{fullhash}{ceb1ce8e398cb04a68027b0eca477c9c}
+      \strng{bibnamehash}{ceb1ce8e398cb04a68027b0eca477c9c}
+      \strng{authorbibnamehash}{ceb1ce8e398cb04a68027b0eca477c9c}
+      \strng{authornamehash}{3514eae59d780826bc61fe504ce87a97}
+      \strng{authorfullhash}{ceb1ce8e398cb04a68027b0eca477c9c}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychology of Learning and Motivation-Advances in Research and Theory}
+      \field{title}{{Thematic Thinking: The Apprehension and Consequences of Thematic Relations}}
+      \field{volume}{54}
+      \field{year}{2011}
+      \field{pages}{249\bibrangedash 294}
+      \range{pages}{46}
+    \endentry
+    \entry{Fellbaum1998}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=496be5c48bfc17614e5bfa6fb0a63f41}{%
+           family={Fellbaum},
+           familyi={F\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press.}%
+      }
+      \strng{namehash}{496be5c48bfc17614e5bfa6fb0a63f41}
+      \strng{fullhash}{496be5c48bfc17614e5bfa6fb0a63f41}
+      \strng{bibnamehash}{496be5c48bfc17614e5bfa6fb0a63f41}
+      \strng{authorbibnamehash}{496be5c48bfc17614e5bfa6fb0a63f41}
+      \strng{authornamehash}{496be5c48bfc17614e5bfa6fb0a63f41}
+      \strng{authorfullhash}{496be5c48bfc17614e5bfa6fb0a63f41}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Available at http://www.cogsci.princeton.edu/~wn}
+      \field{title}{{WordNet: An electronic lexical Database}}
+      \field{year}{1998}
+    \endentry
+    \entry{Fillenbaum1971}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=b582e61e870c30ad8fd32163ecb02ea6}{%
+           family={Fillenbaum},
+           familyi={F\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fad8412750bde000e5ff479489a274db}{%
+           family={Rapoport},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {New York: Academic Press}%
+      }
+      \strng{namehash}{ad2f33375a4d468c91129f84f80c6fe4}
+      \strng{fullhash}{ad2f33375a4d468c91129f84f80c6fe4}
+      \strng{bibnamehash}{ad2f33375a4d468c91129f84f80c6fe4}
+      \strng{authorbibnamehash}{ad2f33375a4d468c91129f84f80c6fe4}
+      \strng{authornamehash}{ad2f33375a4d468c91129f84f80c6fe4}
+      \strng{authorfullhash}{ad2f33375a4d468c91129f84f80c6fe4}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Structures in the Subjective Lexicon}
+      \field{year}{1971}
+    \endentry
+    \entry{Garrard2001}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=15d24b332fdf4bf90928d1e5c85a3c35}{%
+           family={Garrard},
+           familyi={G\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=419fb7c1012c9860626293605434e4ee}{%
+           family={{Lambon{\,}Ralph}},
+           familyi={L\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=092c31eb955de94c16235dd1d229f1a4}{%
+           family={Hodges},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=46f8fce872f7659ddc424db95bd20764}{%
+           family={Patterson},
+           familyi={P\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ed34679bd20ce2bef5cb423046086770}
+      \strng{fullhash}{05589c120b96bea1bc099ca8fb97b23e}
+      \strng{bibnamehash}{05589c120b96bea1bc099ca8fb97b23e}
+      \strng{authorbibnamehash}{05589c120b96bea1bc099ca8fb97b23e}
+      \strng{authornamehash}{ed34679bd20ce2bef5cb423046086770}
+      \strng{authorfullhash}{05589c120b96bea1bc099ca8fb97b23e}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive Neuropsychology}
+      \field{title}{Prototypicality, distinctiveness, and intercorrelation: Analyses of the semantic attributes of living and nonliving concepts}
+      \field{volume}{18}
+      \field{year}{2001}
+      \field{pages}{125\bibrangedash 174}
+      \range{pages}{50}
+    \endentry
+    \entry{Goldstone1994}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e0dc18c849b9a7a35e2f9e0f7b2c5bc3}{%
+           family={Goldstone},
+           familyi={G\bibinitperiod},
+           given={Robert\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e0dc18c849b9a7a35e2f9e0f7b2c5bc3}
+      \strng{fullhash}{e0dc18c849b9a7a35e2f9e0f7b2c5bc3}
+      \strng{bibnamehash}{e0dc18c849b9a7a35e2f9e0f7b2c5bc3}
+      \strng{authorbibnamehash}{e0dc18c849b9a7a35e2f9e0f7b2c5bc3}
+      \strng{authornamehash}{e0dc18c849b9a7a35e2f9e0f7b2c5bc3}
+      \strng{authorfullhash}{e0dc18c849b9a7a35e2f9e0f7b2c5bc3}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognition}
+      \field{title}{{The role of similarity in categorization: Providing a groundwork}}
+      \field{volume}{52}
+      \field{year}{1994}
+      \field{pages}{125\bibrangedash 127}
+      \range{pages}{3}
+    \endentry
+    \entry{Goodman1972}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=a2421bb8641e0d8a5a15a8b40205c348}{%
+           family={Goodman},
+           familyi={G\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=a2421bb8641e0d8a5a15a8b40205c348}{%
+           family={Goodman},
+           familyi={G\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {New York: Bobbs-Merrill}%
+      }
+      \strng{namehash}{a2421bb8641e0d8a5a15a8b40205c348}
+      \strng{fullhash}{a2421bb8641e0d8a5a15a8b40205c348}
+      \strng{bibnamehash}{a2421bb8641e0d8a5a15a8b40205c348}
+      \strng{authorbibnamehash}{a2421bb8641e0d8a5a15a8b40205c348}
+      \strng{authornamehash}{a2421bb8641e0d8a5a15a8b40205c348}
+      \strng{authorfullhash}{a2421bb8641e0d8a5a15a8b40205c348}
+      \strng{editorbibnamehash}{a2421bb8641e0d8a5a15a8b40205c348}
+      \strng{editornamehash}{a2421bb8641e0d8a5a15a8b40205c348}
+      \strng{editorfullhash}{a2421bb8641e0d8a5a15a8b40205c348}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Problems and projects}
+      \field{title}{Seven strictures on similarity.}
+      \field{year}{1972}
+      \field{pages}{437\bibrangedash 447}
+      \range{pages}{11}
+    \endentry
+    \entry{Gordon1982}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=2b73b6b5676ccac3ce9a8090657373cb}{%
+           family={Gordon},
+           familyi={G\bibinitperiod},
+           given={Rana},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8df6d37d0999ac01f99615297e8a2427}{%
+           family={Silverstein},
+           familyi={S\bibinitperiod},
+           given={Marshall\bibnamedelima L},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=453b5318df129effb668411e752920d6}{%
+           family={Harrow},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{b670178499a5d364a1a73d054402cac0}
+      \strng{fullhash}{ff9e9f2867ca32dc6322374162395214}
+      \strng{bibnamehash}{ff9e9f2867ca32dc6322374162395214}
+      \strng{authorbibnamehash}{ff9e9f2867ca32dc6322374162395214}
+      \strng{authornamehash}{b670178499a5d364a1a73d054402cac0}
+      \strng{authorfullhash}{ff9e9f2867ca32dc6322374162395214}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of clinical psychology}
+      \field{title}{Associative thinking in schizophrenia: A contextualist approach}
+      \field{volume}{38}
+      \field{year}{1982}
+      \field{pages}{684\bibrangedash 696}
+      \range{pages}{13}
+    \endentry
+    \entry{Griffiths2007b}{article}{}
+      \name{author}{3}{uniquelist=3}{%
+        {{uniquename=0,uniquepart=base,hash=15f19cfb916ba0b8afb494f250ea80a2}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={Thomas\bibnamedelima L},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c099fca1ed23ade050824a949053db93}{%
+           family={Steyvers},
+           familyi={S\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ab091eb09b5bf8a46b062168014b2710}{%
+           family={Firl},
+           familyi={F\bibinitperiod},
+           given={Alana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Publishing}%
+      }
+      \strng{namehash}{192f5fda0dddb943c117a4fe81f9f821}
+      \strng{fullhash}{192f5fda0dddb943c117a4fe81f9f821}
+      \strng{bibnamehash}{192f5fda0dddb943c117a4fe81f9f821}
+      \strng{authorbibnamehash}{192f5fda0dddb943c117a4fe81f9f821}
+      \strng{authornamehash}{192f5fda0dddb943c117a4fe81f9f821}
+      \strng{authorfullhash}{192f5fda0dddb943c117a4fe81f9f821}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Science}
+      \field{title}{{Google and the Mind}}
+      \field{volume}{18}
+      \field{year}{2007}
+      \field{pages}{1069\bibrangedash 1076}
+      \range{pages}{8}
+    \endentry
+    \entry{Griffiths2007}{article}{}
+      \name{author}{3}{uniquelist=3}{%
+        {{uniquename=0,uniquepart=base,hash=15f19cfb916ba0b8afb494f250ea80a2}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={Thomas\bibnamedelima L},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c099fca1ed23ade050824a949053db93}{%
+           family={Steyvers},
+           familyi={S\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5c7ff02e1f8b4c4aa7bfddece14f23d2}{%
+           family={Tenenbaum},
+           familyi={T\bibinitperiod},
+           given={Joshua\bibnamedelima B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bd6341a69fae9c07484ad2759b78a1c3}
+      \strng{fullhash}{bd6341a69fae9c07484ad2759b78a1c3}
+      \strng{bibnamehash}{bd6341a69fae9c07484ad2759b78a1c3}
+      \strng{authorbibnamehash}{bd6341a69fae9c07484ad2759b78a1c3}
+      \strng{authornamehash}{bd6341a69fae9c07484ad2759b78a1c3}
+      \strng{authorfullhash}{bd6341a69fae9c07484ad2759b78a1c3}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{title}{Topics in semantic representation.}
+      \field{volume}{114}
+      \field{year}{2007}
+      \field{pages}{211\bibrangedash 244}
+      \range{pages}{34}
+    \endentry
+    \entry{Hampton1998}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e95b182d90ed85521b61e1f5fa9fa24e}{%
+           family={Hampton},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e95b182d90ed85521b61e1f5fa9fa24e}
+      \strng{fullhash}{e95b182d90ed85521b61e1f5fa9fa24e}
+      \strng{bibnamehash}{e95b182d90ed85521b61e1f5fa9fa24e}
+      \strng{authorbibnamehash}{e95b182d90ed85521b61e1f5fa9fa24e}
+      \strng{authornamehash}{e95b182d90ed85521b61e1f5fa9fa24e}
+      \strng{authorfullhash}{e95b182d90ed85521b61e1f5fa9fa24e}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognition}
+      \field{title}{Similarity-based categorization and fuzziness of natural categories}
+      \field{volume}{65}
+      \field{year}{1998}
+      \field{pages}{137\bibrangedash 165}
+      \range{pages}{29}
+    \endentry
+    \entry{Hare2009}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=61cc65f397e3540371b0c041bc093627}{%
+           family={Hare},
+           familyi={H\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5a25bc91f524ca6dfc2ecf9f4a13903c}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d2252d27e0591f846f104e613716ad17}{%
+           family={Thomson},
+           familyi={T\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=11b54c7495da854902f259d791666740}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cf804166be178e1417c565069f39afb1}{%
+           family={McRae},
+           familyi={M\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{c4038dd2e1be0e7a9c926aaea4094e33}
+      \strng{fullhash}{0dc6afeceecaa92f2d958f0c98c08798}
+      \strng{bibnamehash}{0dc6afeceecaa92f2d958f0c98c08798}
+      \strng{authorbibnamehash}{0dc6afeceecaa92f2d958f0c98c08798}
+      \strng{authornamehash}{c4038dd2e1be0e7a9c926aaea4094e33}
+      \strng{authorfullhash}{0dc6afeceecaa92f2d958f0c98c08798}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognition}
+      \field{number}{2}
+      \field{title}{Activating event knowledge}
+      \field{volume}{111}
+      \field{year}{2009}
+      \field{pages}{151\bibrangedash 167}
+      \range{pages}{17}
+    \endentry
+    \entry{Hills2009longitudinal}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=d30155347005b5482dbb51ab873f7f47}{%
+           family={Hills},
+           familyi={H\bibinitperiod},
+           given={Thomas\bibnamedelima T},
+           giveni={T\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c58532d47673c9af06592838f09d0473}{%
+           family={Maouene},
+           familyi={M\bibinitperiod},
+           given={Mounir},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=71b2ad3dbcbe2add5fdbdb208cb157f3}{%
+           family={Maouene},
+           familyi={M\bibinitperiod},
+           given={Josita},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f2b202462ddb873cd65e87239a708b13}{%
+           family={Sheya},
+           familyi={S\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ebba5159061c398511d1f88d6bde95a9}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications}%
+      }
+      \strng{namehash}{ea77c47410fa3b8964c45475714f53f3}
+      \strng{fullhash}{3c08f4a4e469871f454f31e0a5f47dd4}
+      \strng{bibnamehash}{3c08f4a4e469871f454f31e0a5f47dd4}
+      \strng{authorbibnamehash}{3c08f4a4e469871f454f31e0a5f47dd4}
+      \strng{authornamehash}{ea77c47410fa3b8964c45475714f53f3}
+      \strng{authorfullhash}{3c08f4a4e469871f454f31e0a5f47dd4}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Science}
+      \field{title}{Longitudinal analysis of early semantic networks preferential attachment or preferential acquisition?}
+      \field{volume}{20}
+      \field{year}{2009}
+      \field{pages}{729\bibrangedash 739}
+      \range{pages}{11}
+    \endentry
+    \entry{Hutchinson1989}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=dfda9f1f34f1f8c03d374c8319680911}{%
+           family={Hutchinson},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dfda9f1f34f1f8c03d374c8319680911}
+      \strng{fullhash}{dfda9f1f34f1f8c03d374c8319680911}
+      \strng{bibnamehash}{dfda9f1f34f1f8c03d374c8319680911}
+      \strng{authorbibnamehash}{dfda9f1f34f1f8c03d374c8319680911}
+      \strng{authornamehash}{dfda9f1f34f1f8c03d374c8319680911}
+      \strng{authorfullhash}{dfda9f1f34f1f8c03d374c8319680911}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychometrika}
+      \field{title}{{NETSCAL: A network scaling algorithm for nonsymmetric proximity data}}
+      \field{volume}{54}
+      \field{year}{1989}
+      \field{pages}{25\bibrangedash 51}
+      \range{pages}{27}
+    \endentry
+    \entry{Hutchison2003}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=48938a7986953f995b08e204da4e6d75}{%
+           family={Hutchison},
+           familyi={H\bibinitperiod},
+           given={Keith\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{48938a7986953f995b08e204da4e6d75}
+      \strng{fullhash}{48938a7986953f995b08e204da4e6d75}
+      \strng{bibnamehash}{48938a7986953f995b08e204da4e6d75}
+      \strng{authorbibnamehash}{48938a7986953f995b08e204da4e6d75}
+      \strng{authornamehash}{48938a7986953f995b08e204da4e6d75}
+      \strng{authorfullhash}{48938a7986953f995b08e204da4e6d75}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychonomic Bulletin and Review}
+      \field{title}{Is semantic priming due to association strength or feature overlap?}
+      \field{volume}{10}
+      \field{year}{2003}
+      \field{pages}{785\bibrangedash 813}
+      \range{pages}{29}
+    \endentry
+    \entry{Jones2006}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=fed962e43a201abe535a81a3c990627c}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Michael\bibnamedelima N},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fc241d89c9c072ed89db07cbb09e6107}{%
+           family={Kintsch},
+           familyi={K\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=06cea338f9a8c9176b9f6396e00f96d5}{%
+           family={Mewhort},
+           familyi={M\bibinitperiod},
+           given={Douglas\bibnamedelima JK},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e4badd636474d38adcde1ac8d332e3b5}
+      \strng{fullhash}{b5b22c41d104b795cecc6903238a22b8}
+      \strng{bibnamehash}{b5b22c41d104b795cecc6903238a22b8}
+      \strng{authorbibnamehash}{b5b22c41d104b795cecc6903238a22b8}
+      \strng{authornamehash}{e4badd636474d38adcde1ac8d332e3b5}
+      \strng{authorfullhash}{b5b22c41d104b795cecc6903238a22b8}
+      \field{extraname}{1}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of memory and language}
+      \field{title}{High-dimensional semantic space accounts of priming}
+      \field{volume}{55}
+      \field{year}{2006}
+      \field{pages}{534\bibrangedash 552}
+      \range{pages}{19}
+    \endentry
+    \entry{Jones2007}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=fed962e43a201abe535a81a3c990627c}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Michael\bibnamedelima N},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=06cea338f9a8c9176b9f6396e00f96d5}{%
+           family={Mewhort},
+           familyi={M\bibinitperiod},
+           given={Douglas\bibnamedelima JK},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{ab7dfb0452b5d29b4c376d1ba97a33d5}
+      \strng{fullhash}{ab7dfb0452b5d29b4c376d1ba97a33d5}
+      \strng{bibnamehash}{ab7dfb0452b5d29b4c376d1ba97a33d5}
+      \strng{authorbibnamehash}{ab7dfb0452b5d29b4c376d1ba97a33d5}
+      \strng{authornamehash}{ab7dfb0452b5d29b4c376d1ba97a33d5}
+      \strng{authorfullhash}{ab7dfb0452b5d29b4c376d1ba97a33d5}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{title}{Representing word meaning and order information in a composite holographic lexicon.}
+      \field{volume}{114}
+      \field{year}{2007}
+      \field{pages}{1\bibrangedash 37}
+      \range{pages}{37}
+    \endentry
+    \entry{Jones2014}{incollection}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=fed962e43a201abe535a81a3c990627c}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Michael\bibnamedelima N},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9e8c19cbe0d66adc737aa8a0667ad4ac}{%
+           family={Willits},
+           familyi={W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=091722ed1f723a46f6934153724e86e7}{%
+           family={Dennis},
+           familyi={D\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3656094aa90ce6b5927293e625dedee3}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=8fef3ade5d49e0fbf6e1c4a5583f838a}{%
+           family={Busemeyer},
+           familyi={B\bibinitperiod},
+           given={J.R.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=02542c39457c72af07c219630402ce50}{%
+           family={Townsend},
+           familyi={T\bibinitperiod},
+           given={J.T.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{e4badd636474d38adcde1ac8d332e3b5}
+      \strng{fullhash}{1c128d07436ed09745d3020d1ca8a6de}
+      \strng{bibnamehash}{1c128d07436ed09745d3020d1ca8a6de}
+      \strng{authorbibnamehash}{1c128d07436ed09745d3020d1ca8a6de}
+      \strng{authornamehash}{e4badd636474d38adcde1ac8d332e3b5}
+      \strng{authorfullhash}{1c128d07436ed09745d3020d1ca8a6de}
+      \strng{editorbibnamehash}{da06e0e9f09d911f6b1cd74e5b60bb81}
+      \strng{editornamehash}{da06e0e9f09d911f6b1cd74e5b60bb81}
+      \strng{editorfullhash}{da06e0e9f09d911f6b1cd74e5b60bb81}
+      \field{extraname}{2}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Oxford Handbook of Mathematical and Computational Psychology}}
+      \field{title}{Models of semantic memory}
+      \field{year}{2014}
+    \endentry
+    \entry{Jurafsky2008}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=bd33d7a70284b5ead9c7985cb5c9929c}{%
+           family={Jurafsky},
+           familyi={J\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9ed8bee488b2703da341cded66bf83cb}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={James\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Prentice Hall}%
+      }
+      \strng{namehash}{b5e6a2accdc2023c51f42c6ec010d19b}
+      \strng{fullhash}{b5e6a2accdc2023c51f42c6ec010d19b}
+      \strng{bibnamehash}{b5e6a2accdc2023c51f42c6ec010d19b}
+      \strng{authorbibnamehash}{b5e6a2accdc2023c51f42c6ec010d19b}
+      \strng{authornamehash}{b5e6a2accdc2023c51f42c6ec010d19b}
+      \strng{authorfullhash}{b5e6a2accdc2023c51f42c6ec010d19b}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{isbn}{0-13-187321-0}
+      \field{title}{{Speech and Language Processing}}
+      \field{year}{2008}
+      \keyw{nlp}
+    \endentry
+    \entry{Katz1953}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=3f646ed5f84578b4ce2090f0d57e4763}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={Leo},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{3f646ed5f84578b4ce2090f0d57e4763}
+      \strng{fullhash}{3f646ed5f84578b4ce2090f0d57e4763}
+      \strng{bibnamehash}{3f646ed5f84578b4ce2090f0d57e4763}
+      \strng{authorbibnamehash}{3f646ed5f84578b4ce2090f0d57e4763}
+      \strng{authornamehash}{3f646ed5f84578b4ce2090f0d57e4763}
+      \strng{authorfullhash}{3f646ed5f84578b4ce2090f0d57e4763}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychometrika}
+      \field{number}{1}
+      \field{title}{A new status index derived from sociometric analysis}
+      \field{volume}{18}
+      \field{year}{1953}
+      \field{pages}{39\bibrangedash 43}
+      \range{pages}{5}
+    \endentry
+    \entry{Kemeny1976}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=f887c11a8aa057323f25bf9d41565fd4}{%
+           family={Kemeny},
+           familyi={K\bibinitperiod},
+           given={J.\bibnamedelimi G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7bf780549f73f3793ec4f33f4834c3df}{%
+           family={Snell},
+           familyi={S\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-verlag}%
+      }
+      \strng{namehash}{c22e2f38165481e1a24d290eb08f4330}
+      \strng{fullhash}{c22e2f38165481e1a24d290eb08f4330}
+      \strng{bibnamehash}{c22e2f38165481e1a24d290eb08f4330}
+      \strng{authorbibnamehash}{c22e2f38165481e1a24d290eb08f4330}
+      \strng{authornamehash}{c22e2f38165481e1a24d290eb08f4330}
+      \strng{authorfullhash}{c22e2f38165481e1a24d290eb08f4330}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Finite Markov Chains}}
+      \field{year}{1976}
+    \endentry
+    \entry{Landauer1997}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=b2fada6883e12d024ae59cf20d655523}{%
+           family={Landauer},
+           familyi={L\bibinitperiod},
+           given={T.\bibnamedelimi K.},
+           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=251abf15be7a232963a7790c66e469a3}{%
+           family={Dumais},
+           familyi={D\bibinitperiod},
+           given={S.\bibnamedelimi T.},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5d72a05b232b635550336ebadd7fd834}
+      \strng{fullhash}{5d72a05b232b635550336ebadd7fd834}
+      \strng{bibnamehash}{5d72a05b232b635550336ebadd7fd834}
+      \strng{authorbibnamehash}{5d72a05b232b635550336ebadd7fd834}
+      \strng{authornamehash}{5d72a05b232b635550336ebadd7fd834}
+      \strng{authorfullhash}{5d72a05b232b635550336ebadd7fd834}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{title}{A solution to {P}lato's {P}roblem: {T}he latent semantic analysis theory of acquisition, induction and representation of knowledge.}
+      \field{volume}{104}
+      \field{year}{1997}
+      \field{pages}{211\bibrangedash 240}
+      \range{pages}{30}
+    \endentry
+    \entry{Lee1999}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=91ab7a2784068d173b5cc9ebb675b130}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Michael\bibnamedelima D},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {Defence Science}%
+        {Technology Organisation Research Report}%
+      }
+      \strng{namehash}{91ab7a2784068d173b5cc9ebb675b130}
+      \strng{fullhash}{91ab7a2784068d173b5cc9ebb675b130}
+      \strng{bibnamehash}{91ab7a2784068d173b5cc9ebb675b130}
+      \strng{authorbibnamehash}{91ab7a2784068d173b5cc9ebb675b130}
+      \strng{authornamehash}{91ab7a2784068d173b5cc9ebb675b130}
+      \strng{authorfullhash}{91ab7a2784068d173b5cc9ebb675b130}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{DSTO-RR-0152}
+      \field{title}{Algorithms for representing similarity data.}
+      \field{type}{techreport}
+      \field{year}{1999}
+    \endentry
+    \entry{Leicht2006}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=a35c0e5ccf15c98e1aca694f50da62c1}{%
+           family={Leicht},
+           familyi={L\bibinitperiod},
+           given={E.\bibnamedelimi A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=230c5a6f9055ada2e5b85d83993ee6ea}{%
+           family={Holme},
+           familyi={H\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4bf3b98e94373b42e6f6e6dfddaf4daa}{%
+           family={Newman},
+           familyi={N\bibinitperiod},
+           given={M.\bibnamedelimi E.\bibnamedelimi J.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2b16b78e6486b28924500599523f1000}
+      \strng{fullhash}{765885fb31bf80c3cebfe2a8eff57dea}
+      \strng{bibnamehash}{765885fb31bf80c3cebfe2a8eff57dea}
+      \strng{authorbibnamehash}{765885fb31bf80c3cebfe2a8eff57dea}
+      \strng{authornamehash}{2b16b78e6486b28924500599523f1000}
+      \strng{authorfullhash}{765885fb31bf80c3cebfe2a8eff57dea}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review E}
+      \field{title}{Vertex similarity in networks}
+      \field{volume}{73}
+      \field{year}{2006}
+      \field{pages}{026120}
+      \range{pages}{1}
+    \endentry
+    \entry{Lerner2009}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=426f7802cb43e0c85293436d6ed35769}{%
+           family={Lerner},
+           familyi={L\bibinitperiod},
+           given={Alan\bibnamedelima J},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6a14c99daf5663c10e399a4ded610761}{%
+           family={Ogrocki},
+           familyi={O\bibinitperiod},
+           given={Paula\bibnamedelima K},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e207a5376f49e4562f50c7d6ad08674f}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Peter\bibnamedelima J},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {LWW}%
+      }
+      \strng{namehash}{2784de912864e063e1bacf247ff13a90}
+      \strng{fullhash}{eab486c7938eca332c8eeff62439c4c6}
+      \strng{bibnamehash}{eab486c7938eca332c8eeff62439c4c6}
+      \strng{authorbibnamehash}{eab486c7938eca332c8eeff62439c4c6}
+      \strng{authornamehash}{2784de912864e063e1bacf247ff13a90}
+      \strng{authorfullhash}{eab486c7938eca332c8eeff62439c4c6}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive and Behavioral Neurology}
+      \field{title}{Network graph analysis of category fluency testing}
+      \field{volume}{22}
+      \field{year}{2009}
+      \field{pages}{45\bibrangedash 52}
+      \range{pages}{8}
+    \endentry
+    \entry{Lin2001}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=dcadb029ceb3a9db66730008f7568ce9}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Emilie\bibnamedelima L},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dbd62cec74e943b6947b482dc0bfb371}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Gregory\bibnamedelima L},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4ef411586f82486e6a93542281893427}
+      \strng{fullhash}{4ef411586f82486e6a93542281893427}
+      \strng{bibnamehash}{4ef411586f82486e6a93542281893427}
+      \strng{authorbibnamehash}{4ef411586f82486e6a93542281893427}
+      \strng{authornamehash}{4ef411586f82486e6a93542281893427}
+      \strng{authorfullhash}{4ef411586f82486e6a93542281893427}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology: General}
+      \field{title}{Thematic Relations in Adults' Concepts}
+      \field{volume}{1}
+      \field{year}{2001}
+      \field{pages}{3\bibrangedash 28}
+      \range{pages}{26}
+    \endentry
+    \entry{Liu2014}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=a6147cc08e5587bc90971a8166f913e1}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jiangang},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bc20e54573d2db853852f86802ab83de}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6d3ffbe2de2677bb92c7098a9575aa60}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a40d576b1592c607417a95d741c0e8d4}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Ling},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=eb60b8648d4996f5823246b60adbc05b}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=22e595676144d4b85dd23e562ae68c67}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Kang},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{70507e05721a94dace3681e4a9f5244a}
+      \strng{fullhash}{7173680d23aa034086d7a5a7227361a2}
+      \strng{bibnamehash}{7173680d23aa034086d7a5a7227361a2}
+      \strng{authorbibnamehash}{7173680d23aa034086d7a5a7227361a2}
+      \strng{authornamehash}{70507e05721a94dace3681e4a9f5244a}
+      \strng{authorfullhash}{7173680d23aa034086d7a5a7227361a2}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cortex}
+      \field{title}{{Seeing Jesus in toast: Neural and behavioral correlates of face pareidolia}}
+      \field{volume}{53}
+      \field{year}{2014}
+      \field{pages}{60\bibrangedash 77}
+      \range{pages}{18}
+    \endentry
+    \entry{LopezAtran1997}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=bfc5c9caf1792f5c76671018d44eaeee}{%
+           family={Lopez},
+           familyi={L\bibinitperiod},
+           given={Alejandro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=06fad3b8c3d51baad6a2a43189611412}{%
+           family={Atran},
+           familyi={A\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7364cc95abe843ec800192daa2fbc238}{%
+           family={Coley},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c724c5a479d3ad4cf845b29e50d7b19f}{%
+           family={Medin},
+           familyi={M\bibinitperiod},
+           given={Douglas\bibnamedelima L},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8887224054400366098aaa9b8e467de9}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Edward\bibnamedelima E},
+           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e41bbb5b924a80a28e0b1f127d132e14}
+      \strng{fullhash}{d8b474208dc41c6a78e20701223f25ea}
+      \strng{bibnamehash}{d8b474208dc41c6a78e20701223f25ea}
+      \strng{authorbibnamehash}{d8b474208dc41c6a78e20701223f25ea}
+      \strng{authornamehash}{e41bbb5b924a80a28e0b1f127d132e14}
+      \strng{authorfullhash}{d8b474208dc41c6a78e20701223f25ea}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive psychology}
+      \field{title}{The tree of life: Universal and cultural features of folkbiological taxonomies and inductions}
+      \field{volume}{32}
+      \field{year}{1997}
+      \field{pages}{251\bibrangedash 295}
+      \range{pages}{45}
+    \endentry
+    \entry{Luce1959}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=9dd9e779e2a247fb49248955ba369e52}{%
+           family={Luce},
+           familyi={L\bibinitperiod},
+           given={R\bibnamedelima Duncan},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{9dd9e779e2a247fb49248955ba369e52}
+      \strng{fullhash}{9dd9e779e2a247fb49248955ba369e52}
+      \strng{bibnamehash}{9dd9e779e2a247fb49248955ba369e52}
+      \strng{authorbibnamehash}{9dd9e779e2a247fb49248955ba369e52}
+      \strng{authornamehash}{9dd9e779e2a247fb49248955ba369e52}
+      \strng{authorfullhash}{9dd9e779e2a247fb49248955ba369e52}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological review}
+      \field{title}{On the possible psychophysical laws.}
+      \field{volume}{66}
+      \field{year}{1959}
+      \field{pages}{81}
+      \range{pages}{1}
+    \endentry
+    \entry{Markman1993}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=77ad13cfa843dd66be07f514c1375b83}{%
+           family={Markman},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9285e83d141663a046a452dd06ae7ae3}{%
+           family={Gentner},
+           familyi={G\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{64b25af23d520e356a01c6368af37023}
+      \strng{fullhash}{64b25af23d520e356a01c6368af37023}
+      \strng{bibnamehash}{64b25af23d520e356a01c6368af37023}
+      \strng{authorbibnamehash}{64b25af23d520e356a01c6368af37023}
+      \strng{authornamehash}{64b25af23d520e356a01c6368af37023}
+      \strng{authorfullhash}{64b25af23d520e356a01c6368af37023}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive Psychology}
+      \field{title}{Structural {A}lignment {D}uring {S}imilarity {C}omparisons}
+      \field{volume}{25}
+      \field{year}{1993}
+      \field{pages}{431\bibrangedash 467}
+      \range{pages}{37}
+    \endentry
+    \entry{McRae2005}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=cf804166be178e1417c565069f39afb1}{%
+           family={McRae},
+           familyi={M\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fb811f4a5c0c8313ca955ffa54115cb2}{%
+           family={Cree},
+           familyi={C\bibinitperiod},
+           given={George\bibnamedelima S},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6ba3c69770f6813e0b3ea1443dab8861}{%
+           family={Seidenberg},
+           familyi={S\bibinitperiod},
+           given={Mark\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=baa1668a334866cbd0f260b77926d545}{%
+           family={McNorgan},
+           familyi={M\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a040a5b9a6b11e84280ec9b01bf8e6a6}
+      \strng{fullhash}{101e4007a39eaea9ba29d37f8ebe7171}
+      \strng{bibnamehash}{101e4007a39eaea9ba29d37f8ebe7171}
+      \strng{authorbibnamehash}{101e4007a39eaea9ba29d37f8ebe7171}
+      \strng{authornamehash}{a040a5b9a6b11e84280ec9b01bf8e6a6}
+      \strng{authorfullhash}{101e4007a39eaea9ba29d37f8ebe7171}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Semantic features have provided insight into numerous behavioral phenomena concerning concepts, categorization, and semantic memory in adults, children, and neuropsychological populations. Numerous theories and models in these areas are based on representations and computations involving semantic features. Consequently, empirically derived semantic feature production norms have played, and continue to play, a highly useful role in these domains. This article describes a set of feature norms collected from approximately 725 participants for 541 living (dog) and nonliving (chair) basic-level concepts, the largest such set of norms developed to date. This article describes the norms and numerous statistics associated with them. Our aim is to make these norms available to facilitate other research, while obviating the need to repeat the labor-intensive methods involved in collecting and analyzing such norms. The full set of norms may be downloaded from www.psychonomic.org/archive.}
+      \field{journaltitle}{Behavior Research Methods}
+      \field{title}{Semantic feature production norms for a large set of living and nonliving things.}
+      \field{volume}{37}
+      \field{year}{2005}
+      \field{pages}{547\bibrangedash 559}
+      \range{pages}{13}
+      \keyw{Adult; Child; Humans; Linguistics; Memory; Research Support,N.I.H.,Extramural; Research Support,Non-U.S. Gov't; Semantics; Vocabulary}
+    \endentry
+    \entry{Medin1993}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=c724c5a479d3ad4cf845b29e50d7b19f}{%
+           family={Medin},
+           familyi={M\bibinitperiod},
+           given={Douglas\bibnamedelima L},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e0dc18c849b9a7a35e2f9e0f7b2c5bc3}{%
+           family={Goldstone},
+           familyi={G\bibinitperiod},
+           given={Robert\bibnamedelima L},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9285e83d141663a046a452dd06ae7ae3}{%
+           family={Gentner},
+           familyi={G\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0629632f30779abe01cd7ffb3e30ae54}
+      \strng{fullhash}{bd1912cf684f36d5fdb666f464b0f907}
+      \strng{bibnamehash}{bd1912cf684f36d5fdb666f464b0f907}
+      \strng{authorbibnamehash}{bd1912cf684f36d5fdb666f464b0f907}
+      \strng{authornamehash}{0629632f30779abe01cd7ffb3e30ae54}
+      \strng{authorfullhash}{bd1912cf684f36d5fdb666f464b0f907}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{title}{Respects for similarity}
+      \field{volume}{100}
+      \field{year}{1993}
+      \field{pages}{254\bibrangedash 278}
+      \range{pages}{25}
+    \endentry
+    \entry{Medin1989}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=c724c5a479d3ad4cf845b29e50d7b19f}{%
+           family={Medin},
+           familyi={M\bibinitperiod},
+           given={Douglas\bibnamedelima L},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=194d162c50c2ff90bbc470df75ceebb0}{%
+           family={Ortony},
+           familyi={O\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=8385e969efa5c7ba034186fae59ebc1d}{%
+           family={Vosniadou},
+           familyi={V\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=194d162c50c2ff90bbc470df75ceebb0}{%
+           family={Ortony},
+           familyi={O\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{3b217cd1c642a704fcf15a5bb8ca39b5}
+      \strng{fullhash}{3b217cd1c642a704fcf15a5bb8ca39b5}
+      \strng{bibnamehash}{3b217cd1c642a704fcf15a5bb8ca39b5}
+      \strng{authorbibnamehash}{3b217cd1c642a704fcf15a5bb8ca39b5}
+      \strng{authornamehash}{3b217cd1c642a704fcf15a5bb8ca39b5}
+      \strng{authorfullhash}{3b217cd1c642a704fcf15a5bb8ca39b5}
+      \strng{editorbibnamehash}{40ee9120442a48be78d890dcb04915d0}
+      \strng{editornamehash}{40ee9120442a48be78d890dcb04915d0}
+      \strng{editorfullhash}{40ee9120442a48be78d890dcb04915d0}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Similarity and Analogical Reasoning}
+      \field{title}{Psychological essentialism}
+      \field{year}{1989}
+      \field{pages}{179\bibrangedash 195}
+      \range{pages}{17}
+    \endentry
+    \entry{MedinRips2005}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=c724c5a479d3ad4cf845b29e50d7b19f}{%
+           family={Medin},
+           familyi={M\bibinitperiod},
+           given={Douglas\bibnamedelima L},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e30179e68deabcdbfc5504088ac315bd}{%
+           family={Rips},
+           familyi={R\bibinitperiod},
+           given={Lance\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=f02f0c273bbc3234487f123743b3644e}{%
+           family={Holyoak},
+           familyi={H\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d990ce5bbff21a703e6424a001276d96}{%
+           family={Morrison},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press, Cambridge, UK}%
+      }
+      \strng{namehash}{0a22ec93d54827a4569853516c322bda}
+      \strng{fullhash}{0a22ec93d54827a4569853516c322bda}
+      \strng{bibnamehash}{0a22ec93d54827a4569853516c322bda}
+      \strng{authorbibnamehash}{0a22ec93d54827a4569853516c322bda}
+      \strng{authornamehash}{0a22ec93d54827a4569853516c322bda}
+      \strng{authorfullhash}{0a22ec93d54827a4569853516c322bda}
+      \strng{editorbibnamehash}{43567911547faa3d4507c3aff25e6388}
+      \strng{editornamehash}{43567911547faa3d4507c3aff25e6388}
+      \strng{editorfullhash}{43567911547faa3d4507c3aff25e6388}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{The Cambridge Handbook of Thinking and Reasoning}}
+      \field{title}{Concepts and categories: memory, meaning, and metaphysics}
+      \field{year}{2005}
+      \field{pages}{37\bibrangedash 72}
+      \range{pages}{36}
+    \endentry
+    \entry{Minkov2008}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=3cafe5ca28abde58d40b752372bcde4c}{%
+           family={Minkov},
+           familyi={M\bibinitperiod},
+           given={Einat},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {School of Computer Science Carnegie Melon University}%
+      }
+      \list{location}{1}{%
+        {Pittsburgh, PA 15213}%
+      }
+      \strng{namehash}{3cafe5ca28abde58d40b752372bcde4c}
+      \strng{fullhash}{3cafe5ca28abde58d40b752372bcde4c}
+      \strng{bibnamehash}{3cafe5ca28abde58d40b752372bcde4c}
+      \strng{authorbibnamehash}{3cafe5ca28abde58d40b752372bcde4c}
+      \strng{authornamehash}{3cafe5ca28abde58d40b752372bcde4c}
+      \strng{authorfullhash}{3cafe5ca28abde58d40b752372bcde4c}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Adaptive Graph Walk Based Similarity Measures in Entity-Relation Graphs}}
+      \field{type}{Unpublished doctoral dissertation}
+      \field{year}{2008}
+    \endentry
+    \entry{Mollin2009}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=8b8d12210cee652952ccd2ef0cb8a2a9}{%
+           family={Mollin},
+           familyi={M\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8b8d12210cee652952ccd2ef0cb8a2a9}
+      \strng{fullhash}{8b8d12210cee652952ccd2ef0cb8a2a9}
+      \strng{bibnamehash}{8b8d12210cee652952ccd2ef0cb8a2a9}
+      \strng{authorbibnamehash}{8b8d12210cee652952ccd2ef0cb8a2a9}
+      \strng{authornamehash}{8b8d12210cee652952ccd2ef0cb8a2a9}
+      \strng{authorfullhash}{8b8d12210cee652952ccd2ef0cb8a2a9}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Corpus Linguistics and Linguistic Theory}
+      \field{title}{Combining corpus linguistics and psychological data on word co-occurrence: Corpus collocates versus word associations}
+      \field{volume}{5}
+      \field{year}{2009}
+      \field{pages}{175\bibrangedash 200}
+      \range{pages}{26}
+    \endentry
+    \entry{Murphy1985}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=dbd62cec74e943b6947b482dc0bfb371}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Gregory\bibnamedelima L},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c724c5a479d3ad4cf845b29e50d7b19f}{%
+           family={Medin},
+           familyi={M\bibinitperiod},
+           given={Douglas\bibnamedelima L},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1b5578ae1641b19ab61ceb77922c6531}
+      \strng{fullhash}{1b5578ae1641b19ab61ceb77922c6531}
+      \strng{bibnamehash}{1b5578ae1641b19ab61ceb77922c6531}
+      \strng{authorbibnamehash}{1b5578ae1641b19ab61ceb77922c6531}
+      \strng{authornamehash}{1b5578ae1641b19ab61ceb77922c6531}
+      \strng{authorfullhash}{1b5578ae1641b19ab61ceb77922c6531}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{title}{The role of theories in conceptual coherence}
+      \field{volume}{92}
+      \field{year}{1985}
+      \field{pages}{289\bibrangedash 316}
+      \range{pages}{28}
+    \endentry
+    \entry{NavarroGriffiths2008}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=6ef053006f709ba77e04b9d5e076de13}{%
+           family={Navarro},
+           familyi={N\bibinitperiod},
+           given={Daniel\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=15f19cfb916ba0b8afb494f250ea80a2}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={Thomas\bibnamedelima L},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{b84fab1c9036095a4c48a5812988f793}
+      \strng{fullhash}{b84fab1c9036095a4c48a5812988f793}
+      \strng{bibnamehash}{b84fab1c9036095a4c48a5812988f793}
+      \strng{authorbibnamehash}{b84fab1c9036095a4c48a5812988f793}
+      \strng{authornamehash}{b84fab1c9036095a4c48a5812988f793}
+      \strng{authorfullhash}{b84fab1c9036095a4c48a5812988f793}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neural computation}
+      \field{title}{{Latent features in similarity judgments: A nonparametric Bayesian approach}}
+      \field{volume}{20}
+      \field{year}{2008}
+      \field{pages}{2597\bibrangedash 2628}
+      \range{pages}{32}
+    \endentry
+    \entry{Navarro2002}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=6ef053006f709ba77e04b9d5e076de13}{%
+           family={Navarro},
+           familyi={N\bibinitperiod},
+           given={Daniel\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=91ab7a2784068d173b5cc9ebb675b130}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Michael\bibnamedelima D},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=64b29c528e5809177858c4a97cdbd1f9}{%
+           family={Gray},
+           familyi={G\bibinitperiod},
+           given={W.\bibnamedelimi D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=653ba3911984faa21a2a1fa1c6b154d7}{%
+           family={Schunn},
+           familyi={S\bibinitperiod},
+           given={C.\bibnamedelimi D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Mahwah, NJ: Lawrence Erlbaum}%
+      }
+      \strng{namehash}{d8a919f02189502180c896962170c49c}
+      \strng{fullhash}{d8a919f02189502180c896962170c49c}
+      \strng{bibnamehash}{d8a919f02189502180c896962170c49c}
+      \strng{authorbibnamehash}{d8a919f02189502180c896962170c49c}
+      \strng{authornamehash}{d8a919f02189502180c896962170c49c}
+      \strng{authorfullhash}{d8a919f02189502180c896962170c49c}
+      \strng{editorbibnamehash}{9ddfc1a109ed3da10fe9984c322aa94d}
+      \strng{editornamehash}{9ddfc1a109ed3da10fe9984c322aa94d}
+      \strng{editorfullhash}{9ddfc1a109ed3da10fe9984c322aa94d}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the 24th Annual Conference of the Cognitive Science Society}}
+      \field{title}{Commonalities and distinctions in featural stimulus representations.}
+      \field{volume}{24}
+      \field{year}{2002}
+      \field{pages}{685\bibrangedash 690}
+      \range{pages}{6}
+    \endentry
+    \entry{NavarroLee2004}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=6ef053006f709ba77e04b9d5e076de13}{%
+           family={Navarro},
+           familyi={N\bibinitperiod},
+           given={Daniel\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=91ab7a2784068d173b5cc9ebb675b130}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Michael\bibnamedelima D},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d8a919f02189502180c896962170c49c}
+      \strng{fullhash}{d8a919f02189502180c896962170c49c}
+      \strng{bibnamehash}{d8a919f02189502180c896962170c49c}
+      \strng{authorbibnamehash}{d8a919f02189502180c896962170c49c}
+      \strng{authornamehash}{d8a919f02189502180c896962170c49c}
+      \strng{authorfullhash}{d8a919f02189502180c896962170c49c}
+      \field{extraname}{2}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychonomic Bulletin \& Review}
+      \field{title}{Common and distinctive features in stimulus similarity: A modified version of the contrast model}
+      \field{volume}{11}
+      \field{year}{2004}
+      \field{pages}{961\bibrangedash 974}
+      \range{pages}{14}
+    \endentry
+    \entry{Nelson2004}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=c7ecd6198187ecfb2b06fa78a6f5389d}{%
+           family={Nelson},
+           familyi={N\bibinitperiod},
+           given={Douglas\bibnamedelima L},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a95bea864495e6db4dc0b333b07bc2e0}{%
+           family={McEvoy},
+           familyi={M\bibinitperiod},
+           given={Cathy\bibnamedelima L},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e5267fb5f7ac8afbf41da140a3c23656}{%
+           family={Schreiber},
+           familyi={S\bibinitperiod},
+           given={Thomas\bibnamedelima A},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e5fc43de47bb755457d8605b1e0baaa9}
+      \strng{fullhash}{7fbdc0662cba9aeebf1f2f0fe805253c}
+      \strng{bibnamehash}{7fbdc0662cba9aeebf1f2f0fe805253c}
+      \strng{authorbibnamehash}{7fbdc0662cba9aeebf1f2f0fe805253c}
+      \strng{authornamehash}{e5fc43de47bb755457d8605b1e0baaa9}
+      \strng{authorfullhash}{7fbdc0662cba9aeebf1f2f0fe805253c}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Preexisting word knowledge is accessed in many cognitive tasks, and this article offers a means for indexing this knowledge so that it can be manipulated or controlled. We offer free association data for 72,000 word pairs, along with over a million entries of related data, such as forward and backward strength, number of competing associates, and printed frequency. A separate file contains the 5,019 normed words, their statistics, and thousands of independently normed rhyme, stem, and fragment cues. Other files provide n x n associative networks for more than 4,000 words and a list of idiosyncratic responses for each normed word. The database will be useful for investigators interested in cuing, priming, recognition, network theory, linguistics, and implicit testing applications. They also will be useful for evaluating the predictive value of free association probabilities as compared with other measures, such as similarity ratings and co-occurrence norms. Of several procedures for measuring preexisting strength between two words, the best remains to be determined. The norms may be downloaded from www.psychonomic.org/archive/.}
+      \field{journaltitle}{Behavior Research Methods, Instruments, and Computers}
+      \field{title}{The {U}niversity of {S}outh {F}lorida free association, rhyme, and word fragment norms.}
+      \field{volume}{36}
+      \field{year}{2004}
+      \field{pages}{402\bibrangedash 407}
+      \range{pages}{6}
+      \keyw{Free Association; Humans; Linguistics; Periodicity; Reference Values; Research Support,U.S. Gov't,P.H.S.; Vocabulary}
+    \endentry
+    \entry{Newman2010}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=214f45e2823b5430ca6f11c0fb3b6552}{%
+           family={Newman},
+           familyi={N\bibinitperiod},
+           given={Mark\bibnamedelimb E.\bibnamedelimi J.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press, Inc.}%
+      }
+      \strng{namehash}{214f45e2823b5430ca6f11c0fb3b6552}
+      \strng{fullhash}{214f45e2823b5430ca6f11c0fb3b6552}
+      \strng{bibnamehash}{214f45e2823b5430ca6f11c0fb3b6552}
+      \strng{authorbibnamehash}{214f45e2823b5430ca6f11c0fb3b6552}
+      \strng{authornamehash}{214f45e2823b5430ca6f11c0fb3b6552}
+      \strng{authorfullhash}{214f45e2823b5430ca6f11c0fb3b6552}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Networks: An Introduction}
+      \field{year}{2010}
+    \endentry
+    \entry{Osherson1990}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=f99590dced755e815bd780715e0244a7}{%
+           family={Osherson},
+           familyi={O\bibinitperiod},
+           given={D.\bibnamedelimi N.},
+           giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3dd77743272c0b714c2020c0bfa79bb2}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={E.\bibnamedelimi E.},
+           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d4c55c5c527682f9913eca9d6b86b2c9}{%
+           family={Wilkie},
+           familyi={W\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bf970fe83a4cee2bb22e706c44e1fc75}{%
+           family={Lopez},
+           familyi={L\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9b30eb66fea2111c27efeea6e4aad871}{%
+           family={Shafir},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fc87bcd98c782bcf53cf640639967432}
+      \strng{fullhash}{f17c1d63ab908a1f645c6285481dbf40}
+      \strng{bibnamehash}{f17c1d63ab908a1f645c6285481dbf40}
+      \strng{authorbibnamehash}{f17c1d63ab908a1f645c6285481dbf40}
+      \strng{authornamehash}{fc87bcd98c782bcf53cf640639967432}
+      \strng{authorfullhash}{f17c1d63ab908a1f645c6285481dbf40}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{title}{Category-based induction}
+      \field{volume}{97}
+      \field{year}{1990}
+      \field{pages}{185\bibrangedash 200}
+      \range{pages}{16}
+    \endentry
+    \entry{Page1998}{report}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=7ddfb5dccb95d01018c3b0724ae93a06}{%
+           family={Page},
+           familyi={P\bibinitperiod},
+           given={Larry},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ade8269d287e9c1531e4a1cbad0b4b82}{%
+           family={Brin},
+           familyi={B\bibinitperiod},
+           given={Sergey},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d93ed05c20a17026af7b493364ce2a31}{%
+           family={Motwani},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=80f92bcc8ea9e91e74b4da879f8d4c81}{%
+           family={Winograd},
+           familyi={W\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Computer Science Department, Stanford University}%
+      }
+      \strng{namehash}{0f9de4af302478f83d2bf57278b293d7}
+      \strng{fullhash}{cd6bf910aada562a488374fa92180729}
+      \strng{bibnamehash}{cd6bf910aada562a488374fa92180729}
+      \strng{authorbibnamehash}{cd6bf910aada562a488374fa92180729}
+      \strng{authornamehash}{0f9de4af302478f83d2bf57278b293d7}
+      \strng{authorfullhash}{cd6bf910aada562a488374fa92180729}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{The PageRank citation ranking: Bringing order to the web.}}
+      \field{type}{techreport}
+      \field{year}{1998}
+    \endentry
+    \entry{Pomarol-Clotet2008}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=ca2fb0b142e263df7c1def5462d07c27}{%
+           family={Pomarol-Clotet},
+           familyi={P\bibinithyphendelim C\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=49625371e0f861f16dfd80ea0d85463f}{%
+           family={Oh},
+           familyi={O\bibinitperiod},
+           given={T\bibnamedelima M\bibnamedelimb S\bibnamedelima S},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6195542e26e9f189f162f20f8cb45824}{%
+           family={Laws},
+           familyi={L\bibinitperiod},
+           given={K\bibnamedelima R},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9e3cd5b11c5aad9359cc693a2a0c78f4}{%
+           family={McKenna},
+           familyi={M\bibinitperiod},
+           given={P\bibnamedelima J},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {RCP}%
+      }
+      \strng{namehash}{e3cb80950755a982d73e07a3396c4fb0}
+      \strng{fullhash}{8d7fa27236b415bc971ab3cbfa26ff3a}
+      \strng{bibnamehash}{8d7fa27236b415bc971ab3cbfa26ff3a}
+      \strng{authorbibnamehash}{8d7fa27236b415bc971ab3cbfa26ff3a}
+      \strng{authornamehash}{e3cb80950755a982d73e07a3396c4fb0}
+      \strng{authorfullhash}{8d7fa27236b415bc971ab3cbfa26ff3a}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{BACKGROUND: Increased semantic priming is an influential theory of thought disorder in schizophrenia. However, studies to date have had conflicting findings. AIMS: To investigate semantic memory in patients with schizophrenia with and without thought disorder. METHOD: Data were pooled from 36 studies comparing patients with schizophrenia and normal controls in semantic priming tasks. Data from 18 studies comparing patients with thought disorder with normal controls, and 13 studies comparing patients with and without thought disorder were also pooled. RESULTS: There was no support for altered semantic priming in schizophrenia as a whole. Increased semantic priming in patients with thought disorder was supported, but this was significant only in comparison with normal controls and not in comparison with patients without thought disorder. Stimulus onset asynchrony (SOA) and general slowing of reaction time moderated the effect size for priming in patients with thought disorder. CONCLUSIONS: Meta-analysis provides qualified support for increased semantic priming as a psychological abnormality underlying thought disorder. However, the possibility that the effect is an artefact of general slowing of reaction time in schizophrenia has not been excluded.}
+      \field{journaltitle}{{The British journal of Psychiatry: The Journal of Mental Science}}
+      \field{title}{Semantic priming in schizophrenia: systematic review and meta-analysis}
+      \field{volume}{192}
+      \field{year}{2008}
+      \field{pages}{92\bibrangedash 97}
+      \range{pages}{6}
+    \endentry
+    \entry{Ratcliff1978}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=f8f3e25ff3eca44052e7ea8417d818b2}{%
+           family={Ratcliff},
+           familyi={R\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{f8f3e25ff3eca44052e7ea8417d818b2}
+      \strng{fullhash}{f8f3e25ff3eca44052e7ea8417d818b2}
+      \strng{bibnamehash}{f8f3e25ff3eca44052e7ea8417d818b2}
+      \strng{authorbibnamehash}{f8f3e25ff3eca44052e7ea8417d818b2}
+      \strng{authornamehash}{f8f3e25ff3eca44052e7ea8417d818b2}
+      \strng{authorfullhash}{f8f3e25ff3eca44052e7ea8417d818b2}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological review}
+      \field{title}{A theory of memory retrieval.}
+      \field{volume}{85}
+      \field{year}{1978}
+      \field{pages}{59\bibrangedash 108}
+      \range{pages}{50}
+    \endentry
+    \entry{Ratcliff1994}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=f8f3e25ff3eca44052e7ea8417d818b2}{%
+           family={Ratcliff},
+           familyi={R\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c3707075a8d41c3bb0fc3d3c1c7683ad}{%
+           family={McKoon},
+           familyi={M\bibinitperiod},
+           given={Gail},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2919c23281f7274f7efe737b604f6495}
+      \strng{fullhash}{2919c23281f7274f7efe737b604f6495}
+      \strng{bibnamehash}{2919c23281f7274f7efe737b604f6495}
+      \strng{authorbibnamehash}{2919c23281f7274f7efe737b604f6495}
+      \strng{authornamehash}{2919c23281f7274f7efe737b604f6495}
+      \strng{authorfullhash}{2919c23281f7274f7efe737b604f6495}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{title}{Retrieving Information From Memory: Spreading-Activation Theories Versus Compound-Cue Theories}
+      \field{volume}{101}
+      \field{year}{1994}
+      \field{pages}{177\bibrangedash 184}
+      \range{pages}{8}
+    \endentry
+    \entry{Recchia2009}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=ef0de690cc379394c870f443833f5b38}{%
+           family={Recchia},
+           familyi={R\bibinitperiod},
+           given={Gabriel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fed962e43a201abe535a81a3c990627c}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Michael\bibnamedelima N},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{ed1c4e8481a5c8d0c40043405f6caeb8}
+      \strng{fullhash}{ed1c4e8481a5c8d0c40043405f6caeb8}
+      \strng{bibnamehash}{ed1c4e8481a5c8d0c40043405f6caeb8}
+      \strng{authorbibnamehash}{ed1c4e8481a5c8d0c40043405f6caeb8}
+      \strng{authornamehash}{ed1c4e8481a5c8d0c40043405f6caeb8}
+      \strng{authorfullhash}{ed1c4e8481a5c8d0c40043405f6caeb8}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavior Research Methods}
+      \field{title}{More data trumps smarter algorithms: Comparing pointwise mutual information with latent semantic analysis}
+      \field{volume}{41}
+      \field{year}{2009}
+      \field{pages}{647\bibrangedash 656}
+      \range{pages}{10}
+    \endentry
+    \entry{Rips1973}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=e30179e68deabcdbfc5504088ac315bd}{%
+           family={Rips},
+           familyi={R\bibinitperiod},
+           given={Lance\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dc885c18c71fc0d88712687bf3fc213e}{%
+           family={Shoben},
+           familyi={S\bibinitperiod},
+           given={E.\bibnamedelimi J.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3dd77743272c0b714c2020c0bfa79bb2}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={E.\bibnamedelimi E.},
+           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cc12a43fb01477f906006e0e169c451d}
+      \strng{fullhash}{50ccee5deaf1d16ce8fe4cd4d7224277}
+      \strng{bibnamehash}{50ccee5deaf1d16ce8fe4cd4d7224277}
+      \strng{authorbibnamehash}{50ccee5deaf1d16ce8fe4cd4d7224277}
+      \strng{authornamehash}{cc12a43fb01477f906006e0e169c451d}
+      \strng{authorfullhash}{50ccee5deaf1d16ce8fe4cd4d7224277}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Verbal Learning and Verbal Behavior}
+      \field{title}{Semantic distance and the verification of semantic relations}
+      \field{volume}{12}
+      \field{year}{1973}
+      \field{pages}{1\bibrangedash 20}
+      \range{pages}{20}
+    \endentry
+    \entry{Rosch1973}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=91984feeb55417ab480ff86cba84506e}{%
+           family={Rosch},
+           familyi={R\bibinitperiod},
+           given={Eleanor},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{91984feeb55417ab480ff86cba84506e}
+      \strng{fullhash}{91984feeb55417ab480ff86cba84506e}
+      \strng{bibnamehash}{91984feeb55417ab480ff86cba84506e}
+      \strng{authorbibnamehash}{91984feeb55417ab480ff86cba84506e}
+      \strng{authornamehash}{91984feeb55417ab480ff86cba84506e}
+      \strng{authorfullhash}{91984feeb55417ab480ff86cba84506e}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive Psychology}
+      \field{title}{Natural Categories}
+      \field{volume}{4}
+      \field{year}{1973}
+      \field{pages}{328\bibrangedash 350}
+      \range{pages}{23}
+    \endentry
+    \entry{Rosch1976a}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=91984feeb55417ab480ff86cba84506e}{%
+           family={Rosch},
+           familyi={R\bibinitperiod},
+           given={Eleanor},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b4d649648f375c863fa075adb64acf81}{%
+           family={Mervis},
+           familyi={M\bibinitperiod},
+           given={Carolyn\bibnamedelima B},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7c00f48daf81614143dad33ac16318ac}{%
+           family={Grey},
+           familyi={G\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=927a9591a81d13904e2417ff95619693}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=573305e3e6431c6a7aae2f122a13449a}{%
+           family={Boyes-Braem},
+           familyi={B\bibinithyphendelim B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dc381f556d760d81e540de896d068900}
+      \strng{fullhash}{89b7eaa3669470a351997973890b4846}
+      \strng{bibnamehash}{89b7eaa3669470a351997973890b4846}
+      \strng{authorbibnamehash}{89b7eaa3669470a351997973890b4846}
+      \strng{authornamehash}{dc381f556d760d81e540de896d068900}
+      \strng{authorfullhash}{89b7eaa3669470a351997973890b4846}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive Psychology}
+      \field{title}{Basic objects in natural categories}
+      \field{volume}{8}
+      \field{year}{1976}
+      \field{pages}{382\bibrangedash 439}
+      \range{pages}{58}
+    \endentry
+    \entry{Ross1999}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=3fbec4992bc7210d809cbbb7add8b82a}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Brian\bibnamedelima H},
+           giveni={B\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dbd62cec74e943b6947b482dc0bfb371}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Gregory\bibnamedelima L},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5adb37bcf37bdd122a9ae01d68811b29}
+      \strng{fullhash}{5adb37bcf37bdd122a9ae01d68811b29}
+      \strng{bibnamehash}{5adb37bcf37bdd122a9ae01d68811b29}
+      \strng{authorbibnamehash}{5adb37bcf37bdd122a9ae01d68811b29}
+      \strng{authornamehash}{5adb37bcf37bdd122a9ae01d68811b29}
+      \strng{authorfullhash}{5adb37bcf37bdd122a9ae01d68811b29}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive psychology}
+      \field{title}{Food for thought: Cross-classification and category organization in a complex real-world domain}
+      \field{volume}{38}
+      \field{year}{1999}
+      \field{pages}{495\bibrangedash 553}
+      \range{pages}{59}
+    \endentry
+    \entry{Santos2011}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=3ac50219fbc6148a445901efd52c6b11}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=344cb3d2cdb21896d7b8d85922a94279}{%
+           family={Chaigneau},
+           familyi={C\bibinitperiod},
+           given={S.\bibnamedelimi E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b1a041d79ef70d2859c9d627e9c891be}{%
+           family={Simmons},
+           familyi={S\bibinitperiod},
+           given={W.\bibnamedelimi K.},
+           giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1e4dfaced6138e2c5f4143d9b9c9c042}{%
+           family={Barsalou},
+           familyi={B\bibinitperiod},
+           given={L.\bibnamedelimi W.},
+           giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{90bf41eaaea1aff379740a21a3dc9389}
+      \strng{fullhash}{68ae83c5538a0a0eff88c93632e3f389}
+      \strng{bibnamehash}{68ae83c5538a0a0eff88c93632e3f389}
+      \strng{authorbibnamehash}{68ae83c5538a0a0eff88c93632e3f389}
+      \strng{authornamehash}{90bf41eaaea1aff379740a21a3dc9389}
+      \strng{authorfullhash}{68ae83c5538a0a0eff88c93632e3f389}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Property generation reflects word association and situated simulation. Language and Cognition,}
+      \field{title}{Property generation reflects word association and situated simulation.}
+      \field{volume}{3}
+      \field{year}{2011}
+      \field{pages}{83\bibrangedash 119}
+      \range{pages}{37}
+    \endentry
+    \entry{Schvaneveldt1988}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=bb3f2f4b7425cdacfa0e2602c8cebf11}{%
+           family={Schvaneveldt},
+           familyi={S\bibinitperiod},
+           given={RW},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d1d1536214c36c2ceb787813e9e8fd8d}{%
+           family={Dearholt},
+           familyi={D\bibinitperiod},
+           given={DW},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a6e1dadc0e5101579be9ea10e89adf71}{%
+           family={Durso},
+           familyi={D\bibinitperiod},
+           given={FT},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0907c44e00361c89f14c3ac7fc32838a}
+      \strng{fullhash}{61848e17c0d44947bbcc5f8a39602d93}
+      \strng{bibnamehash}{61848e17c0d44947bbcc5f8a39602d93}
+      \strng{authorbibnamehash}{61848e17c0d44947bbcc5f8a39602d93}
+      \strng{authornamehash}{0907c44e00361c89f14c3ac7fc32838a}
+      \strng{authorfullhash}{61848e17c0d44947bbcc5f8a39602d93}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers \& mathematics with applications}
+      \field{title}{Graph theoretic foundations of pathfinder networks}
+      \field{volume}{15}
+      \field{year}{1988}
+      \field{pages}{337\bibrangedash 345}
+      \range{pages}{9}
+    \endentry
+    \entry{SharpCole1979}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=34f3d4ab846fb77d051dd6d6bad45730}{%
+           family={Sharp},
+           familyi={S\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ea60a212c22a0d36fa7c259d1b4b52d0}{%
+           family={Cole},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=24a8294facfe39d95275b4d973afc495}{%
+           family={Lave},
+           familyi={L\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a3758035462eab074bb117e8d03d938c}{%
+           family={Ginsburg},
+           familyi={G\bibinitperiod},
+           given={Herbert\bibnamedelima P},
+           giveni={H\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d909b4d5cfca8d1fe1dc01fbe0fbf1c8}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Ann\bibnamedelima L},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8c86180cbc2be5ae5923e65b9ac5f904}{%
+           family={French},
+           familyi={F\bibinitperiod},
+           given={Lucia\bibnamedelima A},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{c8bad74e8b7f9d43bca2a4159f2d393d}
+      \strng{fullhash}{a99c3a954c718b1cf416cca9fed92366}
+      \strng{bibnamehash}{a99c3a954c718b1cf416cca9fed92366}
+      \strng{authorbibnamehash}{a99c3a954c718b1cf416cca9fed92366}
+      \strng{authornamehash}{c8bad74e8b7f9d43bca2a4159f2d393d}
+      \strng{authorfullhash}{a99c3a954c718b1cf416cca9fed92366}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Monographs of the society for research in child development}
+      \field{title}{Education and cognitive development: The evidence from experimental research}
+      \field{year}{1979}
+      \field{pages}{1\bibrangedash 112}
+      \range{pages}{112}
+    \endentry
+    \entry{Shepard1987}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=9786b5b7c1d8a245ba87622ba6522f1e}{%
+           family={Shepard},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi N.},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9786b5b7c1d8a245ba87622ba6522f1e}
+      \strng{fullhash}{9786b5b7c1d8a245ba87622ba6522f1e}
+      \strng{bibnamehash}{9786b5b7c1d8a245ba87622ba6522f1e}
+      \strng{authorbibnamehash}{9786b5b7c1d8a245ba87622ba6522f1e}
+      \strng{authornamehash}{9786b5b7c1d8a245ba87622ba6522f1e}
+      \strng{authorfullhash}{9786b5b7c1d8a245ba87622ba6522f1e}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{title}{Towards a universal law of generalization for psychological science}
+      \field{volume}{237}
+      \field{year}{1987}
+      \field{pages}{1317\bibrangedash 1323}
+      \range{pages}{7}
+    \endentry
+    \entry{Sloman1998b}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=fd449e36d7fd52e79d59f31dca484693}{%
+           family={Sloman},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=25187212ed0c3e9ff80f24c06872dc4a}{%
+           family={Love},
+           familyi={L\bibinitperiod},
+           given={B.\bibnamedelimi C.},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=20cdae14277110f418e922135a24e41b}{%
+           family={Ahn},
+           familyi={A\bibinitperiod},
+           given={W.\bibnamedelimi K.},
+           giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1bc7454ec9dbf03580f24e4f52535ccb}
+      \strng{fullhash}{373a0a1a73a0bf572528a952fc048ce6}
+      \strng{bibnamehash}{373a0a1a73a0bf572528a952fc048ce6}
+      \strng{authorbibnamehash}{373a0a1a73a0bf572528a952fc048ce6}
+      \strng{authornamehash}{1bc7454ec9dbf03580f24e4f52535ccb}
+      \strng{authorfullhash}{373a0a1a73a0bf572528a952fc048ce6}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive Science}
+      \field{title}{Feature centrality and conceptual coherence}
+      \field{volume}{22}
+      \field{year}{1998}
+      \field{pages}{189\bibrangedash 228}
+      \range{pages}{40}
+    \endentry
+    \entry{Steiger1980}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=73f83cdb4b003ae66f2e533d0e8250ac}{%
+           family={Steiger},
+           familyi={S\bibinitperiod},
+           given={James\bibnamedelima H},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{73f83cdb4b003ae66f2e533d0e8250ac}
+      \strng{fullhash}{73f83cdb4b003ae66f2e533d0e8250ac}
+      \strng{bibnamehash}{73f83cdb4b003ae66f2e533d0e8250ac}
+      \strng{authorbibnamehash}{73f83cdb4b003ae66f2e533d0e8250ac}
+      \strng{authornamehash}{73f83cdb4b003ae66f2e533d0e8250ac}
+      \strng{authorfullhash}{73f83cdb4b003ae66f2e533d0e8250ac}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological bulletin}
+      \field{number}{2}
+      \field{title}{Tests for comparing elements of a correlation matrix.}
+      \field{volume}{87}
+      \field{year}{1980}
+      \field{pages}{245\bibrangedash 251}
+      \range{pages}{7}
+    \endentry
+    \entry{Steyvers2004}{incollection}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=c099fca1ed23ade050824a949053db93}{%
+           family={Steyvers},
+           familyi={S\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6fd25abe5ac4cb8cc5aeb7d01ebdffd3}{%
+           family={Shiffrin},
+           familyi={S\bibinitperiod},
+           given={Richard\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c7ecd6198187ecfb2b06fa78a6f5389d}{%
+           family={Nelson},
+           familyi={N\bibinitperiod},
+           given={Douglas\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=b8f3c111e88bedf978c0dde3c7c22975}{%
+           family={Healy},
+           familyi={H\bibinitperiod},
+           given={A.\bibnamedelimi F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{8ed41f4a2f83185745b374539e05a36a}
+      \strng{fullhash}{45e6aed790a83fce689bc66f131e52bd}
+      \strng{bibnamehash}{45e6aed790a83fce689bc66f131e52bd}
+      \strng{authorbibnamehash}{45e6aed790a83fce689bc66f131e52bd}
+      \strng{authornamehash}{8ed41f4a2f83185745b374539e05a36a}
+      \strng{authorfullhash}{45e6aed790a83fce689bc66f131e52bd}
+      \strng{editorbibnamehash}{b8f3c111e88bedf978c0dde3c7c22975}
+      \strng{editornamehash}{b8f3c111e88bedf978c0dde3c7c22975}
+      \strng{editorfullhash}{b8f3c111e88bedf978c0dde3c7c22975}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Experimental {C}ognitive {P}sychology and its {A}pplications}
+      \field{title}{Word association Spaces for Predicting Semantic Similarity Effects in Episodic Memory.}
+      \field{year}{2004}
+    \endentry
+    \entry{Steyvers2005}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=c099fca1ed23ade050824a949053db93}{%
+           family={Steyvers},
+           familyi={S\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5c7ff02e1f8b4c4aa7bfddece14f23d2}{%
+           family={Tenenbaum},
+           familyi={T\bibinitperiod},
+           given={Joshua\bibnamedelima B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{39b492ab6a6def51139646da85988aba}
+      \strng{fullhash}{39b492ab6a6def51139646da85988aba}
+      \strng{bibnamehash}{39b492ab6a6def51139646da85988aba}
+      \strng{authorbibnamehash}{39b492ab6a6def51139646da85988aba}
+      \strng{authornamehash}{39b492ab6a6def51139646da85988aba}
+      \strng{authorfullhash}{39b492ab6a6def51139646da85988aba}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive Science}
+      \field{title}{The {L}arge-{S}cale {S}tructure of {S}emantic {N}etworks: {S}tatistical {A}nalyses and a {M}odel of {S}emantic {G}rowth}
+      \field{volume}{29}
+      \field{year}{2005}
+      \field{pages}{41\bibrangedash 78}
+      \range{pages}{38}
+    \endentry
+    \entry{Storms2003}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=8b38c7efc391f7a30d81f916cc49d8d8}{%
+           family={Storms},
+           familyi={S\bibinitperiod},
+           given={Gert},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9efd180cd0de4df30f1315caef7b7c87}{%
+           family={Dirikx},
+           familyi={D\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ce2a4eed66a98304008dbac3f83a2ab3}{%
+           family={Saerens},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=398e7fe975be86ee99d5cc65f8e166ae}{%
+           family={Verstraeten},
+           familyi={V\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5bb2a788cca37fa08042591bb26df87b}{%
+           family={{De{\,}Deyn}},
+           familyi={D\bibinitperiod},
+           given={P.\bibnamedelimi P.},
+           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{30e837aa260f5014b0cc963ddcf7ddf0}
+      \strng{fullhash}{9029be9c52f4aaba9b19fc5c648a893c}
+      \strng{bibnamehash}{9029be9c52f4aaba9b19fc5c648a893c}
+      \strng{authorbibnamehash}{9029be9c52f4aaba9b19fc5c648a893c}
+      \strng{authornamehash}{30e837aa260f5014b0cc963ddcf7ddf0}
+      \strng{authorfullhash}{9029be9c52f4aaba9b19fc5c648a893c}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neuropsychology}
+      \field{title}{On the use of scaling and clustering in the study of semantic disruptions}
+      \field{volume}{17}
+      \field{year}{2003}
+      \field{pages}{289\bibrangedash 301}
+      \range{pages}{13}
+    \endentry
+    \entry{Szalay1978}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=336f8cd4390ce6f790c325eb87360d91}{%
+           family={Szalay},
+           familyi={S\bibinitperiod},
+           given={Lorand\bibnamedelima B},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0ae1ed16427e18c0338b9a91827e419e}{%
+           family={Deese},
+           familyi={D\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Lawrence Erlbaum Hillsdale, NJ}%
+      }
+      \strng{namehash}{a4c1e59f6d6ecc801236df930ef6237b}
+      \strng{fullhash}{a4c1e59f6d6ecc801236df930ef6237b}
+      \strng{bibnamehash}{a4c1e59f6d6ecc801236df930ef6237b}
+      \strng{authorbibnamehash}{a4c1e59f6d6ecc801236df930ef6237b}
+      \strng{authornamehash}{a4c1e59f6d6ecc801236df930ef6237b}
+      \strng{authorfullhash}{a4c1e59f6d6ecc801236df930ef6237b}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Subjective meaning and culture: An assessment through word associations}
+      \field{year}{1978}
+    \endentry
+    \entry{Tallent2001}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=46c18447f28646e2f15db61e00a5a630}{%
+           family={Tallent},
+           familyi={T\bibinitperiod},
+           given={Kathleen\bibnamedelima A},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=28439d935f93e490e1e3d0b4c174541f}{%
+           family={Weinberger},
+           familyi={W\bibinitperiod},
+           given={Daniel\bibnamedelima R},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c2beb71da83a0cec8273f9f4dd3f7b93}{%
+           family={Goldberg},
+           familyi={G\bibinitperiod},
+           given={Terry\bibnamedelima E},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{44d65ba2830c4a3cc50d64542de9eed8}
+      \strng{fullhash}{b17e0e344551ad2b039fad0d7a29a63b}
+      \strng{bibnamehash}{b17e0e344551ad2b039fad0d7a29a63b}
+      \strng{authorbibnamehash}{b17e0e344551ad2b039fad0d7a29a63b}
+      \strng{authornamehash}{44d65ba2830c4a3cc50d64542de9eed8}
+      \strng{authorfullhash}{b17e0e344551ad2b039fad0d7a29a63b}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Clinical and Experimental Neuropsychology}
+      \field{title}{Associating semantic space abnormalities with formal thought disorder in schizophrenia: use of triadic comparisons}
+      \field{volume}{23}
+      \field{year}{2001}
+      \field{pages}{285\bibrangedash 296}
+      \range{pages}{12}
+    \endentry
+    \entry{Thompson-Schill1998}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=e8f8566b34b4e5c50676d07173b183e9}{%
+           family={Thompson-Schill},
+           familyi={T\bibinithyphendelim S\bibinitperiod},
+           given={Sharon\bibnamedelima L},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=30b7eb0704688319b2b8c270f89703ae}{%
+           family={Kurtz},
+           familyi={K\bibinitperiod},
+           given={Kenneth\bibnamedelima J},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=910e6d984405ae048e076743910fd969}{%
+           family={Gabrieli},
+           familyi={G\bibinitperiod},
+           given={John\bibnamedelimb D\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1d15f196ea47e46f9b0852b3198e59fa}
+      \strng{fullhash}{5056fce828c91456c7132ded4fa70066}
+      \strng{bibnamehash}{5056fce828c91456c7132ded4fa70066}
+      \strng{authorbibnamehash}{5056fce828c91456c7132ded4fa70066}
+      \strng{authornamehash}{1d15f196ea47e46f9b0852b3198e59fa}
+      \strng{authorfullhash}{5056fce828c91456c7132ded4fa70066}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Models of automatic priming of word identification can be divided into those based on associative relations (e.g., spreading activation) and others based on semantic similarity (e.g., distributed models). In three experiments, associative relatedness was manipulated by presenting asymmetrically associated word pairs in both their forward and backward directions. Priming was comparable in both directions for semantically related pairs. Furthermore, priming was not obtained in either direction when pairs were associated but not semantically similar. The absence of inhibition, practice, and nonword ratio effects suggested that priming was not the result of nonsemantic, controlled processes. These results indicate that semantic similarity, and not associative relatedness, is both necessary and sufficient to produce automatic priming.}
+      \field{journaltitle}{Journal of memory and language}
+      \field{title}{Effects of Semantic and Associative Relatedness on Automatic Priming}
+      \field{volume}{38}
+      \field{year}{1998}
+      \field{pages}{440\bibrangedash 458}
+      \range{pages}{19}
+    \endentry
+    \entry{TownsendNozawa1995}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=842a80904b85b01f55860cbcb1cc0aec}{%
+           family={Townsend},
+           familyi={T\bibinitperiod},
+           given={James\bibnamedelima T},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=635453243c43857968d6e6e481a64105}{%
+           family={Nozawa},
+           familyi={N\bibinitperiod},
+           given={Georgie},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{dfe22e6a64a45bdefc71a4ab206c9dfa}
+      \strng{fullhash}{dfe22e6a64a45bdefc71a4ab206c9dfa}
+      \strng{bibnamehash}{dfe22e6a64a45bdefc71a4ab206c9dfa}
+      \strng{authorbibnamehash}{dfe22e6a64a45bdefc71a4ab206c9dfa}
+      \strng{authornamehash}{dfe22e6a64a45bdefc71a4ab206c9dfa}
+      \strng{authorfullhash}{dfe22e6a64a45bdefc71a4ab206c9dfa}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{number}{4}
+      \field{title}{Spatio-temporal properties of elementary perception: An investigation of parallel, serial, and coactive theories}
+      \field{volume}{39}
+      \field{year}{1995}
+      \field{pages}{321\bibrangedash 359}
+      \range{pages}{39}
+    \endentry
+    \entry{Tversky1977}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=a349865aebf1e8bcdeecbe70b2ed03b7}{%
+           family={Tversky},
+           familyi={T\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a349865aebf1e8bcdeecbe70b2ed03b7}
+      \strng{fullhash}{a349865aebf1e8bcdeecbe70b2ed03b7}
+      \strng{bibnamehash}{a349865aebf1e8bcdeecbe70b2ed03b7}
+      \strng{authorbibnamehash}{a349865aebf1e8bcdeecbe70b2ed03b7}
+      \strng{authornamehash}{a349865aebf1e8bcdeecbe70b2ed03b7}
+      \strng{authorfullhash}{a349865aebf1e8bcdeecbe70b2ed03b7}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{title}{Features of similarity}
+      \field{volume}{84}
+      \field{year}{1977}
+      \field{pages}{327\bibrangedash 352}
+      \range{pages}{26}
+    \endentry
+    \entry{Tversky1973}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=a349865aebf1e8bcdeecbe70b2ed03b7}{%
+           family={Tversky},
+           familyi={T\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=90cdea5582a22a9fcc5c0fc0f6a66705}{%
+           family={Kahneman},
+           familyi={K\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{970825844438ed0a637ee09d984dbab0}
+      \strng{fullhash}{970825844438ed0a637ee09d984dbab0}
+      \strng{bibnamehash}{970825844438ed0a637ee09d984dbab0}
+      \strng{authorbibnamehash}{970825844438ed0a637ee09d984dbab0}
+      \strng{authornamehash}{970825844438ed0a637ee09d984dbab0}
+      \strng{authorfullhash}{970825844438ed0a637ee09d984dbab0}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive Psychology}
+      \field{title}{Availability: {A} heuristic for judging frequency and probability}
+      \field{volume}{5}
+      \field{year}{1973}
+      \field{pages}{207\bibrangedash 232}
+      \range{pages}{26}
+    \endentry
+    \entry{Vitevitch2008}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c22d7b31eb49f6eeccf905ab27e1b1c9}{%
+           family={Vitevitch},
+           familyi={V\bibinitperiod},
+           given={Michael\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ASHA}%
+      }
+      \strng{namehash}{c22d7b31eb49f6eeccf905ab27e1b1c9}
+      \strng{fullhash}{c22d7b31eb49f6eeccf905ab27e1b1c9}
+      \strng{bibnamehash}{c22d7b31eb49f6eeccf905ab27e1b1c9}
+      \strng{authorbibnamehash}{c22d7b31eb49f6eeccf905ab27e1b1c9}
+      \strng{authornamehash}{c22d7b31eb49f6eeccf905ab27e1b1c9}
+      \strng{authorfullhash}{c22d7b31eb49f6eeccf905ab27e1b1c9}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Speech, Language, and Hearing Research}
+      \field{title}{What can graph theory tell us about word learning and lexical retrieval?}
+      \field{volume}{51}
+      \field{year}{2008}
+      \field{pages}{408\bibrangedash 422}
+      \range{pages}{15}
+    \endentry
+    \entry{Vossen2013}{inbook}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,uniquepart=base,hash=4f1df86ebae742662616e726096e2af7}{%
+           family={Vossen},
+           familyi={V\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4558043f754adbd577a77ed9fb6c8ab5}{%
+           family={Maks},
+           familyi={M\bibinitperiod},
+           given={I},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e6d7e133ccbf4b9c0e8c1531dffe70b1}{%
+           family={Segers},
+           familyi={S\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7b9b0b40e1fd2afc6fdb2f5759ad3d75}{%
+           family={{van der Vliet}},
+           familyi={v\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ec47bb1ea762d7e3de9b13871b0533d4}{%
+           family={Moens},
+           familyi={M\bibinitperiod},
+           given={M-F},
+           giveni={M\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a1d94446d37bdf439240e21def009f2d}{%
+           family={Hofmann},
+           familyi={H\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=18bd0d5f02d1d262efcc1c2c70fefd66}{%
+           family={{Tjong Kim Sang}},
+           familyi={T\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=653033336ee00b13a08a51f530205384}{%
+           family={{de Rijke}},
+           familyi={d\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=ef05c243b9b826685d985cfc5eeddd43}{%
+           family={Spyns},
+           familyi={S\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=663e887ebca3a6dfcd35d2bbf8163b42}{%
+           family={Odijk},
+           familyi={O\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{9416645d6b3113777a1b17264b950db6}
+      \strng{fullhash}{918ed733f3a0ac5590ecc03404ba11e5}
+      \strng{bibnamehash}{e9b567eec3f28b1b84fda8a2380c7ceb}
+      \strng{authorbibnamehash}{e9b567eec3f28b1b84fda8a2380c7ceb}
+      \strng{authornamehash}{9416645d6b3113777a1b17264b950db6}
+      \strng{authorfullhash}{918ed733f3a0ac5590ecc03404ba11e5}
+      \strng{editorbibnamehash}{93ae8ea0353117f8f53012c720bfd844}
+      \strng{editornamehash}{93ae8ea0353117f8f53012c720bfd844}
+      \strng{editorfullhash}{93ae8ea0353117f8f53012c720bfd844}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{{Cornetto: a Combinatorial Lexical Semantic Database for Dutch.}}
+      \field{title}{{Essential Speech and Language Technology for Dutch. Results by the STEVIN-programme. Series: Theory and Applications of Natural Language Processing}}
+      \field{year}{2013}
+    \endentry
+    \entry{WiemerHastingsXu2003}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=f78d5eeab915979505dc68eff75a7a63}{%
+           family={Wiemer-Hastings},
+           familyi={W\bibinithyphendelim H\bibinitperiod},
+           given={Katja},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=969fd1158d2138fb1cf939d32f447be6}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Xu},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=16388111ecada5976af0e4b44536370f}{%
+           family={Alterman},
+           familyi={A\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=921cfedbe2d64b85410226a8be53dca6}{%
+           family={Kirsh},
+           familyi={K\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston, Massachusetts, USA}%
+      }
+      \list{publisher}{1}{%
+        {Cognitive Science Society}%
+      }
+      \strng{namehash}{380b43c306ef3cef46dbe4916af84487}
+      \strng{fullhash}{380b43c306ef3cef46dbe4916af84487}
+      \strng{bibnamehash}{380b43c306ef3cef46dbe4916af84487}
+      \strng{authorbibnamehash}{380b43c306ef3cef46dbe4916af84487}
+      \strng{authornamehash}{380b43c306ef3cef46dbe4916af84487}
+      \strng{authorfullhash}{380b43c306ef3cef46dbe4916af84487}
+      \strng{editorbibnamehash}{cefb18c9b69c2beee5ec636d20454f3e}
+      \strng{editornamehash}{cefb18c9b69c2beee5ec636d20454f3e}
+      \strng{editorfullhash}{cefb18c9b69c2beee5ec636d20454f3e}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the 25th annual meeting of the Cognitive Science Society}}
+      \field{title}{Thematic integration in the similarity of abstract and concrete items}
+      \field{year}{2003}
+      \field{pages}{1236\bibrangedash 1241}
+      \range{pages}{6}
+    \endentry
+    \entry{Wisniewski1999}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=e8c1e7ee00d460483e5ec737bdb43416}{%
+           family={Wisniewski},
+           familyi={W\bibinitperiod},
+           given={Edward\bibnamedelima J.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=12ca9d367959c18c4fb0e8f24440a52b}{%
+           family={Bassok},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b2e24c74fde62eda8cd2329f0437abef}
+      \strng{fullhash}{b2e24c74fde62eda8cd2329f0437abef}
+      \strng{bibnamehash}{b2e24c74fde62eda8cd2329f0437abef}
+      \strng{authorbibnamehash}{b2e24c74fde62eda8cd2329f0437abef}
+      \strng{authornamehash}{b2e24c74fde62eda8cd2329f0437abef}
+      \strng{authorfullhash}{b2e24c74fde62eda8cd2329f0437abef}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive Psychology}
+      \field{title}{What Makes a Man Similar to a Tie?}
+      \field{volume}{39}
+      \field{year}{1999}
+      \field{pages}{208\bibrangedash 238}
+      \range{pages}{31}
+    \endentry
+    \entry{Wu2009}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=0ef6920a9fe580e9b4c16426fea62d4e}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Ling-ling},
+           giveni={L\bibinithyphendelim l\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f275c5de8dca2c54f894fa89586c6a73}{%
+           family={Barsalou},
+           familyi={B\bibinitperiod},
+           given={Lawrence\bibnamedelima W},
+           giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8ea6452d88f34b25e2cfffb76806daf9}
+      \strng{fullhash}{8ea6452d88f34b25e2cfffb76806daf9}
+      \strng{bibnamehash}{8ea6452d88f34b25e2cfffb76806daf9}
+      \strng{authorbibnamehash}{8ea6452d88f34b25e2cfffb76806daf9}
+      \strng{authornamehash}{8ea6452d88f34b25e2cfffb76806daf9}
+      \strng{authorfullhash}{8ea6452d88f34b25e2cfffb76806daf9}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Psychologica}
+      \field{title}{Grounding concepts in perceptual simulation: {Evidence} from property generation.}
+      \field{year}{2009}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
