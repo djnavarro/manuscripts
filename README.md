@@ -164,7 +164,9 @@ here as they use my correct name.
   - De Deyne, S., Navarro, D. J. and Storms, G. (2013). Better
     explanations of lexical and semantic cognition using networks
     derived from continued rather than single word associations.
-    *Behavior Research Methods, 45*, 480-498
+    *Behavior Research Methods, 45*, 480-498.
+    \[[pdf](./manuscripts/2013_swow.pdf), [source](./source/2013_swow/),
+    [doi](http://dx.doi.org/10.3758/s13428-012-0260-7)\]
 
 ## 2012
 
