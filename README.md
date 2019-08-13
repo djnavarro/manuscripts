@@ -40,7 +40,10 @@ here as they use my correct name.
   - Langsford, S., Perfors, A., Hendrickson, A., Kennedy, L. and
     Navarro, D. J. (2018). A systematic comparison and reliability
     analysis of formal measures of sentence acceptability. *Glossa: A
-    Journal of General Linguistics, 3*, 37
+    Journal of General Linguistics, 3*, 37.
+    \[[pdf](./manuscripts/2018_grammaticality.pdf),
+    [source](./source/2018_grammaticality),
+    [doi](http://doi.org/10.5334/gjgl.396)\]
   - Martire, K. A., Growns, B. and Navarro, D. J. (2018). What do the
     experts know? Calibration, precision, and the wisdom of crowds among
     forensic handwriting experts. *Psychonomic Bulletin and Review, 25*,
