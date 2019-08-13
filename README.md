@@ -202,7 +202,10 @@ here as they use my correct name.
 ## 2004
 
   - Navarro, D. J. (2004). A note on the applied use of MDL
-    approximations. *Neural Computation, 16*, 1763-1768
+    approximations. *Neural Computation, 16*, 1763-1768.
+    \[[pdf](./manuscripts/2004_mdlnote.pdf),
+    [source](./source/2004_mdlnote/),
+    [doi](http://dx.doi.org/10.1162/0899766041336378)\]
   - Navarro, D. J. and Lee, M. D. (2004). Common and distinctive
     features in stimulus representation: A modified version of the
     contrast model. *Psychonomic Bulletin and Review, 11*, 961-974

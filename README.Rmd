@@ -105,7 +105,8 @@ This is not a complete listing of all my papers. Instead it is a collection of p
 
 ## 2004
 
-- Navarro, D. J. (2004). A note on the applied use of MDL approximations. *Neural Computation, 16*, 1763-1768
+- Navarro, D. J. (2004). A note on the applied use of MDL approximations. *Neural Computation, 16*, 1763-1768.
+ [[pdf](./manuscripts/2004_mdlnote.pdf), [source](./source/2004_mdlnote/), [doi](http://dx.doi.org/10.1162/0899766041336378)]
 - Navarro, D. J. and Lee, M. D. (2004). Common and distinctive features in stimulus representation: A modified version of the contrast model. *Psychonomic Bulletin and Review, 11*, 961-974
 - Navarro, D. J., Pitt, M. A. and Myung, I. J. (2004). Assessing the distinguishability of models and the informativeness of data. *Cognitive Psychology, 49*, 47-84
 
