@@ -167,7 +167,10 @@ here as they use my correct name.
 
   - Navarro, D. J. and Griffiths, T. L. (2008). Latent features in
     similarity judgments: A nonparametric Bayesian approach. *Neural
-    Computation, 20*, 2597-2628
+    Computation, 20*, 2597-2628.
+    \[[pdf](./manuscripts/2008_ibpadclus.pdf),
+    [source](./source/2008_ibpadclus/),
+    [doi](http://dx.doi.org/10.1162/neco.2008.04-07-504)\]
 
 ## 2007
 
