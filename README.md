@@ -152,7 +152,10 @@ here as they use my correct name.
   - De Deyne, S., Voorspoels, W., Verheyen, S., Navarro, D. J. and
     Storms, G. (2014). Accounting for graded structure in adjective
     categories with valence-based opposition relationships. *Language
-    and Cognitive Processes, 29*, 568-583
+    and Cognitive Processes, 29*, 568-583.
+    \[[pdf](./manuscripts/2014_adjectives.pdf),
+    [source](./source/2014_adjectives/),
+    [doi](http://dx.doi.org/10.1080/01690965.2013.794294)\]
   - Perfors, A. and Navarro, D. J. (2014). Language evolution can be
     shaped by the structure of the world. *Cognitive Science, 38*
 
