@@ -1,0 +1,2280 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%Creator: MATLAB, The Mathworks, Inc.
+%%Title: dpgrow.eps
+%%CreationDate: 02/20/2005  16:33:03
+%%DocumentNeededFonts: Helvetica
+%%DocumentProcessColors: Cyan Magenta Yellow Black
+%%LanguageLevel: 2
+%%Pages: 1
+%%BoundingBox:    59    33   329   252
+%%EndComments
+
+%%BeginProlog
+% MathWorks dictionary
+/MathWorks 160 dict begin
+% definition operators
+/bdef {bind def} bind def
+/ldef {load def} bind def
+/xdef {exch def} bdef
+/xstore {exch store} bdef
+% operator abbreviations
+/c  /clip ldef
+/cc /concat ldef
+/cp /closepath ldef
+/gr /grestore ldef
+/gs /gsave ldef
+/mt /moveto ldef
+/np /newpath ldef
+/cm /currentmatrix ldef
+/sm /setmatrix ldef
+/rm /rmoveto ldef
+/rl /rlineto ldef
+/s {show newpath} bdef
+/sc {setcmykcolor} bdef
+/sr /setrgbcolor ldef
+/sg /setgray ldef
+/w /setlinewidth ldef
+/j /setlinejoin ldef
+/cap /setlinecap ldef
+/rc {rectclip} bdef
+/rf {rectfill} bdef
+% page state control
+/pgsv () def
+/bpage {/pgsv save def} bdef
+/epage {pgsv restore} bdef
+/bplot /gsave ldef
+/eplot {stroke grestore} bdef
+% orientation switch
+/portraitMode 0 def /landscapeMode 1 def /rotateMode 2 def
+% coordinate system mappings
+/dpi2point 0 def
+% font control
+/FontSize 0 def
+/FMS {/FontSize xstore findfont [FontSize 0 0 FontSize neg 0 0]
+  makefont setfont} bdef
+/ISOLatin1Encoding where {pop /WindowsLatin1Encoding 256 array bdef
+ISOLatin1Encoding WindowsLatin1Encoding copy pop
+/.notdef/.notdef/quotesinglbase/florin/quotedblbase/ellipsis/dagger
+/daggerdbl/circumflex/perthousand/Scaron/guilsinglleft/OE/.notdef/.notdef
+/.notdef/.notdef/quoteleft/quoteright/quotedblleft/quotedblright/bullet
+/endash/emdash/tilde/trademark/scaron/guilsinglright/oe/.notdef/.notdef
+/Ydieresis WindowsLatin1Encoding 128 32 getinterval astore pop}
+{/WindowsLatin1Encoding StandardEncoding bdef} ifelse
+/reencode {exch dup where {pop load} {pop StandardEncoding} ifelse
+  exch dup 3 1 roll findfont dup length dict begin
+  { 1 index /FID ne {def}{pop pop} ifelse } forall
+  /Encoding exch def currentdict end definefont pop} bdef
+/isroman {findfont /CharStrings get /Agrave known} bdef
+/FMSR {3 1 roll 1 index dup isroman {reencode} {pop pop} ifelse
+  exch FMS} bdef
+/csm {1 dpi2point div -1 dpi2point div scale neg translate
+ dup landscapeMode eq {pop -90 rotate}
+  {rotateMode eq {90 rotate} if} ifelse} bdef
+% line types: solid, dotted, dashed, dotdash
+/SO { [] 0 setdash } bdef
+/DO { [.5 dpi2point mul 4 dpi2point mul] 0 setdash } bdef
+/DA { [6 dpi2point mul] 0 setdash } bdef
+/DD { [.5 dpi2point mul 4 dpi2point mul 6 dpi2point mul 4
+  dpi2point mul] 0 setdash } bdef
+% macros for lines and objects
+/L {lineto stroke} bdef
+/MP {3 1 roll moveto 1 sub {rlineto} repeat} bdef
+/AP {{rlineto} repeat} bdef
+/PDlw -1 def
+/W {/PDlw currentlinewidth def setlinewidth} def
+/PP {closepath eofill} bdef
+/DP {closepath stroke} bdef
+/MR {4 -2 roll moveto dup  0 exch rlineto exch 0 rlineto
+  neg 0 exch rlineto closepath} bdef
+/FR {MR stroke} bdef
+/PR {MR fill} bdef
+/L1i {{currentfile picstr readhexstring pop} image} bdef
+/tMatrix matrix def
+/MakeOval {newpath tMatrix currentmatrix pop translate scale
+0 0 1 0 360 arc tMatrix setmatrix} bdef
+/FO {MakeOval stroke} bdef
+/PO {MakeOval fill} bdef
+/PD {currentlinewidth 2 div 0 360 arc fill
+   PDlw -1 eq not {PDlw w /PDlw -1 def} if} def
+/FA {newpath tMatrix currentmatrix pop translate scale
+  0 0 1 5 -2 roll arc tMatrix setmatrix stroke} bdef
+/PA {newpath tMatrix currentmatrix pop	translate 0 0 moveto scale
+  0 0 1 5 -2 roll arc closepath tMatrix setmatrix fill} bdef
+/FAn {newpath tMatrix currentmatrix pop translate scale
+  0 0 1 5 -2 roll arcn tMatrix setmatrix stroke} bdef
+/PAn {newpath tMatrix currentmatrix pop translate 0 0 moveto scale
+  0 0 1 5 -2 roll arcn closepath tMatrix setmatrix fill} bdef
+/vradius 0 def /hradius 0 def /lry 0 def
+/lrx 0 def /uly 0 def /ulx 0 def /rad 0 def
+/MRR {/vradius xdef /hradius xdef /lry xdef /lrx xdef /uly xdef
+  /ulx xdef newpath tMatrix currentmatrix pop ulx hradius add uly
+  vradius add translate hradius vradius scale 0 0 1 180 270 arc 
+  tMatrix setmatrix lrx hradius sub uly vradius add translate
+  hradius vradius scale 0 0 1 270 360 arc tMatrix setmatrix
+  lrx hradius sub lry vradius sub translate hradius vradius scale
+  0 0 1 0 90 arc tMatrix setmatrix ulx hradius add lry vradius sub
+  translate hradius vradius scale 0 0 1 90 180 arc tMatrix setmatrix
+  closepath} bdef
+/FRR {MRR stroke } bdef
+/PRR {MRR fill } bdef
+/MlrRR {/lry xdef /lrx xdef /uly xdef /ulx xdef /rad lry uly sub 2 div def
+  newpath tMatrix currentmatrix pop ulx rad add uly rad add translate
+  rad rad scale 0 0 1 90 270 arc tMatrix setmatrix lrx rad sub lry rad
+  sub translate rad rad scale 0 0 1 270 90 arc tMatrix setmatrix
+  closepath} bdef
+/FlrRR {MlrRR stroke } bdef
+/PlrRR {MlrRR fill } bdef
+/MtbRR {/lry xdef /lrx xdef /uly xdef /ulx xdef /rad lrx ulx sub 2 div def
+  newpath tMatrix currentmatrix pop ulx rad add uly rad add translate
+  rad rad scale 0 0 1 180 360 arc tMatrix setmatrix lrx rad sub lry rad
+  sub translate rad rad scale 0 0 1 0 180 arc tMatrix setmatrix
+  closepath} bdef
+/FtbRR {MtbRR stroke } bdef
+/PtbRR {MtbRR fill } bdef
+/stri 6 array def /dtri 6 array def
+/smat 6 array def /dmat 6 array def
+/tmat1 6 array def /tmat2 6 array def /dif 3 array def
+/asub {/ind2 exch def /ind1 exch def dup dup
+  ind1 get exch ind2 get sub exch } bdef
+/tri_to_matrix {
+  2 0 asub 3 1 asub 4 0 asub 5 1 asub
+  dup 0 get exch 1 get 7 -1 roll astore } bdef
+/compute_transform {
+  dmat dtri tri_to_matrix tmat1 invertmatrix 
+  smat stri tri_to_matrix tmat2 concatmatrix } bdef
+/ds {stri astore pop} bdef
+/dt {dtri astore pop} bdef
+/db {2 copy /cols xdef /rows xdef mul dup 3 mul string
+  currentfile 
+  3 index 0 eq {/ASCIIHexDecode filter}
+  {/ASCII85Decode filter 3 index 2 eq {/RunLengthDecode filter} if }
+  ifelse exch readstring pop
+  dup 0 3 index getinterval /rbmap xdef
+  dup 2 index dup getinterval /gbmap xdef
+  1 index dup 2 mul exch getinterval /bbmap xdef pop pop}bdef
+/it {gs np dtri aload pop moveto lineto lineto cp c
+  cols rows 8 compute_transform 
+  rbmap gbmap bbmap true 3 colorimage gr}bdef
+/il {newpath moveto lineto stroke}bdef
+currentdict end def
+%%EndProlog
+
+%%BeginSetup
+MathWorks begin
+
+0 cap
+
+end
+%%EndSetup
+
+%%Page: 1 1
+%%BeginPageSetup
+%%PageBoundingBox:    59    33   329   252
+MathWorks begin
+bpage
+%%EndPageSetup
+
+%%BeginObject: obj1
+bplot
+
+/dpi2point 12 def
+portraitMode 0336 3192 csm
+
+  382   167  3240  2629 rc
+85 dict begin %Colortable dictionary
+/c0 { 0 0 0 sr} bdef
+/c1 { 1 1 1 sr} bdef
+/c2 { 1 0 0 sr} bdef
+/c3 { 0 1 0 sr} bdef
+/c4 { 0 0 1 sr} bdef
+/c5 { 1 1 0 sr} bdef
+/c6 { 1 0 1 sr} bdef
+/c7 { 0 1 1 sr} bdef
+c0
+1 j
+1 sg
+   0    0 4090 2862 rf
+6 w
+0 2330 2912 0 0 -2330 660 2545 4 MP
+PP
+-2912 0 0 2330 2912 0 0 -2330 660 2545 5 MP stroke
+4 w
+DO
+SO
+6 w
+0 sg
+ 660  215 mt 3572  215 L
+ 660 2545 mt 3572 2545 L
+3572 2545 mt 3572  215 L
+ 660 2545 mt  660  215 L
+ 660 2545 mt 3572 2545 L
+ 660 2545 mt  660  215 L
+ 722 2545 mt  722 2516 L
+ 722  215 mt  722  244 L
+%%IncludeResource: font Helvetica
+/Helvetica /WindowsLatin1Encoding 72 FMSR
+
+ 702 2647 mt 
+(1) s
+ 838 2545 mt  838 2516 L
+ 838  215 mt  838  244 L
+ 818 2647 mt 
+(2) s
+ 954 2545 mt  954 2516 L
+ 954  215 mt  954  244 L
+ 934 2647 mt 
+(3) s
+1070 2545 mt 1070 2516 L
+1070  215 mt 1070  244 L
+1050 2647 mt 
+(4) s
+1186 2545 mt 1186 2516 L
+1186  215 mt 1186  244 L
+1166 2647 mt 
+(5) s
+1303 2545 mt 1303 2516 L
+1303  215 mt 1303  244 L
+1283 2647 mt 
+(6) s
+1419 2545 mt 1419 2516 L
+1419  215 mt 1419  244 L
+1399 2647 mt 
+(7) s
+1535 2545 mt 1535 2516 L
+1535  215 mt 1535  244 L
+1515 2647 mt 
+(8) s
+1651 2545 mt 1651 2516 L
+1651  215 mt 1651  244 L
+1631 2647 mt 
+(9) s
+1767 2545 mt 1767 2516 L
+1767  215 mt 1767  244 L
+1727 2647 mt 
+(10) s
+1884 2545 mt 1884 2516 L
+1884  215 mt 1884  244 L
+1844 2647 mt 
+(11) s
+2000 2545 mt 2000 2516 L
+2000  215 mt 2000  244 L
+1960 2647 mt 
+(12) s
+2116 2545 mt 2116 2516 L
+2116  215 mt 2116  244 L
+2076 2647 mt 
+(13) s
+2232 2545 mt 2232 2516 L
+2232  215 mt 2232  244 L
+2192 2647 mt 
+(14) s
+2348 2545 mt 2348 2516 L
+2348  215 mt 2348  244 L
+2308 2647 mt 
+(15) s
+2465 2545 mt 2465 2516 L
+2465  215 mt 2465  244 L
+2425 2647 mt 
+(16) s
+2581 2545 mt 2581 2516 L
+2581  215 mt 2581  244 L
+2541 2647 mt 
+(17) s
+2697 2545 mt 2697 2516 L
+2697  215 mt 2697  244 L
+2657 2647 mt 
+(18) s
+2813 2545 mt 2813 2516 L
+2813  215 mt 2813  244 L
+2773 2647 mt 
+(19) s
+2929 2545 mt 2929 2516 L
+2929  215 mt 2929  244 L
+2889 2647 mt 
+(20) s
+3046 2545 mt 3046 2516 L
+3046  215 mt 3046  244 L
+3006 2647 mt 
+(21) s
+3162 2545 mt 3162 2516 L
+3162  215 mt 3162  244 L
+3122 2647 mt 
+(22) s
+3278 2545 mt 3278 2516 L
+3278  215 mt 3278  244 L
+3238 2647 mt 
+(23) s
+3394 2545 mt 3394 2516 L
+3394  215 mt 3394  244 L
+3354 2647 mt 
+(24) s
+3510 2545 mt 3510 2516 L
+3510  215 mt 3510  244 L
+3470 2647 mt 
+(25) s
+ 660 2484 mt  689 2484 L
+3572 2484 mt 3543 2484 L
+ 585 2510 mt 
+(1) s
+ 660 2368 mt  689 2368 L
+3572 2368 mt 3543 2368 L
+ 585 2394 mt 
+(2) s
+ 660 2252 mt  689 2252 L
+3572 2252 mt 3543 2252 L
+ 585 2278 mt 
+(3) s
+ 660 2135 mt  689 2135 L
+3572 2135 mt 3543 2135 L
+ 585 2161 mt 
+(4) s
+ 660 2019 mt  689 2019 L
+3572 2019 mt 3543 2019 L
+ 585 2045 mt 
+(5) s
+ 660 1903 mt  689 1903 L
+3572 1903 mt 3543 1903 L
+ 585 1929 mt 
+(6) s
+ 660 1787 mt  689 1787 L
+3572 1787 mt 3543 1787 L
+ 585 1813 mt 
+(7) s
+ 660 1671 mt  689 1671 L
+3572 1671 mt 3543 1671 L
+ 585 1697 mt 
+(8) s
+ 660 1554 mt  689 1554 L
+3572 1554 mt 3543 1554 L
+ 585 1580 mt 
+(9) s
+ 660 1438 mt  689 1438 L
+3572 1438 mt 3543 1438 L
+ 545 1464 mt 
+(10) s
+ 660 1322 mt  689 1322 L
+3572 1322 mt 3543 1322 L
+ 545 1348 mt 
+(11) s
+ 660 1206 mt  689 1206 L
+3572 1206 mt 3543 1206 L
+ 545 1232 mt 
+(12) s
+ 660 1089 mt  689 1089 L
+3572 1089 mt 3543 1089 L
+ 545 1115 mt 
+(13) s
+ 660  973 mt  689  973 L
+3572  973 mt 3543  973 L
+ 545  999 mt 
+(14) s
+ 660  857 mt  689  857 L
+3572  857 mt 3543  857 L
+ 545  883 mt 
+(15) s
+ 660  741 mt  689  741 L
+3572  741 mt 3543  741 L
+ 545  767 mt 
+(16) s
+ 660  625 mt  689  625 L
+3572  625 mt 3543  625 L
+ 545  651 mt 
+(17) s
+ 660  508 mt  689  508 L
+3572  508 mt 3543  508 L
+ 545  534 mt 
+(18) s
+ 660  392 mt  689  392 L
+3572  392 mt 3543  392 L
+ 545  418 mt 
+(19) s
+ 660  276 mt  689  276 L
+3572  276 mt 3543  276 L
+ 545  302 mt 
+(20) s
+ 660  215 mt 3572  215 L
+ 660 2545 mt 3572 2545 L
+3572 2545 mt 3572  215 L
+ 660 2545 mt  660  215 L
+gs 660 215 2913 2331 rc
+0 j
+ 663 2426  117  116 rf
+1 sg
+ 663 2426  117  116 rectstroke
+1 j
+0 j
+0 sg
+ 820 2466   35   35 rf
+1 sg
+ 820 2466   35   35 rectstroke
+1 j
+0 j
+0 sg
+ 947 2477   14   14 rf
+1 sg
+ 947 2477   14   14 rectstroke
+1 j
+0 j
+0 sg
+1067 2480    7    7 rf
+1 sg
+1067 2480    7    7 rectstroke
+1 j
+0 j
+0 sg
+1185 2482    3    4 rf
+1 sg
+1185 2482    3    4 rectstroke
+1 j
+0 j
+0 sg
+1302 2483    2    2 rf
+1 sg
+1302 2483    2    2 rectstroke
+1 j
+0 j
+0 sg
+1418 2483    1    2 rf
+1 sg
+1418 2483    1    2 rectstroke
+1 j
+0 j
+0 sg
+1535 2483    0    1 rf
+1 sg
+1535 2483    0    1 rectstroke
+1 j
+0 j
+0 sg
+1651 2484    0    0 rf
+1 sg
+1651 2484    0    0 rectstroke
+1 j
+0 j
+0 sg
+1767 2484    1    0 rf
+1 sg
+1767 2484    1    0 rectstroke
+1 j
+0 j
+0 sg
+1883 2484    1    0 rf
+1 sg
+1883 2484    1    0 rectstroke
+1 j
+0 j
+0 sg
+2000 2484    0    0 rf
+1 sg
+2000 2484    0    0 rectstroke
+1 j
+0 j
+0 sg
+2116 2484    0    0 rf
+1 sg
+2116 2484    0    0 rectstroke
+1 j
+0 j
+0 sg
+2232 2484    0    0 rf
+1 sg
+2232 2484    0    0 rectstroke
+1 j
+0 j
+0 sg
+2348 2484    0    0 rf
+1 sg
+2348 2484    0    0 rectstroke
+1 j
+0 j
+0 sg
+2465 2484    0    0 rf
+1 sg
+2465 2484    0    0 rectstroke
+1 j
+0 j
+0 sg
+2581 2484    0    0 rf
+1 sg
+2581 2484    0    0 rectstroke
+1 j
+0 j
+0 sg
+2697 2484    0    0 rf
+1 sg
+2697 2484    0    0 rectstroke
+1 j
+0 j
+0 sg
+2813 2484    0    0 rf
+1 sg
+2813 2484    0    0 rectstroke
+1 j
+0 j
+0 sg
+2929 2484    0    0 rf
+1 sg
+2929 2484    0    0 rectstroke
+1 j
+0 j
+0 sg
+3046 2484    0    0 rf
+1 sg
+3046 2484    0    0 rectstroke
+1 j
+0 j
+0 sg
+3162 2484    0    0 rf
+1 sg
+3162 2484    0    0 rectstroke
+1 j
+0 j
+0 sg
+3278 2484    0    0 rf
+1 sg
+3278 2484    0    0 rectstroke
+1 j
+0 j
+0 sg
+3394 2484    0    0 rf
+1 sg
+3394 2484    0    0 rectstroke
+1 j
+0 j
+0 sg
+3510 2484    0    0 rf
+1 sg
+3510 2484    0    0 rectstroke
+1 j
+0 j
+0 sg
+ 782 2312  111  111 rf
+1 sg
+ 782 2312  111  111 rectstroke
+1 j
+0 j
+0 sg
+ 926 2340   56   55 rf
+1 sg
+ 926 2340   56   55 rectstroke
+1 j
+0 j
+0 sg
+1055 2353   30   29 rf
+1 sg
+1055 2353   30   29 rectstroke
+1 j
+0 j
+0 sg
+1178 2359   17   17 rf
+1 sg
+1178 2359   17   17 rectstroke
+1 j
+0 j
+0 sg
+1298 2363   10   10 rf
+1 sg
+1298 2363   10   10 rectstroke
+1 j
+0 j
+0 sg
+1416 2364    6    7 rf
+1 sg
+1416 2364    6    7 rectstroke
+1 j
+0 j
+0 sg
+1533 2366    4    4 rf
+1 sg
+1533 2366    4    4 rectstroke
+1 j
+0 j
+0 sg
+1650 2366    3    3 rf
+1 sg
+1650 2366    3    3 rectstroke
+1 j
+0 j
+0 sg
+1766 2367    2    2 rf
+1 sg
+1766 2367    2    2 rectstroke
+1 j
+0 j
+0 sg
+1883 2367    1    1 rf
+1 sg
+1883 2367    1    1 rectstroke
+1 j
+0 j
+0 sg
+1999 2367    1    1 rf
+1 sg
+1999 2367    1    1 rectstroke
+1 j
+0 j
+0 sg
+2116 2367    0    1 rf
+1 sg
+2116 2367    0    1 rectstroke
+1 j
+0 j
+0 sg
+2232 2367    1    1 rf
+1 sg
+2232 2367    1    1 rectstroke
+1 j
+0 j
+0 sg
+2348 2367    1    1 rf
+1 sg
+2348 2367    1    1 rectstroke
+1 j
+0 j
+0 sg
+2464 2368    1    0 rf
+1 sg
+2464 2368    1    0 rectstroke
+1 j
+0 j
+0 sg
+2581 2368    0    0 rf
+1 sg
+2581 2368    0    0 rectstroke
+1 j
+0 j
+0 sg
+2697 2368    0    0 rf
+1 sg
+2697 2368    0    0 rectstroke
+1 j
+0 j
+0 sg
+2813 2368    0    0 rf
+1 sg
+2813 2368    0    0 rectstroke
+1 j
+0 j
+0 sg
+2929 2368    0    0 rf
+1 sg
+2929 2368    0    0 rectstroke
+1 j
+0 j
+0 sg
+3046 2368    0    0 rf
+1 sg
+3046 2368    0    0 rectstroke
+1 j
+0 j
+0 sg
+3162 2368    0    0 rf
+1 sg
+3162 2368    0    0 rectstroke
+1 j
+0 j
+0 sg
+3278 2368    0    0 rf
+1 sg
+3278 2368    0    0 rectstroke
+1 j
+0 j
+0 sg
+3394 2368    0    0 rf
+1 sg
+3394 2368    0    0 rectstroke
+1 j
+0 j
+0 sg
+3510 2368    0    0 rf
+1 sg
+3510 2368    0    0 rectstroke
+1 j
+0 j
+0 sg
+ 903 2201  102  101 rf
+1 sg
+ 903 2201  102  101 rectstroke
+1 j
+0 j
+0 sg
+1036 2217   69   69 rf
+1 sg
+1036 2217   69   69 rectstroke
+1 j
+0 j
+0 sg
+1164 2229   45   45 rf
+1 sg
+1164 2229   45   45 rectstroke
+1 j
+0 j
+0 sg
+1288 2237   29   29 rf
+1 sg
+1288 2237   29   29 rectstroke
+1 j
+0 j
+0 sg
+1409 2242   20   19 rf
+1 sg
+1409 2242   20   19 rectstroke
+1 j
+0 j
+0 sg
+1528 2245   14   13 rf
+1 sg
+1528 2245   14   13 rectstroke
+1 j
+0 j
+0 sg
+1646 2247   10    9 rf
+1 sg
+1646 2247   10    9 rectstroke
+1 j
+0 j
+0 sg
+1764 2248    7    7 rf
+1 sg
+1764 2248    7    7 rectstroke
+1 j
+0 j
+0 sg
+1881 2249    5    5 rf
+1 sg
+1881 2249    5    5 rectstroke
+1 j
+0 j
+0 sg
+1998 2250    4    3 rf
+1 sg
+1998 2250    4    3 rectstroke
+1 j
+0 j
+0 sg
+2115 2250    2    3 rf
+1 sg
+2115 2250    2    3 rectstroke
+1 j
+0 j
+0 sg
+2231 2250    2    3 rf
+1 sg
+2231 2250    2    3 rectstroke
+1 j
+0 j
+0 sg
+2348 2251    1    1 rf
+1 sg
+2348 2251    1    1 rectstroke
+1 j
+0 j
+0 sg
+2464 2251    1    1 rf
+1 sg
+2464 2251    1    1 rectstroke
+1 j
+0 j
+0 sg
+2580 2251    1    1 rf
+1 sg
+2580 2251    1    1 rectstroke
+1 j
+0 j
+0 sg
+2697 2251    0    1 rf
+1 sg
+2697 2251    0    1 rectstroke
+1 j
+0 j
+0 sg
+2813 2251    1    1 rf
+1 sg
+2813 2251    1    1 rectstroke
+1 j
+0 j
+0 sg
+2929 2251    1    1 rf
+1 sg
+2929 2251    1    1 rectstroke
+1 j
+0 j
+0 sg
+3045 2251    1    1 rf
+1 sg
+3045 2251    1    1 rectstroke
+1 j
+0 j
+0 sg
+3162 2251    0    1 rf
+1 sg
+3162 2251    0    1 rectstroke
+1 j
+0 j
+0 sg
+3278 2251    0    1 rf
+1 sg
+3278 2251    0    1 rectstroke
+1 j
+0 j
+0 sg
+3394 2251    0    1 rf
+1 sg
+3394 2251    0    1 rectstroke
+1 j
+0 j
+0 sg
+3510 2251    1    1 rf
+1 sg
+3510 2251    1    1 rectstroke
+1 j
+0 j
+0 sg
+1026 2091   89   89 rf
+1 sg
+1026 2091   89   89 rectstroke
+1 j
+0 j
+0 sg
+1149 2098   75   75 rf
+1 sg
+1149 2098   75   75 rectstroke
+1 j
+0 j
+0 sg
+1274 2107   57   57 rf
+1 sg
+1274 2107   57   57 rectstroke
+1 j
+0 j
+0 sg
+1398 2115   42   41 rf
+1 sg
+1398 2115   42   41 rectstroke
+1 j
+0 j
+0 sg
+1520 2120   30   31 rf
+1 sg
+1520 2120   30   31 rectstroke
+1 j
+0 j
+0 sg
+1640 2124   23   23 rf
+1 sg
+1640 2124   23   23 rectstroke
+1 j
+0 j
+0 sg
+1759 2127   17   17 rf
+1 sg
+1759 2127   17   17 rectstroke
+1 j
+0 j
+0 sg
+1877 2129   13   13 rf
+1 sg
+1877 2129   13   13 rectstroke
+1 j
+0 j
+0 sg
+1995 2130   10   10 rf
+1 sg
+1995 2130   10   10 rectstroke
+1 j
+0 j
+0 sg
+2112 2131    8    8 rf
+1 sg
+2112 2131    8    8 rectstroke
+1 j
+0 j
+0 sg
+2229 2132    6    6 rf
+1 sg
+2229 2132    6    6 rectstroke
+1 j
+0 j
+0 sg
+2346 2133    5    5 rf
+1 sg
+2346 2133    5    5 rectstroke
+1 j
+0 j
+0 sg
+2463 2133    4    4 rf
+1 sg
+2463 2133    4    4 rectstroke
+1 j
+0 j
+0 sg
+2579 2134    3    3 rf
+1 sg
+2579 2134    3    3 rectstroke
+1 j
+0 j
+0 sg
+2696 2134    2    3 rf
+1 sg
+2696 2134    2    3 rectstroke
+1 j
+0 j
+0 sg
+2812 2134    2    2 rf
+1 sg
+2812 2134    2    2 rectstroke
+1 j
+0 j
+0 sg
+2928 2134    2    2 rf
+1 sg
+2928 2134    2    2 rectstroke
+1 j
+0 j
+0 sg
+3045 2135    1    1 rf
+1 sg
+3045 2135    1    1 rectstroke
+1 j
+0 j
+0 sg
+3161 2135    1    1 rf
+1 sg
+3161 2135    1    1 rectstroke
+1 j
+0 j
+0 sg
+3277 2135    2    1 rf
+1 sg
+3277 2135    2    1 rectstroke
+1 j
+0 j
+0 sg
+3394 2135    1    1 rf
+1 sg
+3394 2135    1    1 rectstroke
+1 j
+0 j
+0 sg
+3510 2135    1    1 rf
+1 sg
+3510 2135    1    1 rectstroke
+1 j
+0 j
+0 sg
+1149 1982   75   75 rf
+1 sg
+1149 1982   75   75 rectstroke
+1 j
+0 j
+0 sg
+1265 1982   75   75 rf
+1 sg
+1265 1982   75   75 rectstroke
+1 j
+0 j
+0 sg
+1387 1987   64   64 rf
+1 sg
+1387 1987   64   64 rectstroke
+1 j
+0 j
+0 sg
+1509 1993   52   52 rf
+1 sg
+1509 1993   52   52 rectstroke
+1 j
+0 j
+0 sg
+1630 1998   42   42 rf
+1 sg
+1630 1998   42   42 rectstroke
+1 j
+0 j
+0 sg
+1751 2003   33   33 rf
+1 sg
+1751 2003   33   33 rectstroke
+1 j
+0 j
+0 sg
+1870 2006   27   26 rf
+1 sg
+1870 2006   27   26 rectstroke
+1 j
+0 j
+0 sg
+1989 2009   21   21 rf
+1 sg
+1989 2009   21   21 rectstroke
+1 j
+0 j
+0 sg
+2108 2011   16   17 rf
+1 sg
+2108 2011   16   17 rectstroke
+1 j
+0 j
+0 sg
+2225 2012   14   14 rf
+1 sg
+2225 2012   14   14 rectstroke
+1 j
+0 j
+0 sg
+2343 2013   11   12 rf
+1 sg
+2343 2013   11   12 rectstroke
+1 j
+0 j
+0 sg
+2460 2014    9   10 rf
+1 sg
+2460 2014    9   10 rectstroke
+1 j
+0 j
+0 sg
+2577 2015    8    8 rf
+1 sg
+2577 2015    8    8 rectstroke
+1 j
+0 j
+0 sg
+2694 2016    6    6 rf
+1 sg
+2694 2016    6    6 rectstroke
+1 j
+0 j
+0 sg
+2811 2016    5    6 rf
+1 sg
+2811 2016    5    6 rectstroke
+1 j
+0 j
+0 sg
+2927 2017    5    4 rf
+1 sg
+2927 2017    5    4 rectstroke
+1 j
+0 j
+0 sg
+3044 2017    4    4 rf
+1 sg
+3044 2017    4    4 rectstroke
+1 j
+0 j
+0 sg
+3160 2017    3    4 rf
+1 sg
+3160 2017    3    4 rectstroke
+1 j
+0 j
+0 sg
+3277 2018    2    3 rf
+1 sg
+3277 2018    2    3 rectstroke
+1 j
+0 j
+0 sg
+3393 2018    2    2 rf
+1 sg
+3393 2018    2    2 rectstroke
+1 j
+0 j
+0 sg
+3509 2018    2    2 rf
+1 sg
+3509 2018    2    2 rectstroke
+1 j
+0 j
+0 sg
+1272 1872   61   62 rf
+1 sg
+1272 1872   61   62 rectstroke
+1 j
+0 j
+0 sg
+1384 1868   70   70 rf
+1 sg
+1384 1868   70   70 rectstroke
+1 j
+0 j
+0 sg
+1502 1870   66   66 rf
+1 sg
+1502 1870   66   66 rectstroke
+1 j
+0 j
+0 sg
+1622 1873   59   59 rf
+1 sg
+1622 1873   59   59 rectstroke
+1 j
+0 j
+0 sg
+1742 1878   51   50 rf
+1 sg
+1742 1878   51   50 rectstroke
+1 j
+0 j
+0 sg
+1862 1882   43   42 rf
+1 sg
+1862 1882   43   42 rectstroke
+1 j
+0 j
+0 sg
+1982 1885   36   36 rf
+1 sg
+1982 1885   36   36 rectstroke
+1 j
+0 j
+0 sg
+2101 1888   30   30 rf
+1 sg
+2101 1888   30   30 rectstroke
+1 j
+0 j
+0 sg
+2220 1890   25   25 rf
+1 sg
+2220 1890   25   25 rectstroke
+1 j
+0 j
+0 sg
+2338 1892   21   21 rf
+1 sg
+2338 1892   21   21 rectstroke
+1 j
+0 j
+0 sg
+2456 1894   18   18 rf
+1 sg
+2456 1894   18   18 rectstroke
+1 j
+0 j
+0 sg
+2573 1895   15   15 rf
+1 sg
+2573 1895   15   15 rectstroke
+1 j
+0 j
+0 sg
+2691 1896   12   13 rf
+1 sg
+2691 1896   12   13 rectstroke
+1 j
+0 j
+0 sg
+2808 1897   11   11 rf
+1 sg
+2808 1897   11   11 rectstroke
+1 j
+0 j
+0 sg
+2925 1898    9   10 rf
+1 sg
+2925 1898    9   10 rectstroke
+1 j
+0 j
+0 sg
+3042 1899    8    8 rf
+1 sg
+3042 1899    8    8 rectstroke
+1 j
+0 j
+0 sg
+3158 1899    7    7 rf
+1 sg
+3158 1899    7    7 rectstroke
+1 j
+0 j
+0 sg
+3275 1900    6    6 rf
+1 sg
+3275 1900    6    6 rectstroke
+1 j
+0 j
+0 sg
+3392 1900    5    6 rf
+1 sg
+3392 1900    5    6 rectstroke
+1 j
+0 j
+0 sg
+3508 1901    5    4 rf
+1 sg
+3508 1901    5    4 rectstroke
+1 j
+0 j
+0 sg
+1395 1763   48   48 rf
+1 sg
+1395 1763   48   48 rectstroke
+1 j
+0 j
+0 sg
+1504 1756   62   62 rf
+1 sg
+1504 1756   62   62 rectstroke
+1 j
+0 j
+0 sg
+1619 1754   65   65 rf
+1 sg
+1619 1754   65   65 rectstroke
+1 j
+0 j
+0 sg
+1737 1756   61   62 rf
+1 sg
+1737 1756   61   62 rectstroke
+1 j
+0 j
+0 sg
+1855 1759   57   56 rf
+1 sg
+1855 1759   57   56 rectstroke
+1 j
+0 j
+0 sg
+1975 1762   50   50 rf
+1 sg
+1975 1762   50   50 rectstroke
+1 j
+0 j
+0 sg
+2094 1765   44   44 rf
+1 sg
+2094 1765   44   44 rectstroke
+1 j
+0 j
+0 sg
+2213 1767   39   39 rf
+1 sg
+2213 1767   39   39 rectstroke
+1 j
+0 j
+0 sg
+2332 1770   33   34 rf
+1 sg
+2332 1770   33   34 rectstroke
+1 j
+0 j
+0 sg
+2450 1772   29   29 rf
+1 sg
+2450 1772   29   29 rectstroke
+1 j
+0 j
+0 sg
+2568 1774   26   25 rf
+1 sg
+2568 1774   26   25 rectstroke
+1 j
+0 j
+0 sg
+2686 1776   22   22 rf
+1 sg
+2686 1776   22   22 rectstroke
+1 j
+0 j
+0 sg
+2803 1777   20   19 rf
+1 sg
+2803 1777   20   19 rectstroke
+1 j
+0 j
+0 sg
+2921 1778   17   17 rf
+1 sg
+2921 1778   17   17 rectstroke
+1 j
+0 j
+0 sg
+3038 1779   15   15 rf
+1 sg
+3038 1779   15   15 rectstroke
+1 j
+0 j
+0 sg
+3155 1780   13   13 rf
+1 sg
+3155 1780   13   13 rectstroke
+1 j
+0 j
+0 sg
+3272 1781   12   11 rf
+1 sg
+3272 1781   12   11 rectstroke
+1 j
+0 j
+0 sg
+3389 1782   10   10 rf
+1 sg
+3389 1782   10   10 rectstroke
+1 j
+0 j
+0 sg
+3506 1782    9    9 rf
+1 sg
+3506 1782    9    9 rectstroke
+1 j
+0 j
+0 sg
+1516 1652   38   37 rf
+1 sg
+1516 1652   38   37 rectstroke
+1 j
+0 j
+0 sg
+1625 1644   52   53 rf
+1 sg
+1625 1644   52   53 rectstroke
+1 j
+0 j
+0 sg
+1738 1641   59   59 rf
+1 sg
+1738 1641   59   59 rectstroke
+1 j
+0 j
+0 sg
+1853 1640   61   61 rf
+1 sg
+1853 1640   61   61 rectstroke
+1 j
+0 j
+0 sg
+1971 1641   58   59 rf
+1 sg
+1971 1641   58   59 rectstroke
+1 j
+0 j
+0 sg
+2089 1643   54   55 rf
+1 sg
+2089 1643   54   55 rectstroke
+1 j
+0 j
+0 sg
+2207 1645   50   51 rf
+1 sg
+2207 1645   50   51 rectstroke
+1 j
+0 j
+0 sg
+2325 1647   46   47 rf
+1 sg
+2325 1647   46   47 rectstroke
+1 j
+0 j
+0 sg
+2444 1650   41   41 rf
+1 sg
+2444 1650   41   41 rectstroke
+1 j
+0 j
+0 sg
+2562 1652   37   37 rf
+1 sg
+2562 1652   37   37 rectstroke
+1 j
+0 j
+0 sg
+2680 1654   34   33 rf
+1 sg
+2680 1654   34   33 rectstroke
+1 j
+0 j
+0 sg
+2798 1656   30   29 rf
+1 sg
+2798 1656   30   29 rectstroke
+1 j
+0 j
+0 sg
+2916 1657   27   27 rf
+1 sg
+2916 1657   27   27 rectstroke
+1 j
+0 j
+0 sg
+3034 1659   24   23 rf
+1 sg
+3034 1659   24   23 rectstroke
+1 j
+0 j
+0 sg
+3151 1660   22   21 rf
+1 sg
+3151 1660   22   21 rectstroke
+1 j
+0 j
+0 sg
+3268 1661   20   19 rf
+1 sg
+3268 1661   20   19 rectstroke
+1 j
+0 j
+0 sg
+3386 1662   17   17 rf
+1 sg
+3386 1662   17   17 rectstroke
+1 j
+0 j
+0 sg
+3503 1663   15   15 rf
+1 sg
+3503 1663   15   15 rectstroke
+1 j
+0 j
+0 sg
+1637 1540   28   28 rf
+1 sg
+1637 1540   28   28 rectstroke
+1 j
+0 j
+0 sg
+1746 1533   43   43 rf
+1 sg
+1746 1533   43   43 rectstroke
+1 j
+0 j
+0 sg
+1858 1529   51   51 rf
+1 sg
+1858 1529   51   51 rectstroke
+1 j
+0 j
+0 sg
+1972 1526   56   56 rf
+1 sg
+1972 1526   56   56 rectstroke
+1 j
+0 j
+0 sg
+2087 1526   58   57 rf
+1 sg
+2087 1526   58   57 rectstroke
+1 j
+0 j
+0 sg
+2204 1526   56   56 rf
+1 sg
+2204 1526   56   56 rectstroke
+1 j
+0 j
+0 sg
+2321 1527   54   54 rf
+1 sg
+2321 1527   54   54 rectstroke
+1 j
+0 j
+0 sg
+2439 1529   51   51 rf
+1 sg
+2439 1529   51   51 rectstroke
+1 j
+0 j
+0 sg
+2557 1531   48   47 rf
+1 sg
+2557 1531   48   47 rectstroke
+1 j
+0 j
+0 sg
+2675 1532   44   44 rf
+1 sg
+2675 1532   44   44 rectstroke
+1 j
+0 j
+0 sg
+2793 1534   40   41 rf
+1 sg
+2793 1534   40   41 rectstroke
+1 j
+0 j
+0 sg
+2911 1536   37   37 rf
+1 sg
+2911 1536   37   37 rectstroke
+1 j
+0 j
+0 sg
+3029 1537   34   34 rf
+1 sg
+3029 1537   34   34 rectstroke
+1 j
+0 j
+0 sg
+3146 1539   31   31 rf
+1 sg
+3146 1539   31   31 rectstroke
+1 j
+0 j
+0 sg
+3264 1540   28   29 rf
+1 sg
+3264 1540   28   29 rectstroke
+1 j
+0 j
+0 sg
+3381 1541   26   26 rf
+1 sg
+3381 1541   26   26 rectstroke
+1 j
+0 j
+0 sg
+3499 1542   23   24 rf
+1 sg
+3499 1542   23   24 rectstroke
+1 j
+0 j
+0 sg
+1757 1428   20   20 rf
+1 sg
+1757 1428   20   20 rectstroke
+1 j
+0 j
+0 sg
+1867 1421   33   34 rf
+1 sg
+1867 1421   33   34 rectstroke
+1 j
+0 j
+0 sg
+1978 1417   43   43 rf
+1 sg
+1978 1417   43   43 rectstroke
+1 j
+0 j
+0 sg
+2091 1413   50   50 rf
+1 sg
+2091 1413   50   50 rectstroke
+1 j
+0 j
+0 sg
+2206 1412   53   53 rf
+1 sg
+2206 1412   53   53 rectstroke
+1 j
+0 j
+0 sg
+2321 1411   55   54 rf
+1 sg
+2321 1411   55   54 rectstroke
+1 j
+0 j
+0 sg
+2438 1411   54   54 rf
+1 sg
+2438 1411   54   54 rectstroke
+1 j
+0 j
+0 sg
+2554 1412   53   53 rf
+1 sg
+2554 1412   53   53 rectstroke
+1 j
+0 j
+0 sg
+2672 1413   51   51 rf
+1 sg
+2672 1413   51   51 rectstroke
+1 j
+0 j
+0 sg
+2789 1414   49   48 rf
+1 sg
+2789 1414   49   48 rectstroke
+1 j
+0 j
+0 sg
+2906 1415   46   46 rf
+1 sg
+2906 1415   46   46 rectstroke
+1 j
+0 j
+0 sg
+3024 1416   43   44 rf
+1 sg
+3024 1416   43   44 rectstroke
+1 j
+0 j
+0 sg
+3142 1418   40   40 rf
+1 sg
+3142 1418   40   40 rectstroke
+1 j
+0 j
+0 sg
+3259 1419   38   38 rf
+1 sg
+3259 1419   38   38 rectstroke
+1 j
+0 j
+0 sg
+3377 1420   35   36 rf
+1 sg
+3377 1420   35   36 rectstroke
+1 j
+0 j
+0 sg
+3494 1422   33   33 rf
+1 sg
+3494 1422   33   33 rectstroke
+1 j
+0 j
+0 sg
+1877 1315   14   14 rf
+1 sg
+1877 1315   14   14 rectstroke
+1 j
+0 j
+0 sg
+1987 1309   25   25 rf
+1 sg
+1987 1309   25   25 rectstroke
+1 j
+0 j
+0 sg
+2099 1305   34   34 rf
+1 sg
+2099 1305   34   34 rectstroke
+1 j
+0 j
+0 sg
+2211 1301   42   42 rf
+1 sg
+2211 1301   42   42 rectstroke
+1 j
+0 j
+0 sg
+2325 1299   47   46 rf
+1 sg
+2325 1299   47   46 rectstroke
+1 j
+0 j
+0 sg
+2440 1297   50   50 rf
+1 sg
+2440 1297   50   50 rectstroke
+1 j
+0 j
+0 sg
+2555 1296   52   52 rf
+1 sg
+2555 1296   52   52 rectstroke
+1 j
+0 j
+0 sg
+2671 1296   52   52 rf
+1 sg
+2671 1296   52   52 rectstroke
+1 j
+0 j
+0 sg
+2787 1296   52   52 rf
+1 sg
+2787 1296   52   52 rectstroke
+1 j
+0 j
+0 sg
+2904 1297   51   50 rf
+1 sg
+2904 1297   51   50 rectstroke
+1 j
+0 j
+0 sg
+3021 1297   49   49 rf
+1 sg
+3021 1297   49   49 rectstroke
+1 j
+0 j
+0 sg
+3138 1298   47   48 rf
+1 sg
+3138 1298   47   48 rectstroke
+1 j
+0 j
+0 sg
+3255 1299   46   46 rf
+1 sg
+3255 1299   46   46 rectstroke
+1 j
+0 j
+0 sg
+3373 1300   43   44 rf
+1 sg
+3373 1300   43   44 rectstroke
+1 j
+0 j
+0 sg
+3490 1301   41   41 rf
+1 sg
+3490 1301   41   41 rectstroke
+1 j
+0 j
+0 sg
+1995 1201   10   10 rf
+1 sg
+1995 1201   10   10 rectstroke
+1 j
+0 j
+0 sg
+2107 1196   18   19 rf
+1 sg
+2107 1196   18   19 rectstroke
+1 j
+0 j
+0 sg
+2219 1192   26   27 rf
+1 sg
+2219 1192   26   27 rectstroke
+1 j
+0 j
+0 sg
+2332 1189   33   34 rf
+1 sg
+2332 1189   33   34 rectstroke
+1 j
+0 j
+0 sg
+2445 1186   39   39 rf
+1 sg
+2445 1186   39   39 rectstroke
+1 j
+0 j
+0 sg
+2559 1184   44   44 rf
+1 sg
+2559 1184   44   44 rectstroke
+1 j
+0 j
+0 sg
+2674 1182   46   47 rf
+1 sg
+2674 1182   46   47 rectstroke
+1 j
+0 j
+0 sg
+2789 1181   49   49 rf
+1 sg
+2789 1181   49   49 rectstroke
+1 j
+0 j
+0 sg
+2905 1181   49   50 rf
+1 sg
+2905 1181   49   50 rectstroke
+1 j
+0 j
+0 sg
+3021 1181   50   50 rf
+1 sg
+3021 1181   50   50 rectstroke
+1 j
+0 j
+0 sg
+3137 1181   50   50 rf
+1 sg
+3137 1181   50   50 rectstroke
+1 j
+0 j
+0 sg
+3254 1181   49   49 rf
+1 sg
+3254 1181   49   49 rectstroke
+1 j
+0 j
+0 sg
+3370 1182   48   48 rf
+1 sg
+3370 1182   48   48 rectstroke
+1 j
+0 j
+0 sg
+3487 1182   47   47 rf
+1 sg
+3487 1182   47   47 rectstroke
+1 j
+0 j
+0 sg
+2113 1086    6    7 rf
+1 sg
+2113 1086    6    7 rectstroke
+1 j
+0 j
+0 sg
+2226 1083   13   13 rf
+1 sg
+2226 1083   13   13 rectstroke
+1 j
+0 j
+0 sg
+2338 1080   20   19 rf
+1 sg
+2338 1080   20   19 rectstroke
+1 j
+0 j
+0 sg
+2451 1076   27   27 rf
+1 sg
+2451 1076   27   27 rectstroke
+1 j
+0 j
+0 sg
+2565 1074   32   31 rf
+1 sg
+2565 1074   32   31 rectstroke
+1 j
+0 j
+0 sg
+2679 1071   36   37 rf
+1 sg
+2679 1071   36   37 rectstroke
+1 j
+0 j
+0 sg
+2793 1069   40   41 rf
+1 sg
+2793 1069   40   41 rectstroke
+1 j
+0 j
+0 sg
+2908 1068   43   43 rf
+1 sg
+2908 1068   43   43 rectstroke
+1 j
+0 j
+0 sg
+3023 1067   45   45 rf
+1 sg
+3023 1067   45   45 rectstroke
+1 j
+0 j
+0 sg
+3138 1066   47   47 rf
+1 sg
+3138 1066   47   47 rectstroke
+1 j
+0 j
+0 sg
+3254 1066   48   47 rf
+1 sg
+3254 1066   48   47 rectstroke
+1 j
+0 j
+0 sg
+3370 1065   48   49 rf
+1 sg
+3370 1065   48   49 rectstroke
+1 j
+0 j
+0 sg
+3486 1065   49   49 rf
+1 sg
+3486 1065   49   49 rectstroke
+1 j
+0 j
+0 sg
+2230  971    4    4 rf
+1 sg
+2230  971    4    4 rectstroke
+1 j
+0 j
+0 sg
+2344  969    9    9 rf
+1 sg
+2344  969    9    9 rectstroke
+1 j
+0 j
+0 sg
+2457  966   15   15 rf
+1 sg
+2457  966   15   15 rectstroke
+1 j
+0 j
+0 sg
+2571  963   20   20 rf
+1 sg
+2571  963   20   20 rectstroke
+1 j
+0 j
+0 sg
+2685  961   25   25 rf
+1 sg
+2685  961   25   25 rectstroke
+1 j
+0 j
+0 sg
+2798  958   30   30 rf
+1 sg
+2798  958   30   30 rectstroke
+1 j
+0 j
+0 sg
+2912  956   34   34 rf
+1 sg
+2912  956   34   34 rectstroke
+1 j
+0 j
+0 sg
+3027  955   37   37 rf
+1 sg
+3027  955   37   37 rectstroke
+1 j
+0 j
+0 sg
+3142  953   40   40 rf
+1 sg
+3142  953   40   40 rectstroke
+1 j
+0 j
+0 sg
+3257  952   42   43 rf
+1 sg
+3257  952   42   43 rectstroke
+1 j
+0 j
+0 sg
+3372  951   44   44 rf
+1 sg
+3372  951   44   44 rectstroke
+1 j
+0 j
+0 sg
+3488  951   45   45 rf
+1 sg
+3488  951   45   45 rectstroke
+1 j
+0 j
+0 sg
+2347  856    3    2 rf
+1 sg
+2347  856    3    2 rectstroke
+1 j
+0 j
+0 sg
+2462  854    6    6 rf
+1 sg
+2462  854    6    6 rectstroke
+1 j
+0 j
+0 sg
+2576  852   10   10 rf
+1 sg
+2576  852   10   10 rectstroke
+1 j
+0 j
+0 sg
+2690  850   14   14 rf
+1 sg
+2690  850   14   14 rectstroke
+1 j
+0 j
+0 sg
+2804  848   19   19 rf
+1 sg
+2804  848   19   19 rectstroke
+1 j
+0 j
+0 sg
+2918  845   23   24 rf
+1 sg
+2918  845   23   24 rectstroke
+1 j
+0 j
+0 sg
+3032  843   27   28 rf
+1 sg
+3032  843   27   28 rectstroke
+1 j
+0 j
+0 sg
+3146  842   31   31 rf
+1 sg
+3146  842   31   31 rectstroke
+1 j
+0 j
+0 sg
+3261  840   34   34 rf
+1 sg
+3261  840   34   34 rectstroke
+1 j
+0 j
+0 sg
+3376  839   37   37 rf
+1 sg
+3376  839   37   37 rectstroke
+1 j
+0 j
+0 sg
+3491  838   39   39 rf
+1 sg
+3491  838   39   39 rectstroke
+1 j
+0 j
+0 sg
+2464  740    1    2 rf
+1 sg
+2464  740    1    2 rectstroke
+1 j
+0 j
+0 sg
+2579  739    4    4 rf
+1 sg
+2579  739    4    4 rectstroke
+1 j
+0 j
+0 sg
+2694  737    6    7 rf
+1 sg
+2694  737    6    7 rectstroke
+1 j
+0 j
+0 sg
+2808  736   10   10 rf
+1 sg
+2808  736   10   10 rectstroke
+1 j
+0 j
+0 sg
+2922  734   14   14 rf
+1 sg
+2922  734   14   14 rectstroke
+1 j
+0 j
+0 sg
+3037  732   17   18 rf
+1 sg
+3037  732   17   18 rectstroke
+1 j
+0 j
+0 sg
+3151  730   21   21 rf
+1 sg
+3151  730   21   21 rectstroke
+1 j
+0 j
+0 sg
+3266  729   24   24 rf
+1 sg
+3266  729   24   24 rectstroke
+1 j
+0 j
+0 sg
+3380  727   28   28 rf
+1 sg
+3380  727   28   28 rectstroke
+1 j
+0 j
+0 sg
+3495  726   31   30 rf
+1 sg
+3495  726   31   30 rectstroke
+1 j
+0 j
+0 sg
+2580  624    1    1 rf
+1 sg
+2580  624    1    1 rectstroke
+1 j
+0 j
+0 sg
+2696  623    2    3 rf
+1 sg
+2696  623    2    3 rectstroke
+1 j
+0 j
+0 sg
+2811  622    5    5 rf
+1 sg
+2811  622    5    5 rectstroke
+1 j
+0 j
+0 sg
+2926  621    7    7 rf
+1 sg
+2926  621    7    7 rectstroke
+1 j
+0 j
+0 sg
+3041  620   10   10 rf
+1 sg
+3041  620   10   10 rectstroke
+1 j
+0 j
+0 sg
+3155  618   13   13 rf
+1 sg
+3155  618   13   13 rectstroke
+1 j
+0 j
+0 sg
+3270  617   16   16 rf
+1 sg
+3270  617   16   16 rectstroke
+1 j
+0 j
+0 sg
+3385  615   19   19 rf
+1 sg
+3385  615   19   19 rectstroke
+1 j
+0 j
+0 sg
+3499  614   22   22 rf
+1 sg
+3499  614   22   22 rectstroke
+1 j
+0 j
+0 sg
+2697  508    0    1 rf
+1 sg
+2697  508    0    1 rectstroke
+1 j
+0 j
+0 sg
+2812  508    2    1 rf
+1 sg
+2812  508    2    1 rectstroke
+1 j
+0 j
+0 sg
+2928  507    3    3 rf
+1 sg
+2928  507    3    3 rectstroke
+1 j
+0 j
+0 sg
+3043  506    5    5 rf
+1 sg
+3043  506    5    5 rectstroke
+1 j
+0 j
+0 sg
+3158  505    7    7 rf
+1 sg
+3158  505    7    7 rectstroke
+1 j
+0 j
+0 sg
+3273  504   10    9 rf
+1 sg
+3273  504   10    9 rectstroke
+1 j
+0 j
+0 sg
+3388  503   12   11 rf
+1 sg
+3388  503   12   11 rectstroke
+1 j
+0 j
+0 sg
+3503  501   15   15 rf
+1 sg
+3503  501   15   15 rectstroke
+1 j
+0 j
+0 sg
+2813  392    0    0 rf
+1 sg
+2813  392    0    0 rectstroke
+1 j
+0 j
+0 sg
+2929  392    1    1 rf
+1 sg
+2929  392    1    1 rectstroke
+1 j
+0 j
+0 sg
+3045  391    2    2 rf
+1 sg
+3045  391    2    2 rectstroke
+1 j
+0 j
+0 sg
+3160  391    3    3 rf
+1 sg
+3160  391    3    3 rectstroke
+1 j
+0 j
+0 sg
+3276  390    4    5 rf
+1 sg
+3276  390    4    5 rectstroke
+1 j
+0 j
+0 sg
+3391  389    6    6 rf
+1 sg
+3391  389    6    6 rectstroke
+1 j
+0 j
+0 sg
+3506  388    9    8 rf
+1 sg
+3506  388    9    8 rectstroke
+1 j
+0 j
+0 sg
+2929  276    1    0 rf
+1 sg
+2929  276    1    0 rectstroke
+1 j
+0 j
+0 sg
+3045  276    1    0 rf
+1 sg
+3045  276    1    0 rectstroke
+1 j
+0 j
+0 sg
+3161  275    1    2 rf
+1 sg
+3161  275    1    2 rectstroke
+1 j
+0 j
+0 sg
+3277  275    2    2 rf
+1 sg
+3277  275    2    2 rectstroke
+1 j
+0 j
+0 sg
+3393  275    3    3 rf
+1 sg
+3393  275    3    3 rectstroke
+1 j
+0 j
+0 sg
+3508  274    5    4 rf
+1 sg
+3508  274    5    4 rectstroke
+1 j
+gr
+
+1 sg
+0 sg
+1886 2755 mt 
+(sample size, n) s
+ 474 1700 mt  -90 rotate
+(number of groups, k) s
+90 rotate
+
+end
+
+eplot
+%%EndObject
+
+epage
+end
+
+showpage
+
+%%Trailer
+%%EOF

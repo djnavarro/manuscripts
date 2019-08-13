@@ -1,0 +1,845 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%Creator: MATLAB, The Mathworks, Inc.
+%%Title: cp3.eps
+%%CreationDate: 01/17/2005  11:52:11
+%%DocumentNeededFonts: Helvetica
+%%DocumentProcessColors: Cyan Magenta Yellow Black
+%%LanguageLevel: 2
+%%Pages: 1
+%%BoundingBox:    38    27   122   124
+%%EndComments
+
+%%BeginProlog
+% MathWorks dictionary
+/MathWorks 160 dict begin
+% definition operators
+/bdef {bind def} bind def
+/ldef {load def} bind def
+/xdef {exch def} bdef
+/xstore {exch store} bdef
+% operator abbreviations
+/c  /clip ldef
+/cc /concat ldef
+/cp /closepath ldef
+/gr /grestore ldef
+/gs /gsave ldef
+/mt /moveto ldef
+/np /newpath ldef
+/cm /currentmatrix ldef
+/sm /setmatrix ldef
+/rm /rmoveto ldef
+/rl /rlineto ldef
+/s {show newpath} bdef
+/sc {setcmykcolor} bdef
+/sr /setrgbcolor ldef
+/sg /setgray ldef
+/w /setlinewidth ldef
+/j /setlinejoin ldef
+/cap /setlinecap ldef
+/rc {rectclip} bdef
+/rf {rectfill} bdef
+% page state control
+/pgsv () def
+/bpage {/pgsv save def} bdef
+/epage {pgsv restore} bdef
+/bplot /gsave ldef
+/eplot {stroke grestore} bdef
+% orientation switch
+/portraitMode 0 def /landscapeMode 1 def /rotateMode 2 def
+% coordinate system mappings
+/dpi2point 0 def
+% font control
+/FontSize 0 def
+/FMS {/FontSize xstore findfont [FontSize 0 0 FontSize neg 0 0]
+  makefont setfont} bdef
+/ISOLatin1Encoding where {pop /WindowsLatin1Encoding 256 array bdef
+ISOLatin1Encoding WindowsLatin1Encoding copy pop
+/.notdef/.notdef/quotesinglbase/florin/quotedblbase/ellipsis/dagger
+/daggerdbl/circumflex/perthousand/Scaron/guilsinglleft/OE/.notdef/.notdef
+/.notdef/.notdef/quoteleft/quoteright/quotedblleft/quotedblright/bullet
+/endash/emdash/tilde/trademark/scaron/guilsinglright/oe/.notdef/.notdef
+/Ydieresis WindowsLatin1Encoding 128 32 getinterval astore pop}
+{/WindowsLatin1Encoding StandardEncoding bdef} ifelse
+/reencode {exch dup where {pop load} {pop StandardEncoding} ifelse
+  exch dup 3 1 roll findfont dup length dict begin
+  { 1 index /FID ne {def}{pop pop} ifelse } forall
+  /Encoding exch def currentdict end definefont pop} bdef
+/isroman {findfont /CharStrings get /Agrave known} bdef
+/FMSR {3 1 roll 1 index dup isroman {reencode} {pop pop} ifelse
+  exch FMS} bdef
+/csm {1 dpi2point div -1 dpi2point div scale neg translate
+ dup landscapeMode eq {pop -90 rotate}
+  {rotateMode eq {90 rotate} if} ifelse} bdef
+% line types: solid, dotted, dashed, dotdash
+/SO { [] 0 setdash } bdef
+/DO { [.5 dpi2point mul 4 dpi2point mul] 0 setdash } bdef
+/DA { [6 dpi2point mul] 0 setdash } bdef
+/DD { [.5 dpi2point mul 4 dpi2point mul 6 dpi2point mul 4
+  dpi2point mul] 0 setdash } bdef
+% macros for lines and objects
+/L {lineto stroke} bdef
+/MP {3 1 roll moveto 1 sub {rlineto} repeat} bdef
+/AP {{rlineto} repeat} bdef
+/PDlw -1 def
+/W {/PDlw currentlinewidth def setlinewidth} def
+/PP {closepath eofill} bdef
+/DP {closepath stroke} bdef
+/MR {4 -2 roll moveto dup  0 exch rlineto exch 0 rlineto
+  neg 0 exch rlineto closepath} bdef
+/FR {MR stroke} bdef
+/PR {MR fill} bdef
+/L1i {{currentfile picstr readhexstring pop} image} bdef
+/tMatrix matrix def
+/MakeOval {newpath tMatrix currentmatrix pop translate scale
+0 0 1 0 360 arc tMatrix setmatrix} bdef
+/FO {MakeOval stroke} bdef
+/PO {MakeOval fill} bdef
+/PD {currentlinewidth 2 div 0 360 arc fill
+   PDlw -1 eq not {PDlw w /PDlw -1 def} if} def
+/FA {newpath tMatrix currentmatrix pop translate scale
+  0 0 1 5 -2 roll arc tMatrix setmatrix stroke} bdef
+/PA {newpath tMatrix currentmatrix pop	translate 0 0 moveto scale
+  0 0 1 5 -2 roll arc closepath tMatrix setmatrix fill} bdef
+/FAn {newpath tMatrix currentmatrix pop translate scale
+  0 0 1 5 -2 roll arcn tMatrix setmatrix stroke} bdef
+/PAn {newpath tMatrix currentmatrix pop translate 0 0 moveto scale
+  0 0 1 5 -2 roll arcn closepath tMatrix setmatrix fill} bdef
+/vradius 0 def /hradius 0 def /lry 0 def
+/lrx 0 def /uly 0 def /ulx 0 def /rad 0 def
+/MRR {/vradius xdef /hradius xdef /lry xdef /lrx xdef /uly xdef
+  /ulx xdef newpath tMatrix currentmatrix pop ulx hradius add uly
+  vradius add translate hradius vradius scale 0 0 1 180 270 arc 
+  tMatrix setmatrix lrx hradius sub uly vradius add translate
+  hradius vradius scale 0 0 1 270 360 arc tMatrix setmatrix
+  lrx hradius sub lry vradius sub translate hradius vradius scale
+  0 0 1 0 90 arc tMatrix setmatrix ulx hradius add lry vradius sub
+  translate hradius vradius scale 0 0 1 90 180 arc tMatrix setmatrix
+  closepath} bdef
+/FRR {MRR stroke } bdef
+/PRR {MRR fill } bdef
+/MlrRR {/lry xdef /lrx xdef /uly xdef /ulx xdef /rad lry uly sub 2 div def
+  newpath tMatrix currentmatrix pop ulx rad add uly rad add translate
+  rad rad scale 0 0 1 90 270 arc tMatrix setmatrix lrx rad sub lry rad
+  sub translate rad rad scale 0 0 1 270 90 arc tMatrix setmatrix
+  closepath} bdef
+/FlrRR {MlrRR stroke } bdef
+/PlrRR {MlrRR fill } bdef
+/MtbRR {/lry xdef /lrx xdef /uly xdef /ulx xdef /rad lrx ulx sub 2 div def
+  newpath tMatrix currentmatrix pop ulx rad add uly rad add translate
+  rad rad scale 0 0 1 180 360 arc tMatrix setmatrix lrx rad sub lry rad
+  sub translate rad rad scale 0 0 1 0 180 arc tMatrix setmatrix
+  closepath} bdef
+/FtbRR {MtbRR stroke } bdef
+/PtbRR {MtbRR fill } bdef
+/stri 6 array def /dtri 6 array def
+/smat 6 array def /dmat 6 array def
+/tmat1 6 array def /tmat2 6 array def /dif 3 array def
+/asub {/ind2 exch def /ind1 exch def dup dup
+  ind1 get exch ind2 get sub exch } bdef
+/tri_to_matrix {
+  2 0 asub 3 1 asub 4 0 asub 5 1 asub
+  dup 0 get exch 1 get 7 -1 roll astore } bdef
+/compute_transform {
+  dmat dtri tri_to_matrix tmat1 invertmatrix 
+  smat stri tri_to_matrix tmat2 concatmatrix } bdef
+/ds {stri astore pop} bdef
+/dt {dtri astore pop} bdef
+/db {2 copy /cols xdef /rows xdef mul dup 3 mul string
+  currentfile 
+  3 index 0 eq {/ASCIIHexDecode filter}
+  {/ASCII85Decode filter 3 index 2 eq {/RunLengthDecode filter} if }
+  ifelse exch readstring pop
+  dup 0 3 index getinterval /rbmap xdef
+  dup 2 index dup getinterval /gbmap xdef
+  1 index dup 2 mul exch getinterval /bbmap xdef pop pop}bdef
+/it {gs np dtri aload pop moveto lineto lineto cp c
+  cols rows 8 compute_transform 
+  rbmap gbmap bbmap true 3 colorimage gr}bdef
+/il {newpath moveto lineto stroke}bdef
+currentdict end def
+%%EndProlog
+
+%%BeginSetup
+MathWorks begin
+
+0 cap
+
+end
+%%EndSetup
+
+%%Page: 1 1
+%%BeginPageSetup
+%%PageBoundingBox:    38    27   122   124
+MathWorks begin
+bpage
+%%EndPageSetup
+
+%%BeginObject: obj1
+bplot
+
+/dpi2point 12 def
+portraitMode 0336 1524 csm
+
+  120    28  1010  1164 rc
+86 dict begin %Colortable dictionary
+/c0 { 0 0 0 sr} bdef
+/c1 { 1 1 1 sr} bdef
+/c2 { 1 0 0 sr} bdef
+/c3 { 0 1 0 sr} bdef
+/c4 { 0 0 1 sr} bdef
+/c5 { 1 1 0 sr} bdef
+/c6 { 1 0 1 sr} bdef
+/c7 { 0 1 1 sr} bdef
+c0
+1 j
+1 sg
+   0    0 1194 1193 rf
+6 w
+0 973 925 0 0 -973 155 1061 4 MP
+PP
+-925 0 0 973 925 0 0 -973 155 1061 5 MP stroke
+4 w
+DO
+SO
+6 w
+0 sg
+ 155   88 mt 1080   88 L
+ 155 1061 mt 1080 1061 L
+1080 1061 mt 1080   88 L
+ 155 1061 mt  155   88 L
+ 155 1061 mt 1080 1061 L
+ 155 1061 mt  155   88 L
+ 155   88 mt 1080   88 L
+ 155 1061 mt 1080 1061 L
+1080 1061 mt 1080   88 L
+ 155 1061 mt  155   88 L
+gs 155 89 926 973 rc
+gr
+
+  12   12  506  361 PO
+  12   12  325  604 PO
+  12   12  539  348 PO
+  12   12  406  678 PO
+  12   12  769  665 PO
+  12   12  758  393 PO
+  12   12  484  387 PO
+  12   12  443  328 PO
+  12   12  391  665 PO
+  12   12  347  286 PO
+  12   12  761  607 PO
+  12   12  428  759 PO
+  12   12  821  749 PO
+  12   12  473  344 PO
+  12   12  776  403 PO
+  12   12  525  403 PO
+  12   12  717  672 PO
+  12   12  362  315 PO
+  12   12  488  377 PO
+  12   12  787  322 PO
+  12   12  835  613 PO
+  12   12  495  665 PO
+  12   12  443  409 PO
+  12   12  521  613 PO
+  12   12  832  348 PO
+  12   12  395  263 PO
+  12   12  706  659 PO
+  12   12  754  707 PO
+  12   12  698  283 PO
+  12   12  484  743 PO
+  12   12  473  746 PO
+  12   12  351  387 PO
+  12   12  776  662 PO
+  12   12  839  370 PO
+  12   12  525  393 PO
+  12   12  295  416 PO
+  12   12  417  328 PO
+  12   12  698  649 PO
+  12   12  402  717 PO
+  12   12  676  613 PO
+  12   12  628  283 PO
+  12   12  458  630 PO
+  12   12  772  646 PO
+  12   12  539  594 PO
+  12   12  469  338 PO
+  12   12  739  701 PO
+  12   12  765  656 PO
+  12   12  728  568 PO
+  12   12  288  354 PO
+  12   12  469  490 PO
+  12   12  336  720 PO
+  12   12  721  733 PO
+  12   12  362  636 PO
+  12   12  421  455 PO
+  12   12  769  717 PO
+  12   12  636  481 PO
+  12   12  695  707 PO
+  12   12  528  435 PO
+  12   12  735  662 PO
+  12   12  384  393 PO
+  12   12  506  409 PO
+  12   12  454  808 PO
+  12   12  484  613 PO
+  12   12  362  413 PO
+  12   12  436  610 PO
+  12   12  388  377 PO
+  12   12  809  639 PO
+  12   12  421  387 PO
+  12   12  858  370 PO
+  12   12  739  361 PO
+  12   12  802  727 PO
+  12   12  643  532 PO
+  12   12  758  714 PO
+  12   12  473  244 PO
+  12   12  695  280 PO
+  12   12  636  325 PO
+  12   12  732  370 PO
+  12   12  643  309 PO
+  12   12  602  364 PO
+  12   12  758  685 PO
+  12   12  491  646 PO
+  12   12  787  701 PO
+  12   12  369  662 PO
+  12   12  576  377 PO
+  12   12  735  578 PO
+  12   12  784  322 PO
+  12   12  362  377 PO
+  12   12  428  688 PO
+  12   12  332  617 PO
+  12   12  384  406 PO
+  12   12  691  630 PO
+  12   12  395  335 PO
+  12   12  906  435 PO
+  12   12  343  698 PO
+  12   12  377  529 PO
+  12   12  613  319 PO
+  12   12  791  263 PO
+  12   12  824  604 PO
+  12   12  791  464 PO
+  12   12  791  364 PO
+  12   12  702  597 PO
+  12   12  380  328 PO
+  12   12  506  762 PO
+  12   12  776  442 PO
+  12   12  362  578 PO
+  12   12  780  400 PO
+  12   12  528  694 PO
+  12   12  839  584 PO
+  12   12  695  698 PO
+  12   12  421  672 PO
+  12   12  591  665 PO
+  12   12  787  639 PO
+  12   12  895  575 PO
+  12   12  747  649 PO
+  12   12  728  630 PO
+  12   12  510  681 PO
+  12   12  462  597 PO
+  12   12  502  707 PO
+  12   12  391  338 PO
+  12   12  624  354 PO
+  12   12  806  383 PO
+  12   12  813  633 PO
+  12   12  872  357 PO
+  12   12  547  613 PO
+  12   12  798  698 PO
+  12   12  787  607 PO
+  12   12  887  306 PO
+  12   12  506  361 FO
+  12   12  325  604 FO
+  12   12  539  348 FO
+  12   12  406  678 FO
+  12   12  769  665 FO
+  12   12  758  393 FO
+  12   12  484  387 FO
+  12   12  443  328 FO
+  12   12  391  665 FO
+  12   12  347  286 FO
+  12   12  761  607 FO
+  12   12  428  759 FO
+  12   12  821  749 FO
+  12   12  473  344 FO
+  12   12  776  403 FO
+  12   12  525  403 FO
+  12   12  717  672 FO
+  12   12  362  315 FO
+  12   12  488  377 FO
+  12   12  787  322 FO
+  12   12  835  613 FO
+  12   12  495  665 FO
+  12   12  443  409 FO
+  12   12  521  613 FO
+  12   12  832  348 FO
+  12   12  395  263 FO
+  12   12  706  659 FO
+  12   12  754  707 FO
+  12   12  698  283 FO
+  12   12  484  743 FO
+  12   12  473  746 FO
+  12   12  351  387 FO
+  12   12  776  662 FO
+  12   12  839  370 FO
+  12   12  525  393 FO
+  12   12  295  416 FO
+  12   12  417  328 FO
+  12   12  698  649 FO
+  12   12  402  717 FO
+  12   12  676  613 FO
+  12   12  628  283 FO
+  12   12  458  630 FO
+  12   12  772  646 FO
+  12   12  539  594 FO
+  12   12  469  338 FO
+  12   12  739  701 FO
+  12   12  765  656 FO
+  12   12  728  568 FO
+  12   12  288  354 FO
+  12   12  469  490 FO
+  12   12  336  720 FO
+  12   12  721  733 FO
+  12   12  362  636 FO
+  12   12  421  455 FO
+  12   12  769  717 FO
+  12   12  636  481 FO
+  12   12  695  707 FO
+  12   12  528  435 FO
+  12   12  735  662 FO
+  12   12  384  393 FO
+  12   12  506  409 FO
+  12   12  454  808 FO
+  12   12  484  613 FO
+  12   12  362  413 FO
+  12   12  436  610 FO
+  12   12  388  377 FO
+  12   12  809  639 FO
+  12   12  421  387 FO
+  12   12  858  370 FO
+  12   12  739  361 FO
+  12   12  802  727 FO
+  12   12  643  532 FO
+  12   12  758  714 FO
+  12   12  473  244 FO
+  12   12  695  280 FO
+  12   12  636  325 FO
+  12   12  732  370 FO
+  12   12  643  309 FO
+  12   12  602  364 FO
+  12   12  758  685 FO
+  12   12  491  646 FO
+  12   12  787  701 FO
+  12   12  369  662 FO
+  12   12  576  377 FO
+  12   12  735  578 FO
+  12   12  784  322 FO
+  12   12  362  377 FO
+  12   12  428  688 FO
+  12   12  332  617 FO
+  12   12  384  406 FO
+  12   12  691  630 FO
+  12   12  395  335 FO
+  12   12  906  435 FO
+  12   12  343  698 FO
+  12   12  377  529 FO
+  12   12  613  319 FO
+  12   12  791  263 FO
+  12   12  824  604 FO
+  12   12  791  464 FO
+  12   12  791  364 FO
+  12   12  702  597 FO
+  12   12  380  328 FO
+  12   12  506  762 FO
+  12   12  776  442 FO
+  12   12  362  578 FO
+  12   12  780  400 FO
+  12   12  528  694 FO
+  12   12  839  584 FO
+  12   12  695  698 FO
+  12   12  421  672 FO
+  12   12  591  665 FO
+  12   12  787  639 FO
+  12   12  895  575 FO
+  12   12  747  649 FO
+  12   12  728  630 FO
+  12   12  510  681 FO
+  12   12  462  597 FO
+  12   12  502  707 FO
+  12   12  391  338 FO
+  12   12  624  354 FO
+  12   12  806  383 FO
+  12   12  813  633 FO
+  12   12  872  357 FO
+  12   12  547  613 FO
+  12   12  798  698 FO
+  12   12  787  607 FO
+  12   12  887  306 FO
+gs 155 89 926 973 rc
+gr
+
+0.7 sg
+  12   12  539  769 PO
+  12   12  192  510 PO
+  12   12  728  578 PO
+  12   12  321  532 PO
+  12   12  665  490 PO
+  12   12  192  500 PO
+  12   12  632  380 PO
+  12   12  613  688 PO
+  12   12  406  464 PO
+  12   12  517  749 PO
+  12   12  747  419 PO
+  12   12  617  445 PO
+  12   12  499  526 PO
+  12   12  636  387 PO
+  12   12  665  636 PO
+  12   12  669  400 PO
+  12   12  658  477 PO
+  12   12  691  575 PO
+  12   12  895  481 PO
+  12   12  606  451 PO
+  12   12  624  406 PO
+  12   12  488  555 PO
+  12   12  414  451 PO
+  12   12  632  231 PO
+  12   12  473  565 PO
+  12   12  595  792 PO
+  12   12  628  542 PO
+  12   12  550  575 PO
+  12   12  554  539 PO
+  12   12  854  529 PO
+  12   12  539  675 PO
+  12   12  569  387 PO
+  12   12  717  364 PO
+  12   12  543  173 PO
+  12   12  613  519 PO
+  12   12  787  513 PO
+  12   12  587  458 PO
+  12   12  517  497 PO
+  12   12  624  506 PO
+  12   12  595  481 PO
+  12   12  547  685 PO
+  12   12  584  361 PO
+  12   12  613  471 PO
+  12   12  473  477 PO
+  12   12  576  536 PO
+  12   12  539  769 FO
+  12   12  192  510 FO
+  12   12  728  578 FO
+  12   12  321  532 FO
+  12   12  665  490 FO
+  12   12  192  500 FO
+  12   12  632  380 FO
+  12   12  613  688 FO
+  12   12  406  464 FO
+  12   12  517  749 FO
+  12   12  747  419 FO
+  12   12  617  445 FO
+  12   12  499  526 FO
+  12   12  636  387 FO
+  12   12  665  636 FO
+  12   12  669  400 FO
+  12   12  658  477 FO
+  12   12  691  575 FO
+  12   12  895  481 FO
+  12   12  606  451 FO
+  12   12  624  406 FO
+  12   12  488  555 FO
+  12   12  414  451 FO
+  12   12  632  231 FO
+  12   12  473  565 FO
+  12   12  595  792 FO
+  12   12  628  542 FO
+  12   12  550  575 FO
+  12   12  554  539 FO
+  12   12  854  529 FO
+  12   12  539  675 FO
+  12   12  569  387 FO
+  12   12  717  364 FO
+  12   12  543  173 FO
+  12   12  613  519 FO
+  12   12  787  513 FO
+  12   12  587  458 FO
+  12   12  517  497 FO
+  12   12  624  506 FO
+  12   12  595  481 FO
+  12   12  547  685 FO
+  12   12  584  361 FO
+  12   12  613  471 FO
+  12   12  473  477 FO
+  12   12  576  536 FO
+gs 155 89 926 973 rc
+gr
+
+  12   12  595  335 PO
+  12   12  710  510 PO
+  12   12  214  484 PO
+  12   12  558  578 PO
+  12   12  654  218 PO
+  12   12  650  419 PO
+  12   12  580  523 PO
+  12   12 1035  539 PO
+  12   12  632  532 PO
+  12   12  643  659 PO
+  12   12  447  474 PO
+  12   12  410  555 PO
+  12   12  547  801 PO
+  12   12  684  594 PO
+  12   12  676  477 PO
+  12   12  584  549 PO
+  12   12  554  471 PO
+  12   12  669  539 PO
+  12   12  543  600 PO
+  12   12  595  396 PO
+  12   12  469  458 PO
+  12   12  654  772 PO
+  12   12  665  610 PO
+  12   12  562  374 PO
+  12   12  669  523 PO
+  12   12  632  510 PO
+  12   12  613  118 PO
+  12   12  314  513 PO
+  12   12  591  503 PO
+  12   12  384  471 PO
+  12   12  902  516 PO
+  12   12  562  497 PO
+  12   12  636  519 PO
+  12   12  673  717 PO
+  12   12  713  455 PO
+  12   12  554  487 PO
+  12   12  428  464 PO
+  12   12  584  497 PO
+  12   12  591  549 PO
+  12   12  595  494 PO
+  12   12  628  513 PO
+  12   12  776  545 PO
+  12   12  388  503 PO
+  12   12  606  487 PO
+  12   12  602  484 PO
+  12   12  784  474 PO
+  12   12  680  639 PO
+  12   12  502  549 PO
+  12   12  639  665 PO
+  12   12  439  536 PO
+  12   12  425  526 PO
+  12   12  617  571 PO
+  12   12  469  484 PO
+  12   12  536  555 PO
+  12   12  643  542 PO
+  12   12  735  558 PO
+  12   12  410  497 PO
+  12   12  591  416 PO
+  12   12  587  529 PO
+  12   12  599  416 PO
+  12   12  591  562 PO
+  12   12  580  490 PO
+  12   12  562  604 PO
+  12   12  599  532 PO
+  12   12  480  519 PO
+  12   12  591  380 PO
+  12   12  628  555 PO
+  12   12  580  617 PO
+  12   12  328  523 PO
+  12   12  436  542 PO
+  12   12  728  558 PO
+  12   12  610  552 PO
+  12   12  328  552 PO
+  12   12  647  516 PO
+  12   12  680  539 PO
+  12   12  691  361 PO
+  12   12  513  575 PO
+  12   12  710  529 PO
+  12   12  610  523 PO
+  12   12  491  471 PO
+  12   12  591  539 PO
+  12   12  576  523 PO
+  12   12  636  474 PO
+  12   12  695  591 PO
+  12   12  432  481 PO
+  12   12  410  529 PO
+  12   12  499  549 PO
+  12   12 1035  458 PO
+  12   12  728  552 PO
+  12   12  628  639 PO
+  12   12  584  516 PO
+  12   12  650  597 PO
+  12   12  565  474 PO
+  12   12  617  613 PO
+  12   12  624  458 PO
+  12   12  595  597 PO
+  12   12  314  552 PO
+  12   12  676  613 PO
+  12   12  547  552 PO
+  12   12  525  510 PO
+  12   12  636  455 PO
+  12   12  484  432 PO
+  12   12  547  694 PO
+  12   12  698  464 PO
+  12   12  599  753 PO
+  12   12  643  477 PO
+  12   12  587  500 PO
+  12   12  328  481 PO
+  12   12  558  500 PO
+  12   12  554  532 PO
+  12   12  599  662 PO
+  12   12  787  494 PO
+  12   12  732  474 PO
+  12   12  624  575 PO
+  12   12  484  497 PO
+  12   12  854  464 PO
+  12   12  458  503 PO
+  12   12  913  532 PO
+  12   12  632  529 PO
+  12   12  495  490 PO
+  12   12  606  503 PO
+  12   12  576  503 PO
+  12   12  658  620 PO
+  12   12  702  393 PO
+  12   12  602  717 PO
+  12   12  673  568 PO
+  12   12  576  597 PO
+  12   12  595  335 FO
+  12   12  710  510 FO
+  12   12  214  484 FO
+  12   12  558  578 FO
+  12   12  654  218 FO
+  12   12  650  419 FO
+  12   12  580  523 FO
+  12   12 1035  539 FO
+  12   12  632  532 FO
+  12   12  643  659 FO
+  12   12  447  474 FO
+  12   12  410  555 FO
+  12   12  547  801 FO
+  12   12  684  594 FO
+  12   12  676  477 FO
+  12   12  584  549 FO
+  12   12  554  471 FO
+  12   12  669  539 FO
+  12   12  543  600 FO
+  12   12  595  396 FO
+  12   12  469  458 FO
+  12   12  654  772 FO
+  12   12  665  610 FO
+  12   12  562  374 FO
+  12   12  669  523 FO
+  12   12  632  510 FO
+  12   12  613  118 FO
+  12   12  314  513 FO
+  12   12  591  503 FO
+  12   12  384  471 FO
+  12   12  902  516 FO
+  12   12  562  497 FO
+  12   12  636  519 FO
+  12   12  673  717 FO
+  12   12  713  455 FO
+  12   12  554  487 FO
+  12   12  428  464 FO
+  12   12  584  497 FO
+  12   12  591  549 FO
+  12   12  595  494 FO
+  12   12  628  513 FO
+  12   12  776  545 FO
+  12   12  388  503 FO
+  12   12  606  487 FO
+  12   12  602  484 FO
+  12   12  784  474 FO
+  12   12  680  639 FO
+  12   12  502  549 FO
+  12   12  639  665 FO
+  12   12  439  536 FO
+  12   12  425  526 FO
+  12   12  617  571 FO
+  12   12  469  484 FO
+  12   12  536  555 FO
+  12   12  643  542 FO
+  12   12  735  558 FO
+  12   12  410  497 FO
+  12   12  591  416 FO
+  12   12  587  529 FO
+  12   12  599  416 FO
+  12   12  591  562 FO
+  12   12  580  490 FO
+  12   12  562  604 FO
+  12   12  599  532 FO
+  12   12  480  519 FO
+  12   12  591  380 FO
+  12   12  628  555 FO
+  12   12  580  617 FO
+  12   12  328  523 FO
+  12   12  436  542 FO
+  12   12  728  558 FO
+  12   12  610  552 FO
+  12   12  328  552 FO
+  12   12  647  516 FO
+  12   12  680  539 FO
+  12   12  691  361 FO
+  12   12  513  575 FO
+  12   12  710  529 FO
+  12   12  610  523 FO
+  12   12  491  471 FO
+  12   12  591  539 FO
+  12   12  576  523 FO
+  12   12  636  474 FO
+  12   12  695  591 FO
+  12   12  432  481 FO
+  12   12  410  529 FO
+  12   12  499  549 FO
+  12   12 1035  458 FO
+  12   12  728  552 FO
+  12   12  628  639 FO
+  12   12  584  516 FO
+  12   12  650  597 FO
+  12   12  565  474 FO
+  12   12  617  613 FO
+  12   12  624  458 FO
+  12   12  595  597 FO
+  12   12  314  552 FO
+  12   12  676  613 FO
+  12   12  547  552 FO
+  12   12  525  510 FO
+  12   12  636  455 FO
+  12   12  484  432 FO
+  12   12  547  694 FO
+  12   12  698  464 FO
+  12   12  599  753 FO
+  12   12  643  477 FO
+  12   12  587  500 FO
+  12   12  328  481 FO
+  12   12  558  500 FO
+  12   12  554  532 FO
+  12   12  599  662 FO
+  12   12  787  494 FO
+  12   12  732  474 FO
+  12   12  624  575 FO
+  12   12  484  497 FO
+  12   12  854  464 FO
+  12   12  458  503 FO
+  12   12  913  532 FO
+  12   12  632  529 FO
+  12   12  495  490 FO
+  12   12  606  503 FO
+  12   12  576  503 FO
+  12   12  658  620 FO
+  12   12  702  393 FO
+  12   12  602  717 FO
+  12   12  673  568 FO
+  12   12  576  597 FO
+gs 155 89 926 973 rc
+gr
+
+0 sg
+%%IncludeResource: font Helvetica
+/Helvetica /WindowsLatin1Encoding 72 FMSR
+
+ 421 1170 mt 
+(participant 8) s
+
+end
+
+eplot
+%%EndObject
+
+epage
+end
+
+showpage
+
+%%Trailer
+%%EOF

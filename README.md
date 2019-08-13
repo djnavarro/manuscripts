@@ -86,7 +86,7 @@ here as they use my correct name.
     From Methods to Insights* (pp. 174-202)
   - De Deyne, S., Navarro D. J., Perfors, A. and Storms, G. (2016).
     Structure at every scale: A semantic network account of the
-    similarities between very unrelated concept.s. *Journal of
+    similarities between very unrelated concepts. *Journal of
     Experimental Psychology: General, 145*, 1228-1254
   - De Deyne, S., Perfors A., and Navarro, D. J. (2016). Predicting
     human similarity judgments with distributional models: The value of
@@ -197,7 +197,10 @@ here as they use my correct name.
     Psychology, 50*, 167-179
   - Navarro, D. J., Griffiths, T. L., Steyvers, M. and Lee, M. D.
     (2006). Modeling individual differences using Dirichlet processes.
-    *Journal of Mathematical Psychology, 50*, 101-122
+    *Journal of Mathematical Psychology, 50*, 101-122.
+    \[[pdf](./manuscripts/2006_indivdiffs.pdf),
+    [source](./source/2006_indivdiffs/),
+    [doi](http://dx.doi.org/10.1016/j.jmp.2005.11.006)\]
   - Pitt, M. A., Kim, W., Navarro, D. J. and Myung, J. I. (2006). Global
     model analysis by parameter space partitioning. *Psychological
     Review, 113*, 57-83

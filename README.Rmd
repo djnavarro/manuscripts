@@ -44,7 +44,7 @@ This is not a complete listing of all my papers. Instead it is a collection of p
 ## 2016
 
 - De Deyne, S., Kenett, Y. N., Anaki, D., Faust, M. and Navarro, D. J. (2016). Large-scale network representations of semantics in the mental lexicon. In M. N. Jones (Ed.) *Big Data in Cognitive Science: From Methods to Insights* (pp. 174-202) 
-- De Deyne, S., Navarro D. J., Perfors, A. and Storms, G. (2016). Structure at every scale: A semantic network account of the similarities between very unrelated concept.s. *Journal of Experimental Psychology: General, 145*, 1228-1254 
+- De Deyne, S., Navarro D. J., Perfors, A. and Storms, G. (2016). Structure at every scale: A semantic network account of the similarities between very unrelated concepts. *Journal of Experimental Psychology: General, 145*, 1228-1254 
 - De Deyne, S., Perfors A., and Navarro, D. J. (2016). Predicting human similarity judgments with distributional models: The value of word associations. *Proceedings of COLING 2016, the 27th International Conference on Computational Linguistics*
 - Gokaydin, D. Navarro, D. J., Ma-Wyatt, A. and Perfors, A. (2016). The structure of sequential effects. *Journal of Experimental Psychology: General, 145*, 110-123 
 - Hendrickson, A., Navarro D. J. and Perfors, A. (2016). Sensitivity to hypothesis size during information search. *Decision, 3*, 62-80 
@@ -97,7 +97,7 @@ This is not a complete listing of all my papers. Instead it is a collection of p
 ## 2006
 
 - Myung, J. I., Navarro, D. J. and Pitt, M. A. (2006). Model selection by Normalized Maximum Likelihood. *Journal of Mathematical Psychology, 50*, 167-179
-- Navarro, D. J., Griffiths, T. L., Steyvers, M. and Lee, M. D. (2006). Modeling individual differences using Dirichlet processes. *Journal of Mathematical Psychology, 50*, 101-122
+- Navarro, D. J., Griffiths, T. L., Steyvers, M. and Lee, M. D. (2006). Modeling individual differences using Dirichlet processes. *Journal of Mathematical Psychology, 50*, 101-122. [[pdf](./manuscripts/2006_indivdiffs.pdf), [source](./source/2006_indivdiffs/), [doi](http://dx.doi.org/10.1016/j.jmp.2005.11.006)]
 - Pitt, M. A., Kim, W., Navarro, D. J. and Myung, J. I. (2006). Global model analysis by parameter space partitioning. *Psychological Review, 113*, 57-83
 
 ## 2005
