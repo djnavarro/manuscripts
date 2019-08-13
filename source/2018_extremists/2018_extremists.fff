@@ -1,0 +1,153 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[t]
+\begin{center}
+\includegraphics[width=11cm]{iteratedlearningschema.png}
+\caption{{\small Schematic illustration of a typical iterated learning paradigm, which assumes that learner $n$ learns on the basis of the data provided by learner $n-1$. Sillhouette images obtained from http://www.milliande-printables.com/.}}
+\label{ilschema}
+\end{center}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[t]
+\begin{center}
+\includegraphics[width=15cm]{bbTrans.pdf}
+\caption{{\small Illustration of the language learning scenario. Each learner is given 10 sentences as input and asked to produce 10 novel sentences as output. Each sentence can be characterized as rule-consistent or rule-inconsistent, with regards to some particular grammatical rule. Panel (a) shows how a learner with {\sc weak} prior bias updates their prior to a posterior distribution when the training data consists of 5 of 10 rule-consistent sentences, and panel (b) shows the corresponding plots for learners with a {\sc strong} prior bias in the opposite direction. The resulting transition matrices for the two learner types are plotted in panels (c) and (d). These panels plot a set of 11 histograms showing the distribution of the number of rule-consistent responses, as a function of the number of rule-consistent input sentences. These plots illustrate the consequences of different inductive biases. Although both learner types tend to mirror the input they receive, the transition matrix for the {\sc strong} bias learner shows a much stronger influence of the prior.}}
+\label{indbias}
+\end{center}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[p]
+\begin{center}
+\includegraphics[width=15cm]{coinsfail1.pdf}
+\caption{{\small Iterated learning works when the learners are homogeneous, but fails when they are heterogeneous. The plots on the left show results from an iterated learning chain consisting solely of {\sc weak} learners, and the plots in the middle show the results from an iterated learning chain consisting solely of {\sc strong} learners. The plots on the right depict a mixed chain in which half the learners have a {\sc weak} bias about the general class of grammatical rules to be learned, and half of the learners have a {\sc strong} one. All chains are initialized with 5 of 10 sentences obeying the specific rule in question. The plots in the top row show how the average number (across simulations) of rule-consistent responses produced by the learner changes across generations. The plots in the bottom row show the distribution of responses produced in the 20th generation (solid lines) and the population average prior of the learners (gray bars). The iterated learning chain reveals the true inductive biases (prior) only in the homogeneous chains (left and middle) but produces substantial distortions when the chain is constructed from learners with different biases (right panel).}}
+\label{coinsfail1}
+\end{center}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[t]
+\begin{center}
+\includegraphics[width=11cm]{coinsfail2.pdf}
+\caption{\small{Responses in the mixed chain broken down by learner type. The {\sc weak} learners produce responses (top left panel, dotted line) that are quite different from those that they would have produced in a homogeneous chain (top left panel, solid line). Nor does the distribution of their responses (bottom left panel, dotted line)  reflect the distribution of their priors (bottom left panel, bars). By contrast, the {\sc strong} learners produce responses that are more similar to those they would have produced in a homogeneous chain and to their prior distribution. The {\sc weak} learners are more profoundly distorted by being in a chain with {\sc strong} learners, rather than vice-versa.}}
+\label{coinsfail2}
+\end{center}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[p]
+\begin{center}
+\includegraphics[width=14cm]{coinsfail4.pdf}
+\caption{\small{Linguistic rule adoption when the population of learners is highly uneven. In this scenario, 95\% of learners are unbiased and 5\% have a very strong prior to adopt the rule. The top row assumes that learners sample their hypotheses from the posterior distribution, while the bottom row assumes they pick the one with the highest posterior probability (MAP learning). The left column shows the behaviour of this mixed chain: even though 95\% of the learners are unbiased, the chain ends up producing the rule about 80\% of the time when learners sample from the posterior (top left), and almost complete regularization when learners apply MAP learning (bottom left). This occurs because the responses of the unbiased learners (middle column) are significantly distorted from their priors, as a result of occasionally receiving input from the biased learners (right panel), who are not distorted nearly as much.}}
+\label{coinsfail4}
+\end{center}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[t]
+\begin{center}
+\includegraphics[width=14cm]{juror1.pdf} %\includegraphics[width=7cm]{brn2.pdf}
+\caption{{\small The results of the hypothetical jury straw poll. The top row plots the probability that each juror votes for the plaintiff, as a function of their position in the chain (the dashed line plots the population average prior in each case), and the bottom row plots the distribution (across simulations) of the total number of votes for the plaintiff. Plots on the left show the results if all jurors are {\sc goats}, the middle column shows the results if all jurors are {\sc sheep}, and the results on the right show the outcome if half of the jurors are {\sc goats} and the other half are {\sc sheep}.}}
+\label{juror}
+\end{center}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[t]
+\begin{center}
+\includegraphics[width=10cm]{juror2.pdf} %\includegraphics[width=7cm]{brn2.pdf}
+\caption{{\small The behavior of {\sc sheep} and {\sc goats} when mixed together in the jury scenario. As one might expect, the behavior of {\sc goats} is entirely unchanged by the presence of {\sc sheep}, but the {\sc sheep} shift their votes to more closely match the {\sc goats}.}}
+\label{juror2}
+\end{center}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[t]
+\begin{center}
+\includegraphics[width=9cm]{categorisation.png} %\includegraphics[width=7cm]{brn2.pdf}
+\caption{{\small In case study 3, we consider a categorization case with eight items from two categories that differ from one another along one dimension (top panel). We imagine a situation in which an experimenter might want to use the iterated learning task to infer to what extent people have a bias to assume that categories are coherent (left panel) rather than incoherent (right panel).}}
+\label{categories}
+\end{center}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[t]
+\begin{center}
+\begin{tabular}{c}
+\textsf{Category Coherence} \\
+\includegraphics[width=6cm]{catcohpure.pdf} \includegraphics[width=6cm]{catcohmixed.pdf}
+\end{tabular}
+%\includegraphics[width=12cm]{catcohall.png}
+\caption{\small{Category coherence: Performance of iterated learning chains in a supervised learning categorization task. The $y$ axis shows category coherence as reflected in the number of adjacent items in the same category: higher numbers reflect more coherence. {\bf Left panel}: Category coherence assuming all participants share the same prior ($\lambda$). Here there are three chains each reflecting one of the three $\lambda$ values. As $\lambda$ grows higher, iterated learning produces more coherent categories. The gray dotted line reflects the average of the three chains. {\bf Right panel}: When there are individual differences within participants, the overall average coherence of the iterated learning chain (gray dotted line) is lower than the average coherence of the three participant types taken separately (gray dotted line in left panel). This is because the behavior of learners with larger $\lambda$ is pulled more towards the behavior of learners with smaller $\lambda$, rather than vice-versa. All results reflect 100,000 simulations for each separate chain.}}
+\label{catcoherence}
+\end{center}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[t]
+\begin{center}
+\begin{tabular}{c}
+\textsf{Category Size} \\
+\includegraphics[width=6cm]{catsizepure.pdf} \includegraphics[width=6cm]{catsizemixed.pdf}
+%\includegraphics[width=12cm]{catsizeall.png}
+\end{tabular}
+\caption{\small{Category size: Performance of iterated learning chains in a supervised learning categorization task. The $y$ axis shows the preference for skewed categories, as reflected in the number of items in the smaller category: 1 indicates the maximum degree of skew, while 4 means both categories are equally sized. {\bf Left panel}: Relative size of the categories assuming all participants share the same prior ($\lambda$). Here there are three chains each reflecting one of three $\lambda$ values. As $\lambda$ grows higher, iterated learning produces more equally-sized categories. The gray dotted line reflects the average of the three chains. {\bf Right panel}: When there are individual differences within participants, the overall average category skew in the iterated learning chain is larger (i.e., the size of the smallest category is smaller) than the average of the three participant types taken separately (gray dotted line in left panel). As before, this is because the behavior of learners with larger $\lambda$ is pulled more towards the behavior of learners with smaller $\lambda$, rather than vice-versa. All results reflect 100,000 simulations for each separate chain.}}
+\label{catsize}
+\end{center}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[!h]
+\begin{center}
+\includegraphics[width=14cm]{two-group-sim.pdf}
+\caption{\small{A systematic exploration of four factors that affect the behavior of heterogeneous iterated learning chains, in situations where there are two discrete groups of participant in which group 2 is generally more strongly biased. In each panel the solid lines plot the average belief $b$ expressed by a member of each group elicited via an iterated learning chain (gray = group 1, black = group 2), and the dotted lines show the average belief that would be expected if the judgments were sampled from the relevant prior. The population shifts towards the group 2 belief as the strength of the bias in group 2 is increased (panel a), as there is more separation between groups (panel b), as group 2 makes up more proportion of the population (panel c), and as bottleneck size increases (panel d).}}
+\label{fig:two-group-sim}
+\end{center}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[p]
+\begin{center}
+\includegraphics[width=16cm]{cont-draw-plot.pdf}
+\caption{\small{Systematic exploration of the behavior of heterogeneous iterated learning chains when individual differences are continuous}. In the top row, individual differences are normally distributed (\textit{symmetric} condition), whereas in the bottom row there is a positive skew (\textit{asymmetric} condition). In the middle column, all learners have the same strength of bias no matter where their belief falls on the scale (\textit{equal strength}), whereas on the left it is the learners on the tails of the distribution that have the strongest biases (\textit{confident extremes}), and on the right the strongest biases occur in the middle of the distribution (\textit{confident center}). In each panel, the solid plots depict the marginal \textit{prior} distribution over the latent belief $b$ taken across the entire population, whereas the shaded plots show the corresponding marginal distribution over the beliefs $b$ elicited by an iterated learning procedure. The inset panels indicate which distribution condition (symmetric or asymmetric) and which bias condition (confident extremes, equal strength or confident center) is depicted, and the text annotations indicate the mean and standard deviation for each of the marginal distributions shown. It is evident that in all cases iterated learning distorts the underlying shape of population variation, and when the population is asymmetric and the extremes are more confident (panel d) it also converges to a different mean.}
+\label{fig:continuous}
+\end{center}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[t]
+\begin{center}
+\includegraphics[width=13cm]{advice.pdf}
+\caption{\small{A simple Bayesian model for the advice taking problem. The left panel plots a subjective probability distribution over options A-D -- the prior. The middle panel plots the posterior probability over these options conditional on each possible piece of advice (darker = more probable), for a learner who believes that the advisor is correct with probability 0.3 (only slightly above chance) and therefore relies primarily on their own beliefs -- roughly analogous to the {\sc goats} in case study 2. The right panel plots the same results for a situation in which the learner believes the advisor is correct with probability 0.9, more or less consistent with the {\sc sheep} jurors in case study 2.}}
+\label{advice}
+\end{center}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[t]
+\begin{center}
+%\includegraphics[width=11cm]{priors.pdf}
+\includegraphics[width=7cm]{priorsozelection.png}
+\caption{\small{Average reported prior probabilities in the {\sc direct elicitation} task. Most Australian participants correctly recognized that Turnbull and Shorten were the only legitimate candidates, whereas the American participants rated all four options about equally, suggesting that they had no relevant knowledge about the topic. }}
+\label{direct}
+\end{center}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[t]
+\begin{center}
+\includegraphics[width=12cm]{transitionsozelection.png}
+\caption{\small{Empirical transition matrices estimated from the {\sc advice taking} task. The advice is shown on the $x$ axis, while the choice of the participant is on the $y$ axis. Americans (left panel) tended to follow the advice they were given about the Australian election, as reflected in the darker colors on the diagonal. By contrast, Australians (right panel) were likely to pick Malcolm Turnbull regardless of what they were advised to do. This reflects differences in confidence about their prior beliefs, which affects the degree to which they are influenced by their input.}}
+\label{transitionsozelection}
+\end{center}
+\end{figure*}
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[t]
+\begin{center}
+\includegraphics[width=15cm]{chainPol.pdf}
+\caption{\small{Long run behavior of simulated iterated learning chains, plotted as a function of the probability $\theta$ of updating the chain with an Australian participant ($x$ axis). The $y$ axis reflects the proportion of each of the four possible candidates, which in a typical iterated learning analysis would be assumed to reflect people's priors.  {\bf Left panel}: Response proportions from each chain as a whole. As more Australians are included in the chain, the probability assigned to Turnbull increases. Strikingly, it is necessary for the chain to include only a small proportion of Australians (between 10\% and 20\%) for Turnbull to become the modal response. The reason for this is shown when we break down responses by participant group. {\bf Middle panel}. Responses from only the Australians in each chain reveal relatively little change as more Australians are included: the Australian participants are not strongly influenced by the input they are given. {\bf Right panel}. Responses from only the Americans in the chain show that they are highly distorted by the presence of Australians, appearing to select Turnbull by a wide margin even though Americans' actual priors were uniform over all four options.}}
+\label{chainPol}
+\end{center}
+\end{figure*}
