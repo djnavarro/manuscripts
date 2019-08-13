@@ -212,6 +212,9 @@ here as they use my correct name.
   - Navarro, D. J., Pitt, M. A. and Myung, I. J. (2004). Assessing the
     distinguishability of models and the informativeness of data.
     *Cognitive Psychology, 49*, 47-84
+    \[[pdf](./manuscripts/2004_informativeness.pdf),
+    [source](./source/2004_informativeness/),
+    [doi](http://dx.doi.org/10.1016/j.cogpsych.2003.11.001)\]
 
 ## 2003
 
