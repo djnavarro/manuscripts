@@ -100,7 +100,11 @@ here as they use my correct name.
   - Navarro, D. J., Newell, B. and Schulze, C. (2016). Learning and
     choosing in an uncertain world: An investigation of the
     explore-exploit dilemma in static and dynamic environments.
-    *Cognitive Psychology, 85*, 43-77
+    *Cognitive Psychology, 85*, 43-77.
+    \[[pdf](./manuscripts/2016_exploreexploit.pdf),
+    [source](./source/2016_exploreexploit/),
+    [doi](https://doi.org/10.1016/j.cogpsych.2016.01.001),
+    [github](https://github.com/djnavarro/observeorbet)\]
   - Ransom, K., Perfors, A. and Navarro, D. J. (2016). Leaping to
     conclusions: Why premise relevance affects argument strength.
     *Cognitive Science, 40*, 1775-1796

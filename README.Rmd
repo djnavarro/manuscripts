@@ -48,7 +48,7 @@ This is not a complete listing of all my papers. Instead it is a collection of p
 - De Deyne, S., Perfors A., and Navarro, D. J. (2016). Predicting human similarity judgments with distributional models: The value of word associations. *Proceedings of COLING 2016, the 27th International Conference on Computational Linguistics*
 - Gokaydin, D. Navarro, D. J., Ma-Wyatt, A. and Perfors, A. (2016). The structure of sequential effects. *Journal of Experimental Psychology: General, 145*, 110-123 
 - Hendrickson, A., Navarro D. J. and Perfors, A. (2016). Sensitivity to hypothesis size during information search. *Decision, 3*, 62-80 
-- Navarro, D. J., Newell, B. and Schulze, C. (2016). Learning and choosing in an uncertain world: An investigation of the explore-exploit dilemma in static and dynamic environments. *Cognitive Psychology, 85*, 43-77 
+- Navarro, D. J., Newell, B. and Schulze, C. (2016). Learning and choosing in an uncertain world: An investigation of the explore-exploit dilemma in static and dynamic environments. *Cognitive Psychology, 85*, 43-77.  [[pdf](./manuscripts/2016_exploreexploit.pdf), [source](./source/2016_exploreexploit/), [doi](https://doi.org/10.1016/j.cogpsych.2016.01.001), [github](https://github.com/djnavarro/observeorbet)]
 - Ransom, K., Perfors, A. and Navarro, D. J. (2016). Leaping to conclusions: Why premise relevance affects argument strength. *Cognitive Science, 40*, 1775-1796 
 - Vong, W. K., Navarro, D. J. and Perfors, A. (2016). The helpfulness of category labels in semi-supervised learning depends on category structure. *Psychonomic Bulletin and Review, 23*, 230-238
 
