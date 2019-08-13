@@ -108,15 +108,11 @@ here as they use my correct name.
     \[[pdf](./manuscripts/2016_weaksimilarity.pdf),
     [source](./source/2016_weaksimilarity/),
     [doi](https://doi.org/10.1037/xge0000192)\]
-  - De Deyne, S., Perfors A., and Navarro, D. J. (2016). Predicting
-    human similarity judgments with distributional models: The value of
-    word associations. *Proceedings of COLING 2016, the 27th
-    International Conference on Computational Linguistics*
   - Gokaydin, D. Navarro, D. J., Ma-Wyatt, A. and Perfors, A. (2016).
     The structure of sequential effects. *Journal of Experimental
     Psychology: General, 145*, 110-123
   - Hendrickson, A., Navarro D. J. and Perfors, A. (2016). Sensitivity
-    to hypothesis size during information search. *Decision, 3*, 62-80
+    to hypothesis size during information search. *Decision, 3*, 62-80.
   - Navarro, D. J., Newell, B. and Schulze, C. (2016). Learning and
     choosing in an uncertain world: An investigation of the
     explore-exploit dilemma in static and dynamic environments.
