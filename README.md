@@ -49,8 +49,13 @@ here as they use my correct name.
     (2018). When extremists win: Cultural transmission via iterated
     learning when priors are heterogeneous. *Cognitive Science, 42*,
     2108-2149
-  - DJ Navarro, P Tran and N Baz (2018). Aversion to option loss in a
-    restless bandit task. *Computational Brain and Behavior, 1*, 151-164
+  - Navarro, D. J., Tran, P. and Baz, N. (2018). Aversion to option loss
+    in a restless bandit task. *Computational Brain and Behavior, 1*,
+    151-164. \[[pdf](./manuscripts/2018_vanishingbandits.pdf),
+    [source](./source/2018_vanishingbandits),
+    [doi](https://dx.doi.org/10.1007/s42113-018-0010-8),
+    [psyarxiv](https://doi.org/10.17605/OSF.IO/3G4P5),
+    [osf](https://osf.io/nzvqp/)\]
 
 ## 2017
 
