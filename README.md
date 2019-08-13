@@ -50,7 +50,6 @@ here as they use my correct name.
     2346–2355. \[[pdf](./manuscripts/2018_handwriting.pdf),
     [source](./source/2018_handwriting),
     [doi](https://doi.org/10.3758/s13423-018-1448-3),
-    [psyarxiv](http://dx.doi.org/10.17605/OSF.IO/7NPQ6),
     [osf](https://osf.io/n2g4v/),
     [github](https://github.com/djnavarro/handwritingwoc)\]
   - Navarro, D. J., Perfors, A., Kary, A., Brown, S. and Donkin, C.
