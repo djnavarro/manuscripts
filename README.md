@@ -111,6 +111,9 @@ here as they use my correct name.
   - Gokaydin, D. Navarro, D. J., Ma-Wyatt, A. and Perfors, A. (2016).
     The structure of sequential effects. *Journal of Experimental
     Psychology: General, 145*, 110-123
+    \[[pdf](./manuscripts/2016_sequential.pdf),
+    [source](./source/2016_sequential/),
+    [doi](http://dx.doi.org/10.1037/xge0000106)\]
   - Hendrickson, A., Navarro D. J. and Perfors, A. (2016). Sensitivity
     to hypothesis size during information search. *Decision, 3*, 62-80.
   - Navarro, D. J., Newell, B. and Schulze, C. (2016). Learning and
