@@ -185,7 +185,7 @@ here as they use my correct name.
     positive test strategy, and sparse categories. *Psychological
     Review, 118*, 120-34 \[[pdf](./manuscripts/2011_positivetest.pdf),
     [source](./source/2011_positivetest/),
-    [doi](http://dx.doi.org/10.1037/a0021110)
+    [doi](http://dx.doi.org/10.1037/a0021110)\]
 
 ## 2010
 
