@@ -222,7 +222,10 @@ here as they use my correct name.
     Science Society* (pp. 323-328)
   - Myung, J. I., Pitt, M. A. and Navarro, D. J. (2007). Does response
     scaling cause the Generalized Context Model to mimic a prototype
-    model? *Psychonomic Bulletin and Review, 14*, 1043-1050
+    model? *Psychonomic Bulletin and Review, 14*, 1043-1050.
+    \[[pdf](./manuscripts/2007_catmimic.pdf),
+    [source](./source/2007_catmimic/),
+    [doi](http://dx.doi.org/10.3758/BF03193089)\]
 
 ## 2006
 

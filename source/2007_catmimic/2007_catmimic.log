@@ -1,0 +1,255 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.13)  13 AUG 2019 22:41
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**2007_catmimic.tex
+(./2007_catmimic.tex
+LaTeX2e <2018-12-01>
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+\epsfxsize=\dimen105
+\epsfysize=\dimen106
+)
+(./lscpapa.sty
+Package: lscpapa 1995/06/25 v 1.3 LSCP APASTYLE
+ (./chicago.sty
+Using Chicago Manual of Style bibliography: 31 August 1992
+\bibhang=\skip43
+\bibindent=\dimen107
+)
+\c@experiment=\count88
+\c@subexperiment=\count89
+\b@level@one@skip=\skip44
+\e@level@one@skip=\skip45
+\b@level@two@skip=\skip46
+\e@level@two@skip=\skip47
+\b@level@three@skip=\skip48
+\e@level@three@skip=\skip49
+\b@level@four@skip=\skip50
+\e@level@four@skip=\skip51
+\b@level@five@skip=\skip52
+\e@level@five@skip=\skip53
+\c@APAenum=\count90
+\@text@par@indent=\skip54
+\UL@hyphenbox=\box27
+\UL@box=\box28
+\UL@spfactor=\count91
+\UL@penalty=\count92
+\UL@skip=\skip55
+\UL@lht=\dimen108
+\UL@ldp=\dimen109
+\UL@pixel=\dimen110
+) (/home/danielle/.TinyTeX/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup5
+\symboldletters=\mathgroup6
+\symboldsymbols=\mathgroup7
+\symboldlasy=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/draftwatermark/draftwatermark.sty
+Package: draftwatermark 2015/02/19 1.2 Put a gray textual watermark on document
+ pages
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/everypage/everypage.sty
+Package: everypage 2007/06/20 1.1 Hooks to run on every page
+)
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+\sc@wm@hcenter=\skip56
+\sc@wm@vcenter=\skip57
+\sc@wm@fontsize=\skip58
+)
+(./2007_catmimic.aux)
+\openout1 = `2007_catmimic.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/home/danielle/.TinyTeX/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/home/danielle/.TinyTeX/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/home/danielle/.TinyTeX/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/home/danielle/.TinyTeX/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/home/danielle/.TinyTeX/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/home/danielle/.TinyTeX/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(/home/danielle/.TinyTeX/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/home/danielle/.TinyTeX/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 50.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 50.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 50.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 50.
+
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 50.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 50.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 75.
+ [1{/home/danielle/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+] [2] [3] [4] [5]
+[6] [7] [8] [9] [10] [11] [12] [13] [14
+
+]
+Package epstopdf Info: Source file: <sn4x.eps>
+(epstopdf)                    date: 2007-01-02 14:59:08
+(epstopdf)                    size: 5012859 bytes
+(epstopdf)             Output file: <sn4x-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-08-13 22:38:02
+(epstopdf)                    size: 30958 bytes
+(epstopdf)             Command: <repstopdf --outfile=sn4x-eps-converted-to.pdf 
+sn4x.eps>
+(epstopdf)             \includegraphics on input line 685.
+Package epstopdf Info: Output file is already uptodate.
+<sn4x-eps-converted-to.pdf, id=64, 306.14375pt x 428.60126pt>
+File: sn4x-eps-converted-to.pdf Graphic file (type pdf)
+<use sn4x-eps-converted-to.pdf>
+Package pdftex.def Info: sn4x-eps-converted-to.pdf  used on input line 685.
+(pdftex.def)             Requested size: 361.34999pt x 505.91513pt.
+ [15] [16 <./sn4x-eps-converted-to.pdf>] (./2007_catmimic.aux) ) 
+Here is how much of TeX's memory you used:
+ 1556 strings out of 494553
+ 22675 string characters out of 6176983
+ 88097 words of memory out of 5000000
+ 5191 multiletter control sequences out of 15000+600000
+ 12962 words of font info for 48 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 41i,13n,26p,603b,280s stack positions out of 5000i,500n,10000p,200000b,80000s
+</home/danielle
+/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></home/danielle/
+.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/danielle/.
+TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></home/danielle/.T
+inyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/danielle/.Ti
+nyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></home/danielle/.Tiny
+TeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></home/danielle/.TinyTe
+X/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></home/danielle/.TinyTe
+X/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/danielle/.TinyTeX/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/danielle/.TinyTeX/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/danielle/.TinyTeX/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></home/danielle/.TinyTeX/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/danielle/.TinyTeX/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/danielle/.TinyTeX/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsl10.pfb></home/danielle/.TinyTeX/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb></home/danielle/.TinyTeX/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy8.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmti10.pfb>
+Output written on 2007_catmimic.pdf (16 pages, 283479 bytes).
+PDF statistics:
+ 129 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
