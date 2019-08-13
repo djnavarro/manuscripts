@@ -194,7 +194,9 @@ here as they use my correct name.
 
   - Myung, J. I., Navarro, D. J. and Pitt, M. A. (2006). Model selection
     by Normalized Maximum Likelihood. *Journal of Mathematical
-    Psychology, 50*, 167-179
+    Psychology, 50*, 167-179. \[[pdf](./manuscripts/2006_nml.pdf),
+    [source](./source/2006_nml/),
+    [doi](http://dx.doi.org/10.1016/j.jmp.2005.06.008)\]
   - Navarro, D. J., Griffiths, T. L., Steyvers, M. and Lee, M. D.
     (2006). Modeling individual differences using Dirichlet processes.
     *Journal of Mathematical Psychology, 50*, 101-122.
