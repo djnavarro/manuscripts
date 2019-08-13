@@ -130,6 +130,9 @@ here as they use my correct name.
   - Vong, W. K., Navarro, D. J. and Perfors, A. (2016). The helpfulness
     of category labels in semi-supervised learning depends on category
     structure. *Psychonomic Bulletin and Review, 23*, 230-238
+    \[[pdf](./manuscripts/2016_semisupervised.pdf),
+    [source](./source/2016_semisupervised/),
+    [doi](https://dx.doi.org/10.3758/s13423-015-0857-9)\]
 
 ## 2015
 
