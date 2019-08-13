@@ -1,0 +1,48 @@
+model {
+
+	# this model is really just to estimate bayes factors
+
+	# response distribution in the baseline condition
+	for( i in 1:4 ) {
+		alpha[i] <- 1
+	}
+	baseline ~ ddirich(alpha)
+	
+	# implied response distribution for the other conditions 
+	# if only the only belief change is via falsification
+	falserate ~ dunif(0,.1) # 10% is a charitable upper bound here
+	s0 <- baseline[1] + baseline[2] + 2*falserate # normalising constant for the close negative 
+	s1 <- baseline[1] + baseline[2] + baseline[3] + falserate # normalising constant for the distant negative
+	closeF[1] <- baseline[1]/s0
+	closeF[2] <- baseline[2]/s0
+	closeF[3] <- falserate/s0
+	closeF[4] <- falserate/s0
+	distF[1] <- baseline[1]/s1
+	distF[2] <- baseline[2]/s1
+	distF[3] <- baseline[3]/s1
+	distF[4] <- falserate/s1
+	
+	# what proportion of belief shifts from the small to the large
+	doshift ~ dbern(.5) # switch parameter to capture the bayes factor
+	shiftmassC ~ dbeta(1,1) # proportion for the close condition
+	shiftmassD ~ dbeta(1,1) # proportion for the distant condition
+	
+	# implied probabilities for the close condition
+	close[1] <- (1-doshift)*closeF[1] + doshift*( closeF[1]*(1-shiftmassC) )
+	close[2] <- (1-doshift)*closeF[2] + doshift*( closeF[2] + closeF[1]*shiftmassC )
+	close[3] <- closeF[3]
+	close[4] <- closeF[4]
+	
+	# implied probabilities for the dist condition
+	dist[1] <- (1-doshift)*distF[1] + doshift*( distF[1]*(1-shiftmassD) )
+	dist[2] <- (1-doshift)*distF[2] + doshift*( distF[2] + distF[1]*shiftmassD )
+	dist[3] <- distF[3]
+	dist[4] <- distF[4]
+
+	# outcome counts
+	distK ~ dmulti(dist,distN)
+	closeK ~ dmulti(close,closeN)
+	baseK ~ dmulti(baseline,baseN)
+
+
+}

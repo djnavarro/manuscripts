@@ -113,7 +113,10 @@ here as they use my correct name.
   - Voorspoels, W., Navarro, D. J., Perfors, A., Ransom K. and Storms,
     G. (2015). How do people learn from negative evidence? Non-monotonic
     generalizations and sampling assumptions in inductive reasoning.
-    *Cognitive Psychology, 81*, 1-25
+    *Cognitive Psychology, 81*, 1-25.
+    \[[pdf](./manuscripts/2015_negativeevidence.pdf),
+    [source](./source/2015_negativeevidence/),
+    [doi](http://dx.doi.org/10.1016/j.cogpsych.2015.07.001)\]
 
 ## 2014
 

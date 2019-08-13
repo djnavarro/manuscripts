@@ -1,0 +1,1035 @@
+"LIST"	"premset"	"pp"	"item"	"rules"	"ruletype"
+"1"	1	"baseline"	1	"1. Mozart"	"sub"	2
+"2"	1	"baseline"	2	"1. Mozart"	"rest"	5
+"3"	1	"baseline"	3	"1. Mozart"	"sub"	2
+"4"	1	"baseline"	4	"1. Mozart"	"sub"	2
+"5"	1	"baseline"	5	"1. Mozart"	"sub"	2
+"6"	1	"baseline"	6	"1. Mozart"	"cat"	3
+"7"	1	"baseline"	7	"1. Mozart"	"sub"	2
+"8"	1	"baseline"	8	"1. Mozart"	"sub"	2
+"9"	1	"baseline"	9	"1. Mozart"	"sub"	2
+"10"	1	"baseline"	10	"1. Mozart"	"sub"	2
+"11"	1	"baseline"	11	"1. Mozart"	"sub"	2
+"12"	1	"baseline"	12	"1. Mozart"	"sub"	2
+"13"	1	"baseline"	13	"1. Mozart"	"sub"	2
+"14"	1	"baseline"	14	"1. Mozart"	"sub"	2
+"15"	1	"baseline"	15	"1. Mozart"	"sub"	2
+"16"	1	"baseline"	16	"1. Mozart"	"sub"	2
+"17"	1	"baseline"	17	"1. Mozart"	"sub"	2
+"18"	1	"baseline"	18	"1. Mozart"	"sub"	2
+"19"	1	"baseline"	19	"1. Mozart"	"sub"	2
+"20"	1	"baseline"	20	"1. Mozart"	"rest"	5
+"21"	1	"baseline"	21	"1. Mozart"	"sub"	2
+"22"	1	"baseline"	22	"1. Mozart"	"sub"	2
+"23"	1	"baseline"	23	"1. Mozart"	"sub"	2
+"24"	1	"baseline"	24	"1. Mozart"	"base"	1
+"25"	1	"baseline"	25	"1. Mozart"	"sub"	2
+"26"	1	"baseline"	26	"1. Mozart"	"cat"	3
+"27"	1	"baseline"	27	"1. Mozart"	"sub"	2
+"28"	1	"baseline"	28	"1. Mozart"	"cat"	3
+"29"	2	"close negative"	29	"1. Mozart"	"sub"	2
+"30"	2	"close negative"	30	"1. Mozart"	"sub"	2
+"31"	2	"close negative"	31	"1. Mozart"	"sub"	2
+"32"	2	"close negative"	32	"1. Mozart"	"sub"	2
+"33"	2	"close negative"	33	"1. Mozart"	"sub"	2
+"34"	2	"close negative"	34	"1. Mozart"	"sub"	2
+"35"	2	"close negative"	35	"1. Mozart"	"sub"	2
+"36"	2	"close negative"	36	"1. Mozart"	"sub"	2
+"37"	2	"close negative"	37	"1. Mozart"	"sub"	2
+"38"	2	"close negative"	38	"1. Mozart"	"sub"	2
+"39"	2	"close negative"	39	"1. Mozart"	"sub"	2
+"40"	2	"close negative"	40	"1. Mozart"	"sub"	2
+"41"	2	"close negative"	41	"1. Mozart"	"sub"	2
+"42"	2	"close negative"	42	"1. Mozart"	"sub"	2
+"43"	2	"close negative"	43	"1. Mozart"	"sub"	2
+"44"	2	"close negative"	44	"1. Mozart"	"rest"	5
+"45"	2	"close negative"	45	"1. Mozart"	"rest"	5
+"46"	2	"close negative"	46	"1. Mozart"	"sub"	2
+"47"	2	"close negative"	47	"1. Mozart"	"rest"	5
+"48"	2	"close negative"	48	"1. Mozart"	"sub"	2
+"49"	2	"close negative"	49	"1. Mozart"	"sub"	2
+"50"	2	"close negative"	50	"1. Mozart"	"sub"	2
+"51"	2	"close negative"	51	"1. Mozart"	"sub"	2
+"52"	2	"close negative"	52	"1. Mozart"	"rest"	5
+"53"	2	"close negative"	53	"1. Mozart"	"sub"	2
+"54"	2	"close negative"	54	"1. Mozart"	"sub"	2
+"55"	2	"close negative"	55	"1. Mozart"	"sub"	2
+"56"	2	"close negative"	56	"1. Mozart"	"rest"	5
+"57"	2	"close negative"	57	"1. Mozart"	"base"	1
+"58"	2	"close negative"	57	"1. Mozart"	"base"	1
+"59"	3	"distant negative"	58	"1. Mozart"	"rest"	5
+"60"	3	"distant negative"	59	"1. Mozart"	"cat"	3
+"61"	3	"distant negative"	60	"1. Mozart"	"sub"	2
+"62"	3	"distant negative"	61	"1. Mozart"	"cat"	3
+"63"	3	"distant negative"	62	"1. Mozart"	"cat"	3
+"64"	3	"distant negative"	63	"1. Mozart"	"cat"	3
+"65"	3	"distant negative"	64	"1. Mozart"	"rest"	5
+"66"	3	"distant negative"	65	"1. Mozart"	"sub"	2
+"67"	3	"distant negative"	66	"1. Mozart"	"sub"	2
+"68"	3	"distant negative"	67	"1. Mozart"	"sub"	2
+"69"	3	"distant negative"	68	"1. Mozart"	"sub"	2
+"70"	3	"distant negative"	69	"1. Mozart"	"base"	1
+"71"	3	"distant negative"	70	"1. Mozart"	"cat"	3
+"72"	3	"distant negative"	71	"1. Mozart"	"rest"	5
+"73"	3	"distant negative"	72	"1. Mozart"	"sub"	2
+"74"	3	"distant negative"	73	"1. Mozart"	"cat"	3
+"75"	3	"distant negative"	74	"1. Mozart"	"rest"	5
+"76"	3	"distant negative"	75	"1. Mozart"	"cat"	3
+"77"	3	"distant negative"	76	"1. Mozart"	"rest"	5
+"78"	3	"distant negative"	77	"1. Mozart"	"rest"	5
+"79"	3	"distant negative"	78	"1. Mozart"	"sub"	2
+"80"	3	"distant negative"	79	"1. Mozart"	"sub"	2
+"81"	3	"distant negative"	80	"1. Mozart"	"sub"	2
+"82"	3	"distant negative"	81	"1. Mozart"	"cat"	3
+"83"	3	"distant negative"	82	"1. Mozart"	"sub"	2
+"84"	3	"distant negative"	83	"1. Mozart"	"rest"	5
+"85"	3	"distant negative"	84	"1. Mozart"	"cat"	3
+"86"	3	"distant negative"	85	"1. Mozart"	"rest"	5
+"87"	3	"distant negative"	85	"1. Mozart"	"cat"	3
+"88"	2	"distant negative"	29	"10. Water"	"rest"	5
+"89"	2	"distant negative"	30	"10. Water"	"sub"	2
+"90"	2	"distant negative"	31	"10. Water"	"sub"	2
+"91"	2	"distant negative"	32	"10. Water"	"sub"	2
+"92"	2	"distant negative"	33	"10. Water"	"cat"	3
+"93"	2	"distant negative"	34	"10. Water"	"super"	4
+"94"	2	"distant negative"	35	"10. Water"	"cat"	3
+"95"	2	"distant negative"	36	"10. Water"	"sub"	2
+"96"	2	"distant negative"	37	"10. Water"	"cat"	3
+"97"	2	"distant negative"	38	"10. Water"	"sub"	2
+"98"	2	"distant negative"	39	"10. Water"	"sub"	2
+"99"	2	"distant negative"	40	"10. Water"	"sub"	2
+"100"	2	"distant negative"	41	"10. Water"	"sub"	2
+"101"	2	"distant negative"	42	"10. Water"	"sub"	2
+"102"	2	"distant negative"	43	"10. Water"	"sub"	2
+"103"	2	"distant negative"	44	"10. Water"	"cat"	3
+"104"	2	"distant negative"	45	"10. Water"	"cat"	3
+"105"	2	"distant negative"	46	"10. Water"	"cat"	3
+"106"	2	"distant negative"	47	"10. Water"	"cat"	3
+"107"	2	"distant negative"	48	"10. Water"	"cat"	3
+"108"	2	"distant negative"	49	"10. Water"	"base"	1
+"109"	2	"distant negative"	50	"10. Water"	"cat"	3
+"110"	2	"distant negative"	51	"10. Water"	"cat"	3
+"111"	2	"distant negative"	52	"10. Water"	"cat"	3
+"112"	2	"distant negative"	53	"10. Water"	"sub"	2
+"113"	2	"distant negative"	54	"10. Water"	"super"	4
+"114"	2	"distant negative"	55	"10. Water"	"rest"	5
+"115"	2	"distant negative"	56	"10. Water"	"sub"	2
+"116"	2	"distant negative"	57	"10. Water"	"super"	4
+"117"	3	"close negative"	58	"10. Water"	"sub"	2
+"118"	3	"close negative"	59	"10. Water"	"sub"	2
+"119"	3	"close negative"	60	"10. Water"	"sub"	2
+"120"	3	"close negative"	61	"10. Water"	"sub"	2
+"121"	3	"close negative"	62	"10. Water"	"sub"	2
+"122"	3	"close negative"	63	"10. Water"	"sub"	2
+"123"	3	"close negative"	64	"10. Water"	"sub"	2
+"124"	3	"close negative"	65	"10. Water"	"sub"	2
+"125"	3	"close negative"	66	"10. Water"	"sub"	2
+"126"	3	"close negative"	67	"10. Water"	"sub"	2
+"127"	3	"close negative"	68	"10. Water"	"sub"	2
+"128"	3	"close negative"	69	"10. Water"	"sub"	2
+"129"	3	"close negative"	70	"10. Water"	"sub"	2
+"130"	3	"close negative"	71	"10. Water"	"sub"	2
+"131"	3	"close negative"	72	"10. Water"	"sub"	2
+"132"	3	"close negative"	73	"10. Water"	"base"	1
+"133"	3	"close negative"	74	"10. Water"	"sub"	2
+"134"	3	"close negative"	75	"10. Water"	"sub"	2
+"135"	3	"close negative"	76	"10. Water"	"sub"	2
+"136"	3	"close negative"	77	"10. Water"	"sub"	2
+"137"	3	"close negative"	78	"10. Water"	"sub"	2
+"138"	3	"close negative"	79	"10. Water"	"base"	1
+"139"	3	"close negative"	80	"10. Water"	"sub"	2
+"140"	3	"close negative"	81	"10. Water"	"sub"	2
+"141"	3	"close negative"	82	"10. Water"	"sub"	2
+"142"	3	"close negative"	83	"10. Water"	"sub"	2
+"143"	3	"close negative"	84	"10. Water"	"sub"	2
+"144"	3	"close negative"	85	"10. Water"	"sub"	2
+"145"	4	"baseline"	86	"10. Water"	"sub"	2
+"146"	4	"baseline"	87	"10. Water"	"sub"	2
+"147"	4	"baseline"	88	"10. Water"	"sub"	2
+"148"	4	"baseline"	89	"10. Water"	"cat"	3
+"149"	4	"baseline"	90	"10. Water"	"sub"	2
+"150"	4	"baseline"	91	"10. Water"	"sub"	2
+"151"	4	"baseline"	92	"10. Water"	"sub"	2
+"152"	4	"baseline"	93	"10. Water"	"sub"	2
+"153"	4	"baseline"	94	"10. Water"	"sub"	2
+"154"	4	"baseline"	95	"10. Water"	"sub"	2
+"155"	4	"baseline"	96	"10. Water"	"sub"	2
+"156"	4	"baseline"	97	"10. Water"	"sub"	2
+"157"	4	"baseline"	98	"10. Water"	"base"	1
+"158"	4	"baseline"	99	"10. Water"	"sub"	2
+"159"	4	"baseline"	100	"10. Water"	"base"	1
+"160"	4	"baseline"	101	"10. Water"	"cat"	3
+"161"	4	"baseline"	102	"10. Water"	"sub"	2
+"162"	4	"baseline"	103	"10. Water"	"base"	1
+"163"	4	"baseline"	104	"10. Water"	"base"	1
+"164"	4	"baseline"	105	"10. Water"	"sub"	2
+"165"	4	"baseline"	106	"10. Water"	"base"	1
+"166"	4	"baseline"	107	"10. Water"	"rest"	5
+"167"	4	"baseline"	108	"10. Water"	"sub"	2
+"168"	4	"baseline"	109	"10. Water"	"rest"	5
+"169"	4	"baseline"	110	"10. Water"	"sub"	2
+"170"	4	"baseline"	111	"10. Water"	"sub"	2
+"171"	4	"baseline"	112	"10. Water"	"sub"	2
+"172"	4	"baseline"	113	"10. Water"	"sub"	2
+"173"	4	"baseline"	114	"10. Water"	"sub"	2
+"174"	3	"distant negative"	58	"11. Motten"	"sub"	2
+"175"	3	"distant negative"	59	"11. Motten"	"base"	1
+"176"	3	"distant negative"	60	"11. Motten"	"rest"	5
+"177"	3	"distant negative"	61	"11. Motten"	"rest"	5
+"178"	3	"distant negative"	62	"11. Motten"	"cat"	3
+"179"	3	"distant negative"	63	"11. Motten"	"cat"	3
+"180"	3	"distant negative"	64	"11. Motten"	"rest"	5
+"181"	3	"distant negative"	65	"11. Motten"	"cat"	3
+"182"	3	"distant negative"	66	"11. Motten"	"cat"	3
+"183"	3	"distant negative"	67	"11. Motten"	"rest"	5
+"184"	3	"distant negative"	68	"11. Motten"	"cat"	3
+"185"	3	"distant negative"	69	"11. Motten"	"rest"	5
+"186"	3	"distant negative"	70	"11. Motten"	"rest"	5
+"187"	3	"distant negative"	71	"11. Motten"	"rest"	5
+"188"	3	"distant negative"	72	"11. Motten"	"sub"	2
+"189"	3	"distant negative"	73	"11. Motten"	"sub"	2
+"190"	3	"distant negative"	74	"11. Motten"	"cat"	3
+"191"	3	"distant negative"	75	"11. Motten"	"cat"	3
+"192"	3	"distant negative"	76	"11. Motten"	"cat"	3
+"193"	3	"distant negative"	77	"11. Motten"	"cat"	3
+"194"	3	"distant negative"	78	"11. Motten"	"rest"	5
+"195"	3	"distant negative"	79	"11. Motten"	"base"	1
+"196"	3	"distant negative"	80	"11. Motten"	"cat"	3
+"197"	3	"distant negative"	81	"11. Motten"	"cat"	3
+"198"	3	"distant negative"	82	"11. Motten"	"cat"	3
+"199"	3	"distant negative"	83	"11. Motten"	"rest"	5
+"200"	3	"distant negative"	84	"11. Motten"	"cat"	3
+"201"	3	"distant negative"	85	"11. Motten"	"cat"	3
+"202"	4	"close negative"	86	"11. Motten"	"rest"	5
+"203"	4	"close negative"	87	"11. Motten"	"cat"	3
+"204"	4	"close negative"	88	"11. Motten"	"rest"	5
+"205"	4	"close negative"	89	"11. Motten"	"rest"	5
+"206"	4	"close negative"	90	"11. Motten"	"rest"	5
+"207"	4	"close negative"	91	"11. Motten"	"sub"	2
+"208"	4	"close negative"	92	"11. Motten"	"sub"	2
+"209"	4	"close negative"	93	"11. Motten"	"rest"	5
+"210"	4	"close negative"	94	"11. Motten"	"rest"	5
+"211"	4	"close negative"	95	"11. Motten"	"sub"	2
+"212"	4	"close negative"	96	"11. Motten"	"sub"	2
+"213"	4	"close negative"	97	"11. Motten"	"cat"	3
+"214"	4	"close negative"	98	"11. Motten"	"sub"	2
+"215"	4	"close negative"	99	"11. Motten"	"sub"	2
+"216"	4	"close negative"	100	"11. Motten"	"sub"	2
+"217"	4	"close negative"	101	"11. Motten"	"sub"	2
+"218"	4	"close negative"	102	"11. Motten"	"sub"	2
+"219"	4	"close negative"	103	"11. Motten"	"sub"	2
+"220"	4	"close negative"	104	"11. Motten"	"rest"	5
+"221"	4	"close negative"	105	"11. Motten"	"rest"	5
+"222"	4	"close negative"	106	"11. Motten"	"rest"	5
+"223"	4	"close negative"	107	"11. Motten"	"rest"	5
+"224"	4	"close negative"	108	"11. Motten"	"sub"	2
+"225"	4	"close negative"	109	"11. Motten"	"sub"	2
+"226"	4	"close negative"	110	"11. Motten"	"sub"	2
+"227"	4	"close negative"	111	"11. Motten"	"sub"	2
+"228"	4	"close negative"	112	"11. Motten"	"sub"	2
+"229"	4	"close negative"	113	"11. Motten"	"sub"	2
+"230"	4	"close negative"	114	"11. Motten"	"sub"	2
+"231"	5	"baseline"	115	"11. Motten"	"sub"	2
+"232"	5	"baseline"	116	"11. Motten"	"cat"	3
+"233"	5	"baseline"	117	"11. Motten"	"sub"	2
+"234"	5	"baseline"	118	"11. Motten"	"rest"	5
+"235"	5	"baseline"	119	"11. Motten"	"rest"	5
+"236"	5	"baseline"	120	"11. Motten"	"sub"	2
+"237"	5	"baseline"	121	"11. Motten"	"sub"	2
+"238"	5	"baseline"	122	"11. Motten"	"sub"	2
+"239"	5	"baseline"	123	"11. Motten"	"rest"	5
+"240"	5	"baseline"	124	"11. Motten"	"cat"	3
+"241"	5	"baseline"	125	"11. Motten"	"sub"	2
+"242"	5	"baseline"	126	"11. Motten"	"rest"	5
+"243"	5	"baseline"	127	"11. Motten"	"cat"	3
+"244"	5	"baseline"	128	"11. Motten"	"cat"	3
+"245"	5	"baseline"	129	"11. Motten"	"cat"	3
+"246"	5	"baseline"	130	"11. Motten"	"sub"	2
+"247"	5	"baseline"	131	"11. Motten"	"sub"	2
+"248"	5	"baseline"	132	"11. Motten"	"rest"	5
+"249"	5	"baseline"	133	"11. Motten"	"sub"	2
+"250"	5	"baseline"	134	"11. Motten"	"cat"	3
+"251"	5	"baseline"	135	"11. Motten"	"cat"	3
+"252"	5	"baseline"	136	"11. Motten"	"cat"	3
+"253"	5	"baseline"	137	"11. Motten"	"cat"	3
+"254"	5	"baseline"	138	"11. Motten"	"super"	4
+"255"	5	"baseline"	139	"11. Motten"	"sub"	2
+"256"	5	"baseline"	140	"11. Motten"	"rest"	5
+"257"	5	"baseline"	141	"11. Motten"	"cat"	3
+"258"	5	"baseline"	142	"11. Motten"	"rest"	5
+"259"	5	"baseline"	143	"11. Motten"	"super"	4
+"260"	4	"distant negative"	86	"12. Ijsberen"	"sub"	2
+"261"	4	"distant negative"	87	"12. Ijsberen"	"rest"	5
+"262"	4	"distant negative"	88	"12. Ijsberen"	"sub"	2
+"263"	4	"distant negative"	89	"12. Ijsberen"	"base"	1
+"264"	4	"distant negative"	90	"12. Ijsberen"	"sub"	2
+"265"	4	"distant negative"	91	"12. Ijsberen"	"sub"	2
+"266"	4	"distant negative"	92	"12. Ijsberen"	"sub"	2
+"267"	4	"distant negative"	93	"12. Ijsberen"	"sub"	2
+"268"	4	"distant negative"	94	"12. Ijsberen"	"sub"	2
+"269"	4	"distant negative"	95	"12. Ijsberen"	"sub"	2
+"270"	4	"distant negative"	96	"12. Ijsberen"	"sub"	2
+"271"	4	"distant negative"	97	"12. Ijsberen"	"sub"	2
+"272"	4	"distant negative"	98	"12. Ijsberen"	"rest"	5
+"273"	4	"distant negative"	99	"12. Ijsberen"	"sub"	2
+"274"	4	"distant negative"	100	"12. Ijsberen"	"rest"	5
+"275"	4	"distant negative"	101	"12. Ijsberen"	"sub"	2
+"276"	4	"distant negative"	102	"12. Ijsberen"	"sub"	2
+"277"	4	"distant negative"	103	"12. Ijsberen"	"super"	4
+"278"	4	"distant negative"	104	"12. Ijsberen"	"sub"	2
+"279"	4	"distant negative"	105	"12. Ijsberen"	"rest"	5
+"280"	4	"distant negative"	106	"12. Ijsberen"	"rest"	5
+"281"	4	"distant negative"	107	"12. Ijsberen"	"sub"	2
+"282"	4	"distant negative"	108	"12. Ijsberen"	"sub"	2
+"283"	4	"distant negative"	109	"12. Ijsberen"	"sub"	2
+"284"	4	"distant negative"	110	"12. Ijsberen"	"cat"	3
+"285"	4	"distant negative"	111	"12. Ijsberen"	"sub"	2
+"286"	4	"distant negative"	112	"12. Ijsberen"	"sub"	2
+"287"	4	"distant negative"	113	"12. Ijsberen"	"sub"	2
+"288"	4	"distant negative"	114	"12. Ijsberen"	"rest"	5
+"289"	5	"close negative"	115	"12. Ijsberen"	"sub"	2
+"290"	5	"close negative"	116	"12. Ijsberen"	"cat"	3
+"291"	5	"close negative"	117	"12. Ijsberen"	"sub"	2
+"292"	5	"close negative"	118	"12. Ijsberen"	"sub"	2
+"293"	5	"close negative"	119	"12. Ijsberen"	"sub"	2
+"294"	5	"close negative"	120	"12. Ijsberen"	"sub"	2
+"295"	5	"close negative"	121	"12. Ijsberen"	"rest"	5
+"296"	5	"close negative"	122	"12. Ijsberen"	"sub"	2
+"297"	5	"close negative"	123	"12. Ijsberen"	"sub"	2
+"298"	5	"close negative"	124	"12. Ijsberen"	"sub"	2
+"299"	5	"close negative"	125	"12. Ijsberen"	"sub"	2
+"300"	5	"close negative"	126	"12. Ijsberen"	"base"	1
+"301"	5	"close negative"	127	"12. Ijsberen"	"base"	1
+"302"	5	"close negative"	128	"12. Ijsberen"	"sub"	2
+"303"	5	"close negative"	129	"12. Ijsberen"	"rest"	5
+"304"	5	"close negative"	130	"12. Ijsberen"	"rest"	5
+"305"	5	"close negative"	131	"12. Ijsberen"	"rest"	5
+"306"	5	"close negative"	132	"12. Ijsberen"	"sub"	2
+"307"	5	"close negative"	133	"12. Ijsberen"	"sub"	2
+"308"	5	"close negative"	134	"12. Ijsberen"	"sub"	2
+"309"	5	"close negative"	135	"12. Ijsberen"	"rest"	5
+"310"	5	"close negative"	136	"12. Ijsberen"	"sub"	2
+"311"	5	"close negative"	137	"12. Ijsberen"	"sub"	2
+"312"	5	"close negative"	138	"12. Ijsberen"	"sub"	2
+"313"	5	"close negative"	139	"12. Ijsberen"	"sub"	2
+"314"	5	"close negative"	140	"12. Ijsberen"	"sub"	2
+"315"	5	"close negative"	141	"12. Ijsberen"	"sub"	2
+"316"	5	"close negative"	142	"12. Ijsberen"	"sub"	2
+"317"	5	"close negative"	143	"12. Ijsberen"	"sub"	2
+"318"	6	"baseline"	144	"12. Ijsberen"	"rest"	5
+"319"	6	"baseline"	145	"12. Ijsberen"	"sub"	2
+"320"	6	"baseline"	146	"12. Ijsberen"	"rest"	5
+"321"	6	"baseline"	147	"12. Ijsberen"	"sub"	2
+"322"	6	"baseline"	148	"12. Ijsberen"	"sub"	2
+"323"	6	"baseline"	149	"12. Ijsberen"	"base"	1
+"324"	6	"baseline"	150	"12. Ijsberen"	"sub"	2
+"325"	6	"baseline"	151	"12. Ijsberen"	"base"	1
+"326"	6	"baseline"	152	"12. Ijsberen"	"sub"	2
+"327"	6	"baseline"	153	"12. Ijsberen"	"sub"	2
+"328"	6	"baseline"	154	"12. Ijsberen"	"rest"	5
+"329"	6	"baseline"	155	"12. Ijsberen"	"sub"	2
+"330"	6	"baseline"	156	"12. Ijsberen"	"sub"	2
+"331"	6	"baseline"	157	"12. Ijsberen"	"sub"	2
+"332"	6	"baseline"	158	"12. Ijsberen"	"sub"	2
+"333"	6	"baseline"	159	"12. Ijsberen"	"sub"	2
+"334"	6	"baseline"	160	"12. Ijsberen"	"sub"	2
+"335"	6	"baseline"	161	"12. Ijsberen"	"sub"	2
+"336"	6	"baseline"	162	"12. Ijsberen"	"sub"	2
+"337"	6	"baseline"	163	"12. Ijsberen"	"sub"	2
+"338"	6	"baseline"	164	"12. Ijsberen"	"sub"	2
+"339"	6	"baseline"	165	"12. Ijsberen"	"sub"	2
+"340"	6	"baseline"	166	"12. Ijsberen"	"rest"	5
+"341"	6	"baseline"	167	"12. Ijsberen"	"sub"	2
+"342"	6	"baseline"	168	"12. Ijsberen"	"sub"	2
+"343"	6	"baseline"	169	"12. Ijsberen"	"sub"	2
+"344"	6	"baseline"	170	"12. Ijsberen"	"super"	4
+"345"	6	"baseline"	171	"12. Ijsberen"	"sub"	2
+"346"	6	"baseline"	172	"12. Ijsberen"	"base"	1
+"347"	1	"close negative"	1	"2. Rubens"	"base"	1
+"348"	1	"close negative"	2	"2. Rubens"	"rest"	5
+"349"	1	"close negative"	3	"2. Rubens"	"sub"	2
+"350"	1	"close negative"	4	"2. Rubens"	"rest"	5
+"351"	1	"close negative"	5	"2. Rubens"	"rest"	5
+"352"	1	"close negative"	6	"2. Rubens"	"sub"	2
+"353"	1	"close negative"	7	"2. Rubens"	"sub"	2
+"354"	1	"close negative"	8	"2. Rubens"	"sub"	2
+"355"	1	"close negative"	9	"2. Rubens"	"sub"	2
+"356"	1	"close negative"	10	"2. Rubens"	"sub"	2
+"357"	1	"close negative"	11	"2. Rubens"	"rest"	5
+"358"	1	"close negative"	12	"2. Rubens"	"sub"	2
+"359"	1	"close negative"	13	"2. Rubens"	"base"	1
+"360"	1	"close negative"	14	"2. Rubens"	"rest"	5
+"361"	1	"close negative"	15	"2. Rubens"	"sub"	2
+"362"	1	"close negative"	16	"2. Rubens"	"rest"	5
+"363"	1	"close negative"	17	"2. Rubens"	"sub"	2
+"364"	1	"close negative"	18	"2. Rubens"	"sub"	2
+"365"	1	"close negative"	19	"2. Rubens"	"sub"	2
+"366"	1	"close negative"	20	"2. Rubens"	"rest"	5
+"367"	1	"close negative"	21	"2. Rubens"	"rest"	5
+"368"	1	"close negative"	22	"2. Rubens"	"rest"	5
+"369"	1	"close negative"	23	"2. Rubens"	"rest"	5
+"370"	1	"close negative"	24	"2. Rubens"	"sub"	2
+"371"	1	"close negative"	25	"2. Rubens"	"rest"	5
+"372"	1	"close negative"	26	"2. Rubens"	"sub"	2
+"373"	1	"close negative"	27	"2. Rubens"	"sub"	2
+"374"	1	"close negative"	28	"2. Rubens"	"rest"	5
+"375"	2	"distant negative"	29	"2. Rubens"	"rest"	5
+"376"	2	"distant negative"	30	"2. Rubens"	"cat"	3
+"377"	2	"distant negative"	31	"2. Rubens"	"cat"	3
+"378"	2	"distant negative"	32	"2. Rubens"	"sub"	2
+"379"	2	"distant negative"	33	"2. Rubens"	"sub"	2
+"380"	2	"distant negative"	34	"2. Rubens"	"sub"	2
+"381"	2	"distant negative"	35	"2. Rubens"	"sub"	2
+"382"	2	"distant negative"	36	"2. Rubens"	"rest"	5
+"383"	2	"distant negative"	37	"2. Rubens"	"cat"	3
+"384"	2	"distant negative"	38	"2. Rubens"	"cat"	3
+"385"	2	"distant negative"	39	"2. Rubens"	"rest"	5
+"386"	2	"distant negative"	40	"2. Rubens"	"cat"	3
+"387"	2	"distant negative"	41	"2. Rubens"	"cat"	3
+"388"	2	"distant negative"	42	"2. Rubens"	"cat"	3
+"389"	2	"distant negative"	43	"2. Rubens"	"cat"	3
+"390"	2	"distant negative"	44	"2. Rubens"	"cat"	3
+"391"	2	"distant negative"	45	"2. Rubens"	"cat"	3
+"392"	2	"distant negative"	46	"2. Rubens"	"cat"	3
+"393"	2	"distant negative"	47	"2. Rubens"	"cat"	3
+"394"	2	"distant negative"	48	"2. Rubens"	"cat"	3
+"395"	2	"distant negative"	49	"2. Rubens"	"cat"	3
+"396"	2	"distant negative"	50	"2. Rubens"	"cat"	3
+"397"	2	"distant negative"	51	"2. Rubens"	"sub"	2
+"398"	2	"distant negative"	52	"2. Rubens"	"cat"	3
+"399"	2	"distant negative"	53	"2. Rubens"	"cat"	3
+"400"	2	"distant negative"	54	"2. Rubens"	"cat"	3
+"401"	2	"distant negative"	55	"2. Rubens"	"rest"	5
+"402"	2	"distant negative"	56	"2. Rubens"	"cat"	3
+"403"	2	"distant negative"	57	"2. Rubens"	"rest"	5
+"404"	6	"baseline"	144	"2. Rubens"	"rest"	5
+"405"	6	"baseline"	145	"2. Rubens"	"base"	1
+"406"	6	"baseline"	146	"2. Rubens"	"rest"	5
+"407"	6	"baseline"	147	"2. Rubens"	"base"	1
+"408"	6	"baseline"	148	"2. Rubens"	"cat"	3
+"409"	6	"baseline"	149	"2. Rubens"	"rest"	5
+"410"	6	"baseline"	150	"2. Rubens"	"rest"	5
+"411"	6	"baseline"	151	"2. Rubens"	"base"	1
+"412"	6	"baseline"	152	"2. Rubens"	"base"	1
+"413"	6	"baseline"	153	"2. Rubens"	"base"	1
+"414"	6	"baseline"	154	"2. Rubens"	"base"	1
+"415"	6	"baseline"	155	"2. Rubens"	"sub"	2
+"416"	6	"baseline"	156	"2. Rubens"	"cat"	3
+"417"	6	"baseline"	157	"2. Rubens"	"base"	1
+"418"	6	"baseline"	158	"2. Rubens"	"sub"	2
+"419"	6	"baseline"	159	"2. Rubens"	"rest"	5
+"420"	6	"baseline"	160	"2. Rubens"	"sub"	2
+"421"	6	"baseline"	161	"2. Rubens"	"cat"	3
+"422"	6	"baseline"	162	"2. Rubens"	"base"	1
+"423"	6	"baseline"	163	"2. Rubens"	"sub"	2
+"424"	6	"baseline"	164	"2. Rubens"	"base"	1
+"425"	6	"baseline"	165	"2. Rubens"	"rest"	5
+"426"	6	"baseline"	166	"2. Rubens"	"sub"	2
+"427"	6	"baseline"	167	"2. Rubens"	"rest"	5
+"428"	6	"baseline"	168	"2. Rubens"	"rest"	5
+"429"	6	"baseline"	169	"2. Rubens"	"base"	1
+"430"	6	"baseline"	170	"2. Rubens"	"sub"	2
+"431"	6	"baseline"	171	"2. Rubens"	"cat"	3
+"432"	6	"baseline"	172	"2. Rubens"	"base"	1
+"433"	1	"distant negative"	1	"3. Acteurs"	"cat"	3
+"434"	1	"distant negative"	2	"3. Acteurs"	"cat"	3
+"435"	1	"distant negative"	3	"3. Acteurs"	"cat"	3
+"436"	1	"distant negative"	4	"3. Acteurs"	"sub"	2
+"437"	1	"distant negative"	5	"3. Acteurs"	"cat"	3
+"438"	1	"distant negative"	6	"3. Acteurs"	"cat"	3
+"439"	1	"distant negative"	7	"3. Acteurs"	"rest"	5
+"440"	1	"distant negative"	8	"3. Acteurs"	"cat"	3
+"441"	1	"distant negative"	9	"3. Acteurs"	"cat"	3
+"442"	1	"distant negative"	10	"3. Acteurs"	"sub"	2
+"443"	1	"distant negative"	11	"3. Acteurs"	"cat"	3
+"444"	1	"distant negative"	12	"3. Acteurs"	"cat"	3
+"445"	1	"distant negative"	13	"3. Acteurs"	"cat"	3
+"446"	1	"distant negative"	14	"3. Acteurs"	"sub"	2
+"447"	1	"distant negative"	15	"3. Acteurs"	"cat"	3
+"448"	1	"distant negative"	16	"3. Acteurs"	"cat"	3
+"449"	1	"distant negative"	17	"3. Acteurs"	"cat"	3
+"450"	1	"distant negative"	18	"3. Acteurs"	"cat"	3
+"451"	1	"distant negative"	19	"3. Acteurs"	"cat"	3
+"452"	1	"distant negative"	20	"3. Acteurs"	"rest"	5
+"453"	1	"distant negative"	21	"3. Acteurs"	"cat"	3
+"454"	1	"distant negative"	22	"3. Acteurs"	"cat"	3
+"455"	1	"distant negative"	23	"3. Acteurs"	"cat"	3
+"456"	1	"distant negative"	24	"3. Acteurs"	"cat"	3
+"457"	1	"distant negative"	25	"3. Acteurs"	"cat"	3
+"458"	1	"distant negative"	26	"3. Acteurs"	"rest"	5
+"459"	1	"distant negative"	27	"3. Acteurs"	"cat"	3
+"460"	1	"distant negative"	28	"3. Acteurs"	"cat"	3
+"461"	5	"baseline"	115	"3. Acteurs"	"base"	1
+"462"	5	"baseline"	116	"3. Acteurs"	"sub"	2
+"463"	5	"baseline"	117	"3. Acteurs"	"sub"	2
+"464"	5	"baseline"	118	"3. Acteurs"	"rest"	5
+"465"	5	"baseline"	119	"3. Acteurs"	"sub"	2
+"466"	5	"baseline"	120	"3. Acteurs"	"sub"	2
+"467"	5	"baseline"	121	"3. Acteurs"	"sub"	2
+"468"	5	"baseline"	122	"3. Acteurs"	"sub"	2
+"469"	5	"baseline"	123	"3. Acteurs"	"rest"	5
+"470"	5	"baseline"	124	"3. Acteurs"	"sub"	2
+"471"	5	"baseline"	125	"3. Acteurs"	"sub"	2
+"472"	5	"baseline"	126	"3. Acteurs"	"rest"	5
+"473"	5	"baseline"	127	"3. Acteurs"	"rest"	5
+"474"	5	"baseline"	128	"3. Acteurs"	"sub"	2
+"475"	5	"baseline"	129	"3. Acteurs"	"base"	1
+"476"	5	"baseline"	130	"3. Acteurs"	"base"	1
+"477"	5	"baseline"	131	"3. Acteurs"	"sub"	2
+"478"	5	"baseline"	132	"3. Acteurs"	"base"	1
+"479"	5	"baseline"	133	"3. Acteurs"	"base"	1
+"480"	5	"baseline"	134	"3. Acteurs"	"cat"	3
+"481"	5	"baseline"	135	"3. Acteurs"	"sub"	2
+"482"	5	"baseline"	136	"3. Acteurs"	"base"	1
+"483"	5	"baseline"	137	"3. Acteurs"	"cat"	3
+"484"	5	"baseline"	138	"3. Acteurs"	"base"	1
+"485"	5	"baseline"	139	"3. Acteurs"	"sub"	2
+"486"	5	"baseline"	140	"3. Acteurs"	"rest"	5
+"487"	5	"baseline"	141	"3. Acteurs"	"sub"	2
+"488"	5	"baseline"	142	"3. Acteurs"	"sub"	2
+"489"	5	"baseline"	143	"3. Acteurs"	"sub"	2
+"490"	6	"close negative"	144	"3. Acteurs"	"sub"	2
+"491"	6	"close negative"	145	"3. Acteurs"	"sub"	2
+"492"	6	"close negative"	146	"3. Acteurs"	"base"	1
+"493"	6	"close negative"	147	"3. Acteurs"	"sub"	2
+"494"	6	"close negative"	148	"3. Acteurs"	"base"	1
+"495"	6	"close negative"	149	"3. Acteurs"	"base"	1
+"496"	6	"close negative"	150	"3. Acteurs"	"rest"	5
+"497"	6	"close negative"	151	"3. Acteurs"	"base"	1
+"498"	6	"close negative"	152	"3. Acteurs"	"sub"	2
+"499"	6	"close negative"	153	"3. Acteurs"	"sub"	2
+"500"	6	"close negative"	154	"3. Acteurs"	"sub"	2
+"501"	6	"close negative"	155	"3. Acteurs"	"sub"	2
+"502"	6	"close negative"	156	"3. Acteurs"	"sub"	2
+"503"	6	"close negative"	157	"3. Acteurs"	"base"	1
+"504"	6	"close negative"	158	"3. Acteurs"	"rest"	5
+"505"	6	"close negative"	159	"3. Acteurs"	"sub"	2
+"506"	6	"close negative"	160	"3. Acteurs"	"sub"	2
+"507"	6	"close negative"	161	"3. Acteurs"	"sub"	2
+"508"	6	"close negative"	162	"3. Acteurs"	"sub"	2
+"509"	6	"close negative"	163	"3. Acteurs"	"rest"	5
+"510"	6	"close negative"	164	"3. Acteurs"	"sub"	2
+"511"	6	"close negative"	165	"3. Acteurs"	"sub"	2
+"512"	6	"close negative"	166	"3. Acteurs"	"base"	1
+"513"	6	"close negative"	167	"3. Acteurs"	"rest"	5
+"514"	6	"close negative"	168	"3. Acteurs"	"base"	1
+"515"	6	"close negative"	169	"3. Acteurs"	"sub"	2
+"516"	6	"close negative"	170	"3. Acteurs"	"sub"	2
+"517"	6	"close negative"	171	"3. Acteurs"	"sub"	2
+"518"	6	"close negative"	172	"3. Acteurs"	"sub"	2
+"519"	4	"baseline"	86	"4. Vrachtschepen"	"cat"	3
+"520"	4	"baseline"	87	"4. Vrachtschepen"	"cat"	3
+"521"	4	"baseline"	88	"4. Vrachtschepen"	"sub"	2
+"522"	4	"baseline"	89	"4. Vrachtschepen"	"rest"	5
+"523"	4	"baseline"	90	"4. Vrachtschepen"	"sub"	2
+"524"	4	"baseline"	91	"4. Vrachtschepen"	"base"	1
+"525"	4	"baseline"	92	"4. Vrachtschepen"	"cat"	3
+"526"	4	"baseline"	93	"4. Vrachtschepen"	"cat"	3
+"527"	4	"baseline"	94	"4. Vrachtschepen"	"cat"	3
+"528"	4	"baseline"	95	"4. Vrachtschepen"	"cat"	3
+"529"	4	"baseline"	96	"4. Vrachtschepen"	"base"	1
+"530"	4	"baseline"	97	"4. Vrachtschepen"	"super"	4
+"531"	4	"baseline"	98	"4. Vrachtschepen"	"super"	4
+"532"	4	"baseline"	99	"4. Vrachtschepen"	"super"	4
+"533"	4	"baseline"	100	"4. Vrachtschepen"	"base"	1
+"534"	4	"baseline"	101	"4. Vrachtschepen"	"cat"	3
+"535"	4	"baseline"	102	"4. Vrachtschepen"	"sub"	2
+"536"	4	"baseline"	103	"4. Vrachtschepen"	"base"	1
+"537"	4	"baseline"	104	"4. Vrachtschepen"	"cat"	3
+"538"	4	"baseline"	105	"4. Vrachtschepen"	"base"	1
+"539"	4	"baseline"	106	"4. Vrachtschepen"	"base"	1
+"540"	4	"baseline"	107	"4. Vrachtschepen"	"cat"	3
+"541"	4	"baseline"	108	"4. Vrachtschepen"	"base"	1
+"542"	4	"baseline"	109	"4. Vrachtschepen"	"rest"	5
+"543"	4	"baseline"	110	"4. Vrachtschepen"	"sub"	2
+"544"	4	"baseline"	111	"4. Vrachtschepen"	"base"	1
+"545"	4	"baseline"	112	"4. Vrachtschepen"	"super"	4
+"546"	4	"baseline"	113	"4. Vrachtschepen"	"base"	1
+"547"	4	"baseline"	114	"4. Vrachtschepen"	"rest"	5
+"548"	5	"close negative"	115	"4. Vrachtschepen"	"sub"	2
+"549"	5	"close negative"	116	"4. Vrachtschepen"	"cat"	3
+"550"	5	"close negative"	117	"4. Vrachtschepen"	"sub"	2
+"551"	5	"close negative"	118	"4. Vrachtschepen"	"sub"	2
+"552"	5	"close negative"	119	"4. Vrachtschepen"	"rest"	5
+"553"	5	"close negative"	120	"4. Vrachtschepen"	"sub"	2
+"554"	5	"close negative"	121	"4. Vrachtschepen"	"cat"	3
+"555"	5	"close negative"	122	"4. Vrachtschepen"	"sub"	2
+"556"	5	"close negative"	123	"4. Vrachtschepen"	"sub"	2
+"557"	5	"close negative"	124	"4. Vrachtschepen"	"rest"	5
+"558"	5	"close negative"	125	"4. Vrachtschepen"	"sub"	2
+"559"	5	"close negative"	126	"4. Vrachtschepen"	"sub"	2
+"560"	5	"close negative"	127	"4. Vrachtschepen"	"rest"	5
+"561"	5	"close negative"	128	"4. Vrachtschepen"	"sub"	2
+"562"	5	"close negative"	129	"4. Vrachtschepen"	"sub"	2
+"563"	5	"close negative"	130	"4. Vrachtschepen"	"super"	4
+"564"	5	"close negative"	131	"4. Vrachtschepen"	"sub"	2
+"565"	5	"close negative"	132	"4. Vrachtschepen"	"sub"	2
+"566"	5	"close negative"	133	"4. Vrachtschepen"	"rest"	5
+"567"	5	"close negative"	134	"4. Vrachtschepen"	"sub"	2
+"568"	5	"close negative"	135	"4. Vrachtschepen"	"sub"	2
+"569"	5	"close negative"	136	"4. Vrachtschepen"	"sub"	2
+"570"	5	"close negative"	137	"4. Vrachtschepen"	"sub"	2
+"571"	5	"close negative"	138	"4. Vrachtschepen"	"rest"	5
+"572"	5	"close negative"	139	"4. Vrachtschepen"	"sub"	2
+"573"	5	"close negative"	140	"4. Vrachtschepen"	"sub"	2
+"574"	5	"close negative"	141	"4. Vrachtschepen"	"sub"	2
+"575"	5	"close negative"	142	"4. Vrachtschepen"	"sub"	2
+"576"	5	"close negative"	143	"4. Vrachtschepen"	"sub"	2
+"577"	6	"distant negative"	144	"4. Vrachtschepen"	"rest"	5
+"578"	6	"distant negative"	145	"4. Vrachtschepen"	"base"	1
+"579"	6	"distant negative"	146	"4. Vrachtschepen"	"base"	1
+"580"	6	"distant negative"	147	"4. Vrachtschepen"	"cat"	3
+"581"	6	"distant negative"	148	"4. Vrachtschepen"	"cat"	3
+"582"	6	"distant negative"	149	"4. Vrachtschepen"	"super"	4
+"583"	6	"distant negative"	150	"4. Vrachtschepen"	"cat"	3
+"584"	6	"distant negative"	151	"4. Vrachtschepen"	"rest"	5
+"585"	6	"distant negative"	152	"4. Vrachtschepen"	"super"	4
+"586"	6	"distant negative"	153	"4. Vrachtschepen"	"super"	4
+"587"	6	"distant negative"	154	"4. Vrachtschepen"	"super"	4
+"588"	6	"distant negative"	155	"4. Vrachtschepen"	"super"	4
+"589"	6	"distant negative"	156	"4. Vrachtschepen"	"cat"	3
+"590"	6	"distant negative"	157	"4. Vrachtschepen"	"cat"	3
+"591"	6	"distant negative"	158	"4. Vrachtschepen"	"cat"	3
+"592"	6	"distant negative"	159	"4. Vrachtschepen"	"cat"	3
+"593"	6	"distant negative"	160	"4. Vrachtschepen"	"cat"	3
+"594"	6	"distant negative"	161	"4. Vrachtschepen"	"cat"	3
+"595"	6	"distant negative"	162	"4. Vrachtschepen"	"cat"	3
+"596"	6	"distant negative"	163	"4. Vrachtschepen"	"cat"	3
+"597"	6	"distant negative"	164	"4. Vrachtschepen"	"cat"	3
+"598"	6	"distant negative"	165	"4. Vrachtschepen"	"rest"	5
+"599"	6	"distant negative"	166	"4. Vrachtschepen"	"sub"	2
+"600"	6	"distant negative"	167	"4. Vrachtschepen"	"cat"	3
+"601"	6	"distant negative"	168	"4. Vrachtschepen"	"cat"	3
+"602"	6	"distant negative"	169	"4. Vrachtschepen"	"base"	1
+"603"	6	"distant negative"	170	"4. Vrachtschepen"	"rest"	5
+"604"	6	"distant negative"	171	"4. Vrachtschepen"	"cat"	3
+"605"	6	"distant negative"	172	"4. Vrachtschepen"	"cat"	3
+"606"	3	"baseline"	58	"5. Vensterglas"	"rest"	5
+"607"	3	"baseline"	59	"5. Vensterglas"	"super"	4
+"608"	3	"baseline"	60	"5. Vensterglas"	"super"	4
+"609"	3	"baseline"	61	"5. Vensterglas"	"rest"	5
+"610"	3	"baseline"	62	"5. Vensterglas"	"rest"	5
+"611"	3	"baseline"	63	"5. Vensterglas"	"base"	1
+"612"	3	"baseline"	64	"5. Vensterglas"	"base"	1
+"613"	3	"baseline"	65	"5. Vensterglas"	"super"	4
+"614"	3	"baseline"	66	"5. Vensterglas"	"base"	1
+"615"	3	"baseline"	67	"5. Vensterglas"	"sub"	2
+"616"	3	"baseline"	68	"5. Vensterglas"	"base"	1
+"617"	3	"baseline"	69	"5. Vensterglas"	"rest"	5
+"618"	3	"baseline"	70	"5. Vensterglas"	"base"	1
+"619"	3	"baseline"	71	"5. Vensterglas"	"super"	4
+"620"	3	"baseline"	72	"5. Vensterglas"	"sub"	2
+"621"	3	"baseline"	73	"5. Vensterglas"	"base"	1
+"622"	3	"baseline"	74	"5. Vensterglas"	"rest"	5
+"623"	3	"baseline"	75	"5. Vensterglas"	"super"	4
+"624"	3	"baseline"	76	"5. Vensterglas"	"super"	4
+"625"	3	"baseline"	77	"5. Vensterglas"	"base"	1
+"626"	3	"baseline"	78	"5. Vensterglas"	"base"	1
+"627"	3	"baseline"	79	"5. Vensterglas"	"base"	1
+"628"	3	"baseline"	80	"5. Vensterglas"	"rest"	5
+"629"	3	"baseline"	81	"5. Vensterglas"	"sub"	2
+"630"	3	"baseline"	82	"5. Vensterglas"	"sub"	2
+"631"	3	"baseline"	83	"5. Vensterglas"	"sub"	2
+"632"	3	"baseline"	84	"5. Vensterglas"	"sub"	2
+"633"	3	"baseline"	85	"5. Vensterglas"	"rest"	5
+"634"	4	"close negative"	86	"5. Vensterglas"	"base"	1
+"635"	4	"close negative"	87	"5. Vensterglas"	"sub"	2
+"636"	4	"close negative"	88	"5. Vensterglas"	"rest"	5
+"637"	4	"close negative"	89	"5. Vensterglas"	"base"	1
+"638"	4	"close negative"	90	"5. Vensterglas"	"base"	1
+"639"	4	"close negative"	91	"5. Vensterglas"	"base"	1
+"640"	4	"close negative"	92	"5. Vensterglas"	"base"	1
+"641"	4	"close negative"	93	"5. Vensterglas"	"base"	1
+"642"	4	"close negative"	94	"5. Vensterglas"	"base"	1
+"643"	4	"close negative"	95	"5. Vensterglas"	"rest"	5
+"644"	4	"close negative"	96	"5. Vensterglas"	"rest"	5
+"645"	4	"close negative"	97	"5. Vensterglas"	"rest"	5
+"646"	4	"close negative"	98	"5. Vensterglas"	"rest"	5
+"647"	4	"close negative"	99	"5. Vensterglas"	"cat"	3
+"648"	4	"close negative"	100	"5. Vensterglas"	"rest"	5
+"649"	4	"close negative"	101	"5. Vensterglas"	"sub"	2
+"650"	4	"close negative"	102	"5. Vensterglas"	"base"	1
+"651"	4	"close negative"	103	"5. Vensterglas"	"base"	1
+"652"	4	"close negative"	104	"5. Vensterglas"	"rest"	5
+"653"	4	"close negative"	105	"5. Vensterglas"	"rest"	5
+"654"	4	"close negative"	106	"5. Vensterglas"	"base"	1
+"655"	4	"close negative"	107	"5. Vensterglas"	"rest"	5
+"656"	4	"close negative"	108	"5. Vensterglas"	"rest"	5
+"657"	4	"close negative"	109	"5. Vensterglas"	"sub"	2
+"658"	4	"close negative"	110	"5. Vensterglas"	"sub"	2
+"659"	4	"close negative"	111	"5. Vensterglas"	"base"	1
+"660"	4	"close negative"	112	"5. Vensterglas"	"base"	1
+"661"	4	"close negative"	113	"5. Vensterglas"	"sub"	2
+"662"	4	"close negative"	114	"5. Vensterglas"	"sub"	2
+"663"	5	"distant negative"	115	"5. Vensterglas"	"rest"	5
+"664"	5	"distant negative"	116	"5. Vensterglas"	"cat"	3
+"665"	5	"distant negative"	117	"5. Vensterglas"	"cat"	3
+"666"	5	"distant negative"	118	"5. Vensterglas"	"rest"	5
+"667"	5	"distant negative"	119	"5. Vensterglas"	"base"	1
+"668"	5	"distant negative"	120	"5. Vensterglas"	"base"	1
+"669"	5	"distant negative"	121	"5. Vensterglas"	"rest"	5
+"670"	5	"distant negative"	122	"5. Vensterglas"	"cat"	3
+"671"	5	"distant negative"	123	"5. Vensterglas"	"rest"	5
+"672"	5	"distant negative"	124	"5. Vensterglas"	"sub"	2
+"673"	5	"distant negative"	125	"5. Vensterglas"	"cat"	3
+"674"	5	"distant negative"	126	"5. Vensterglas"	"rest"	5
+"675"	5	"distant negative"	127	"5. Vensterglas"	"rest"	5
+"676"	5	"distant negative"	128	"5. Vensterglas"	"rest"	5
+"677"	5	"distant negative"	129	"5. Vensterglas"	"base"	1
+"678"	5	"distant negative"	130	"5. Vensterglas"	"base"	1
+"679"	5	"distant negative"	131	"5. Vensterglas"	"sub"	2
+"680"	5	"distant negative"	132	"5. Vensterglas"	"rest"	5
+"681"	5	"distant negative"	133	"5. Vensterglas"	"rest"	5
+"682"	5	"distant negative"	134	"5. Vensterglas"	"base"	1
+"683"	5	"distant negative"	135	"5. Vensterglas"	"sub"	2
+"684"	5	"distant negative"	136	"5. Vensterglas"	"base"	1
+"685"	5	"distant negative"	137	"5. Vensterglas"	"sub"	2
+"686"	5	"distant negative"	138	"5. Vensterglas"	"super"	4
+"687"	5	"distant negative"	139	"5. Vensterglas"	"base"	1
+"688"	5	"distant negative"	140	"5. Vensterglas"	"rest"	5
+"689"	5	"distant negative"	141	"5. Vensterglas"	"rest"	5
+"690"	5	"distant negative"	142	"5. Vensterglas"	"sub"	2
+"691"	5	"distant negative"	143	"5. Vensterglas"	"sub"	2
+"692"	2	"baseline"	29	"6. Schermen"	"base"	1
+"693"	2	"baseline"	30	"6. Schermen"	"rest"	5
+"694"	2	"baseline"	31	"6. Schermen"	"base"	1
+"695"	2	"baseline"	32	"6. Schermen"	"base"	1
+"696"	2	"baseline"	33	"6. Schermen"	"rest"	5
+"697"	2	"baseline"	34	"6. Schermen"	"rest"	5
+"698"	2	"baseline"	35	"6. Schermen"	"rest"	5
+"699"	2	"baseline"	36	"6. Schermen"	"base"	1
+"700"	2	"baseline"	37	"6. Schermen"	"sub"	2
+"701"	2	"baseline"	38	"6. Schermen"	"base"	1
+"702"	2	"baseline"	39	"6. Schermen"	"cat"	3
+"703"	2	"baseline"	40	"6. Schermen"	"cat"	3
+"704"	2	"baseline"	41	"6. Schermen"	"base"	1
+"705"	2	"baseline"	42	"6. Schermen"	"base"	1
+"706"	2	"baseline"	43	"6. Schermen"	"sub"	2
+"707"	2	"baseline"	44	"6. Schermen"	"rest"	5
+"708"	2	"baseline"	45	"6. Schermen"	"sub"	2
+"709"	2	"baseline"	46	"6. Schermen"	"sub"	2
+"710"	2	"baseline"	47	"6. Schermen"	"rest"	5
+"711"	2	"baseline"	48	"6. Schermen"	"super"	4
+"712"	2	"baseline"	49	"6. Schermen"	"cat"	3
+"713"	2	"baseline"	50	"6. Schermen"	"cat"	3
+"714"	2	"baseline"	51	"6. Schermen"	"cat"	3
+"715"	2	"baseline"	52	"6. Schermen"	"sub"	2
+"716"	2	"baseline"	53	"6. Schermen"	"base"	1
+"717"	2	"baseline"	54	"6. Schermen"	"rest"	5
+"718"	2	"baseline"	55	"6. Schermen"	"sub"	2
+"719"	2	"baseline"	56	"6. Schermen"	"rest"	5
+"720"	2	"baseline"	57	"6. Schermen"	"cat"	3
+"721"	3	"close negative"	58	"6. Schermen"	"base"	1
+"722"	3	"close negative"	59	"6. Schermen"	"base"	1
+"723"	3	"close negative"	60	"6. Schermen"	"sub"	2
+"724"	3	"close negative"	61	"6. Schermen"	"rest"	5
+"725"	3	"close negative"	62	"6. Schermen"	"sub"	2
+"726"	3	"close negative"	63	"6. Schermen"	"base"	1
+"727"	3	"close negative"	64	"6. Schermen"	"sub"	2
+"728"	3	"close negative"	65	"6. Schermen"	"sub"	2
+"729"	3	"close negative"	66	"6. Schermen"	"sub"	2
+"730"	3	"close negative"	67	"6. Schermen"	"rest"	5
+"731"	3	"close negative"	68	"6. Schermen"	"rest"	5
+"732"	3	"close negative"	69	"6. Schermen"	"rest"	5
+"733"	3	"close negative"	70	"6. Schermen"	"base"	1
+"734"	3	"close negative"	71	"6. Schermen"	"base"	1
+"735"	3	"close negative"	72	"6. Schermen"	"base"	1
+"736"	3	"close negative"	73	"6. Schermen"	"sub"	2
+"737"	3	"close negative"	74	"6. Schermen"	"rest"	5
+"738"	3	"close negative"	75	"6. Schermen"	"sub"	2
+"739"	3	"close negative"	76	"6. Schermen"	"rest"	5
+"740"	3	"close negative"	77	"6. Schermen"	"base"	1
+"741"	3	"close negative"	78	"6. Schermen"	"rest"	5
+"742"	3	"close negative"	79	"6. Schermen"	"sub"	2
+"743"	3	"close negative"	80	"6. Schermen"	"sub"	2
+"744"	3	"close negative"	81	"6. Schermen"	"sub"	2
+"745"	3	"close negative"	82	"6. Schermen"	"sub"	2
+"746"	3	"close negative"	83	"6. Schermen"	"base"	1
+"747"	3	"close negative"	84	"6. Schermen"	"base"	1
+"748"	3	"close negative"	85	"6. Schermen"	"sub"	2
+"749"	4	"distant negative"	86	"6. Schermen"	"rest"	5
+"750"	4	"distant negative"	87	"6. Schermen"	"rest"	5
+"751"	4	"distant negative"	88	"6. Schermen"	"rest"	5
+"752"	4	"distant negative"	89	"6. Schermen"	"rest"	5
+"753"	4	"distant negative"	90	"6. Schermen"	"rest"	5
+"754"	4	"distant negative"	91	"6. Schermen"	"rest"	5
+"755"	4	"distant negative"	92	"6. Schermen"	"sub"	2
+"756"	4	"distant negative"	93	"6. Schermen"	"rest"	5
+"757"	4	"distant negative"	94	"6. Schermen"	"rest"	5
+"758"	4	"distant negative"	95	"6. Schermen"	"rest"	5
+"759"	4	"distant negative"	96	"6. Schermen"	"rest"	5
+"760"	4	"distant negative"	97	"6. Schermen"	"rest"	5
+"761"	4	"distant negative"	98	"6. Schermen"	"base"	1
+"762"	4	"distant negative"	99	"6. Schermen"	"rest"	5
+"763"	4	"distant negative"	100	"6. Schermen"	"base"	1
+"764"	4	"distant negative"	101	"6. Schermen"	"rest"	5
+"765"	4	"distant negative"	102	"6. Schermen"	"cat"	3
+"766"	4	"distant negative"	103	"6. Schermen"	"cat"	3
+"767"	4	"distant negative"	104	"6. Schermen"	"rest"	5
+"768"	4	"distant negative"	105	"6. Schermen"	"rest"	5
+"769"	4	"distant negative"	106	"6. Schermen"	"cat"	3
+"770"	4	"distant negative"	107	"6. Schermen"	"sub"	2
+"771"	4	"distant negative"	108	"6. Schermen"	"rest"	5
+"772"	4	"distant negative"	109	"6. Schermen"	"rest"	5
+"773"	4	"distant negative"	110	"6. Schermen"	"cat"	3
+"774"	4	"distant negative"	111	"6. Schermen"	"rest"	5
+"775"	4	"distant negative"	112	"6. Schermen"	"rest"	5
+"776"	4	"distant negative"	113	"6. Schermen"	"rest"	5
+"777"	4	"distant negative"	114	"6. Schermen"	"rest"	5
+"778"	1	"baseline"	1	"7. Eenden"	"cat"	3
+"779"	1	"baseline"	2	"7. Eenden"	"sub"	2
+"780"	1	"baseline"	3	"7. Eenden"	"cat"	3
+"781"	1	"baseline"	4	"7. Eenden"	"sub"	2
+"782"	1	"baseline"	5	"7. Eenden"	"rest"	5
+"783"	1	"baseline"	6	"7. Eenden"	"rest"	5
+"784"	1	"baseline"	7	"7. Eenden"	"cat"	3
+"785"	1	"baseline"	8	"7. Eenden"	"cat"	3
+"786"	1	"baseline"	9	"7. Eenden"	"cat"	3
+"787"	1	"baseline"	10	"7. Eenden"	"rest"	5
+"788"	1	"baseline"	11	"7. Eenden"	"cat"	3
+"789"	1	"baseline"	12	"7. Eenden"	"cat"	3
+"790"	1	"baseline"	13	"7. Eenden"	"cat"	3
+"791"	1	"baseline"	14	"7. Eenden"	"cat"	3
+"792"	1	"baseline"	15	"7. Eenden"	"cat"	3
+"793"	1	"baseline"	16	"7. Eenden"	"base"	1
+"794"	1	"baseline"	17	"7. Eenden"	"cat"	3
+"795"	1	"baseline"	18	"7. Eenden"	"cat"	3
+"796"	1	"baseline"	19	"7. Eenden"	"sub"	2
+"797"	1	"baseline"	20	"7. Eenden"	"rest"	5
+"798"	1	"baseline"	21	"7. Eenden"	"sub"	2
+"799"	1	"baseline"	22	"7. Eenden"	"cat"	3
+"800"	1	"baseline"	23	"7. Eenden"	"cat"	3
+"801"	1	"baseline"	24	"7. Eenden"	"base"	1
+"802"	1	"baseline"	25	"7. Eenden"	"cat"	3
+"803"	1	"baseline"	26	"7. Eenden"	"cat"	3
+"804"	1	"baseline"	27	"7. Eenden"	"sub"	2
+"805"	1	"baseline"	28	"7. Eenden"	"sub"	2
+"806"	5	"distant negative"	115	"7. Eenden"	"cat"	3
+"807"	5	"distant negative"	116	"7. Eenden"	"cat"	3
+"808"	5	"distant negative"	117	"7. Eenden"	"cat"	3
+"809"	5	"distant negative"	118	"7. Eenden"	"rest"	5
+"810"	5	"distant negative"	119	"7. Eenden"	"rest"	5
+"811"	5	"distant negative"	120	"7. Eenden"	"cat"	3
+"812"	5	"distant negative"	121	"7. Eenden"	"cat"	3
+"813"	5	"distant negative"	122	"7. Eenden"	"rest"	5
+"814"	5	"distant negative"	123	"7. Eenden"	"rest"	5
+"815"	5	"distant negative"	124	"7. Eenden"	"rest"	5
+"816"	5	"distant negative"	125	"7. Eenden"	"cat"	3
+"817"	5	"distant negative"	126	"7. Eenden"	"base"	1
+"818"	5	"distant negative"	127	"7. Eenden"	"base"	1
+"819"	5	"distant negative"	128	"7. Eenden"	"rest"	5
+"820"	5	"distant negative"	129	"7. Eenden"	"rest"	5
+"821"	5	"distant negative"	130	"7. Eenden"	"cat"	3
+"822"	5	"distant negative"	131	"7. Eenden"	"cat"	3
+"823"	5	"distant negative"	132	"7. Eenden"	"rest"	5
+"824"	5	"distant negative"	133	"7. Eenden"	"cat"	3
+"825"	5	"distant negative"	134	"7. Eenden"	"cat"	3
+"826"	5	"distant negative"	135	"7. Eenden"	"rest"	5
+"827"	5	"distant negative"	136	"7. Eenden"	"cat"	3
+"828"	5	"distant negative"	137	"7. Eenden"	"cat"	3
+"829"	5	"distant negative"	138	"7. Eenden"	"super"	4
+"830"	5	"distant negative"	139	"7. Eenden"	"rest"	5
+"831"	5	"distant negative"	140	"7. Eenden"	"rest"	5
+"832"	5	"distant negative"	141	"7. Eenden"	"rest"	5
+"833"	5	"distant negative"	142	"7. Eenden"	"rest"	5
+"834"	5	"distant negative"	143	"7. Eenden"	"cat"	3
+"835"	6	"close negative"	144	"7. Eenden"	"sub"	2
+"836"	6	"close negative"	145	"7. Eenden"	"sub"	2
+"837"	6	"close negative"	146	"7. Eenden"	"base"	1
+"838"	6	"close negative"	147	"7. Eenden"	"sub"	2
+"839"	6	"close negative"	148	"7. Eenden"	"sub"	2
+"840"	6	"close negative"	149	"7. Eenden"	"sub"	2
+"841"	6	"close negative"	150	"7. Eenden"	"rest"	5
+"842"	6	"close negative"	151	"7. Eenden"	"base"	1
+"843"	6	"close negative"	152	"7. Eenden"	"sub"	2
+"844"	6	"close negative"	153	"7. Eenden"	"cat"	3
+"845"	6	"close negative"	154	"7. Eenden"	"sub"	2
+"846"	6	"close negative"	155	"7. Eenden"	"sub"	2
+"847"	6	"close negative"	156	"7. Eenden"	"rest"	5
+"848"	6	"close negative"	157	"7. Eenden"	"sub"	2
+"849"	6	"close negative"	158	"7. Eenden"	"base"	1
+"850"	6	"close negative"	159	"7. Eenden"	"rest"	5
+"851"	6	"close negative"	160	"7. Eenden"	"sub"	2
+"852"	6	"close negative"	161	"7. Eenden"	"rest"	5
+"853"	6	"close negative"	162	"7. Eenden"	"sub"	2
+"854"	6	"close negative"	163	"7. Eenden"	"sub"	2
+"855"	6	"close negative"	164	"7. Eenden"	"rest"	5
+"856"	6	"close negative"	165	"7. Eenden"	"rest"	5
+"857"	6	"close negative"	166	"7. Eenden"	"sub"	2
+"858"	6	"close negative"	167	"7. Eenden"	"sub"	2
+"859"	6	"close negative"	168	"7. Eenden"	"sub"	2
+"860"	6	"close negative"	169	"7. Eenden"	"sub"	2
+"861"	6	"close negative"	170	"7. Eenden"	"rest"	5
+"862"	6	"close negative"	171	"7. Eenden"	"rest"	5
+"863"	6	"close negative"	172	"7. Eenden"	"sub"	2
+"864"	1	"close negative"	1	"8. Blokfluiten"	"sub"	2
+"865"	1	"close negative"	2	"8. Blokfluiten"	"sub"	2
+"866"	1	"close negative"	3	"8. Blokfluiten"	"sub"	2
+"867"	1	"close negative"	4	"8. Blokfluiten"	"sub"	2
+"868"	1	"close negative"	5	"8. Blokfluiten"	"sub"	2
+"869"	1	"close negative"	6	"8. Blokfluiten"	"rest"	5
+"870"	1	"close negative"	7	"8. Blokfluiten"	"sub"	2
+"871"	1	"close negative"	8	"8. Blokfluiten"	"sub"	2
+"872"	1	"close negative"	9	"8. Blokfluiten"	"sub"	2
+"873"	1	"close negative"	10	"8. Blokfluiten"	"sub"	2
+"874"	1	"close negative"	11	"8. Blokfluiten"	"sub"	2
+"875"	1	"close negative"	12	"8. Blokfluiten"	"sub"	2
+"876"	1	"close negative"	13	"8. Blokfluiten"	"sub"	2
+"877"	1	"close negative"	14	"8. Blokfluiten"	"sub"	2
+"878"	1	"close negative"	15	"8. Blokfluiten"	"rest"	5
+"879"	1	"close negative"	16	"8. Blokfluiten"	"sub"	2
+"880"	1	"close negative"	17	"8. Blokfluiten"	"sub"	2
+"881"	1	"close negative"	18	"8. Blokfluiten"	"sub"	2
+"882"	1	"close negative"	19	"8. Blokfluiten"	"sub"	2
+"883"	1	"close negative"	20	"8. Blokfluiten"	"rest"	5
+"884"	1	"close negative"	21	"8. Blokfluiten"	"sub"	2
+"885"	1	"close negative"	22	"8. Blokfluiten"	"sub"	2
+"886"	1	"close negative"	23	"8. Blokfluiten"	"sub"	2
+"887"	1	"close negative"	24	"8. Blokfluiten"	"sub"	2
+"888"	1	"close negative"	25	"8. Blokfluiten"	"sub"	2
+"889"	1	"close negative"	26	"8. Blokfluiten"	"sub"	2
+"890"	1	"close negative"	27	"8. Blokfluiten"	"sub"	2
+"891"	1	"close negative"	28	"8. Blokfluiten"	"sub"	2
+"892"	2	"baseline"	29	"8. Blokfluiten"	"super"	4
+"893"	2	"baseline"	30	"8. Blokfluiten"	"super"	4
+"894"	2	"baseline"	31	"8. Blokfluiten"	"super"	4
+"895"	2	"baseline"	32	"8. Blokfluiten"	"cat"	3
+"896"	2	"baseline"	33	"8. Blokfluiten"	"sub"	2
+"897"	2	"baseline"	34	"8. Blokfluiten"	"rest"	5
+"898"	2	"baseline"	35	"8. Blokfluiten"	"rest"	5
+"899"	2	"baseline"	36	"8. Blokfluiten"	"cat"	3
+"900"	2	"baseline"	37	"8. Blokfluiten"	"sub"	2
+"901"	2	"baseline"	38	"8. Blokfluiten"	"sub"	2
+"902"	2	"baseline"	39	"8. Blokfluiten"	"rest"	5
+"903"	2	"baseline"	40	"8. Blokfluiten"	"sub"	2
+"904"	2	"baseline"	41	"8. Blokfluiten"	"sub"	2
+"905"	2	"baseline"	42	"8. Blokfluiten"	"sub"	2
+"906"	2	"baseline"	43	"8. Blokfluiten"	"sub"	2
+"907"	2	"baseline"	44	"8. Blokfluiten"	"super"	4
+"908"	2	"baseline"	45	"8. Blokfluiten"	"cat"	3
+"909"	2	"baseline"	46	"8. Blokfluiten"	"super"	4
+"910"	2	"baseline"	47	"8. Blokfluiten"	"base"	1
+"911"	2	"baseline"	48	"8. Blokfluiten"	"sub"	2
+"912"	2	"baseline"	49	"8. Blokfluiten"	"sub"	2
+"913"	2	"baseline"	50	"8. Blokfluiten"	"sub"	2
+"914"	2	"baseline"	51	"8. Blokfluiten"	"sub"	2
+"915"	2	"baseline"	52	"8. Blokfluiten"	"sub"	2
+"916"	2	"baseline"	53	"8. Blokfluiten"	"sub"	2
+"917"	2	"baseline"	54	"8. Blokfluiten"	"super"	4
+"918"	2	"baseline"	55	"8. Blokfluiten"	"rest"	5
+"919"	2	"baseline"	56	"8. Blokfluiten"	"cat"	3
+"920"	2	"baseline"	57	"8. Blokfluiten"	"rest"	5
+"921"	6	"distant negative"	144	"8. Blokfluiten"	"cat"	3
+"922"	6	"distant negative"	145	"8. Blokfluiten"	"base"	1
+"923"	6	"distant negative"	146	"8. Blokfluiten"	"base"	1
+"924"	6	"distant negative"	147	"8. Blokfluiten"	"rest"	5
+"925"	6	"distant negative"	148	"8. Blokfluiten"	"sub"	2
+"926"	6	"distant negative"	149	"8. Blokfluiten"	"rest"	5
+"927"	6	"distant negative"	150	"8. Blokfluiten"	"sub"	2
+"928"	6	"distant negative"	151	"8. Blokfluiten"	"rest"	5
+"929"	6	"distant negative"	152	"8. Blokfluiten"	"rest"	5
+"930"	6	"distant negative"	153	"8. Blokfluiten"	"cat"	3
+"931"	6	"distant negative"	154	"8. Blokfluiten"	"cat"	3
+"932"	6	"distant negative"	155	"8. Blokfluiten"	"rest"	5
+"933"	6	"distant negative"	156	"8. Blokfluiten"	"sub"	2
+"934"	6	"distant negative"	157	"8. Blokfluiten"	"cat"	3
+"935"	6	"distant negative"	158	"8. Blokfluiten"	"sub"	2
+"936"	6	"distant negative"	159	"8. Blokfluiten"	"cat"	3
+"937"	6	"distant negative"	160	"8. Blokfluiten"	"rest"	5
+"938"	6	"distant negative"	161	"8. Blokfluiten"	"cat"	3
+"939"	6	"distant negative"	162	"8. Blokfluiten"	"cat"	3
+"940"	6	"distant negative"	163	"8. Blokfluiten"	"cat"	3
+"941"	6	"distant negative"	164	"8. Blokfluiten"	"sub"	2
+"942"	6	"distant negative"	165	"8. Blokfluiten"	"cat"	3
+"943"	6	"distant negative"	166	"8. Blokfluiten"	"rest"	5
+"944"	6	"distant negative"	167	"8. Blokfluiten"	"cat"	3
+"945"	6	"distant negative"	168	"8. Blokfluiten"	"rest"	5
+"946"	6	"distant negative"	169	"8. Blokfluiten"	"sub"	2
+"947"	6	"distant negative"	170	"8. Blokfluiten"	"rest"	5
+"948"	6	"distant negative"	171	"8. Blokfluiten"	"cat"	3
+"949"	6	"distant negative"	172	"8. Blokfluiten"	"cat"	3
+"950"	1	"distant negative"	1	"9. Aardbeien"	"cat"	3
+"951"	1	"distant negative"	2	"9. Aardbeien"	"rest"	5
+"952"	1	"distant negative"	3	"9. Aardbeien"	"rest"	5
+"953"	1	"distant negative"	4	"9. Aardbeien"	"sub"	2
+"954"	1	"distant negative"	5	"9. Aardbeien"	"cat"	3
+"955"	1	"distant negative"	6	"9. Aardbeien"	"rest"	5
+"956"	1	"distant negative"	7	"9. Aardbeien"	"cat"	3
+"957"	1	"distant negative"	8	"9. Aardbeien"	"cat"	3
+"958"	1	"distant negative"	9	"9. Aardbeien"	"cat"	3
+"959"	1	"distant negative"	10	"9. Aardbeien"	"super"	4
+"960"	1	"distant negative"	11	"9. Aardbeien"	"cat"	3
+"961"	1	"distant negative"	12	"9. Aardbeien"	"cat"	3
+"962"	1	"distant negative"	13	"9. Aardbeien"	"sub"	2
+"963"	1	"distant negative"	14	"9. Aardbeien"	"cat"	3
+"964"	1	"distant negative"	15	"9. Aardbeien"	"rest"	5
+"965"	1	"distant negative"	16	"9. Aardbeien"	"sub"	2
+"966"	1	"distant negative"	17	"9. Aardbeien"	"sub"	2
+"967"	1	"distant negative"	18	"9. Aardbeien"	"cat"	3
+"968"	1	"distant negative"	19	"9. Aardbeien"	"rest"	5
+"969"	1	"distant negative"	20	"9. Aardbeien"	"rest"	5
+"970"	1	"distant negative"	21	"9. Aardbeien"	"cat"	3
+"971"	1	"distant negative"	22	"9. Aardbeien"	"cat"	3
+"972"	1	"distant negative"	23	"9. Aardbeien"	"cat"	3
+"973"	1	"distant negative"	24	"9. Aardbeien"	"cat"	3
+"974"	1	"distant negative"	25	"9. Aardbeien"	"cat"	3
+"975"	1	"distant negative"	26	"9. Aardbeien"	"sub"	2
+"976"	1	"distant negative"	27	"9. Aardbeien"	"sub"	2
+"977"	1	"distant negative"	28	"9. Aardbeien"	"sub"	2
+"978"	2	"close negative"	29	"9. Aardbeien"	"rest"	5
+"979"	2	"close negative"	30	"9. Aardbeien"	"sub"	2
+"980"	2	"close negative"	31	"9. Aardbeien"	"rest"	5
+"981"	2	"close negative"	32	"9. Aardbeien"	"sub"	2
+"982"	2	"close negative"	33	"9. Aardbeien"	"sub"	2
+"983"	2	"close negative"	34	"9. Aardbeien"	"sub"	2
+"984"	2	"close negative"	35	"9. Aardbeien"	"sub"	2
+"985"	2	"close negative"	36	"9. Aardbeien"	"sub"	2
+"986"	2	"close negative"	37	"9. Aardbeien"	"sub"	2
+"987"	2	"close negative"	38	"9. Aardbeien"	"sub"	2
+"988"	2	"close negative"	39	"9. Aardbeien"	"sub"	2
+"989"	2	"close negative"	40	"9. Aardbeien"	"sub"	2
+"990"	2	"close negative"	41	"9. Aardbeien"	"sub"	2
+"991"	2	"close negative"	42	"9. Aardbeien"	"sub"	2
+"992"	2	"close negative"	43	"9. Aardbeien"	"sub"	2
+"993"	2	"close negative"	44	"9. Aardbeien"	"rest"	5
+"994"	2	"close negative"	45	"9. Aardbeien"	"sub"	2
+"995"	2	"close negative"	46	"9. Aardbeien"	"sub"	2
+"996"	2	"close negative"	47	"9. Aardbeien"	"base"	1
+"997"	2	"close negative"	48	"9. Aardbeien"	"sub"	2
+"998"	2	"close negative"	49	"9. Aardbeien"	"rest"	5
+"999"	2	"close negative"	50	"9. Aardbeien"	"sub"	2
+"1000"	2	"close negative"	51	"9. Aardbeien"	"sub"	2
+"1001"	2	"close negative"	52	"9. Aardbeien"	"sub"	2
+"1002"	2	"close negative"	53	"9. Aardbeien"	"sub"	2
+"1003"	2	"close negative"	54	"9. Aardbeien"	"sub"	2
+"1004"	2	"close negative"	55	"9. Aardbeien"	"sub"	2
+"1005"	2	"close negative"	56	"9. Aardbeien"	"sub"	2
+"1006"	2	"close negative"	57	"9. Aardbeien"	"base"	1
+"1007"	3	"baseline"	58	"9. Aardbeien"	"rest"	5
+"1008"	3	"baseline"	59	"9. Aardbeien"	"rest"	5
+"1009"	3	"baseline"	60	"9. Aardbeien"	"cat"	3
+"1010"	3	"baseline"	61	"9. Aardbeien"	"sub"	2
+"1011"	3	"baseline"	62	"9. Aardbeien"	"sub"	2
+"1012"	3	"baseline"	63	"9. Aardbeien"	"sub"	2
+"1013"	3	"baseline"	64	"9. Aardbeien"	"sub"	2
+"1014"	3	"baseline"	65	"9. Aardbeien"	"cat"	3
+"1015"	3	"baseline"	66	"9. Aardbeien"	"sub"	2
+"1016"	3	"baseline"	67	"9. Aardbeien"	"sub"	2
+"1017"	3	"baseline"	68	"9. Aardbeien"	"cat"	3
+"1018"	3	"baseline"	69	"9. Aardbeien"	"rest"	5
+"1019"	3	"baseline"	70	"9. Aardbeien"	"sub"	2
+"1020"	3	"baseline"	71	"9. Aardbeien"	"sub"	2
+"1021"	3	"baseline"	72	"9. Aardbeien"	"sub"	2
+"1022"	3	"baseline"	73	"9. Aardbeien"	"sub"	2
+"1023"	3	"baseline"	74	"9. Aardbeien"	"sub"	2
+"1024"	3	"baseline"	75	"9. Aardbeien"	"sub"	2
+"1025"	3	"baseline"	76	"9. Aardbeien"	"cat"	3
+"1026"	3	"baseline"	77	"9. Aardbeien"	"base"	1
+"1027"	3	"baseline"	78	"9. Aardbeien"	"cat"	3
+"1028"	3	"baseline"	79	"9. Aardbeien"	"base"	1
+"1029"	3	"baseline"	80	"9. Aardbeien"	"sub"	2
+"1030"	3	"baseline"	81	"9. Aardbeien"	"sub"	2
+"1031"	3	"baseline"	82	"9. Aardbeien"	"sub"	2
+"1032"	3	"baseline"	83	"9. Aardbeien"	"sub"	2
+"1033"	3	"baseline"	84	"9. Aardbeien"	"base"	1
+"1034"	3	"baseline"	85	"9. Aardbeien"	"rest"	5

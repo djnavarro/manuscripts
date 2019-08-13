@@ -1,0 +1,2 @@
+shiftmassC 1 10000
+shiftmassD 10001 20000
