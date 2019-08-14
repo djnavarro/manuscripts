@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.12)  12 AUG 2019 14:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.13)  15 AUG 2019 07:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -331,19 +331,19 @@ Package color Info: Driver file: pdftex.def on input line 147.
 ) (./2017_noneoftheabove.aux)
 \openout1 = `2017_noneoftheabove.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 60.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 61.
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -392,43 +392,43 @@ File: english.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
 )
-Class apa6 Info: Keywords not defined on input line 61.
+Class apa6 Info: Keywords not defined on input line 62.
 Using title for running head
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 61.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 62.
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 61.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 62.
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 61.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 62.
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 61.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 62.
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 61.
+(Font)              <10.95> on input line 62.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 61.
+(Font)              <8> on input line 62.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 61.
-LaTeX Font Info:    Try loading font information for U+msa on input line 61.
+(Font)              <6> on input line 62.
+LaTeX Font Info:    Try loading font information for U+msa on input line 62.
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 61.
+LaTeX Font Info:    Try loading font information for U+msb on input line 62.
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1{/home/danielle/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Underfull \hbox (badness 2617) in paragraph at lines 71--72
+Underfull \hbox (badness 2617) in paragraph at lines 72--73
 []\T1/lmr/m/n/10.95 Categorization has been ex-ten-sively stud-ied within the p
 sy-cho-log-i-cal lit-er-a-
  []
@@ -436,19 +436,19 @@ sy-cho-log-i-cal lit-er-a-
 <introfig2-eps-converted-to.pdf, id=11, 298.11375pt x 393.47pt>
 File: introfig2-eps-converted-to.pdf Graphic file (type pdf)
 <use introfig2-eps-converted-to.pdf>
-Package pdftex.def Info: introfig2-eps-converted-to.pdf  used on input line 77.
+Package pdftex.def Info: introfig2-eps-converted-to.pdf  used on input line 78.
 
 (pdftex.def)             Requested size: 208.67819pt x 275.42711pt.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 84.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 85.
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [2] [3 <./introfig2-eps-converted-to.pdf>] [4] [5] [6] [7]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 167.
+(Font)              <9> on input line 168.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 167.
+(Font)              <5> on input line 168.
 
-Overfull \hbox (13.46466pt too wide) in paragraph at lines 187--197
+Overfull \hbox (13.46466pt too wide) in paragraph at lines 188--198
 [][] 
  []
 
@@ -456,24 +456,24 @@ Overfull \hbox (13.46466pt too wide) in paragraph at lines 187--197
 <hcrp_schematic.pdf, id=52, 1027.84pt x 770.88pt>
 File: hcrp_schematic.pdf Graphic file (type pdf)
 <use hcrp_schematic.pdf>
-Package pdftex.def Info: hcrp_schematic.pdf  used on input line 218.
+Package pdftex.def Info: hcrp_schematic.pdf  used on input line 219.
 (pdftex.def)             Requested size: 411.12872pt x 308.34654pt.
 [10] [11 <./hcrp_schematic.pdf>] [12] [13]
 <fit1.pdf, id=106, 845.1575pt x 1032.85875pt>
 File: fit1.pdf Graphic file (type pdf)
 <use fit1.pdf>
-Package pdftex.def Info: fit1.pdf  used on input line 308.
+Package pdftex.def Info: fit1.pdf  used on input line 309.
 (pdftex.def)             Requested size: 464.83806pt x 568.07407pt.
 
-Overfull \hbox (31.21806pt too wide) in paragraph at lines 308--309
+Overfull \hbox (31.21806pt too wide) in paragraph at lines 309--310
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 7.57907pt on input line 312.
+LaTeX Warning: Float too large for page by 7.57907pt on input line 313.
 
 
-Overfull \hbox (5.7438pt too wide) in paragraph at lines 320--337
+Overfull \hbox (5.7438pt too wide) in paragraph at lines 321--338
 [][] 
  []
 
@@ -484,21 +484,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <httr_inference.pdf, id=123, 1027.84pt x 770.88pt>
 File: httr_inference.pdf Graphic file (type pdf)
 <use httr_inference.pdf>
-Package pdftex.def Info: httr_inference.pdf  used on input line 359.
+Package pdftex.def Info: httr_inference.pdf  used on input line 360.
 (pdftex.def)             Requested size: 411.12872pt x 308.34654pt.
 <posteriorFig3a.pdf, id=124, 543.48468pt x 447.68806pt>
 File: posteriorFig3a.pdf Graphic file (type pdf)
 <use posteriorFig3a.pdf>
-Package pdftex.def Info: posteriorFig3a.pdf  used on input line 368.
+Package pdftex.def Info: posteriorFig3a.pdf  used on input line 369.
 (pdftex.def)             Requested size: 190.22249pt x 156.69316pt.
 <posteriorFig3b.pdf, id=125, 559.33455pt x 452.81804pt>
 File: posteriorFig3b.pdf Graphic file (type pdf)
 <use posteriorFig3b.pdf>
-Package pdftex.def Info: posteriorFig3b.pdf  used on input line 369.
+Package pdftex.def Info: posteriorFig3b.pdf  used on input line 370.
 (pdftex.def)             Requested size: 195.77002pt x 158.48868pt.
 [17] [18 <./httr_inference.pdf> <./posteriorFig3a.pdf> <./posteriorFig3b.pdf>] 
 [19] [20]
-Overfull \hbox (1.47937pt too wide) in paragraph at lines 407--418
+Overfull \hbox (1.47937pt too wide) in paragraph at lines 408--419
 [][] 
  []
 
@@ -506,152 +506,152 @@ Overfull \hbox (1.47937pt too wide) in paragraph at lines 407--418
 <fit2.pdf, id=217, 845.1575pt x 1032.85875pt>
 File: fit2.pdf Graphic file (type pdf)
 <use fit2.pdf>
-Package pdftex.def Info: fit2.pdf  used on input line 434.
+Package pdftex.def Info: fit2.pdf  used on input line 435.
 (pdftex.def)             Requested size: 464.83806pt x 568.07407pt.
 
-Overfull \hbox (31.21806pt too wide) in paragraph at lines 434--435
+Overfull \hbox (31.21806pt too wide) in paragraph at lines 435--436
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 7.57907pt on input line 438.
+LaTeX Warning: Float too large for page by 7.57907pt on input line 439.
 
 
-Overfull \hbox (5.7438pt too wide) in paragraph at lines 446--463
+Overfull \hbox (5.7438pt too wide) in paragraph at lines 447--464
 [][] 
  []
 
 [22] [23 <./fit2.pdf>]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 482.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 483.
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 482.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 483.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 482.
+(Font)              <10> on input line 483.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 482.
+(Font)              <7> on input line 483.
 <./mod1exp1.pdf, id=230, 216.81pt x 180.675pt>
 File: ./mod1exp1.pdf Graphic file (type pdf)
 <use ./mod1exp1.pdf>
-Package pdftex.def Info: ./mod1exp1.pdf  used on input line 499.
+Package pdftex.def Info: ./mod1exp1.pdf  used on input line 500.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod1exp2.pdf, id=231, 216.81pt x 180.675pt>
 File: ./mod1exp2.pdf Graphic file (type pdf)
 <use ./mod1exp2.pdf>
-Package pdftex.def Info: ./mod1exp2.pdf  used on input line 500.
+Package pdftex.def Info: ./mod1exp2.pdf  used on input line 501.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod2exp1.pdf, id=232, 216.81pt x 180.675pt>
 File: ./mod2exp1.pdf Graphic file (type pdf)
 <use ./mod2exp1.pdf>
-Package pdftex.def Info: ./mod2exp1.pdf  used on input line 501.
+Package pdftex.def Info: ./mod2exp1.pdf  used on input line 502.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod2exp2.pdf, id=233, 216.81pt x 180.675pt>
 File: ./mod2exp2.pdf Graphic file (type pdf)
 <use ./mod2exp2.pdf>
-Package pdftex.def Info: ./mod2exp2.pdf  used on input line 502.
+Package pdftex.def Info: ./mod2exp2.pdf  used on input line 503.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod3exp1.pdf, id=234, 216.81pt x 180.675pt>
 File: ./mod3exp1.pdf Graphic file (type pdf)
 <use ./mod3exp1.pdf>
-Package pdftex.def Info: ./mod3exp1.pdf  used on input line 504.
+Package pdftex.def Info: ./mod3exp1.pdf  used on input line 505.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod3exp2.pdf, id=235, 216.81pt x 180.675pt>
 File: ./mod3exp2.pdf Graphic file (type pdf)
 <use ./mod3exp2.pdf>
-Package pdftex.def Info: ./mod3exp2.pdf  used on input line 505.
+Package pdftex.def Info: ./mod3exp2.pdf  used on input line 506.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod4exp1.pdf, id=236, 216.81pt x 180.675pt>
 File: ./mod4exp1.pdf Graphic file (type pdf)
 <use ./mod4exp1.pdf>
-Package pdftex.def Info: ./mod4exp1.pdf  used on input line 506.
+Package pdftex.def Info: ./mod4exp1.pdf  used on input line 507.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod4exp2.pdf, id=237, 216.81pt x 180.675pt>
 File: ./mod4exp2.pdf Graphic file (type pdf)
 <use ./mod4exp2.pdf>
-Package pdftex.def Info: ./mod4exp2.pdf  used on input line 507.
+Package pdftex.def Info: ./mod4exp2.pdf  used on input line 508.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod5exp1.pdf, id=238, 216.81pt x 180.675pt>
 File: ./mod5exp1.pdf Graphic file (type pdf)
 <use ./mod5exp1.pdf>
-Package pdftex.def Info: ./mod5exp1.pdf  used on input line 509.
+Package pdftex.def Info: ./mod5exp1.pdf  used on input line 510.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod5exp2.pdf, id=239, 216.81pt x 180.675pt>
 File: ./mod5exp2.pdf Graphic file (type pdf)
 <use ./mod5exp2.pdf>
-Package pdftex.def Info: ./mod5exp2.pdf  used on input line 510.
+Package pdftex.def Info: ./mod5exp2.pdf  used on input line 511.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod7exp1.pdf, id=240, 216.81pt x 180.675pt>
 File: ./mod7exp1.pdf Graphic file (type pdf)
 <use ./mod7exp1.pdf>
-Package pdftex.def Info: ./mod7exp1.pdf  used on input line 511.
+Package pdftex.def Info: ./mod7exp1.pdf  used on input line 512.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod7exp2.pdf, id=241, 216.81pt x 180.675pt>
 File: ./mod7exp2.pdf Graphic file (type pdf)
 <use ./mod7exp2.pdf>
-Package pdftex.def Info: ./mod7exp2.pdf  used on input line 512.
+Package pdftex.def Info: ./mod7exp2.pdf  used on input line 513.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod8exp1.pdf, id=242, 216.81pt x 180.675pt>
 File: ./mod8exp1.pdf Graphic file (type pdf)
 <use ./mod8exp1.pdf>
-Package pdftex.def Info: ./mod8exp1.pdf  used on input line 514.
+Package pdftex.def Info: ./mod8exp1.pdf  used on input line 515.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod8exp2.pdf, id=243, 216.81pt x 180.675pt>
 File: ./mod8exp2.pdf Graphic file (type pdf)
 <use ./mod8exp2.pdf>
-Package pdftex.def Info: ./mod8exp2.pdf  used on input line 515.
+Package pdftex.def Info: ./mod8exp2.pdf  used on input line 516.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod9exp1.pdf, id=244, 216.81pt x 180.675pt>
 File: ./mod9exp1.pdf Graphic file (type pdf)
 <use ./mod9exp1.pdf>
-Package pdftex.def Info: ./mod9exp1.pdf  used on input line 516.
+Package pdftex.def Info: ./mod9exp1.pdf  used on input line 517.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod9exp2.pdf, id=245, 216.81pt x 180.675pt>
 File: ./mod9exp2.pdf Graphic file (type pdf)
 <use ./mod9exp2.pdf>
-Package pdftex.def Info: ./mod9exp2.pdf  used on input line 517.
+Package pdftex.def Info: ./mod9exp2.pdf  used on input line 518.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod10exp1.pdf, id=246, 216.81pt x 180.675pt>
 File: ./mod10exp1.pdf Graphic file (type pdf)
 <use ./mod10exp1.pdf>
-Package pdftex.def Info: ./mod10exp1.pdf  used on input line 519.
+Package pdftex.def Info: ./mod10exp1.pdf  used on input line 520.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod10exp2.pdf, id=247, 216.81pt x 180.675pt>
 File: ./mod10exp2.pdf Graphic file (type pdf)
 <use ./mod10exp2.pdf>
-Package pdftex.def Info: ./mod10exp2.pdf  used on input line 520.
+Package pdftex.def Info: ./mod10exp2.pdf  used on input line 521.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod11exp1.pdf, id=248, 216.81pt x 180.675pt>
 File: ./mod11exp1.pdf Graphic file (type pdf)
 <use ./mod11exp1.pdf>
-Package pdftex.def Info: ./mod11exp1.pdf  used on input line 521.
+Package pdftex.def Info: ./mod11exp1.pdf  used on input line 522.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod11exp2.pdf, id=249, 216.81pt x 180.675pt>
 File: ./mod11exp2.pdf Graphic file (type pdf)
 <use ./mod11exp2.pdf>
-Package pdftex.def Info: ./mod11exp2.pdf  used on input line 522.
+Package pdftex.def Info: ./mod11exp2.pdf  used on input line 523.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod12exp1.pdf, id=250, 216.81pt x 180.675pt>
 File: ./mod12exp1.pdf Graphic file (type pdf)
 <use ./mod12exp1.pdf>
-Package pdftex.def Info: ./mod12exp1.pdf  used on input line 524.
+Package pdftex.def Info: ./mod12exp1.pdf  used on input line 525.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod12exp2.pdf, id=251, 216.81pt x 180.675pt>
 File: ./mod12exp2.pdf Graphic file (type pdf)
 <use ./mod12exp2.pdf>
-Package pdftex.def Info: ./mod12exp2.pdf  used on input line 525.
+Package pdftex.def Info: ./mod12exp2.pdf  used on input line 526.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod15exp1.pdf, id=252, 216.81pt x 180.675pt>
 File: ./mod15exp1.pdf Graphic file (type pdf)
 <use ./mod15exp1.pdf>
-Package pdftex.def Info: ./mod15exp1.pdf  used on input line 526.
+Package pdftex.def Info: ./mod15exp1.pdf  used on input line 527.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 <./mod15exp2.pdf, id=253, 216.81pt x 180.675pt>
 File: ./mod15exp2.pdf Graphic file (type pdf)
 <use ./mod15exp2.pdf>
-Package pdftex.def Info: ./mod15exp2.pdf  used on input line 527.
+Package pdftex.def Info: ./mod15exp2.pdf  used on input line 528.
 (pdftex.def)             Requested size: 71.13188pt x 59.27556pt.
 [24] [25] [26 <./mod1exp1.pdf> <./mod1exp2.pdf> <./mod2exp1.pdf> <./mod2exp2.pd
 f> <./mod3exp1.pdf> <./mod3exp2.pdf> <./mod4exp1.pdf> <./mod4exp2.pdf> <./mod5e
@@ -665,127 +665,127 @@ Underfull \vbox (badness 1253) has occurred while \output is active []
 <./set1stim55.png, id=371, 301.125pt x 301.125pt>
 File: ./set1stim55.png Graphic file (type png)
 <use ./set1stim55.png>
-Package pdftex.def Info: ./set1stim55.png  used on input line 630.
+Package pdftex.def Info: ./set1stim55.png  used on input line 631.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set2stim55.png, id=373, 301.125pt x 301.125pt>
 File: ./set2stim55.png Graphic file (type png)
 <use ./set2stim55.png>
-Package pdftex.def Info: ./set2stim55.png  used on input line 631.
+Package pdftex.def Info: ./set2stim55.png  used on input line 632.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set3stim55.png, id=374, 301.125pt x 301.125pt>
 File: ./set3stim55.png Graphic file (type png)
 <use ./set3stim55.png>
-Package pdftex.def Info: ./set3stim55.png  used on input line 632.
+Package pdftex.def Info: ./set3stim55.png  used on input line 633.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set4stim55.png, id=375, 301.125pt x 301.125pt>
 File: ./set4stim55.png Graphic file (type png)
 <use ./set4stim55.png>
-Package pdftex.def Info: ./set4stim55.png  used on input line 633.
+Package pdftex.def Info: ./set4stim55.png  used on input line 634.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set5stim55.png, id=376, 301.125pt x 301.125pt>
 File: ./set5stim55.png Graphic file (type png)
 <use ./set5stim55.png>
-Package pdftex.def Info: ./set5stim55.png  used on input line 634.
+Package pdftex.def Info: ./set5stim55.png  used on input line 635.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set6stim55.png, id=377, 301.125pt x 301.125pt>
 File: ./set6stim55.png Graphic file (type png)
 <use ./set6stim55.png>
-Package pdftex.def Info: ./set6stim55.png  used on input line 635.
+Package pdftex.def Info: ./set6stim55.png  used on input line 636.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set1stim75.png, id=378, 301.125pt x 301.125pt>
 File: ./set1stim75.png Graphic file (type png)
 <use ./set1stim75.png>
-Package pdftex.def Info: ./set1stim75.png  used on input line 637.
+Package pdftex.def Info: ./set1stim75.png  used on input line 638.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set2stim75.png, id=379, 301.125pt x 301.125pt>
 File: ./set2stim75.png Graphic file (type png)
 <use ./set2stim75.png>
-Package pdftex.def Info: ./set2stim75.png  used on input line 638.
+Package pdftex.def Info: ./set2stim75.png  used on input line 639.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set3stim75.png, id=380, 301.125pt x 301.125pt>
 File: ./set3stim75.png Graphic file (type png)
 <use ./set3stim75.png>
-Package pdftex.def Info: ./set3stim75.png  used on input line 639.
+Package pdftex.def Info: ./set3stim75.png  used on input line 640.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set4stim75.png, id=381, 301.125pt x 301.125pt>
 File: ./set4stim75.png Graphic file (type png)
 <use ./set4stim75.png>
-Package pdftex.def Info: ./set4stim75.png  used on input line 640.
+Package pdftex.def Info: ./set4stim75.png  used on input line 641.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set5stim75.png, id=382, 301.125pt x 301.125pt>
 File: ./set5stim75.png Graphic file (type png)
 <use ./set5stim75.png>
-Package pdftex.def Info: ./set5stim75.png  used on input line 641.
+Package pdftex.def Info: ./set5stim75.png  used on input line 642.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set6stim75.png, id=383, 301.125pt x 301.125pt>
 File: ./set6stim75.png Graphic file (type png)
 <use ./set6stim75.png>
-Package pdftex.def Info: ./set6stim75.png  used on input line 642.
+Package pdftex.def Info: ./set6stim75.png  used on input line 643.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set7stim55.png, id=384, 301.125pt x 301.125pt>
 File: ./set7stim55.png Graphic file (type png)
 <use ./set7stim55.png>
-Package pdftex.def Info: ./set7stim55.png  used on input line 648.
+Package pdftex.def Info: ./set7stim55.png  used on input line 649.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set8stim55.png, id=385, 301.125pt x 301.125pt>
 File: ./set8stim55.png Graphic file (type png)
 <use ./set8stim55.png>
-Package pdftex.def Info: ./set8stim55.png  used on input line 649.
+Package pdftex.def Info: ./set8stim55.png  used on input line 650.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set9stim55.png, id=386, 301.125pt x 301.125pt>
 File: ./set9stim55.png Graphic file (type png)
 <use ./set9stim55.png>
-Package pdftex.def Info: ./set9stim55.png  used on input line 650.
+Package pdftex.def Info: ./set9stim55.png  used on input line 651.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set10stim55.png, id=387, 301.125pt x 301.125pt>
 File: ./set10stim55.png Graphic file (type png)
 <use ./set10stim55.png>
-Package pdftex.def Info: ./set10stim55.png  used on input line 651.
+Package pdftex.def Info: ./set10stim55.png  used on input line 652.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set11stim55.png, id=388, 301.125pt x 301.125pt>
 File: ./set11stim55.png Graphic file (type png)
 <use ./set11stim55.png>
-Package pdftex.def Info: ./set11stim55.png  used on input line 652.
+Package pdftex.def Info: ./set11stim55.png  used on input line 653.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set12stim55.png, id=389, 301.125pt x 301.125pt>
 File: ./set12stim55.png Graphic file (type png)
 <use ./set12stim55.png>
-Package pdftex.def Info: ./set12stim55.png  used on input line 653.
+Package pdftex.def Info: ./set12stim55.png  used on input line 654.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set7stim75.png, id=390, 301.125pt x 301.125pt>
 File: ./set7stim75.png Graphic file (type png)
 <use ./set7stim75.png>
-Package pdftex.def Info: ./set7stim75.png  used on input line 655.
+Package pdftex.def Info: ./set7stim75.png  used on input line 656.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set8stim75.png, id=391, 301.125pt x 301.125pt>
 File: ./set8stim75.png Graphic file (type png)
 <use ./set8stim75.png>
-Package pdftex.def Info: ./set8stim75.png  used on input line 656.
+Package pdftex.def Info: ./set8stim75.png  used on input line 657.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set9stim75.png, id=392, 301.125pt x 301.125pt>
 File: ./set9stim75.png Graphic file (type png)
 <use ./set9stim75.png>
-Package pdftex.def Info: ./set9stim75.png  used on input line 657.
+Package pdftex.def Info: ./set9stim75.png  used on input line 658.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set10stim75.png, id=393, 301.125pt x 301.125pt>
 File: ./set10stim75.png Graphic file (type png)
 <use ./set10stim75.png>
-Package pdftex.def Info: ./set10stim75.png  used on input line 658.
+Package pdftex.def Info: ./set10stim75.png  used on input line 659.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set11stim75.png, id=394, 301.125pt x 301.125pt>
 File: ./set11stim75.png Graphic file (type png)
 <use ./set11stim75.png>
-Package pdftex.def Info: ./set11stim75.png  used on input line 659.
+Package pdftex.def Info: ./set11stim75.png  used on input line 660.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set12stim75.png, id=395, 301.125pt x 301.125pt>
 File: ./set12stim75.png Graphic file (type png)
 <use ./set12stim75.png>
-Package pdftex.def Info: ./set12stim75.png  used on input line 660.
+Package pdftex.def Info: ./set12stim75.png  used on input line 661.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <design3.pdf, id=396, 560.0925pt x 403.5075pt>
 File: design3.pdf Graphic file (type pdf)
 <use design3.pdf>
-Package pdftex.def Info: design3.pdf  used on input line 669.
+Package pdftex.def Info: design3.pdf  used on input line 670.
 (pdftex.def)             Requested size: 308.05182pt x 221.92981pt.
 [30] [31 <./set1stim55.png> <./set2stim55.png> <./set3stim55.png> <./set4stim55
 .png> <./set5stim55.png> <./set6stim55.png> <./set1stim75.png> <./set2stim75.pn
@@ -797,35 +797,35 @@ design3.pdf>]
 <display3.png, id=433, 732.7375pt x 359.3425pt>
 File: display3.png Graphic file (type png)
 <use display3.png>
-Package pdftex.def Info: display3.png  used on input line 689.
+Package pdftex.def Info: display3.png  used on input line 690.
 (pdftex.def)             Requested size: 183.18393pt x 89.8354pt.
 <data3.pdf, id=434, 722.7pt x 433.62pt>
 File: data3.pdf Graphic file (type pdf)
 <use data3.pdf>
-Package pdftex.def Info: data3.pdf  used on input line 697.
+Package pdftex.def Info: data3.pdf  used on input line 698.
 (pdftex.def)             Requested size: 361.3491pt x 216.80946pt.
 [32] [33 <./display3.png> <./data3.pdf>] [34]
 <similarities.pdf, id=450, 722.7pt x 433.62pt>
 File: similarities.pdf Graphic file (type pdf)
 <use similarities.pdf>
-Package pdftex.def Info: similarities.pdf  used on input line 722.
+Package pdftex.def Info: similarities.pdf  used on input line 723.
 (pdftex.def)             Requested size: 361.3491pt x 216.80946pt.
 [35 <./similarities.pdf>]
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 737.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 738.
 [36]
 <fit3_flat.pdf, id=464, 433.62pt x 650.43pt>
 File: fit3_flat.pdf Graphic file (type pdf)
 <use fit3_flat.pdf>
-Package pdftex.def Info: fit3_flat.pdf  used on input line 781.
+Package pdftex.def Info: fit3_flat.pdf  used on input line 782.
 (pdftex.def)             Requested size: 216.80946pt x 325.2142pt.
 <fit3_hierarchical.pdf, id=465, 433.62pt x 650.43pt>
 File: fit3_hierarchical.pdf Graphic file (type pdf)
 <use fit3_hierarchical.pdf>
-Package pdftex.def Info: fit3_hierarchical.pdf  used on input line 782.
+Package pdftex.def Info: fit3_hierarchical.pdf  used on input line 783.
 (pdftex.def)             Requested size: 216.80946pt x 325.2142pt.
 
-Overfull \hbox (23.99893pt too wide) in paragraph at lines 780--784
+Overfull \hbox (23.99893pt too wide) in paragraph at lines 781--785
  [] 
  []
 
@@ -836,248 +836,248 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <fit3_other.pdf, id=485, 433.62pt x 289.08pt>
 File: fit3_other.pdf Graphic file (type pdf)
 <use fit3_other.pdf>
-Package pdftex.def Info: fit3_other.pdf  used on input line 808.
+Package pdftex.def Info: fit3_other.pdf  used on input line 809.
 (pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
 [39] [40 <./fit3_other.pdf>]
 <./set13stim55.png, id=498, 301.125pt x 301.125pt>
 File: ./set13stim55.png Graphic file (type png)
 <use ./set13stim55.png>
-Package pdftex.def Info: ./set13stim55.png  used on input line 837.
+Package pdftex.def Info: ./set13stim55.png  used on input line 838.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set14stim55.png, id=499, 301.125pt x 301.125pt>
 File: ./set14stim55.png Graphic file (type png)
 <use ./set14stim55.png>
-Package pdftex.def Info: ./set14stim55.png  used on input line 838.
+Package pdftex.def Info: ./set14stim55.png  used on input line 839.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set15stim55.png, id=500, 301.125pt x 301.125pt>
 File: ./set15stim55.png Graphic file (type png)
 <use ./set15stim55.png>
-Package pdftex.def Info: ./set15stim55.png  used on input line 839.
+Package pdftex.def Info: ./set15stim55.png  used on input line 840.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set16stim55.png, id=501, 301.125pt x 301.125pt>
 File: ./set16stim55.png Graphic file (type png)
 <use ./set16stim55.png>
-Package pdftex.def Info: ./set16stim55.png  used on input line 840.
+Package pdftex.def Info: ./set16stim55.png  used on input line 841.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set17stim55.png, id=502, 301.125pt x 301.125pt>
 File: ./set17stim55.png Graphic file (type png)
 <use ./set17stim55.png>
-Package pdftex.def Info: ./set17stim55.png  used on input line 841.
+Package pdftex.def Info: ./set17stim55.png  used on input line 842.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set18stim55.png, id=503, 301.125pt x 301.125pt>
 File: ./set18stim55.png Graphic file (type png)
 <use ./set18stim55.png>
-Package pdftex.def Info: ./set18stim55.png  used on input line 842.
+Package pdftex.def Info: ./set18stim55.png  used on input line 843.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set19stim55.png, id=504, 301.125pt x 301.125pt>
 File: ./set19stim55.png Graphic file (type png)
 <use ./set19stim55.png>
-Package pdftex.def Info: ./set19stim55.png  used on input line 843.
+Package pdftex.def Info: ./set19stim55.png  used on input line 844.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set20stim55.png, id=505, 301.125pt x 301.125pt>
 File: ./set20stim55.png Graphic file (type png)
 <use ./set20stim55.png>
-Package pdftex.def Info: ./set20stim55.png  used on input line 844.
+Package pdftex.def Info: ./set20stim55.png  used on input line 845.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set13stim75.png, id=506, 301.125pt x 301.125pt>
 File: ./set13stim75.png Graphic file (type png)
 <use ./set13stim75.png>
-Package pdftex.def Info: ./set13stim75.png  used on input line 846.
+Package pdftex.def Info: ./set13stim75.png  used on input line 847.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set14stim75.png, id=507, 301.125pt x 301.125pt>
 File: ./set14stim75.png Graphic file (type png)
 <use ./set14stim75.png>
-Package pdftex.def Info: ./set14stim75.png  used on input line 847.
+Package pdftex.def Info: ./set14stim75.png  used on input line 848.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set15stim75.png, id=508, 301.125pt x 301.125pt>
 File: ./set15stim75.png Graphic file (type png)
 <use ./set15stim75.png>
-Package pdftex.def Info: ./set15stim75.png  used on input line 848.
+Package pdftex.def Info: ./set15stim75.png  used on input line 849.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set16stim75.png, id=509, 301.125pt x 301.125pt>
 File: ./set16stim75.png Graphic file (type png)
 <use ./set16stim75.png>
-Package pdftex.def Info: ./set16stim75.png  used on input line 849.
+Package pdftex.def Info: ./set16stim75.png  used on input line 850.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set17stim75.png, id=510, 301.125pt x 301.125pt>
 File: ./set17stim75.png Graphic file (type png)
 <use ./set17stim75.png>
-Package pdftex.def Info: ./set17stim75.png  used on input line 850.
+Package pdftex.def Info: ./set17stim75.png  used on input line 851.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set18stim75.png, id=511, 301.125pt x 301.125pt>
 File: ./set18stim75.png Graphic file (type png)
 <use ./set18stim75.png>
-Package pdftex.def Info: ./set18stim75.png  used on input line 851.
+Package pdftex.def Info: ./set18stim75.png  used on input line 852.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set19stim75.png, id=512, 301.125pt x 301.125pt>
 File: ./set19stim75.png Graphic file (type png)
 <use ./set19stim75.png>
-Package pdftex.def Info: ./set19stim75.png  used on input line 852.
+Package pdftex.def Info: ./set19stim75.png  used on input line 853.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set20stim75.png, id=513, 301.125pt x 301.125pt>
 File: ./set20stim75.png Graphic file (type png)
 <use ./set20stim75.png>
-Package pdftex.def Info: ./set20stim75.png  used on input line 853.
+Package pdftex.def Info: ./set20stim75.png  used on input line 854.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set21stim55.png, id=514, 301.125pt x 301.125pt>
 File: ./set21stim55.png Graphic file (type png)
 <use ./set21stim55.png>
-Package pdftex.def Info: ./set21stim55.png  used on input line 859.
+Package pdftex.def Info: ./set21stim55.png  used on input line 860.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set22stim55.png, id=515, 301.125pt x 301.125pt>
 File: ./set22stim55.png Graphic file (type png)
 <use ./set22stim55.png>
-Package pdftex.def Info: ./set22stim55.png  used on input line 860.
+Package pdftex.def Info: ./set22stim55.png  used on input line 861.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set23stim55.png, id=516, 301.125pt x 301.125pt>
 File: ./set23stim55.png Graphic file (type png)
 <use ./set23stim55.png>
-Package pdftex.def Info: ./set23stim55.png  used on input line 861.
+Package pdftex.def Info: ./set23stim55.png  used on input line 862.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set24stim55.png, id=517, 301.125pt x 301.125pt>
 File: ./set24stim55.png Graphic file (type png)
 <use ./set24stim55.png>
-Package pdftex.def Info: ./set24stim55.png  used on input line 862.
+Package pdftex.def Info: ./set24stim55.png  used on input line 863.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set25stim55.png, id=518, 301.125pt x 301.125pt>
 File: ./set25stim55.png Graphic file (type png)
 <use ./set25stim55.png>
-Package pdftex.def Info: ./set25stim55.png  used on input line 863.
+Package pdftex.def Info: ./set25stim55.png  used on input line 864.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set26stim55.png, id=519, 301.125pt x 301.125pt>
 File: ./set26stim55.png Graphic file (type png)
 <use ./set26stim55.png>
-Package pdftex.def Info: ./set26stim55.png  used on input line 864.
+Package pdftex.def Info: ./set26stim55.png  used on input line 865.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set27stim55.png, id=520, 301.125pt x 301.125pt>
 File: ./set27stim55.png Graphic file (type png)
 <use ./set27stim55.png>
-Package pdftex.def Info: ./set27stim55.png  used on input line 865.
+Package pdftex.def Info: ./set27stim55.png  used on input line 866.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set28stim55.png, id=521, 301.125pt x 301.125pt>
 File: ./set28stim55.png Graphic file (type png)
 <use ./set28stim55.png>
-Package pdftex.def Info: ./set28stim55.png  used on input line 866.
+Package pdftex.def Info: ./set28stim55.png  used on input line 867.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set21stim75.png, id=522, 301.125pt x 301.125pt>
 File: ./set21stim75.png Graphic file (type png)
 <use ./set21stim75.png>
-Package pdftex.def Info: ./set21stim75.png  used on input line 868.
+Package pdftex.def Info: ./set21stim75.png  used on input line 869.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set22stim75.png, id=523, 301.125pt x 301.125pt>
 File: ./set22stim75.png Graphic file (type png)
 <use ./set22stim75.png>
-Package pdftex.def Info: ./set22stim75.png  used on input line 869.
+Package pdftex.def Info: ./set22stim75.png  used on input line 870.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set23stim75.png, id=524, 301.125pt x 301.125pt>
 File: ./set23stim75.png Graphic file (type png)
 <use ./set23stim75.png>
-Package pdftex.def Info: ./set23stim75.png  used on input line 870.
+Package pdftex.def Info: ./set23stim75.png  used on input line 871.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set24stim75.png, id=525, 301.125pt x 301.125pt>
 File: ./set24stim75.png Graphic file (type png)
 <use ./set24stim75.png>
-Package pdftex.def Info: ./set24stim75.png  used on input line 871.
+Package pdftex.def Info: ./set24stim75.png  used on input line 872.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set25stim75.png, id=526, 301.125pt x 301.125pt>
 File: ./set25stim75.png Graphic file (type png)
 <use ./set25stim75.png>
-Package pdftex.def Info: ./set25stim75.png  used on input line 872.
+Package pdftex.def Info: ./set25stim75.png  used on input line 873.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set26stim75.png, id=527, 301.125pt x 301.125pt>
 File: ./set26stim75.png Graphic file (type png)
 <use ./set26stim75.png>
-Package pdftex.def Info: ./set26stim75.png  used on input line 873.
+Package pdftex.def Info: ./set26stim75.png  used on input line 874.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set27stim75.png, id=528, 301.125pt x 301.125pt>
 File: ./set27stim75.png Graphic file (type png)
 <use ./set27stim75.png>
-Package pdftex.def Info: ./set27stim75.png  used on input line 874.
+Package pdftex.def Info: ./set27stim75.png  used on input line 875.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set28stim75.png, id=529, 301.125pt x 301.125pt>
 File: ./set28stim75.png Graphic file (type png)
 <use ./set28stim75.png>
-Package pdftex.def Info: ./set28stim75.png  used on input line 875.
+Package pdftex.def Info: ./set28stim75.png  used on input line 876.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set29stim55.png, id=530, 301.125pt x 301.125pt>
 File: ./set29stim55.png Graphic file (type png)
 <use ./set29stim55.png>
-Package pdftex.def Info: ./set29stim55.png  used on input line 881.
+Package pdftex.def Info: ./set29stim55.png  used on input line 882.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set30stim55.png, id=531, 301.125pt x 301.125pt>
 File: ./set30stim55.png Graphic file (type png)
 <use ./set30stim55.png>
-Package pdftex.def Info: ./set30stim55.png  used on input line 882.
+Package pdftex.def Info: ./set30stim55.png  used on input line 883.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set31stim55.png, id=532, 301.125pt x 301.125pt>
 File: ./set31stim55.png Graphic file (type png)
 <use ./set31stim55.png>
-Package pdftex.def Info: ./set31stim55.png  used on input line 883.
+Package pdftex.def Info: ./set31stim55.png  used on input line 884.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set32stim55.png, id=533, 301.125pt x 301.125pt>
 File: ./set32stim55.png Graphic file (type png)
 <use ./set32stim55.png>
-Package pdftex.def Info: ./set32stim55.png  used on input line 884.
+Package pdftex.def Info: ./set32stim55.png  used on input line 885.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set33stim55.png, id=534, 301.125pt x 301.125pt>
 File: ./set33stim55.png Graphic file (type png)
 <use ./set33stim55.png>
-Package pdftex.def Info: ./set33stim55.png  used on input line 885.
+Package pdftex.def Info: ./set33stim55.png  used on input line 886.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set34stim55.png, id=535, 301.125pt x 301.125pt>
 File: ./set34stim55.png Graphic file (type png)
 <use ./set34stim55.png>
-Package pdftex.def Info: ./set34stim55.png  used on input line 886.
+Package pdftex.def Info: ./set34stim55.png  used on input line 887.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set35stim55.png, id=536, 301.125pt x 301.125pt>
 File: ./set35stim55.png Graphic file (type png)
 <use ./set35stim55.png>
-Package pdftex.def Info: ./set35stim55.png  used on input line 887.
+Package pdftex.def Info: ./set35stim55.png  used on input line 888.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set36stim55.png, id=537, 301.125pt x 301.125pt>
 File: ./set36stim55.png Graphic file (type png)
 <use ./set36stim55.png>
-Package pdftex.def Info: ./set36stim55.png  used on input line 888.
+Package pdftex.def Info: ./set36stim55.png  used on input line 889.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set29stim75.png, id=538, 301.125pt x 301.125pt>
 File: ./set29stim75.png Graphic file (type png)
 <use ./set29stim75.png>
-Package pdftex.def Info: ./set29stim75.png  used on input line 890.
+Package pdftex.def Info: ./set29stim75.png  used on input line 891.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set30stim75.png, id=539, 301.125pt x 301.125pt>
 File: ./set30stim75.png Graphic file (type png)
 <use ./set30stim75.png>
-Package pdftex.def Info: ./set30stim75.png  used on input line 891.
+Package pdftex.def Info: ./set30stim75.png  used on input line 892.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set31stim75.png, id=540, 301.125pt x 301.125pt>
 File: ./set31stim75.png Graphic file (type png)
 <use ./set31stim75.png>
-Package pdftex.def Info: ./set31stim75.png  used on input line 892.
+Package pdftex.def Info: ./set31stim75.png  used on input line 893.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set32stim75.png, id=541, 301.125pt x 301.125pt>
 File: ./set32stim75.png Graphic file (type png)
 <use ./set32stim75.png>
-Package pdftex.def Info: ./set32stim75.png  used on input line 893.
+Package pdftex.def Info: ./set32stim75.png  used on input line 894.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set33stim75.png, id=542, 301.125pt x 301.125pt>
 File: ./set33stim75.png Graphic file (type png)
 <use ./set33stim75.png>
-Package pdftex.def Info: ./set33stim75.png  used on input line 894.
+Package pdftex.def Info: ./set33stim75.png  used on input line 895.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set34stim75.png, id=543, 301.125pt x 301.125pt>
 File: ./set34stim75.png Graphic file (type png)
 <use ./set34stim75.png>
-Package pdftex.def Info: ./set34stim75.png  used on input line 895.
+Package pdftex.def Info: ./set34stim75.png  used on input line 896.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set35stim75.png, id=544, 301.125pt x 301.125pt>
 File: ./set35stim75.png Graphic file (type png)
 <use ./set35stim75.png>
-Package pdftex.def Info: ./set35stim75.png  used on input line 896.
+Package pdftex.def Info: ./set35stim75.png  used on input line 897.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 <./set36stim75.png, id=545, 301.125pt x 301.125pt>
 File: ./set36stim75.png Graphic file (type png)
 <use ./set36stim75.png>
-Package pdftex.def Info: ./set36stim75.png  used on input line 897.
+Package pdftex.def Info: ./set36stim75.png  used on input line 898.
 (pdftex.def)             Requested size: 30.11426pt x 30.11426pt.
 [41 <./set13stim55.png> <./set14stim55.png> <./set15stim55.png> <./set16stim55.
 png> <./set17stim55.png> <./set18stim55.png> <./set19stim55.png> <./set20stim55
@@ -1095,21 +1095,21 @@ et36stim75.png>]
 <censored.png, id=597, 787.94376pt x 432.61626pt>
 File: censored.png Graphic file (type png)
 <use censored.png>
-Package pdftex.def Info: censored.png  used on input line 917.
+Package pdftex.def Info: censored.png  used on input line 918.
 (pdftex.def)             Requested size: 236.38495pt x 129.78587pt.
 [42]
 <exp4familiar.pdf, id=601, 433.62pt x 433.62pt>
 File: exp4familiar.pdf Graphic file (type pdf)
 <use exp4familiar.pdf>
-Package pdftex.def Info: exp4familiar.pdf  used on input line 931.
+Package pdftex.def Info: exp4familiar.pdf  used on input line 932.
 (pdftex.def)             Requested size: 238.49173pt x 238.49173pt.
 <exp4novel.pdf, id=602, 505.89pt x 505.89pt>
 File: exp4novel.pdf Graphic file (type pdf)
 <use exp4novel.pdf>
-Package pdftex.def Info: exp4novel.pdf  used on input line 940.
+Package pdftex.def Info: exp4novel.pdf  used on input line 941.
 (pdftex.def)             Requested size: 278.24034pt x 278.24034pt.
 [43 <./censored.png>]
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 952.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 953.
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1117,12 +1117,12 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 <expt4fa.pdf, id=608, 433.62pt x 722.7pt>
 File: expt4fa.pdf Graphic file (type pdf)
 <use expt4fa.pdf>
-Package pdftex.def Info: expt4fa.pdf  used on input line 953.
+Package pdftex.def Info: expt4fa.pdf  used on input line 954.
 (pdftex.def)             Requested size: 216.80946pt x 361.3491pt.
 <expt4na.pdf, id=609, 289.08pt x 722.7pt>
 File: expt4na.pdf Graphic file (type pdf)
 <use expt4na.pdf>
-Package pdftex.def Info: expt4na.pdf  used on input line 954.
+Package pdftex.def Info: expt4na.pdf  used on input line 955.
 (pdftex.def)             Requested size: 144.53964pt x 361.3491pt.
 [44 <./exp4familiar.pdf>]
 Underfull \vbox (badness 1527) has occurred while \output is active []
@@ -1131,23 +1131,23 @@ Underfull \vbox (badness 1527) has occurred while \output is active []
 <allexpts.pdf, id=646, 505.89pt x 903.375pt>
 File: allexpts.pdf Graphic file (type pdf)
 <use allexpts.pdf>
-Package pdftex.def Info: allexpts.pdf  used on input line 980.
+Package pdftex.def Info: allexpts.pdf  used on input line 981.
 (pdftex.def)             Requested size: 278.24034pt x 496.85779pt.
 
-LaTeX Warning: Float too large for page by 16.96283pt on input line 984.
+LaTeX Warning: Float too large for page by 16.96283pt on input line 985.
 
 [47] [48 <./allexpts.pdf>]
 <particles.pdf, id=659, 1027.84pt x 770.88pt>
 File: particles.pdf Graphic file (type pdf)
 <use particles.pdf>
-Package pdftex.def Info: particles.pdf  used on input line 1003.
+Package pdftex.def Info: particles.pdf  used on input line 1004.
 (pdftex.def)             Requested size: 411.12872pt x 308.34654pt.
 [49] [50 <./particles.pdf>] [51] [52] (./2017_noneoftheabove.bbl [53] [54] [55]
 [56]) [57] [58] [59] (./2017_noneoftheabove.aux) ) 
 Here is how much of TeX's memory you used:
  6831 strings out of 494553
  104595 string characters out of 6176983
- 179372 words of memory out of 5000000
+ 179254 words of memory out of 5000000
  10209 multiletter control sequences out of 15000+600000
  101685 words of font info for 89 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -1177,7 +1177,7 @@ e1/public/lm/lmsy6.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/l
 m/lmsy8.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy9.pfb
 ></home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></home/da
 nielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on 2017_noneoftheabove.pdf (59 pages, 1212035 bytes).
+Output written on 2017_noneoftheabove.pdf (59 pages, 1212963 bytes).
 PDF statistics:
  797 PDF objects out of 1000 (max. 8388607)
  451 compressed objects within 5 object streams
