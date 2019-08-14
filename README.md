@@ -4,8 +4,8 @@
 # Danielle Navarro: Selected Manuscripts
 
 This is not a complete listing of all my papers (you can find that on my
-website [here](https://compcogscisydney.org/publications). Instead it is
-a collection of papers that I thought were worth the effort of
+website [here](https://compcogscisydney.org/publications)). Instead it
+is a collection of papers that I thought were worth the effort of
 recovering and rebuilding from source so that the paper spells my name
 correctly. At the moment there are a few papers listed but in the readme
 but not in the repository. This is because I have not yet managed to
