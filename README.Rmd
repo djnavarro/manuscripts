@@ -11,13 +11,11 @@ knitr::opts_chunk$set(
 )
 ```
 
-# Selected manuscripts
+# Danielle Navarro: Selected Manuscripts
 
-This is not a complete listing of all my papers (you can find that on my website [here](https://compcogscisydney.org/publications). Instead it is a collection of papers that I thought were worth the effort of recovering and rebuilding from source so that the paper spells my name correctly. This repository includes both the final pdf file in the `manuscript` folder, and the `source` files used to generate it.  
+This is not a complete listing of all my papers (you can find that on my website [here](https://compcogscisydney.org/publications). Instead it is a collection of papers that I thought were worth the effort of recovering and rebuilding from source so that the paper spells my name correctly. At the moment there are a few papers listed but in the readme but not in the repository. This is because I have not yet managed to track down the source and rebuild the manuscripts with the proper name.
 
-In each case the citation below links to the journal DOI for the version of record, but if anyone wishes to share copies of my older papers *without* deadnaming me in the process, you can use the versions hosted here! 
-
-My papers are sometimes associated with supplementary materials, data sets, analyses etc, hosted on OSF or GitHub, or with a preprint (or postprint) posted to PsyArXiv. Whenever that is the case, I have linked to those here.
+This repository includes both the final pdf file in the `manuscript` folder, and the `source` files used to generate it. In each case the citation below links to the journal DOI for the version of record, but if anyone wishes to share copies of my older papers *without* deadnaming me in the process, you can use the versions hosted here! Additionally, my papers are sometimes associated with supplementary materials, data sets, analyses etc, hosted on OSF or GitHub, or with a preprint (or postprint) posted to PsyArXiv. Whenever that is the case, I have linked to those here.
 
 ## 2019
 
