@@ -24,7 +24,12 @@ here as they use my correct name.
     [github](https://github.com/djnavarro/samplingframes)\]
   - Hayes, B. K., Navarro, D. J., Stephens, R., Ransom, K. and Dilevski,
     N. (2019). The diversity effect in inductive reasoning depends on
-    sampling assumptions. *Psychonomic Bulletin & Review, 26*, 1043-1050
+    sampling assumptions. *Psychonomic Bulletin & Review, 26*,
+    1043-1050. \[[pdf](./manuscripts/2019_diversitysampling.pdf),
+    [source](./source/2018_diversitysampling),
+    [doi](https://doi.org/10.3758/s13423-018-1562-2),
+    [osf](https://osf.io/fpx9k/),
+    [github](https://github.com/djnavarro/samplingframes)\]
   - Hendrickson, A., Perfors, A., Navarro, D. J. and Ransom, K. (2019).
     Sample size, number of categories and sampling assumptions:
     Exploring some differences between categorization and
