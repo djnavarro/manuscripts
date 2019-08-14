@@ -18,7 +18,7 @@ here as they use my correct name.
     Selective sampling and inductive inference: Drawing inferences based
     on observed and missing evidence. *Cognitive Psychology, 113*.
     \[[pdf](./manuscripts/2019_samplingframes.pdf),
-    [source](./source/2018_samplingframes),
+    [source](./source/2019_samplingframes),
     [doi](https://doi.org/10.1016/j.cogpsych.2019.05.003),
     [psyarxiv](https://doi.org/10.17605/OSF.IO/2M83V),
     [github](https://github.com/djnavarro/samplingframes)\]
@@ -26,7 +26,7 @@ here as they use my correct name.
     N. (2019). The diversity effect in inductive reasoning depends on
     sampling assumptions. *Psychonomic Bulletin & Review, 26*,
     1043-1050. \[[pdf](./manuscripts/2019_diversitysampling.pdf),
-    [source](./source/2018_diversitysampling),
+    [source](./source/2019_diversitysampling),
     [doi](https://doi.org/10.3758/s13423-018-1562-2),
     [osf](https://osf.io/fpx9k/),
     [github](https://github.com/djnavarro/samplingframes)\]
@@ -34,6 +34,10 @@ here as they use my correct name.
     Sample size, number of categories and sampling assumptions:
     Exploring some differences between categorization and
     generalization. *Cognitive Psychology, 111*, 80-102
+    \[[pdf](./manuscripts/2019_onecattwocat.pdf),
+    [source](./source/2019_onecattwocat),
+    [doi](https://dx.doi.org/10.1016/j.cogpsych.2019.03.001),
+    [psyarxiv](https://psyarxiv.com/9vc2n/)\]
   - Lee, J. C., Lovibond, P. F., Hayes, B. K. and Navarro, D. J. (2019).
     Negative evidence and inductive reasoning in generalization of
     associative learning. *Journal of Experimental Psychology: General*,
@@ -42,13 +46,17 @@ here as they use my correct name.
     Tensions between scientific judgement and statistical model
     selection. *Computational Brain and Behavior, 2*, 28-34
     \[[pdf](./manuscripts/2019_devildeepbluesea.pdf),
-    [source](./source/2018_devildeepbluesea),
+    [source](./source/2019_devildeepbluesea),
     [doi](https://doi.org/10.1007/s42113-018-0019-z),
     [osf](https://osf.io/5swnm/),
     [psyarxiv](https://psyarxiv.com/39q8y/)\]
   - Vong, W. K., Hendrickson, A., Navarro, D. J. and Perfors, A. (2019).
     Do additional features help or hurt category learning? The curse of
     dimensionality in human learners. *Cognitive Science, 43*, e12724
+    \[[pdf](./manuscripts/2019_curse.pdf),
+    [source](./source/2019_curse),
+    [doi](http://dx.doi.org/10.1111/cogs.12724),
+    [psyarxiv](https://dx.doi.org/10.17605/OSF.IO/BJH68)\]
 
 ## 2018
 

@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: 2019_onecattwocat.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: citations.bib
+Database file #2: bayes_gen_papers.bib
+Database file #3: categorization_frequency_papers.bib
+Database file #4: gamma_discussion_citations.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 78 entries,
+            6951 wiz_defined-function locations,
+            1710 strings with 23176 characters,
+and the built_in function-call counts, 156114 in all, are:
+= -- 19594
+> -- 1246
+< -- 7688
++ -- 8150
+- -- 158
+* -- 10226
+:= -- 28741
+add.period$ -- 324
+call.type$ -- 78
+change.case$ -- 1364
+chr.to.int$ -- 0
+cite$ -- 156
+duplicate$ -- 4141
+empty$ -- 5810
+format.name$ -- 2050
+if$ -- 29516
+int.to.chr$ -- 0
+int.to.str$ -- 242
+missing$ -- 0
+newline$ -- 1956
+num.names$ -- 630
+pop$ -- 2226
+preamble$ -- 1
+purify$ -- 312
+quote$ -- 0
+skip$ -- 10071
+stack$ -- 0
+substring$ -- 8948
+swap$ -- 2459
+text.length$ -- 193
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 6688
+warning$ -- 0
+while$ -- 694
+width$ -- 0
+write$ -- 2451
