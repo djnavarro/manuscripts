@@ -41,6 +41,11 @@ here as they use my correct name.
   - Navarro, D. J. (2019). Between the devil and the deep blue sea:
     Tensions between scientific judgement and statistical model
     selection. *Computational Brain and Behavior, 2*, 28-34
+    \[[pdf](./manuscripts/2019_devildeepbluesea.pdf),
+    [source](./source/2018_devildeepbluesea),
+    [doi](https://doi.org/10.1007/s42113-018-0019-z),
+    [osf](https://osf.io/5swnm/),
+    [psyarxiv](https://psyarxiv.com/39q8y/)\]
   - Vong, W. K., Hendrickson, A., Navarro, D. J. and Perfors, A. (2019).
     Do additional features help or hurt category learning? The curse of
     dimensionality in human learners. *Cognitive Science, 43*, e12724

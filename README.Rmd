@@ -24,7 +24,8 @@ This is not a complete listing of all my papers. Instead it is a collection of p
 [[pdf](./manuscripts/2019_diversitysampling.pdf), [source](./source/2018_diversitysampling), [doi](https://doi.org/10.3758/s13423-018-1562-2), [osf](https://osf.io/fpx9k/), [github](https://github.com/djnavarro/samplingframes)]
 - Hendrickson, A., Perfors, A., Navarro, D. J. and Ransom, K. (2019). Sample size, number of categories and sampling assumptions: Exploring some differences between categorization and generalization. *Cognitive Psychology, 111*, 80-102
 - Lee, J. C., Lovibond, P. F., Hayes, B. K. and Navarro, D. J. (2019). Negative evidence and inductive reasoning in generalization of associative learning. *Journal of Experimental Psychology: General*, 148, 289-303
-- Navarro, D. J. (2019). Between the devil and the deep blue sea: Tensions between scientific judgement and statistical model selection. *Computational Brain and Behavior, 2*, 28-34
+- Navarro, D. J. (2019). Between the devil and the deep blue sea: Tensions between scientific judgement and statistical model selection. *Computational Brain and Behavior, 2*, 28-34 
+[[pdf](./manuscripts/2019_devildeepbluesea.pdf), [source](./source/2018_devildeepbluesea), [doi](https://doi.org/10.1007/s42113-018-0019-z), [osf](https://osf.io/5swnm/), [psyarxiv](https://psyarxiv.com/39q8y/)]
 - Vong, W. K., Hendrickson, A., Navarro, D. J. and Perfors, A. (2019). Do additional features help or hurt category learning? The curse of dimensionality in human learners. *Cognitive Science, 43*, e12724
 
 
