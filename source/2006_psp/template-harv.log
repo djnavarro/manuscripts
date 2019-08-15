@@ -1,0 +1,133 @@
+PTITeX 3.4, (c) Personal TeX, Inc. 1985-1998
+This is TeX 3.14159 (preloaded format=LATEX 3.10.13)  29 OCT 2003 14:26
+**&LATEX C:/Daniel/MyPapers/catlearntext/template-harv.tex
+(C:\Daniel\MyPapers\catlearntext\template-harv.tex
+LaTeX2e <1998/12/01>
+Babel <v3.7j> and hyphenation patterns for american, english, french, dutch, ge
+rman, ngerman, loaded.
+(C:/Daniel/MyPapers/catlearntext/elsart.cls
+Document Class: elsart 2001/01/05, 2.18: Elsevier Science
+\@frontmatterwidth=\dimen102
+\@bls=\dimen103
+\eqntopsep=\skip41
+\eqnarraycolsep=\dimen104
+\labelwidthi=\dimen105
+\labelwidthii=\dimen106
+\labelwidthiii=\dimen107
+\labelwidthiv=\dimen108
+\@maxlistdepth=\count79
+\eqnbaselineskip=\skip42
+\eqnlineskip=\skip43
+\mathindent=\dimen109
+\rulepreskip=\dimen110
+\rulepostskip=\dimen111
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+(C:\PCTeXv4\LATEX2E\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 29.
+)
+\c@thm=\count85
+\c@alg=\count86
+\c@algorithm=\count87
+\c@note=\count88
+\c@summ=\count89
+\c@case=\count90
+\@tempcntc=\count91
+\c@figure=\count92
+\c@table=\count93
+\t@glob@notes=\toks14
+\t@loc@notes=\toks15
+\note@cnt=\count94
+\corauth@text=\toks16
+\email@text=\toks17
+\url@text=\toks18
+\c@corauth=\count95
+\c@author=\count96
+\n@author=\count97
+\c@collab=\count98
+\n@collab=\count99
+\c@address=\count100
+\sv@mathsurround=\dimen112
+\sv@hyphenpenalty=\count101
+\prev@elem=\count102
+\cur@elem=\count103
+\fm@box=\box26
+\fm@size=\dimen113
+\t@abstract=\box27
+\t@keyword=\box28
+\t@xtheight=\dimen114
+\@logoheight=\dimen115
+\@pubyear=\count104
+\c@firstpage=\count105
+\c@lastpage=\count106
+\slashbox=\box29
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 1377.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 1377.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 1377.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 1377.
+
+ (C:\PCTeXv4\LATEX2E\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2eLaTeX symbol font definitions
+)
+\Slashbox=\box30
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 1378.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1378.
+)
+(C:\PCTeXv4\AMSLTX12\amssymb.sty
+Package: amssymb 1995/02/01 v2.2a
+ (C:\PCTeXv4\AMSLTX12\amsfonts.sty
+Package: amsfonts 1995/02/01 v2.2b
+\@emptytoks=\toks19
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 128.
+))
+No file template-harv.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Try loading font information for U+msa on input line 45.
+(C:\PCTeXv4\AMSLTX12\umsa.fd
+File: Umsa.fd 1995/01/05 v2.2e AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 45.
+ (C:\PCTeXv4\AMSLTX12\umsb.fd
+File: Umsb.fd 1995/01/05 v2.2e AMS font definitions
+)
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   &
+l.52 \author{}
+              
+? x
+ 
+Here is how much of TeX's memory you used:
+ 1012 strings out of 1831
+ 10255 string characters out of 17826
+ 10507 words of memory out of 65536
+ 3972 multiletter control sequences out of 10000
+ 10690 words of font info for 44 fonts, out of 20000 for 255
+ 14 hyphenation exceptions out of 607
+ 25i,3n,24p,242b,192s stack positions out of 200i,40n,60p,5000b,600s
+No pages of output.

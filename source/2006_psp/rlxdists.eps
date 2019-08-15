@@ -1,0 +1,4170 @@
+%!PS-Adobe-2.0 EPSF-1.2
+%%Creator: MATLAB, The Mathworks, Inc.
+%%Title: C:\Daniel\MyResearch\catlearn\smcdata\rlxdists.eps
+%%CreationDate: 12/19/2003  13:59:58
+%%DocumentNeededFonts: Helvetica
+%%DocumentProcessColors: Cyan Magenta Yellow Black
+%%Pages: 1
+%%BoundingBox:   175   175   453   453
+%%EndComments
+
+%%BeginProlog
+% MathWorks dictionary
+/MathWorks 160 dict begin
+% definition operators
+/bdef {bind def} bind def
+/ldef {load def} bind def
+/xdef {exch def} bdef
+/xstore {exch store} bdef
+% operator abbreviations
+/c  /clip ldef
+/cc /concat ldef
+/cp /closepath ldef
+/gr /grestore ldef
+/gs /gsave ldef
+/mt /moveto ldef
+/np /newpath ldef
+/cm /currentmatrix ldef
+/sm /setmatrix ldef
+/rm /rmoveto ldef
+/rl /rlineto ldef
+/s {show newpath} bdef
+/sc {setcmykcolor} bdef
+/sr /setrgbcolor ldef
+/sg /setgray ldef
+/w /setlinewidth ldef
+/j /setlinejoin ldef
+/cap /setlinecap ldef
+/rc {rectclip} bdef
+/rf {rectfill} bdef
+% page state control
+/pgsv () def
+/bpage {/pgsv save def} bdef
+/epage {pgsv restore} bdef
+/bplot /gsave ldef
+/eplot {stroke grestore} bdef
+% orientation switch
+/portraitMode 0 def /landscapeMode 1 def /rotateMode 2 def
+% coordinate system mappings
+/dpi2point 0 def
+% font control
+/FontSize 0 def
+/FMS {/FontSize xstore findfont [FontSize 0 0 FontSize neg 0 0]
+  makefont setfont} bdef
+/ISOLatin1Encoding where {pop /WindowsLatin1Encoding 256 array bdef
+ISOLatin1Encoding WindowsLatin1Encoding copy pop
+/.notdef/.notdef/quotesinglbase/florin/quotedblbase/ellipsis/dagger
+/daggerdbl/circumflex/perthousand/Scaron/guilsinglleft/OE/.notdef/.notdef
+/.notdef/.notdef/quoteleft/quoteright/quotedblleft/quotedblright/bullet
+/endash/emdash/tilde/trademark/scaron/guilsinglright/oe/.notdef/.notdef
+/Ydieresis WindowsLatin1Encoding 128 32 getinterval astore pop}
+{/WindowsLatin1Encoding StandardEncoding bdef} ifelse
+/reencode {exch dup where {pop load} {pop StandardEncoding} ifelse
+  exch dup 3 1 roll findfont dup length dict begin
+  { 1 index /FID ne {def}{pop pop} ifelse } forall
+  /Encoding exch def currentdict end definefont pop} bdef
+/isroman {findfont /CharStrings get /Agrave known} bdef
+/FMSR {3 1 roll 1 index dup isroman {reencode} {pop pop} ifelse
+  exch FMS} bdef
+/csm {1 dpi2point div -1 dpi2point div scale neg translate
+ dup landscapeMode eq {pop -90 rotate}
+  {rotateMode eq {90 rotate} if} ifelse} bdef
+% line types: solid, dotted, dashed, dotdash
+/SO { [] 0 setdash } bdef
+/DO { [.5 dpi2point mul 4 dpi2point mul] 0 setdash } bdef
+/DA { [6 dpi2point mul] 0 setdash } bdef
+/DD { [.5 dpi2point mul 4 dpi2point mul 6 dpi2point mul 4
+  dpi2point mul] 0 setdash } bdef
+% macros for lines and objects
+/L {lineto stroke} bdef
+/MP {3 1 roll moveto 1 sub {rlineto} repeat} bdef
+/AP {{rlineto} repeat} bdef
+/PDlw -1 def
+/W {/PDlw currentlinewidth def setlinewidth} def
+/PP {closepath eofill} bdef
+/DP {closepath stroke} bdef
+/MR {4 -2 roll moveto dup  0 exch rlineto exch 0 rlineto
+  neg 0 exch rlineto closepath} bdef
+/FR {MR stroke} bdef
+/PR {MR fill} bdef
+/L1i {{currentfile picstr readhexstring pop} image} bdef
+/tMatrix matrix def
+/MakeOval {newpath tMatrix currentmatrix pop translate scale
+0 0 1 0 360 arc tMatrix setmatrix} bdef
+/FO {MakeOval stroke} bdef
+/PO {MakeOval fill} bdef
+/PD {currentlinewidth 2 div 0 360 arc fill
+   PDlw -1 eq not {PDlw w /PDlw -1 def} if} def
+/FA {newpath tMatrix currentmatrix pop translate scale
+  0 0 1 5 -2 roll arc tMatrix setmatrix stroke} bdef
+/PA {newpath tMatrix currentmatrix pop	translate 0 0 moveto scale
+  0 0 1 5 -2 roll arc closepath tMatrix setmatrix fill} bdef
+/FAn {newpath tMatrix currentmatrix pop translate scale
+  0 0 1 5 -2 roll arcn tMatrix setmatrix stroke} bdef
+/PAn {newpath tMatrix currentmatrix pop translate 0 0 moveto scale
+  0 0 1 5 -2 roll arcn closepath tMatrix setmatrix fill} bdef
+/vradius 0 def /hradius 0 def /lry 0 def
+/lrx 0 def /uly 0 def /ulx 0 def /rad 0 def
+/MRR {/vradius xdef /hradius xdef /lry xdef /lrx xdef /uly xdef
+  /ulx xdef newpath tMatrix currentmatrix pop ulx hradius add uly
+  vradius add translate hradius vradius scale 0 0 1 180 270 arc 
+  tMatrix setmatrix lrx hradius sub uly vradius add translate
+  hradius vradius scale 0 0 1 270 360 arc tMatrix setmatrix
+  lrx hradius sub lry vradius sub translate hradius vradius scale
+  0 0 1 0 90 arc tMatrix setmatrix ulx hradius add lry vradius sub
+  translate hradius vradius scale 0 0 1 90 180 arc tMatrix setmatrix
+  closepath} bdef
+/FRR {MRR stroke } bdef
+/PRR {MRR fill } bdef
+/MlrRR {/lry xdef /lrx xdef /uly xdef /ulx xdef /rad lry uly sub 2 div def
+  newpath tMatrix currentmatrix pop ulx rad add uly rad add translate
+  rad rad scale 0 0 1 90 270 arc tMatrix setmatrix lrx rad sub lry rad
+  sub translate rad rad scale 0 0 1 270 90 arc tMatrix setmatrix
+  closepath} bdef
+/FlrRR {MlrRR stroke } bdef
+/PlrRR {MlrRR fill } bdef
+/MtbRR {/lry xdef /lrx xdef /uly xdef /ulx xdef /rad lrx ulx sub 2 div def
+  newpath tMatrix currentmatrix pop ulx rad add uly rad add translate
+  rad rad scale 0 0 1 180 360 arc tMatrix setmatrix lrx rad sub lry rad
+  sub translate rad rad scale 0 0 1 0 180 arc tMatrix setmatrix
+  closepath} bdef
+/FtbRR {MtbRR stroke } bdef
+/PtbRR {MtbRR fill } bdef
+/stri 6 array def /dtri 6 array def
+/smat 6 array def /dmat 6 array def
+/tmat1 6 array def /tmat2 6 array def /dif 3 array def
+/asub {/ind2 exch def /ind1 exch def dup dup
+  ind1 get exch ind2 get sub exch } bdef
+/tri_to_matrix {
+  2 0 asub 3 1 asub 4 0 asub 5 1 asub
+  dup 0 get exch 1 get 7 -1 roll astore } bdef
+/compute_transform {
+  dmat dtri tri_to_matrix tmat1 invertmatrix 
+  smat stri tri_to_matrix tmat2 concatmatrix } bdef
+/ds {stri astore pop} bdef
+/dt {dtri astore pop} bdef
+/db {2 copy /cols xdef /rows xdef mul dup string
+  currentfile exch readhexstring pop
+  /bmap xdef pop pop} bdef
+/it {gs np dtri aload pop moveto lineto lineto cp c
+  cols rows 8 compute_transform 
+  {bmap} image gr}bdef
+/il {newpath moveto lineto stroke}bdef
+currentdict end def
+%%EndProlog
+
+%%BeginSetup
+MathWorks begin
+
+0 cap
+
+end
+%%EndSetup
+
+%%Page: 1 1
+%%BeginPageSetup
+%%PageBoundingBox:   175   175   453   453
+MathWorks begin
+bpage
+%%EndPageSetup
+
+%%BeginObject: obj1
+bplot
+
+/dpi2point 12 def
+portraitMode 1692 5784 csm
+
+  416   341  3331  3332 MR c np
+93 dict begin %Colortable dictionary
+/c0 { 0 0 0 sr} bdef
+/c1 { 1 1 1 sr} bdef
+/c2 { 1 0 0 sr} bdef
+/c3 { 0 1 0 sr} bdef
+/c4 { 0 0 1 sr} bdef
+/c5 { 1 1 0 sr} bdef
+/c6 { 1 0 1 sr} bdef
+/c7 { 0 1 1 sr} bdef
+c0
+1 j
+1 sg
+   0    0 4086 4088 PR
+6 w
+0 3166 3166 0 0 -3166 531 3555 4 MP
+PP
+-3166 0 0 3166 3166 0 0 -3166 531 3555 5 MP stroke
+4 w
+DO
+SO
+6 w
+0 sg
+ 531 3555 mt 3697 3555 L
+ 531 3555 mt  531  389 L
+ 594 3555 mt  594 3523 L
+%%IncludeResource: font Helvetica
+/Helvetica /WindowsLatin1Encoding 72 FMSR
+
+ 574 3656 mt 
+(1) s
+ 720 3555 mt  720 3523 L
+ 700 3656 mt 
+(7) s
+ 847 3555 mt  847 3523 L
+ 807 3656 mt 
+(20) s
+ 974 3555 mt  974 3523 L
+ 934 3656 mt 
+(22) s
+1100 3555 mt 1100 3523 L
+1060 3656 mt 
+(24) s
+1227 3555 mt 1227 3523 L
+1207 3656 mt 
+(2) s
+1354 3555 mt 1354 3523 L
+1334 3656 mt 
+(5) s
+1480 3555 mt 1480 3523 L
+1460 3656 mt 
+(9) s
+1607 3555 mt 1607 3523 L
+1567 3656 mt 
+(10) s
+1734 3555 mt 1734 3523 L
+1694 3656 mt 
+(21) s
+1860 3555 mt 1860 3523 L
+1840 3656 mt 
+(3) s
+1987 3555 mt 1987 3523 L
+1967 3656 mt 
+(4) s
+2114 3555 mt 2114 3523 L
+2094 3656 mt 
+(6) s
+2240 3555 mt 2240 3523 L
+2200 3656 mt 
+(11) s
+2367 3555 mt 2367 3523 L
+2327 3656 mt 
+(15) s
+2493 3555 mt 2493 3523 L
+2453 3656 mt 
+(18) s
+2620 3555 mt 2620 3523 L
+2600 3656 mt 
+(8) s
+2747 3555 mt 2747 3523 L
+2707 3656 mt 
+(12) s
+2873 3555 mt 2873 3523 L
+2833 3656 mt 
+(13) s
+3000 3555 mt 3000 3523 L
+2960 3656 mt 
+(14) s
+3127 3555 mt 3127 3523 L
+3087 3656 mt 
+(16) s
+3253 3555 mt 3253 3523 L
+3213 3656 mt 
+(19) s
+3380 3555 mt 3380 3523 L
+3340 3656 mt 
+(25) s
+3507 3555 mt 3507 3523 L
+3467 3656 mt 
+(17) s
+3633 3555 mt 3633 3523 L
+3593 3656 mt 
+(23) s
+ 531 3491 mt  562 3491 L
+ 416 3517 mt 
+(23) s
+ 531 3365 mt  562 3365 L
+ 416 3391 mt 
+(17) s
+ 531 3238 mt  562 3238 L
+ 416 3264 mt 
+(25) s
+ 531 3111 mt  562 3111 L
+ 416 3137 mt 
+(19) s
+ 531 2985 mt  562 2985 L
+ 416 3011 mt 
+(16) s
+ 531 2858 mt  562 2858 L
+ 416 2884 mt 
+(14) s
+ 531 2731 mt  562 2731 L
+ 416 2757 mt 
+(13) s
+ 531 2605 mt  562 2605 L
+ 416 2631 mt 
+(12) s
+ 531 2478 mt  562 2478 L
+ 456 2504 mt 
+(8) s
+ 531 2351 mt  562 2351 L
+ 416 2377 mt 
+(18) s
+ 531 2225 mt  562 2225 L
+ 416 2251 mt 
+(15) s
+ 531 2098 mt  562 2098 L
+ 416 2124 mt 
+(11) s
+ 531 1972 mt  562 1972 L
+ 456 1998 mt 
+(6) s
+ 531 1845 mt  562 1845 L
+ 456 1871 mt 
+(4) s
+ 531 1718 mt  562 1718 L
+ 456 1744 mt 
+(3) s
+ 531 1592 mt  562 1592 L
+ 416 1618 mt 
+(21) s
+ 531 1465 mt  562 1465 L
+ 416 1491 mt 
+(10) s
+ 531 1338 mt  562 1338 L
+ 456 1364 mt 
+(9) s
+ 531 1212 mt  562 1212 L
+ 456 1238 mt 
+(5) s
+ 531 1085 mt  562 1085 L
+ 456 1111 mt 
+(2) s
+ 531  958 mt  562  958 L
+ 416  984 mt 
+(24) s
+ 531  832 mt  562  832 L
+ 416  858 mt 
+(22) s
+ 531  705 mt  562  705 L
+ 416  731 mt 
+(20) s
+ 531  578 mt  562  578 L
+ 456  604 mt 
+(7) s
+ 531  452 mt  562  452 L
+ 456  478 mt 
+(1) s
+gs 531 389 3167 3167 MR c np
+0 j
+1 sg
+ 531  389  126  126 PR
+gr
+ 531  389  126  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.846154 sg
+ 657  389  127  126 PR
+gr
+1 sg
+ 657  389  127  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.769231 sg
+ 784  389  126  126 PR
+gr
+1 sg
+ 784  389  126  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.923077 sg
+ 910  389  127  126 PR
+gr
+1 sg
+ 910  389  127  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.923077 sg
+1037  389  127  126 PR
+gr
+1 sg
+1037  389  127  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.846154 sg
+1164  389  126  126 PR
+gr
+1 sg
+1164  389  126  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.692308 sg
+1290  389  127  126 PR
+gr
+1 sg
+1290  389  127  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.769231 sg
+1417  389  127  126 PR
+gr
+1 sg
+1417  389  127  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.769231 sg
+1544  389  126  126 PR
+gr
+1 sg
+1544  389  126  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.769231 sg
+1670  389  127  126 PR
+gr
+1 sg
+1670  389  127  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.769231 sg
+1797  389  127  126 PR
+gr
+1 sg
+1797  389  127  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.692308 sg
+1924  389  126  126 PR
+gr
+1 sg
+1924  389  126  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.615385 sg
+2050  389  127  126 PR
+gr
+1 sg
+2050  389  127  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.692308 sg
+2177  389  126  126 PR
+gr
+1 sg
+2177  389  126  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.846154 sg
+2303  389  127  126 PR
+gr
+1 sg
+2303  389  127  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.846154 sg
+2430  389  127  126 PR
+gr
+1 sg
+2430  389  127  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.615385 sg
+2557  389  126  126 PR
+gr
+1 sg
+2557  389  126  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.538462 sg
+2683  389  127  126 PR
+gr
+1 sg
+2683  389  127  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.615385 sg
+2810  389  127  126 PR
+gr
+1 sg
+2810  389  127  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.692308 sg
+2937  389  126  126 PR
+gr
+1 sg
+2937  389  126  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.692308 sg
+3063  389  127  126 PR
+gr
+1 sg
+3063  389  127  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.461538 sg
+3190  389  127  126 PR
+gr
+1 sg
+3190  389  127  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.692308 sg
+3317  389  126  126 PR
+gr
+1 sg
+3317  389  126  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.615385 sg
+3443  389  127  126 PR
+gr
+1 sg
+3443  389  127  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.615385 sg
+3570  389  127  126 PR
+gr
+1 sg
+3570  389  127  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.846154 sg
+ 531  515  126  127 PR
+gr
+1 sg
+ 531  515  126  127 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+ 657  515  127  127 PR
+ 657  515  127  127 FR
+1 j
+0 j
+0.923077 sg
+ 784  515  126  127 PR
+1 sg
+ 784  515  126  127 FR
+1 j
+0 j
+0.769231 sg
+ 910  515  127  127 PR
+1 sg
+ 910  515  127  127 FR
+1 j
+0 j
+0.923077 sg
+1037  515  127  127 PR
+1 sg
+1037  515  127  127 FR
+1 j
+0 j
+0.692308 sg
+1164  515  126  127 PR
+1 sg
+1164  515  126  127 FR
+1 j
+0 j
+0.692308 sg
+1290  515  127  127 PR
+1 sg
+1290  515  127  127 FR
+1 j
+0 j
+0.615385 sg
+1417  515  127  127 PR
+1 sg
+1417  515  127  127 FR
+1 j
+0 j
+0.615385 sg
+1544  515  126  127 PR
+1 sg
+1544  515  126  127 FR
+1 j
+0 j
+0.769231 sg
+1670  515  127  127 PR
+1 sg
+1670  515  127  127 FR
+1 j
+0 j
+0.769231 sg
+1797  515  127  127 PR
+1 sg
+1797  515  127  127 FR
+1 j
+0 j
+0.692308 sg
+1924  515  126  127 PR
+1 sg
+1924  515  126  127 FR
+1 j
+0 j
+0.615385 sg
+2050  515  127  127 PR
+1 sg
+2050  515  127  127 FR
+1 j
+0 j
+0.692308 sg
+2177  515  126  127 PR
+1 sg
+2177  515  126  127 FR
+1 j
+0 j
+0.846154 sg
+2303  515  127  127 PR
+1 sg
+2303  515  127  127 FR
+1 j
+0 j
+0.692308 sg
+2430  515  127  127 PR
+1 sg
+2430  515  127  127 FR
+1 j
+0 j
+0.769231 sg
+2557  515  126  127 PR
+1 sg
+2557  515  126  127 FR
+1 j
+0 j
+0.692308 sg
+2683  515  127  127 PR
+1 sg
+2683  515  127  127 FR
+1 j
+0 j
+0.769231 sg
+2810  515  127  127 PR
+1 sg
+2810  515  127  127 FR
+1 j
+0 j
+0.846154 sg
+2937  515  126  127 PR
+1 sg
+2937  515  126  127 FR
+1 j
+0 j
+0.692308 sg
+3063  515  127  127 PR
+1 sg
+3063  515  127  127 FR
+1 j
+0 j
+0.615385 sg
+3190  515  127  127 PR
+1 sg
+3190  515  127  127 FR
+1 j
+0 j
+0.692308 sg
+3317  515  126  127 PR
+1 sg
+3317  515  126  127 FR
+1 j
+0 j
+0.769231 sg
+3443  515  127  127 PR
+1 sg
+3443  515  127  127 FR
+1 j
+0 j
+0.769231 sg
+3570  515  127  127 PR
+1 sg
+3570  515  127  127 FR
+1 j
+0 j
+0.769231 sg
+ 531  642  126  126 PR
+gr
+1 sg
+ 531  642  126  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.923077 sg
+ 657  642  127  126 PR
+1 sg
+ 657  642  127  126 FR
+1 j
+0 j
+ 784  642  126  126 PR
+ 784  642  126  126 FR
+1 j
+0 j
+0.692308 sg
+ 910  642  127  126 PR
+1 sg
+ 910  642  127  126 FR
+1 j
+0 j
+0.846154 sg
+1037  642  127  126 PR
+1 sg
+1037  642  127  126 FR
+1 j
+0 j
+0.615385 sg
+1164  642  126  126 PR
+1 sg
+1164  642  126  126 FR
+1 j
+0 j
+0.615385 sg
+1290  642  127  126 PR
+1 sg
+1290  642  127  126 FR
+1 j
+0 j
+0.538462 sg
+1417  642  127  126 PR
+1 sg
+1417  642  127  126 FR
+1 j
+0 j
+0.538462 sg
+1544  642  126  126 PR
+1 sg
+1544  642  126  126 FR
+1 j
+0 j
+0.692308 sg
+1670  642  127  126 PR
+1 sg
+1670  642  127  126 FR
+1 j
+0 j
+0.692308 sg
+1797  642  127  126 PR
+1 sg
+1797  642  127  126 FR
+1 j
+0 j
+0.615385 sg
+1924  642  126  126 PR
+1 sg
+1924  642  126  126 FR
+1 j
+0 j
+0.692308 sg
+2050  642  127  126 PR
+1 sg
+2050  642  127  126 FR
+1 j
+0 j
+0.615385 sg
+2177  642  126  126 PR
+1 sg
+2177  642  126  126 FR
+1 j
+0 j
+0.769231 sg
+2303  642  127  126 PR
+1 sg
+2303  642  127  126 FR
+1 j
+0 j
+0.769231 sg
+2430  642  127  126 PR
+1 sg
+2430  642  127  126 FR
+1 j
+0 j
+0.846154 sg
+2557  642  126  126 PR
+1 sg
+2557  642  126  126 FR
+1 j
+0 j
+0.769231 sg
+2683  642  127  126 PR
+1 sg
+2683  642  127  126 FR
+1 j
+0 j
+0.846154 sg
+2810  642  127  126 PR
+1 sg
+2810  642  127  126 FR
+1 j
+0 j
+0.923077 sg
+2937  642  126  126 PR
+1 sg
+2937  642  126  126 FR
+1 j
+0 j
+0.769231 sg
+3063  642  127  126 PR
+1 sg
+3063  642  127  126 FR
+1 j
+0 j
+0.692308 sg
+3190  642  127  126 PR
+1 sg
+3190  642  127  126 FR
+1 j
+0 j
+0.769231 sg
+3317  642  126  126 PR
+1 sg
+3317  642  126  126 FR
+1 j
+0 j
+0.846154 sg
+3443  642  127  126 PR
+1 sg
+3443  642  127  126 FR
+1 j
+0 j
+0.846154 sg
+3570  642  127  126 PR
+1 sg
+3570  642  127  126 FR
+1 j
+0 j
+0.923077 sg
+ 531  768  126  127 PR
+gr
+1 sg
+ 531  768  126  127 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.769231 sg
+ 657  768  127  127 PR
+1 sg
+ 657  768  127  127 FR
+1 j
+0 j
+0.692308 sg
+ 784  768  126  127 PR
+1 sg
+ 784  768  126  127 FR
+1 j
+0 j
+ 910  768  127  127 PR
+ 910  768  127  127 FR
+1 j
+0 j
+0.846154 sg
+1037  768  127  127 PR
+1 sg
+1037  768  127  127 FR
+1 j
+0 j
+0.769231 sg
+1164  768  126  127 PR
+1 sg
+1164  768  126  127 FR
+1 j
+0 j
+0.769231 sg
+1290  768  127  127 PR
+1 sg
+1290  768  127  127 FR
+1 j
+0 j
+0.692308 sg
+1417  768  127  127 PR
+1 sg
+1417  768  127  127 FR
+1 j
+0 j
+0.846154 sg
+1544  768  126  127 PR
+1 sg
+1544  768  126  127 FR
+1 j
+0 j
+0.846154 sg
+1670  768  127  127 PR
+1 sg
+1670  768  127  127 FR
+1 j
+0 j
+0.692308 sg
+1797  768  127  127 PR
+1 sg
+1797  768  127  127 FR
+1 j
+0 j
+0.615385 sg
+1924  768  126  127 PR
+1 sg
+1924  768  126  127 FR
+1 j
+0 j
+0.538462 sg
+2050  768  127  127 PR
+1 sg
+2050  768  127  127 FR
+1 j
+0 j
+0.615385 sg
+2177  768  126  127 PR
+1 sg
+2177  768  126  127 FR
+1 j
+0 j
+0.769231 sg
+2303  768  127  127 PR
+1 sg
+2303  768  127  127 FR
+1 j
+0 j
+0.769231 sg
+2430  768  127  127 PR
+1 sg
+2430  768  127  127 FR
+1 j
+0 j
+0.538462 sg
+2557  768  126  127 PR
+1 sg
+2557  768  126  127 FR
+1 j
+0 j
+0.461538 sg
+2683  768  127  127 PR
+1 sg
+2683  768  127  127 FR
+1 j
+0 j
+0.538462 sg
+2810  768  127  127 PR
+1 sg
+2810  768  127  127 FR
+1 j
+0 j
+0.615385 sg
+2937  768  126  127 PR
+1 sg
+2937  768  126  127 FR
+1 j
+0 j
+0.615385 sg
+3063  768  127  127 PR
+1 sg
+3063  768  127  127 FR
+1 j
+0 j
+0.384615 sg
+3190  768  127  127 PR
+1 sg
+3190  768  127  127 FR
+1 j
+0 j
+0.615385 sg
+3317  768  126  127 PR
+1 sg
+3317  768  126  127 FR
+1 j
+0 j
+0.538462 sg
+3443  768  127  127 PR
+1 sg
+3443  768  127  127 FR
+1 j
+0 j
+0.538462 sg
+3570  768  127  127 PR
+1 sg
+3570  768  127  127 FR
+1 j
+0 j
+0.923077 sg
+ 531  895  126  127 PR
+gr
+1 sg
+ 531  895  126  127 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.923077 sg
+ 657  895  127  127 PR
+1 sg
+ 657  895  127  127 FR
+1 j
+0 j
+0.846154 sg
+ 784  895  126  127 PR
+1 sg
+ 784  895  126  127 FR
+1 j
+0 j
+0.846154 sg
+ 910  895  127  127 PR
+1 sg
+ 910  895  127  127 FR
+1 j
+0 j
+1037  895  127  127 PR
+1037  895  127  127 FR
+1 j
+0 j
+0.769231 sg
+1164  895  126  127 PR
+1 sg
+1164  895  126  127 FR
+1 j
+0 j
+0.769231 sg
+1290  895  127  127 PR
+1 sg
+1290  895  127  127 FR
+1 j
+0 j
+0.692308 sg
+1417  895  127  127 PR
+1 sg
+1417  895  127  127 FR
+1 j
+0 j
+0.692308 sg
+1544  895  126  127 PR
+1 sg
+1544  895  126  127 FR
+1 j
+0 j
+0.846154 sg
+1670  895  127  127 PR
+1 sg
+1670  895  127  127 FR
+1 j
+0 j
+0.692308 sg
+1797  895  127  127 PR
+1 sg
+1797  895  127  127 FR
+1 j
+0 j
+0.615385 sg
+1924  895  126  127 PR
+1 sg
+1924  895  126  127 FR
+1 j
+0 j
+0.538462 sg
+2050  895  127  127 PR
+1 sg
+2050  895  127  127 FR
+1 j
+0 j
+0.615385 sg
+2177  895  126  127 PR
+1 sg
+2177  895  126  127 FR
+1 j
+0 j
+0.769231 sg
+2303  895  127  127 PR
+1 sg
+2303  895  127  127 FR
+1 j
+0 j
+0.769231 sg
+2430  895  127  127 PR
+1 sg
+2430  895  127  127 FR
+1 j
+0 j
+0.692308 sg
+2557  895  126  127 PR
+1 sg
+2557  895  126  127 FR
+1 j
+0 j
+0.615385 sg
+2683  895  127  127 PR
+1 sg
+2683  895  127  127 FR
+1 j
+0 j
+0.692308 sg
+2810  895  127  127 PR
+1 sg
+2810  895  127  127 FR
+1 j
+0 j
+0.769231 sg
+2937  895  126  127 PR
+1 sg
+2937  895  126  127 FR
+1 j
+0 j
+0.769231 sg
+3063  895  127  127 PR
+1 sg
+3063  895  127  127 FR
+1 j
+0 j
+0.538462 sg
+3190  895  127  127 PR
+1 sg
+3190  895  127  127 FR
+1 j
+0 j
+0.769231 sg
+3317  895  126  127 PR
+1 sg
+3317  895  126  127 FR
+1 j
+0 j
+0.692308 sg
+3443  895  127  127 PR
+1 sg
+3443  895  127  127 FR
+1 j
+0 j
+0.692308 sg
+3570  895  127  127 PR
+1 sg
+3570  895  127  127 FR
+1 j
+0 j
+0.846154 sg
+ 531 1022  126  126 PR
+gr
+1 sg
+ 531 1022  126  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.692308 sg
+ 657 1022  127  126 PR
+1 sg
+ 657 1022  127  126 FR
+1 j
+0 j
+0.615385 sg
+ 784 1022  126  126 PR
+1 sg
+ 784 1022  126  126 FR
+1 j
+0 j
+0.769231 sg
+ 910 1022  127  126 PR
+1 sg
+ 910 1022  127  126 FR
+1 j
+0 j
+0.769231 sg
+1037 1022  127  126 PR
+1 sg
+1037 1022  127  126 FR
+1 j
+0 j
+1164 1022  126  126 PR
+1164 1022  126  126 FR
+1 j
+0 j
+0.846154 sg
+1290 1022  127  126 PR
+1 sg
+1290 1022  127  126 FR
+1 j
+0 j
+0.923077 sg
+1417 1022  127  126 PR
+1 sg
+1417 1022  127  126 FR
+1 j
+0 j
+0.923077 sg
+1544 1022  126  126 PR
+1 sg
+1544 1022  126  126 FR
+1 j
+0 j
+0.923077 sg
+1670 1022  127  126 PR
+1 sg
+1670 1022  127  126 FR
+1 j
+0 j
+0.769231 sg
+1797 1022  127  126 PR
+1 sg
+1797 1022  127  126 FR
+1 j
+0 j
+0.846154 sg
+1924 1022  126  126 PR
+1 sg
+1924 1022  126  126 FR
+1 j
+0 j
+0.615385 sg
+2050 1022  127  126 PR
+1 sg
+2050 1022  127  126 FR
+1 j
+0 j
+0.692308 sg
+2177 1022  126  126 PR
+1 sg
+2177 1022  126  126 FR
+1 j
+0 j
+0.846154 sg
+2303 1022  127  126 PR
+1 sg
+2303 1022  127  126 FR
+1 j
+0 j
+0.846154 sg
+2430 1022  127  126 PR
+1 sg
+2430 1022  127  126 FR
+1 j
+0 j
+0.615385 sg
+2557 1022  126  126 PR
+1 sg
+2557 1022  126  126 FR
+1 j
+0 j
+0.538462 sg
+2683 1022  127  126 PR
+1 sg
+2683 1022  127  126 FR
+1 j
+0 j
+0.615385 sg
+2810 1022  127  126 PR
+1 sg
+2810 1022  127  126 FR
+1 j
+0 j
+0.692308 sg
+2937 1022  126  126 PR
+1 sg
+2937 1022  126  126 FR
+1 j
+0 j
+0.692308 sg
+3063 1022  127  126 PR
+1 sg
+3063 1022  127  126 FR
+1 j
+0 j
+0.461538 sg
+3190 1022  127  126 PR
+1 sg
+3190 1022  127  126 FR
+1 j
+0 j
+0.692308 sg
+3317 1022  126  126 PR
+1 sg
+3317 1022  126  126 FR
+1 j
+0 j
+0.461538 sg
+3443 1022  127  126 PR
+1 sg
+3443 1022  127  126 FR
+1 j
+0 j
+0.461538 sg
+3570 1022  127  126 PR
+1 sg
+3570 1022  127  126 FR
+1 j
+0 j
+0.692308 sg
+ 531 1148  126  127 PR
+gr
+1 sg
+ 531 1148  126  127 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.692308 sg
+ 657 1148  127  127 PR
+1 sg
+ 657 1148  127  127 FR
+1 j
+0 j
+0.615385 sg
+ 784 1148  126  127 PR
+1 sg
+ 784 1148  126  127 FR
+1 j
+0 j
+0.769231 sg
+ 910 1148  127  127 PR
+1 sg
+ 910 1148  127  127 FR
+1 j
+0 j
+0.769231 sg
+1037 1148  127  127 PR
+1 sg
+1037 1148  127  127 FR
+1 j
+0 j
+0.846154 sg
+1164 1148  126  127 PR
+1 sg
+1164 1148  126  127 FR
+1 j
+0 j
+1290 1148  127  127 PR
+1290 1148  127  127 FR
+1 j
+0 j
+0.923077 sg
+1417 1148  127  127 PR
+1 sg
+1417 1148  127  127 FR
+1 j
+0 j
+0.769231 sg
+1544 1148  126  127 PR
+1 sg
+1544 1148  126  127 FR
+1 j
+0 j
+0.923077 sg
+1670 1148  127  127 PR
+1 sg
+1670 1148  127  127 FR
+1 j
+0 j
+0.923077 sg
+1797 1148  127  127 PR
+1 sg
+1797 1148  127  127 FR
+1 j
+0 j
+0.846154 sg
+1924 1148  126  127 PR
+1 sg
+1924 1148  126  127 FR
+1 j
+0 j
+0.769231 sg
+2050 1148  127  127 PR
+1 sg
+2050 1148  127  127 FR
+1 j
+0 j
+0.846154 sg
+2177 1148  126  127 PR
+1 sg
+2177 1148  126  127 FR
+1 j
+0 j
+0.846154 sg
+2303 1148  127  127 PR
+1 sg
+2303 1148  127  127 FR
+1 j
+0 j
+0.846154 sg
+2430 1148  127  127 PR
+1 sg
+2430 1148  127  127 FR
+1 j
+0 j
+0.769231 sg
+2557 1148  126  127 PR
+1 sg
+2557 1148  126  127 FR
+1 j
+0 j
+0.692308 sg
+2683 1148  127  127 PR
+1 sg
+2683 1148  127  127 FR
+1 j
+0 j
+0.769231 sg
+2810 1148  127  127 PR
+1 sg
+2810 1148  127  127 FR
+1 j
+0 j
+0.692308 sg
+2937 1148  126  127 PR
+1 sg
+2937 1148  126  127 FR
+1 j
+0 j
+0.846154 sg
+3063 1148  127  127 PR
+1 sg
+3063 1148  127  127 FR
+1 j
+0 j
+0.615385 sg
+3190 1148  127  127 PR
+1 sg
+3190 1148  127  127 FR
+1 j
+0 j
+0.846154 sg
+3317 1148  126  127 PR
+1 sg
+3317 1148  126  127 FR
+1 j
+0 j
+0.461538 sg
+3443 1148  127  127 PR
+1 sg
+3443 1148  127  127 FR
+1 j
+0 j
+0.461538 sg
+3570 1148  127  127 PR
+1 sg
+3570 1148  127  127 FR
+1 j
+0 j
+0.769231 sg
+ 531 1275  126  127 PR
+gr
+1 sg
+ 531 1275  126  127 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.615385 sg
+ 657 1275  127  127 PR
+1 sg
+ 657 1275  127  127 FR
+1 j
+0 j
+0.538462 sg
+ 784 1275  126  127 PR
+1 sg
+ 784 1275  126  127 FR
+1 j
+0 j
+0.692308 sg
+ 910 1275  127  127 PR
+1 sg
+ 910 1275  127  127 FR
+1 j
+0 j
+0.692308 sg
+1037 1275  127  127 PR
+1 sg
+1037 1275  127  127 FR
+1 j
+0 j
+0.923077 sg
+1164 1275  126  127 PR
+1 sg
+1164 1275  126  127 FR
+1 j
+0 j
+0.923077 sg
+1290 1275  127  127 PR
+1 sg
+1290 1275  127  127 FR
+1 j
+0 j
+1417 1275  127  127 PR
+1417 1275  127  127 FR
+1 j
+0 j
+0.846154 sg
+1544 1275  126  127 PR
+1 sg
+1544 1275  126  127 FR
+1 j
+0 j
+0.846154 sg
+1670 1275  127  127 PR
+1 sg
+1670 1275  127  127 FR
+1 j
+0 j
+0.846154 sg
+1797 1275  127  127 PR
+1 sg
+1797 1275  127  127 FR
+1 j
+0 j
+0.923077 sg
+1924 1275  126  127 PR
+1 sg
+1924 1275  126  127 FR
+1 j
+0 j
+0.692308 sg
+2050 1275  127  127 PR
+1 sg
+2050 1275  127  127 FR
+1 j
+0 j
+0.769231 sg
+2177 1275  126  127 PR
+1 sg
+2177 1275  126  127 FR
+1 j
+0 j
+0.769231 sg
+2303 1275  127  127 PR
+1 sg
+2303 1275  127  127 FR
+1 j
+0 j
+0.769231 sg
+2430 1275  127  127 PR
+1 sg
+2430 1275  127  127 FR
+1 j
+0 j
+0.692308 sg
+2557 1275  126  127 PR
+1 sg
+2557 1275  126  127 FR
+1 j
+0 j
+0.615385 sg
+2683 1275  127  127 PR
+1 sg
+2683 1275  127  127 FR
+1 j
+0 j
+0.692308 sg
+2810 1275  127  127 PR
+1 sg
+2810 1275  127  127 FR
+1 j
+0 j
+0.615385 sg
+2937 1275  126  127 PR
+1 sg
+2937 1275  126  127 FR
+1 j
+0 j
+0.769231 sg
+3063 1275  127  127 PR
+1 sg
+3063 1275  127  127 FR
+1 j
+0 j
+0.538462 sg
+3190 1275  127  127 PR
+1 sg
+3190 1275  127  127 FR
+1 j
+0 j
+0.769231 sg
+3317 1275  126  127 PR
+1 sg
+3317 1275  126  127 FR
+1 j
+0 j
+0.384615 sg
+3443 1275  127  127 PR
+1 sg
+3443 1275  127  127 FR
+1 j
+0 j
+0.384615 sg
+3570 1275  127  127 PR
+1 sg
+3570 1275  127  127 FR
+1 j
+0 j
+0.769231 sg
+ 531 1402  126  126 PR
+gr
+1 sg
+ 531 1402  126  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.615385 sg
+ 657 1402  127  126 PR
+1 sg
+ 657 1402  127  126 FR
+1 j
+0 j
+0.538462 sg
+ 784 1402  126  126 PR
+1 sg
+ 784 1402  126  126 FR
+1 j
+0 j
+0.846154 sg
+ 910 1402  127  126 PR
+1 sg
+ 910 1402  127  126 FR
+1 j
+0 j
+0.692308 sg
+1037 1402  127  126 PR
+1 sg
+1037 1402  127  126 FR
+1 j
+0 j
+0.923077 sg
+1164 1402  126  126 PR
+1 sg
+1164 1402  126  126 FR
+1 j
+0 j
+0.769231 sg
+1290 1402  127  126 PR
+1 sg
+1290 1402  127  126 FR
+1 j
+0 j
+0.846154 sg
+1417 1402  127  126 PR
+1 sg
+1417 1402  127  126 FR
+1 j
+0 j
+1544 1402  126  126 PR
+1544 1402  126  126 FR
+1 j
+0 j
+0.846154 sg
+1670 1402  127  126 PR
+1 sg
+1670 1402  127  126 FR
+1 j
+0 j
+0.692308 sg
+1797 1402  127  126 PR
+1 sg
+1797 1402  127  126 FR
+1 j
+0 j
+0.769231 sg
+1924 1402  126  126 PR
+1 sg
+1924 1402  126  126 FR
+1 j
+0 j
+0.538462 sg
+2050 1402  127  126 PR
+1 sg
+2050 1402  127  126 FR
+1 j
+0 j
+0.615385 sg
+2177 1402  126  126 PR
+1 sg
+2177 1402  126  126 FR
+1 j
+0 j
+0.769231 sg
+2303 1402  127  126 PR
+1 sg
+2303 1402  127  126 FR
+1 j
+0 j
+0.769231 sg
+2430 1402  127  126 PR
+1 sg
+2430 1402  127  126 FR
+1 j
+0 j
+0.538462 sg
+2557 1402  126  126 PR
+1 sg
+2557 1402  126  126 FR
+1 j
+0 j
+0.461538 sg
+2683 1402  127  126 PR
+1 sg
+2683 1402  127  126 FR
+1 j
+0 j
+0.538462 sg
+2810 1402  127  126 PR
+1 sg
+2810 1402  127  126 FR
+1 j
+0 j
+0.615385 sg
+2937 1402  126  126 PR
+1 sg
+2937 1402  126  126 FR
+1 j
+0 j
+0.615385 sg
+3063 1402  127  126 PR
+1 sg
+3063 1402  127  126 FR
+1 j
+0 j
+0.384615 sg
+3190 1402  127  126 PR
+1 sg
+3190 1402  127  126 FR
+1 j
+0 j
+0.615385 sg
+3317 1402  126  126 PR
+1 sg
+3317 1402  126  126 FR
+1 j
+0 j
+0.384615 sg
+3443 1402  127  126 PR
+1 sg
+3443 1402  127  126 FR
+1 j
+0 j
+0.384615 sg
+3570 1402  127  126 PR
+1 sg
+3570 1402  127  126 FR
+1 j
+0 j
+0.769231 sg
+ 531 1528  126  127 PR
+gr
+1 sg
+ 531 1528  126  127 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.769231 sg
+ 657 1528  127  127 PR
+1 sg
+ 657 1528  127  127 FR
+1 j
+0 j
+0.692308 sg
+ 784 1528  126  127 PR
+1 sg
+ 784 1528  126  127 FR
+1 j
+0 j
+0.846154 sg
+ 910 1528  127  127 PR
+1 sg
+ 910 1528  127  127 FR
+1 j
+0 j
+0.846154 sg
+1037 1528  127  127 PR
+1 sg
+1037 1528  127  127 FR
+1 j
+0 j
+0.923077 sg
+1164 1528  126  127 PR
+1 sg
+1164 1528  126  127 FR
+1 j
+0 j
+0.923077 sg
+1290 1528  127  127 PR
+1 sg
+1290 1528  127  127 FR
+1 j
+0 j
+0.846154 sg
+1417 1528  127  127 PR
+1 sg
+1417 1528  127  127 FR
+1 j
+0 j
+0.846154 sg
+1544 1528  126  127 PR
+1 sg
+1544 1528  126  127 FR
+1 j
+0 j
+1670 1528  127  127 PR
+1670 1528  127  127 FR
+1 j
+0 j
+0.846154 sg
+1797 1528  127  127 PR
+1 sg
+1797 1528  127  127 FR
+1 j
+0 j
+0.769231 sg
+1924 1528  126  127 PR
+1 sg
+1924 1528  126  127 FR
+1 j
+0 j
+0.692308 sg
+2050 1528  127  127 PR
+1 sg
+2050 1528  127  127 FR
+1 j
+0 j
+0.769231 sg
+2177 1528  126  127 PR
+1 sg
+2177 1528  126  127 FR
+1 j
+0 j
+0.923077 sg
+2303 1528  127  127 PR
+1 sg
+2303 1528  127  127 FR
+1 j
+0 j
+0.769231 sg
+2430 1528  127  127 PR
+1 sg
+2430 1528  127  127 FR
+1 j
+0 j
+0.692308 sg
+2557 1528  126  127 PR
+1 sg
+2557 1528  126  127 FR
+1 j
+0 j
+0.615385 sg
+2683 1528  127  127 PR
+1 sg
+2683 1528  127  127 FR
+1 j
+0 j
+0.692308 sg
+2810 1528  127  127 PR
+1 sg
+2810 1528  127  127 FR
+1 j
+0 j
+0.769231 sg
+2937 1528  126  127 PR
+1 sg
+2937 1528  126  127 FR
+1 j
+0 j
+0.769231 sg
+3063 1528  127  127 PR
+1 sg
+3063 1528  127  127 FR
+1 j
+0 j
+0.538462 sg
+3190 1528  127  127 PR
+1 sg
+3190 1528  127  127 FR
+1 j
+0 j
+0.769231 sg
+3317 1528  126  127 PR
+1 sg
+3317 1528  126  127 FR
+1 j
+0 j
+0.538462 sg
+3443 1528  127  127 PR
+1 sg
+3443 1528  127  127 FR
+1 j
+0 j
+0.538462 sg
+3570 1528  127  127 PR
+1 sg
+3570 1528  127  127 FR
+1 j
+0 j
+0.769231 sg
+ 531 1655  126  127 PR
+gr
+1 sg
+ 531 1655  126  127 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.769231 sg
+ 657 1655  127  127 PR
+1 sg
+ 657 1655  127  127 FR
+1 j
+0 j
+0.692308 sg
+ 784 1655  126  127 PR
+1 sg
+ 784 1655  126  127 FR
+1 j
+0 j
+0.692308 sg
+ 910 1655  127  127 PR
+1 sg
+ 910 1655  127  127 FR
+1 j
+0 j
+0.692308 sg
+1037 1655  127  127 PR
+1 sg
+1037 1655  127  127 FR
+1 j
+0 j
+0.769231 sg
+1164 1655  126  127 PR
+1 sg
+1164 1655  126  127 FR
+1 j
+0 j
+0.923077 sg
+1290 1655  127  127 PR
+1 sg
+1290 1655  127  127 FR
+1 j
+0 j
+0.846154 sg
+1417 1655  127  127 PR
+1 sg
+1417 1655  127  127 FR
+1 j
+0 j
+0.692308 sg
+1544 1655  126  127 PR
+1 sg
+1544 1655  126  127 FR
+1 j
+0 j
+0.846154 sg
+1670 1655  127  127 PR
+1 sg
+1670 1655  127  127 FR
+1 j
+0 j
+1797 1655  127  127 PR
+1797 1655  127  127 FR
+1 j
+0 j
+0.923077 sg
+1924 1655  126  127 PR
+1 sg
+1924 1655  126  127 FR
+1 j
+0 j
+0.846154 sg
+2050 1655  127  127 PR
+1 sg
+2050 1655  127  127 FR
+1 j
+0 j
+0.923077 sg
+2177 1655  126  127 PR
+1 sg
+2177 1655  126  127 FR
+1 j
+0 j
+0.923077 sg
+2303 1655  127  127 PR
+1 sg
+2303 1655  127  127 FR
+1 j
+0 j
+0.923077 sg
+2430 1655  127  127 PR
+1 sg
+2430 1655  127  127 FR
+1 j
+0 j
+0.846154 sg
+2557 1655  126  127 PR
+1 sg
+2557 1655  126  127 FR
+1 j
+0 j
+0.769231 sg
+2683 1655  127  127 PR
+1 sg
+2683 1655  127  127 FR
+1 j
+0 j
+0.846154 sg
+2810 1655  127  127 PR
+1 sg
+2810 1655  127  127 FR
+1 j
+0 j
+0.769231 sg
+2937 1655  126  127 PR
+1 sg
+2937 1655  126  127 FR
+1 j
+0 j
+0.769231 sg
+3063 1655  127  127 PR
+1 sg
+3063 1655  127  127 FR
+1 j
+0 j
+0.692308 sg
+3190 1655  127  127 PR
+1 sg
+3190 1655  127  127 FR
+1 j
+0 j
+0.923077 sg
+3317 1655  126  127 PR
+1 sg
+3317 1655  126  127 FR
+1 j
+0 j
+0.538462 sg
+3443 1655  127  127 PR
+1 sg
+3443 1655  127  127 FR
+1 j
+0 j
+0.538462 sg
+3570 1655  127  127 PR
+1 sg
+3570 1655  127  127 FR
+1 j
+0 j
+0.692308 sg
+ 531 1782  126  126 PR
+gr
+1 sg
+ 531 1782  126  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.692308 sg
+ 657 1782  127  126 PR
+1 sg
+ 657 1782  127  126 FR
+1 j
+0 j
+0.615385 sg
+ 784 1782  126  126 PR
+1 sg
+ 784 1782  126  126 FR
+1 j
+0 j
+0.615385 sg
+ 910 1782  127  126 PR
+1 sg
+ 910 1782  127  126 FR
+1 j
+0 j
+0.615385 sg
+1037 1782  127  126 PR
+1 sg
+1037 1782  127  126 FR
+1 j
+0 j
+0.846154 sg
+1164 1782  126  126 PR
+1 sg
+1164 1782  126  126 FR
+1 j
+0 j
+0.846154 sg
+1290 1782  127  126 PR
+1 sg
+1290 1782  127  126 FR
+1 j
+0 j
+0.923077 sg
+1417 1782  127  126 PR
+1 sg
+1417 1782  127  126 FR
+1 j
+0 j
+0.769231 sg
+1544 1782  126  126 PR
+1 sg
+1544 1782  126  126 FR
+1 j
+0 j
+0.769231 sg
+1670 1782  127  126 PR
+1 sg
+1670 1782  127  126 FR
+1 j
+0 j
+0.923077 sg
+1797 1782  127  126 PR
+1 sg
+1797 1782  127  126 FR
+1 j
+0 j
+1924 1782  126  126 PR
+1924 1782  126  126 FR
+1 j
+0 j
+0.769231 sg
+2050 1782  127  126 PR
+1 sg
+2050 1782  127  126 FR
+1 j
+0 j
+0.846154 sg
+2177 1782  126  126 PR
+1 sg
+2177 1782  126  126 FR
+1 j
+0 j
+0.846154 sg
+2303 1782  127  126 PR
+1 sg
+2303 1782  127  126 FR
+1 j
+0 j
+0.846154 sg
+2430 1782  127  126 PR
+1 sg
+2430 1782  127  126 FR
+1 j
+0 j
+0.769231 sg
+2557 1782  126  126 PR
+1 sg
+2557 1782  126  126 FR
+1 j
+0 j
+0.692308 sg
+2683 1782  127  126 PR
+1 sg
+2683 1782  127  126 FR
+1 j
+0 j
+0.769231 sg
+2810 1782  127  126 PR
+1 sg
+2810 1782  127  126 FR
+1 j
+0 j
+0.692308 sg
+2937 1782  126  126 PR
+1 sg
+2937 1782  126  126 FR
+1 j
+0 j
+0.692308 sg
+3063 1782  127  126 PR
+1 sg
+3063 1782  127  126 FR
+1 j
+0 j
+0.615385 sg
+3190 1782  127  126 PR
+1 sg
+3190 1782  127  126 FR
+1 j
+0 j
+0.846154 sg
+3317 1782  126  126 PR
+1 sg
+3317 1782  126  126 FR
+1 j
+0 j
+0.461538 sg
+3443 1782  127  126 PR
+1 sg
+3443 1782  127  126 FR
+1 j
+0 j
+0.461538 sg
+3570 1782  127  126 PR
+1 sg
+3570 1782  127  126 FR
+1 j
+0 j
+0.615385 sg
+ 531 1908  126  127 PR
+gr
+1 sg
+ 531 1908  126  127 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.615385 sg
+ 657 1908  127  127 PR
+1 sg
+ 657 1908  127  127 FR
+1 j
+0 j
+0.692308 sg
+ 784 1908  126  127 PR
+1 sg
+ 784 1908  126  127 FR
+1 j
+0 j
+0.538462 sg
+ 910 1908  127  127 PR
+1 sg
+ 910 1908  127  127 FR
+1 j
+0 j
+0.538462 sg
+1037 1908  127  127 PR
+1 sg
+1037 1908  127  127 FR
+1 j
+0 j
+0.615385 sg
+1164 1908  126  127 PR
+1 sg
+1164 1908  126  127 FR
+1 j
+0 j
+0.769231 sg
+1290 1908  127  127 PR
+1 sg
+1290 1908  127  127 FR
+1 j
+0 j
+0.692308 sg
+1417 1908  127  127 PR
+1 sg
+1417 1908  127  127 FR
+1 j
+0 j
+0.538462 sg
+1544 1908  126  127 PR
+1 sg
+1544 1908  126  127 FR
+1 j
+0 j
+0.692308 sg
+1670 1908  127  127 PR
+1 sg
+1670 1908  127  127 FR
+1 j
+0 j
+0.846154 sg
+1797 1908  127  127 PR
+1 sg
+1797 1908  127  127 FR
+1 j
+0 j
+0.769231 sg
+1924 1908  126  127 PR
+1 sg
+1924 1908  126  127 FR
+1 j
+0 j
+2050 1908  127  127 PR
+2050 1908  127  127 FR
+1 j
+0 j
+0.923077 sg
+2177 1908  126  127 PR
+1 sg
+2177 1908  126  127 FR
+1 j
+0 j
+0.769231 sg
+2303 1908  127  127 PR
+1 sg
+2303 1908  127  127 FR
+1 j
+0 j
+0.769231 sg
+2430 1908  127  127 PR
+1 sg
+2430 1908  127  127 FR
+1 j
+0 j
+0.846154 sg
+2557 1908  126  127 PR
+1 sg
+2557 1908  126  127 FR
+1 j
+0 j
+0.769231 sg
+2683 1908  127  127 PR
+1 sg
+2683 1908  127  127 FR
+1 j
+0 j
+0.846154 sg
+2810 1908  127  127 PR
+1 sg
+2810 1908  127  127 FR
+1 j
+0 j
+0.769231 sg
+2937 1908  126  127 PR
+1 sg
+2937 1908  126  127 FR
+1 j
+0 j
+0.769231 sg
+3063 1908  127  127 PR
+1 sg
+3063 1908  127  127 FR
+1 j
+0 j
+0.692308 sg
+3190 1908  127  127 PR
+1 sg
+3190 1908  127  127 FR
+1 j
+0 j
+0.769231 sg
+3317 1908  126  127 PR
+1 sg
+3317 1908  126  127 FR
+1 j
+0 j
+0.538462 sg
+3443 1908  127  127 PR
+1 sg
+3443 1908  127  127 FR
+1 j
+0 j
+0.538462 sg
+3570 1908  127  127 PR
+1 sg
+3570 1908  127  127 FR
+1 j
+0 j
+0.692308 sg
+ 531 2035  126  126 PR
+gr
+1 sg
+ 531 2035  126  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.692308 sg
+ 657 2035  127  126 PR
+1 sg
+ 657 2035  127  126 FR
+1 j
+0 j
+0.615385 sg
+ 784 2035  126  126 PR
+1 sg
+ 784 2035  126  126 FR
+1 j
+0 j
+0.615385 sg
+ 910 2035  127  126 PR
+1 sg
+ 910 2035  127  126 FR
+1 j
+0 j
+0.615385 sg
+1037 2035  127  126 PR
+1 sg
+1037 2035  127  126 FR
+1 j
+0 j
+0.692308 sg
+1164 2035  126  126 PR
+1 sg
+1164 2035  126  126 FR
+1 j
+0 j
+0.846154 sg
+1290 2035  127  126 PR
+1 sg
+1290 2035  127  126 FR
+1 j
+0 j
+0.769231 sg
+1417 2035  127  126 PR
+1 sg
+1417 2035  127  126 FR
+1 j
+0 j
+0.615385 sg
+1544 2035  126  126 PR
+1 sg
+1544 2035  126  126 FR
+1 j
+0 j
+0.769231 sg
+1670 2035  127  126 PR
+1 sg
+1670 2035  127  126 FR
+1 j
+0 j
+0.923077 sg
+1797 2035  127  126 PR
+1 sg
+1797 2035  127  126 FR
+1 j
+0 j
+0.846154 sg
+1924 2035  126  126 PR
+1 sg
+1924 2035  126  126 FR
+1 j
+0 j
+0.923077 sg
+2050 2035  127  126 PR
+1 sg
+2050 2035  127  126 FR
+1 j
+0 j
+2177 2035  126  126 PR
+2177 2035  126  126 FR
+1 j
+0 j
+0.846154 sg
+2303 2035  127  126 PR
+1 sg
+2303 2035  127  126 FR
+1 j
+0 j
+0.846154 sg
+2430 2035  127  126 PR
+1 sg
+2430 2035  127  126 FR
+1 j
+0 j
+0.769231 sg
+2557 2035  126  126 PR
+1 sg
+2557 2035  126  126 FR
+1 j
+0 j
+0.846154 sg
+2683 2035  127  126 PR
+1 sg
+2683 2035  127  126 FR
+1 j
+0 j
+0.769231 sg
+2810 2035  127  126 PR
+1 sg
+2810 2035  127  126 FR
+1 j
+0 j
+0.692308 sg
+2937 2035  126  126 PR
+1 sg
+2937 2035  126  126 FR
+1 j
+0 j
+0.846154 sg
+3063 2035  127  126 PR
+1 sg
+3063 2035  127  126 FR
+1 j
+0 j
+0.615385 sg
+3190 2035  127  126 PR
+1 sg
+3190 2035  127  126 FR
+1 j
+0 j
+0.846154 sg
+3317 2035  126  126 PR
+1 sg
+3317 2035  126  126 FR
+1 j
+0 j
+0.461538 sg
+3443 2035  127  126 PR
+1 sg
+3443 2035  127  126 FR
+1 j
+0 j
+0.461538 sg
+3570 2035  127  126 PR
+1 sg
+3570 2035  127  126 FR
+1 j
+0 j
+0.846154 sg
+ 531 2161  126  127 PR
+gr
+1 sg
+ 531 2161  126  127 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.846154 sg
+ 657 2161  127  127 PR
+1 sg
+ 657 2161  127  127 FR
+1 j
+0 j
+0.769231 sg
+ 784 2161  126  127 PR
+1 sg
+ 784 2161  126  127 FR
+1 j
+0 j
+0.769231 sg
+ 910 2161  127  127 PR
+1 sg
+ 910 2161  127  127 FR
+1 j
+0 j
+0.769231 sg
+1037 2161  127  127 PR
+1 sg
+1037 2161  127  127 FR
+1 j
+0 j
+0.846154 sg
+1164 2161  126  127 PR
+1 sg
+1164 2161  126  127 FR
+1 j
+0 j
+0.846154 sg
+1290 2161  127  127 PR
+1 sg
+1290 2161  127  127 FR
+1 j
+0 j
+0.769231 sg
+1417 2161  127  127 PR
+1 sg
+1417 2161  127  127 FR
+1 j
+0 j
+0.769231 sg
+1544 2161  126  127 PR
+1 sg
+1544 2161  126  127 FR
+1 j
+0 j
+0.923077 sg
+1670 2161  127  127 PR
+1 sg
+1670 2161  127  127 FR
+1 j
+0 j
+0.923077 sg
+1797 2161  127  127 PR
+1 sg
+1797 2161  127  127 FR
+1 j
+0 j
+0.846154 sg
+1924 2161  126  127 PR
+1 sg
+1924 2161  126  127 FR
+1 j
+0 j
+0.769231 sg
+2050 2161  127  127 PR
+1 sg
+2050 2161  127  127 FR
+1 j
+0 j
+0.846154 sg
+2177 2161  126  127 PR
+1 sg
+2177 2161  126  127 FR
+1 j
+0 j
+2303 2161  127  127 PR
+2303 2161  127  127 FR
+1 j
+0 j
+0.846154 sg
+2430 2161  127  127 PR
+1 sg
+2430 2161  127  127 FR
+1 j
+0 j
+0.769231 sg
+2557 2161  126  127 PR
+1 sg
+2557 2161  126  127 FR
+1 j
+0 j
+0.692308 sg
+2683 2161  127  127 PR
+1 sg
+2683 2161  127  127 FR
+1 j
+0 j
+0.769231 sg
+2810 2161  127  127 PR
+1 sg
+2810 2161  127  127 FR
+1 j
+0 j
+0.846154 sg
+2937 2161  126  127 PR
+1 sg
+2937 2161  126  127 FR
+1 j
+0 j
+0.692308 sg
+3063 2161  127  127 PR
+1 sg
+3063 2161  127  127 FR
+1 j
+0 j
+0.615385 sg
+3190 2161  127  127 PR
+1 sg
+3190 2161  127  127 FR
+1 j
+0 j
+0.846154 sg
+3317 2161  126  127 PR
+1 sg
+3317 2161  126  127 FR
+1 j
+0 j
+0.615385 sg
+3443 2161  127  127 PR
+1 sg
+3443 2161  127  127 FR
+1 j
+0 j
+0.615385 sg
+3570 2161  127  127 PR
+1 sg
+3570 2161  127  127 FR
+1 j
+0 j
+0.846154 sg
+ 531 2288  126  127 PR
+gr
+1 sg
+ 531 2288  126  127 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.692308 sg
+ 657 2288  127  127 PR
+1 sg
+ 657 2288  127  127 FR
+1 j
+0 j
+0.769231 sg
+ 784 2288  126  127 PR
+1 sg
+ 784 2288  126  127 FR
+1 j
+0 j
+0.769231 sg
+ 910 2288  127  127 PR
+1 sg
+ 910 2288  127  127 FR
+1 j
+0 j
+0.769231 sg
+1037 2288  127  127 PR
+1 sg
+1037 2288  127  127 FR
+1 j
+0 j
+0.846154 sg
+1164 2288  126  127 PR
+1 sg
+1164 2288  126  127 FR
+1 j
+0 j
+0.846154 sg
+1290 2288  127  127 PR
+1 sg
+1290 2288  127  127 FR
+1 j
+0 j
+0.769231 sg
+1417 2288  127  127 PR
+1 sg
+1417 2288  127  127 FR
+1 j
+0 j
+0.769231 sg
+1544 2288  126  127 PR
+1 sg
+1544 2288  126  127 FR
+1 j
+0 j
+0.769231 sg
+1670 2288  127  127 PR
+1 sg
+1670 2288  127  127 FR
+1 j
+0 j
+0.923077 sg
+1797 2288  127  127 PR
+1 sg
+1797 2288  127  127 FR
+1 j
+0 j
+0.846154 sg
+1924 2288  126  127 PR
+1 sg
+1924 2288  126  127 FR
+1 j
+0 j
+0.769231 sg
+2050 2288  127  127 PR
+1 sg
+2050 2288  127  127 FR
+1 j
+0 j
+0.846154 sg
+2177 2288  126  127 PR
+1 sg
+2177 2288  126  127 FR
+1 j
+0 j
+0.846154 sg
+2303 2288  127  127 PR
+1 sg
+2303 2288  127  127 FR
+1 j
+0 j
+2430 2288  127  127 PR
+2430 2288  127  127 FR
+1 j
+0 j
+0.769231 sg
+2557 2288  126  127 PR
+1 sg
+2557 2288  126  127 FR
+1 j
+0 j
+0.692308 sg
+2683 2288  127  127 PR
+1 sg
+2683 2288  127  127 FR
+1 j
+0 j
+0.769231 sg
+2810 2288  127  127 PR
+1 sg
+2810 2288  127  127 FR
+1 j
+0 j
+0.846154 sg
+2937 2288  126  127 PR
+1 sg
+2937 2288  126  127 FR
+1 j
+0 j
+0.846154 sg
+3063 2288  127  127 PR
+1 sg
+3063 2288  127  127 FR
+1 j
+0 j
+0.615385 sg
+3190 2288  127  127 PR
+1 sg
+3190 2288  127  127 FR
+1 j
+0 j
+0.846154 sg
+3317 2288  126  127 PR
+1 sg
+3317 2288  126  127 FR
+1 j
+0 j
+0.615385 sg
+3443 2288  127  127 PR
+1 sg
+3443 2288  127  127 FR
+1 j
+0 j
+0.615385 sg
+3570 2288  127  127 PR
+1 sg
+3570 2288  127  127 FR
+1 j
+0 j
+0.615385 sg
+ 531 2415  126  126 PR
+gr
+1 sg
+ 531 2415  126  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.769231 sg
+ 657 2415  127  126 PR
+1 sg
+ 657 2415  127  126 FR
+1 j
+0 j
+0.846154 sg
+ 784 2415  126  126 PR
+1 sg
+ 784 2415  126  126 FR
+1 j
+0 j
+0.538462 sg
+ 910 2415  127  126 PR
+1 sg
+ 910 2415  127  126 FR
+1 j
+0 j
+0.692308 sg
+1037 2415  127  126 PR
+1 sg
+1037 2415  127  126 FR
+1 j
+0 j
+0.615385 sg
+1164 2415  126  126 PR
+1 sg
+1164 2415  126  126 FR
+1 j
+0 j
+0.769231 sg
+1290 2415  127  126 PR
+1 sg
+1290 2415  127  126 FR
+1 j
+0 j
+0.692308 sg
+1417 2415  127  126 PR
+1 sg
+1417 2415  127  126 FR
+1 j
+0 j
+0.538462 sg
+1544 2415  126  126 PR
+1 sg
+1544 2415  126  126 FR
+1 j
+0 j
+0.692308 sg
+1670 2415  127  126 PR
+1 sg
+1670 2415  127  126 FR
+1 j
+0 j
+0.846154 sg
+1797 2415  127  126 PR
+1 sg
+1797 2415  127  126 FR
+1 j
+0 j
+0.769231 sg
+1924 2415  126  126 PR
+1 sg
+1924 2415  126  126 FR
+1 j
+0 j
+0.846154 sg
+2050 2415  127  126 PR
+1 sg
+2050 2415  127  126 FR
+1 j
+0 j
+0.769231 sg
+2177 2415  126  126 PR
+1 sg
+2177 2415  126  126 FR
+1 j
+0 j
+0.769231 sg
+2303 2415  127  126 PR
+1 sg
+2303 2415  127  126 FR
+1 j
+0 j
+0.769231 sg
+2430 2415  127  126 PR
+1 sg
+2430 2415  127  126 FR
+1 j
+0 j
+2557 2415  126  126 PR
+2557 2415  126  126 FR
+1 j
+0 j
+0.769231 sg
+2683 2415  127  126 PR
+1 sg
+2683 2415  127  126 FR
+1 j
+0 j
+0.846154 sg
+2810 2415  127  126 PR
+1 sg
+2810 2415  127  126 FR
+1 j
+0 j
+0.923077 sg
+2937 2415  126  126 PR
+1 sg
+2937 2415  126  126 FR
+1 j
+0 j
+0.769231 sg
+3063 2415  127  126 PR
+1 sg
+3063 2415  127  126 FR
+1 j
+0 j
+0.846154 sg
+3190 2415  127  126 PR
+1 sg
+3190 2415  127  126 FR
+1 j
+0 j
+0.923077 sg
+3317 2415  126  126 PR
+1 sg
+3317 2415  126  126 FR
+1 j
+0 j
+0.692308 sg
+3443 2415  127  126 PR
+1 sg
+3443 2415  127  126 FR
+1 j
+0 j
+0.692308 sg
+3570 2415  127  126 PR
+1 sg
+3570 2415  127  126 FR
+1 j
+0 j
+0.538462 sg
+ 531 2541  126  127 PR
+gr
+1 sg
+ 531 2541  126  127 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.692308 sg
+ 657 2541  127  127 PR
+1 sg
+ 657 2541  127  127 FR
+1 j
+0 j
+0.769231 sg
+ 784 2541  126  127 PR
+1 sg
+ 784 2541  126  127 FR
+1 j
+0 j
+0.461538 sg
+ 910 2541  127  127 PR
+1 sg
+ 910 2541  127  127 FR
+1 j
+0 j
+0.615385 sg
+1037 2541  127  127 PR
+1 sg
+1037 2541  127  127 FR
+1 j
+0 j
+0.538462 sg
+1164 2541  126  127 PR
+1 sg
+1164 2541  126  127 FR
+1 j
+0 j
+0.692308 sg
+1290 2541  127  127 PR
+1 sg
+1290 2541  127  127 FR
+1 j
+0 j
+0.615385 sg
+1417 2541  127  127 PR
+1 sg
+1417 2541  127  127 FR
+1 j
+0 j
+0.461538 sg
+1544 2541  126  127 PR
+1 sg
+1544 2541  126  127 FR
+1 j
+0 j
+0.615385 sg
+1670 2541  127  127 PR
+1 sg
+1670 2541  127  127 FR
+1 j
+0 j
+0.769231 sg
+1797 2541  127  127 PR
+1 sg
+1797 2541  127  127 FR
+1 j
+0 j
+0.692308 sg
+1924 2541  126  127 PR
+1 sg
+1924 2541  126  127 FR
+1 j
+0 j
+0.769231 sg
+2050 2541  127  127 PR
+1 sg
+2050 2541  127  127 FR
+1 j
+0 j
+0.846154 sg
+2177 2541  126  127 PR
+1 sg
+2177 2541  126  127 FR
+1 j
+0 j
+0.692308 sg
+2303 2541  127  127 PR
+1 sg
+2303 2541  127  127 FR
+1 j
+0 j
+0.692308 sg
+2430 2541  127  127 PR
+1 sg
+2430 2541  127  127 FR
+1 j
+0 j
+0.769231 sg
+2557 2541  126  127 PR
+1 sg
+2557 2541  126  127 FR
+1 j
+0 j
+2683 2541  127  127 PR
+2683 2541  127  127 FR
+1 j
+0 j
+0.923077 sg
+2810 2541  127  127 PR
+1 sg
+2810 2541  127  127 FR
+1 j
+0 j
+0.846154 sg
+2937 2541  126  127 PR
+1 sg
+2937 2541  126  127 FR
+1 j
+0 j
+0.846154 sg
+3063 2541  127  127 PR
+1 sg
+3063 2541  127  127 FR
+1 j
+0 j
+0.769231 sg
+3190 2541  127  127 PR
+1 sg
+3190 2541  127  127 FR
+1 j
+0 j
+0.692308 sg
+3317 2541  126  127 PR
+1 sg
+3317 2541  126  127 FR
+1 j
+0 j
+0.615385 sg
+3443 2541  127  127 PR
+1 sg
+3443 2541  127  127 FR
+1 j
+0 j
+0.615385 sg
+3570 2541  127  127 PR
+1 sg
+3570 2541  127  127 FR
+1 j
+0 j
+0.615385 sg
+ 531 2668  126  127 PR
+gr
+1 sg
+ 531 2668  126  127 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.769231 sg
+ 657 2668  127  127 PR
+1 sg
+ 657 2668  127  127 FR
+1 j
+0 j
+0.846154 sg
+ 784 2668  126  127 PR
+1 sg
+ 784 2668  126  127 FR
+1 j
+0 j
+0.538462 sg
+ 910 2668  127  127 PR
+1 sg
+ 910 2668  127  127 FR
+1 j
+0 j
+0.692308 sg
+1037 2668  127  127 PR
+1 sg
+1037 2668  127  127 FR
+1 j
+0 j
+0.615385 sg
+1164 2668  126  127 PR
+1 sg
+1164 2668  126  127 FR
+1 j
+0 j
+0.769231 sg
+1290 2668  127  127 PR
+1 sg
+1290 2668  127  127 FR
+1 j
+0 j
+0.692308 sg
+1417 2668  127  127 PR
+1 sg
+1417 2668  127  127 FR
+1 j
+0 j
+0.538462 sg
+1544 2668  126  127 PR
+1 sg
+1544 2668  126  127 FR
+1 j
+0 j
+0.692308 sg
+1670 2668  127  127 PR
+1 sg
+1670 2668  127  127 FR
+1 j
+0 j
+0.846154 sg
+1797 2668  127  127 PR
+1 sg
+1797 2668  127  127 FR
+1 j
+0 j
+0.769231 sg
+1924 2668  126  127 PR
+1 sg
+1924 2668  126  127 FR
+1 j
+0 j
+0.846154 sg
+2050 2668  127  127 PR
+1 sg
+2050 2668  127  127 FR
+1 j
+0 j
+0.769231 sg
+2177 2668  126  127 PR
+1 sg
+2177 2668  126  127 FR
+1 j
+0 j
+0.769231 sg
+2303 2668  127  127 PR
+1 sg
+2303 2668  127  127 FR
+1 j
+0 j
+0.769231 sg
+2430 2668  127  127 PR
+1 sg
+2430 2668  127  127 FR
+1 j
+0 j
+0.846154 sg
+2557 2668  126  127 PR
+1 sg
+2557 2668  126  127 FR
+1 j
+0 j
+0.923077 sg
+2683 2668  127  127 PR
+1 sg
+2683 2668  127  127 FR
+1 j
+0 j
+2810 2668  127  127 PR
+2810 2668  127  127 FR
+1 j
+0 j
+0.923077 sg
+2937 2668  126  127 PR
+1 sg
+2937 2668  126  127 FR
+1 j
+0 j
+0.923077 sg
+3063 2668  127  127 PR
+1 sg
+3063 2668  127  127 FR
+1 j
+0 j
+0.846154 sg
+3190 2668  127  127 PR
+1 sg
+3190 2668  127  127 FR
+1 j
+0 j
+0.769231 sg
+3317 2668  126  127 PR
+1 sg
+3317 2668  126  127 FR
+1 j
+0 j
+0.692308 sg
+3443 2668  127  127 PR
+1 sg
+3443 2668  127  127 FR
+1 j
+0 j
+0.692308 sg
+3570 2668  127  127 PR
+1 sg
+3570 2668  127  127 FR
+1 j
+0 j
+0.692308 sg
+ 531 2795  126  126 PR
+gr
+1 sg
+ 531 2795  126  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.846154 sg
+ 657 2795  127  126 PR
+1 sg
+ 657 2795  127  126 FR
+1 j
+0 j
+0.923077 sg
+ 784 2795  126  126 PR
+1 sg
+ 784 2795  126  126 FR
+1 j
+0 j
+0.615385 sg
+ 910 2795  127  126 PR
+1 sg
+ 910 2795  127  126 FR
+1 j
+0 j
+0.769231 sg
+1037 2795  127  126 PR
+1 sg
+1037 2795  127  126 FR
+1 j
+0 j
+0.692308 sg
+1164 2795  126  126 PR
+1 sg
+1164 2795  126  126 FR
+1 j
+0 j
+0.692308 sg
+1290 2795  127  126 PR
+1 sg
+1290 2795  127  126 FR
+1 j
+0 j
+0.615385 sg
+1417 2795  127  126 PR
+1 sg
+1417 2795  127  126 FR
+1 j
+0 j
+0.615385 sg
+1544 2795  126  126 PR
+1 sg
+1544 2795  126  126 FR
+1 j
+0 j
+0.769231 sg
+1670 2795  127  126 PR
+1 sg
+1670 2795  127  126 FR
+1 j
+0 j
+0.769231 sg
+1797 2795  127  126 PR
+1 sg
+1797 2795  127  126 FR
+1 j
+0 j
+0.692308 sg
+1924 2795  126  126 PR
+1 sg
+1924 2795  126  126 FR
+1 j
+0 j
+0.769231 sg
+2050 2795  127  126 PR
+1 sg
+2050 2795  127  126 FR
+1 j
+0 j
+0.692308 sg
+2177 2795  126  126 PR
+1 sg
+2177 2795  126  126 FR
+1 j
+0 j
+0.846154 sg
+2303 2795  127  126 PR
+1 sg
+2303 2795  127  126 FR
+1 j
+0 j
+0.846154 sg
+2430 2795  127  126 PR
+1 sg
+2430 2795  127  126 FR
+1 j
+0 j
+0.923077 sg
+2557 2795  126  126 PR
+1 sg
+2557 2795  126  126 FR
+1 j
+0 j
+0.846154 sg
+2683 2795  127  126 PR
+1 sg
+2683 2795  127  126 FR
+1 j
+0 j
+0.923077 sg
+2810 2795  127  126 PR
+1 sg
+2810 2795  127  126 FR
+1 j
+0 j
+2937 2795  126  126 PR
+2937 2795  126  126 FR
+1 j
+0 j
+0.846154 sg
+3063 2795  127  126 PR
+1 sg
+3063 2795  127  126 FR
+1 j
+0 j
+0.769231 sg
+3190 2795  127  126 PR
+1 sg
+3190 2795  127  126 FR
+1 j
+0 j
+0.846154 sg
+3317 2795  126  126 PR
+1 sg
+3317 2795  126  126 FR
+1 j
+0 j
+0.769231 sg
+3443 2795  127  126 PR
+1 sg
+3443 2795  127  126 FR
+1 j
+0 j
+0.769231 sg
+3570 2795  127  126 PR
+1 sg
+3570 2795  127  126 FR
+1 j
+0 j
+0.692308 sg
+ 531 2921  126  127 PR
+gr
+1 sg
+ 531 2921  126  127 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.692308 sg
+ 657 2921  127  127 PR
+1 sg
+ 657 2921  127  127 FR
+1 j
+0 j
+0.769231 sg
+ 784 2921  126  127 PR
+1 sg
+ 784 2921  126  127 FR
+1 j
+0 j
+0.615385 sg
+ 910 2921  127  127 PR
+1 sg
+ 910 2921  127  127 FR
+1 j
+0 j
+0.769231 sg
+1037 2921  127  127 PR
+1 sg
+1037 2921  127  127 FR
+1 j
+0 j
+0.692308 sg
+1164 2921  126  127 PR
+1 sg
+1164 2921  126  127 FR
+1 j
+0 j
+0.846154 sg
+1290 2921  127  127 PR
+1 sg
+1290 2921  127  127 FR
+1 j
+0 j
+0.769231 sg
+1417 2921  127  127 PR
+1 sg
+1417 2921  127  127 FR
+1 j
+0 j
+0.615385 sg
+1544 2921  126  127 PR
+1 sg
+1544 2921  126  127 FR
+1 j
+0 j
+0.769231 sg
+1670 2921  127  127 PR
+1 sg
+1670 2921  127  127 FR
+1 j
+0 j
+0.769231 sg
+1797 2921  127  127 PR
+1 sg
+1797 2921  127  127 FR
+1 j
+0 j
+0.692308 sg
+1924 2921  126  127 PR
+1 sg
+1924 2921  126  127 FR
+1 j
+0 j
+0.769231 sg
+2050 2921  127  127 PR
+1 sg
+2050 2921  127  127 FR
+1 j
+0 j
+0.846154 sg
+2177 2921  126  127 PR
+1 sg
+2177 2921  126  127 FR
+1 j
+0 j
+0.692308 sg
+2303 2921  127  127 PR
+1 sg
+2303 2921  127  127 FR
+1 j
+0 j
+0.846154 sg
+2430 2921  127  127 PR
+1 sg
+2430 2921  127  127 FR
+1 j
+0 j
+0.769231 sg
+2557 2921  126  127 PR
+1 sg
+2557 2921  126  127 FR
+1 j
+0 j
+0.846154 sg
+2683 2921  127  127 PR
+1 sg
+2683 2921  127  127 FR
+1 j
+0 j
+0.923077 sg
+2810 2921  127  127 PR
+1 sg
+2810 2921  127  127 FR
+1 j
+0 j
+0.846154 sg
+2937 2921  126  127 PR
+1 sg
+2937 2921  126  127 FR
+1 j
+0 j
+3063 2921  127  127 PR
+3063 2921  127  127 FR
+1 j
+0 j
+0.769231 sg
+3190 2921  127  127 PR
+1 sg
+3190 2921  127  127 FR
+1 j
+0 j
+0.846154 sg
+3317 2921  126  127 PR
+1 sg
+3317 2921  126  127 FR
+1 j
+0 j
+0.615385 sg
+3443 2921  127  127 PR
+1 sg
+3443 2921  127  127 FR
+1 j
+0 j
+0.615385 sg
+3570 2921  127  127 PR
+1 sg
+3570 2921  127  127 FR
+1 j
+0 j
+0.461538 sg
+ 531 3048  126  127 PR
+gr
+1 sg
+ 531 3048  126  127 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.615385 sg
+ 657 3048  127  127 PR
+1 sg
+ 657 3048  127  127 FR
+1 j
+0 j
+0.692308 sg
+ 784 3048  126  127 PR
+1 sg
+ 784 3048  126  127 FR
+1 j
+0 j
+0.384615 sg
+ 910 3048  127  127 PR
+1 sg
+ 910 3048  127  127 FR
+1 j
+0 j
+0.538462 sg
+1037 3048  127  127 PR
+1 sg
+1037 3048  127  127 FR
+1 j
+0 j
+0.461538 sg
+1164 3048  126  127 PR
+1 sg
+1164 3048  126  127 FR
+1 j
+0 j
+0.615385 sg
+1290 3048  127  127 PR
+1 sg
+1290 3048  127  127 FR
+1 j
+0 j
+0.538462 sg
+1417 3048  127  127 PR
+1 sg
+1417 3048  127  127 FR
+1 j
+0 j
+0.384615 sg
+1544 3048  126  127 PR
+1 sg
+1544 3048  126  127 FR
+1 j
+0 j
+0.538462 sg
+1670 3048  127  127 PR
+1 sg
+1670 3048  127  127 FR
+1 j
+0 j
+0.692308 sg
+1797 3048  127  127 PR
+1 sg
+1797 3048  127  127 FR
+1 j
+0 j
+0.615385 sg
+1924 3048  126  127 PR
+1 sg
+1924 3048  126  127 FR
+1 j
+0 j
+0.692308 sg
+2050 3048  127  127 PR
+1 sg
+2050 3048  127  127 FR
+1 j
+0 j
+0.615385 sg
+2177 3048  126  127 PR
+1 sg
+2177 3048  126  127 FR
+1 j
+0 j
+0.615385 sg
+2303 3048  127  127 PR
+1 sg
+2303 3048  127  127 FR
+1 j
+0 j
+0.615385 sg
+2430 3048  127  127 PR
+1 sg
+2430 3048  127  127 FR
+1 j
+0 j
+0.846154 sg
+2557 3048  126  127 PR
+1 sg
+2557 3048  126  127 FR
+1 j
+0 j
+0.769231 sg
+2683 3048  127  127 PR
+1 sg
+2683 3048  127  127 FR
+1 j
+0 j
+0.846154 sg
+2810 3048  127  127 PR
+1 sg
+2810 3048  127  127 FR
+1 j
+0 j
+0.769231 sg
+2937 3048  126  127 PR
+1 sg
+2937 3048  126  127 FR
+1 j
+0 j
+0.769231 sg
+3063 3048  127  127 PR
+1 sg
+3063 3048  127  127 FR
+1 j
+0 j
+3190 3048  127  127 PR
+3190 3048  127  127 FR
+1 j
+0 j
+0.769231 sg
+3317 3048  126  127 PR
+1 sg
+3317 3048  126  127 FR
+1 j
+0 j
+0.692308 sg
+3443 3048  127  127 PR
+1 sg
+3443 3048  127  127 FR
+1 j
+0 j
+0.846154 sg
+3570 3048  127  127 PR
+1 sg
+3570 3048  127  127 FR
+1 j
+0 j
+0.692308 sg
+ 531 3175  126  126 PR
+gr
+1 sg
+ 531 3175  126  126 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.692308 sg
+ 657 3175  127  126 PR
+1 sg
+ 657 3175  127  126 FR
+1 j
+0 j
+0.769231 sg
+ 784 3175  126  126 PR
+1 sg
+ 784 3175  126  126 FR
+1 j
+0 j
+0.615385 sg
+ 910 3175  127  126 PR
+1 sg
+ 910 3175  127  126 FR
+1 j
+0 j
+0.769231 sg
+1037 3175  127  126 PR
+1 sg
+1037 3175  127  126 FR
+1 j
+0 j
+0.692308 sg
+1164 3175  126  126 PR
+1 sg
+1164 3175  126  126 FR
+1 j
+0 j
+0.846154 sg
+1290 3175  127  126 PR
+1 sg
+1290 3175  127  126 FR
+1 j
+0 j
+0.769231 sg
+1417 3175  127  126 PR
+1 sg
+1417 3175  127  126 FR
+1 j
+0 j
+0.615385 sg
+1544 3175  126  126 PR
+1 sg
+1544 3175  126  126 FR
+1 j
+0 j
+0.769231 sg
+1670 3175  127  126 PR
+1 sg
+1670 3175  127  126 FR
+1 j
+0 j
+0.923077 sg
+1797 3175  127  126 PR
+1 sg
+1797 3175  127  126 FR
+1 j
+0 j
+0.846154 sg
+1924 3175  126  126 PR
+1 sg
+1924 3175  126  126 FR
+1 j
+0 j
+0.769231 sg
+2050 3175  127  126 PR
+1 sg
+2050 3175  127  126 FR
+1 j
+0 j
+0.846154 sg
+2177 3175  126  126 PR
+1 sg
+2177 3175  126  126 FR
+1 j
+0 j
+0.846154 sg
+2303 3175  127  126 PR
+1 sg
+2303 3175  127  126 FR
+1 j
+0 j
+0.846154 sg
+2430 3175  127  126 PR
+1 sg
+2430 3175  127  126 FR
+1 j
+0 j
+0.923077 sg
+2557 3175  126  126 PR
+1 sg
+2557 3175  126  126 FR
+1 j
+0 j
+0.692308 sg
+2683 3175  127  126 PR
+1 sg
+2683 3175  127  126 FR
+1 j
+0 j
+0.769231 sg
+2810 3175  127  126 PR
+1 sg
+2810 3175  127  126 FR
+1 j
+0 j
+0.846154 sg
+2937 3175  126  126 PR
+1 sg
+2937 3175  126  126 FR
+1 j
+0 j
+0.846154 sg
+3063 3175  127  126 PR
+1 sg
+3063 3175  127  126 FR
+1 j
+0 j
+0.769231 sg
+3190 3175  127  126 PR
+1 sg
+3190 3175  127  126 FR
+1 j
+0 j
+3317 3175  126  126 PR
+3317 3175  126  126 FR
+1 j
+0 j
+0.615385 sg
+3443 3175  127  126 PR
+1 sg
+3443 3175  127  126 FR
+1 j
+0 j
+0.615385 sg
+3570 3175  127  126 PR
+1 sg
+3570 3175  127  126 FR
+1 j
+0 j
+0.615385 sg
+ 531 3301  126  127 PR
+gr
+1 sg
+ 531 3301  126  127 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.769231 sg
+ 657 3301  127  127 PR
+1 sg
+ 657 3301  127  127 FR
+1 j
+0 j
+0.846154 sg
+ 784 3301  126  127 PR
+1 sg
+ 784 3301  126  127 FR
+1 j
+0 j
+0.538462 sg
+ 910 3301  127  127 PR
+1 sg
+ 910 3301  127  127 FR
+1 j
+0 j
+0.692308 sg
+1037 3301  127  127 PR
+1 sg
+1037 3301  127  127 FR
+1 j
+0 j
+0.461538 sg
+1164 3301  126  127 PR
+1 sg
+1164 3301  126  127 FR
+1 j
+0 j
+0.461538 sg
+1290 3301  127  127 PR
+1 sg
+1290 3301  127  127 FR
+1 j
+0 j
+0.384615 sg
+1417 3301  127  127 PR
+1 sg
+1417 3301  127  127 FR
+1 j
+0 j
+0.384615 sg
+1544 3301  126  127 PR
+1 sg
+1544 3301  126  127 FR
+1 j
+0 j
+0.538462 sg
+1670 3301  127  127 PR
+1 sg
+1670 3301  127  127 FR
+1 j
+0 j
+0.538462 sg
+1797 3301  127  127 PR
+1 sg
+1797 3301  127  127 FR
+1 j
+0 j
+0.461538 sg
+1924 3301  126  127 PR
+1 sg
+1924 3301  126  127 FR
+1 j
+0 j
+0.538462 sg
+2050 3301  127  127 PR
+1 sg
+2050 3301  127  127 FR
+1 j
+0 j
+0.461538 sg
+2177 3301  126  127 PR
+1 sg
+2177 3301  126  127 FR
+1 j
+0 j
+0.615385 sg
+2303 3301  127  127 PR
+1 sg
+2303 3301  127  127 FR
+1 j
+0 j
+0.615385 sg
+2430 3301  127  127 PR
+1 sg
+2430 3301  127  127 FR
+1 j
+0 j
+0.692308 sg
+2557 3301  126  127 PR
+1 sg
+2557 3301  126  127 FR
+1 j
+0 j
+0.615385 sg
+2683 3301  127  127 PR
+1 sg
+2683 3301  127  127 FR
+1 j
+0 j
+0.692308 sg
+2810 3301  127  127 PR
+1 sg
+2810 3301  127  127 FR
+1 j
+0 j
+0.769231 sg
+2937 3301  126  127 PR
+1 sg
+2937 3301  126  127 FR
+1 j
+0 j
+0.615385 sg
+3063 3301  127  127 PR
+1 sg
+3063 3301  127  127 FR
+1 j
+0 j
+0.692308 sg
+3190 3301  127  127 PR
+1 sg
+3190 3301  127  127 FR
+1 j
+0 j
+0.615385 sg
+3317 3301  126  127 PR
+1 sg
+3317 3301  126  127 FR
+1 j
+0 j
+3443 3301  127  127 PR
+3443 3301  127  127 FR
+1 j
+0 j
+0.846154 sg
+3570 3301  127  127 PR
+1 sg
+3570 3301  127  127 FR
+1 j
+0 j
+0.615385 sg
+ 531 3428  126  127 PR
+gr
+1 sg
+ 531 3428  126  127 FR
+gs 531 389 3167 3167 MR c np
+1 j
+0 j
+0.769231 sg
+ 657 3428  127  127 PR
+1 sg
+ 657 3428  127  127 FR
+1 j
+0 j
+0.846154 sg
+ 784 3428  126  127 PR
+1 sg
+ 784 3428  126  127 FR
+1 j
+0 j
+0.538462 sg
+ 910 3428  127  127 PR
+1 sg
+ 910 3428  127  127 FR
+1 j
+0 j
+0.692308 sg
+1037 3428  127  127 PR
+1 sg
+1037 3428  127  127 FR
+1 j
+0 j
+0.461538 sg
+1164 3428  126  127 PR
+1 sg
+1164 3428  126  127 FR
+1 j
+0 j
+0.461538 sg
+1290 3428  127  127 PR
+1 sg
+1290 3428  127  127 FR
+1 j
+0 j
+0.384615 sg
+1417 3428  127  127 PR
+1 sg
+1417 3428  127  127 FR
+1 j
+0 j
+0.384615 sg
+1544 3428  126  127 PR
+1 sg
+1544 3428  126  127 FR
+1 j
+0 j
+0.538462 sg
+1670 3428  127  127 PR
+1 sg
+1670 3428  127  127 FR
+1 j
+0 j
+0.538462 sg
+1797 3428  127  127 PR
+1 sg
+1797 3428  127  127 FR
+1 j
+0 j
+0.461538 sg
+1924 3428  126  127 PR
+1 sg
+1924 3428  126  127 FR
+1 j
+0 j
+0.538462 sg
+2050 3428  127  127 PR
+1 sg
+2050 3428  127  127 FR
+1 j
+0 j
+0.461538 sg
+2177 3428  126  127 PR
+1 sg
+2177 3428  126  127 FR
+1 j
+0 j
+0.615385 sg
+2303 3428  127  127 PR
+1 sg
+2303 3428  127  127 FR
+1 j
+0 j
+0.615385 sg
+2430 3428  127  127 PR
+1 sg
+2430 3428  127  127 FR
+1 j
+0 j
+0.692308 sg
+2557 3428  126  127 PR
+1 sg
+2557 3428  126  127 FR
+1 j
+0 j
+0.615385 sg
+2683 3428  127  127 PR
+1 sg
+2683 3428  127  127 FR
+1 j
+0 j
+0.692308 sg
+2810 3428  127  127 PR
+1 sg
+2810 3428  127  127 FR
+1 j
+0 j
+0.769231 sg
+2937 3428  126  127 PR
+1 sg
+2937 3428  126  127 FR
+1 j
+0 j
+0.615385 sg
+3063 3428  127  127 PR
+1 sg
+3063 3428  127  127 FR
+1 j
+0 j
+0.846154 sg
+3190 3428  127  127 PR
+1 sg
+3190 3428  127  127 FR
+1 j
+0 j
+0.615385 sg
+3317 3428  126  127 PR
+1 sg
+3317 3428  126  127 FR
+1 j
+0 j
+0.846154 sg
+3443 3428  127  127 PR
+1 sg
+3443 3428  127  127 FR
+1 j
+0 j
+3570 3428  127  127 PR
+3570 3428  127  127 FR
+1 j
+gr
+
+1 sg
+
+end
+
+eplot
+%%EndObject
+
+epage
+end
+
+showpage
+
+%%Trailer
+%%EOF

@@ -279,7 +279,7 @@ to those here.
     [doi](http://dx.doi.org/10.1016/j.jmp.2005.11.006)\]
   - Pitt, M. A., Kim, W., Navarro, D. J. and Myung, J. I. (2006). Global
     model analysis by parameter space partitioning. *Psychological
-    Review, 113*, 57-83
+    Review, 113*, 57-83. [source](./source/2006_psp)
 
 ## 2005
 
