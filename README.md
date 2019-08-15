@@ -231,6 +231,9 @@ to those here.
 
   - Navarro, D. J. and Perfors, A. (2010). Similarity, feature
     discovery, and the size principle. *Acta Psychologica, 133*, 256-268
+    \[[pdf](./manuscripts/2010_featurediscovery.pdf),
+    [source](./source/2010_featurediscovery/),
+    [doi](http://dx.doi.org/10.1016/j.actpsy.2009.10.008)\]
   - Sanborn, A. N., Griffiths, T. L. and Navarro, D. J. (2010). Rational
     approximations to rational models: Alternative algorithms for
     category learning. *Psychological Review, 117*, 1144-1167
