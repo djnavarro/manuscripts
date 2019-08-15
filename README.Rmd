@@ -91,7 +91,10 @@ This repository includes both the final pdf file in the `manuscript` folder, and
 ## 2014
 
 - De Deyne, S., Voorspoels, W., Verheyen, S., Navarro, D. J. and Storms, G. (2014). Accounting for graded structure in adjective categories with valence-based opposition relationships. *Language and Cognitive Processes, 29*, 568-583. [[pdf](./manuscripts/2014_adjectives.pdf), [source](./source/2014_adjectives/), [doi](http://dx.doi.org/10.1080/01690965.2013.794294)]
-- Perfors, A. and Navarro, D. J. (2014). Language evolution can be shaped by the structure of the world. *Cognitive Science, 38*
+- Perfors, A. and Navarro, D. J. (2014). Language evolution can be shaped by the structure of the world. *Cognitive Science, 38*, 775-793
+[[pdf](./manuscripts/2014_iterated.pdf), 
+[source](./source/2014_iterated/), 
+[doi](http://dx.doi.org/10.1111/cogs.12102)]
 
 ## 2013
 
@@ -135,7 +138,7 @@ This repository includes both the final pdf file in the `manuscript` folder, and
 
 - Myung, J. I., Navarro, D. J. and Pitt, M. A. (2006). Model selection by Normalized Maximum Likelihood. *Journal of Mathematical Psychology, 50*, 167-179.  [[pdf](./manuscripts/2006_nml.pdf), [source](./source/2006_nml/), [doi](http://dx.doi.org/10.1016/j.jmp.2005.06.008)]
 - Navarro, D. J., Griffiths, T. L., Steyvers, M. and Lee, M. D. (2006). Modeling individual differences using Dirichlet processes. *Journal of Mathematical Psychology, 50*, 101-122. [[pdf](./manuscripts/2006_indivdiffs.pdf), [source](./source/2006_indivdiffs/), [doi](http://dx.doi.org/10.1016/j.jmp.2005.11.006)]
-- Pitt, M. A., Kim, W., Navarro, D. J. and Myung, J. I. (2006). Global model analysis by parameter space partitioning. *Psychological Review, 113*, 57-83. [source](./source/2006_psp)
+- Pitt, M. A., Kim, W., Navarro, D. J. and Myung, J. I. (2006). Global model analysis by parameter space partitioning. *Psychological Review, 113*, 57-83. [[raw source](./source/2006_psp)]
 
 ## 2005
 

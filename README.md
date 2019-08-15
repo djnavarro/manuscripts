@@ -194,7 +194,10 @@ to those here.
     [source](./source/2014_adjectives/),
     [doi](http://dx.doi.org/10.1080/01690965.2013.794294)\]
   - Perfors, A. and Navarro, D. J. (2014). Language evolution can be
-    shaped by the structure of the world. *Cognitive Science, 38*
+    shaped by the structure of the world. *Cognitive Science, 38*,
+    775-793 \[[pdf](./manuscripts/2014_iterated.pdf),
+    [source](./source/2014_iterated/),
+    [doi](http://dx.doi.org/10.1111/cogs.12102)\]
 
 ## 2013
 
@@ -279,7 +282,7 @@ to those here.
     [doi](http://dx.doi.org/10.1016/j.jmp.2005.11.006)\]
   - Pitt, M. A., Kim, W., Navarro, D. J. and Myung, J. I. (2006). Global
     model analysis by parameter space partitioning. *Psychological
-    Review, 113*, 57-83. [source](./source/2006_psp)
+    Review, 113*, 57-83. \[[raw source](./source/2006_psp)\]
 
 ## 2005
 
