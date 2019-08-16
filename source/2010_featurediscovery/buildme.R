@@ -4,7 +4,7 @@ manuscript <- "2010_featurediscovery"
 library(tinytex)
 library(here)
 
-# latex is annoying with directories, so use setwd
+# latex is annoying with directories, so  use setwd
 wd <- setwd(here("source", manuscript))
 
 # compile document

@@ -217,7 +217,8 @@ to those here.
     [doi](http://dx.doi.org/10.1111/j.1551-6709.2011.01212.x)\]
   - Shafto, P., Eaves, B., Navarro, D. J. and Perfors, A. (2012).
     Epistemic trust: Modeling children’s reasoning about others’
-    knowledge and intent. *Developmental Science, 15,* 436-447 \[[pdf](./2012_ShaftoEavesNavarroPerfors.pdf)\]
+    knowledge and intent. *Developmental Science, 15,* 436-447.
+    \[[pdf](./2012_epistemictrust.pdf)\]
 
 ## 2011
 
@@ -236,13 +237,15 @@ to those here.
     [doi](http://dx.doi.org/10.1016/j.actpsy.2009.10.008)\]
   - Sanborn, A. N., Griffiths, T. L. and Navarro, D. J. (2010). Rational
     approximations to rational models: Alternative algorithms for
-    category learning. *Psychological Review, 117*, 1144-1167 \[[pdf](./manuscripts/2010_sanborn.pdf)\]
+    category learning. *Psychological Review, 117*, 1144-1167.
+    \[[pdf](./manuscripts/2010_particlefilters.pdf)\]
 
 ## 2009
 
   - Navarro, D. J. and Fuss, I. (2009). Fast and accurate calculations
     for first-passage times in Wiener diffusion models. *Journal of
-    Mathematical Psychology, 53*, 222-230 \[[pdf](./manuscripts/2009_Navarro_Fuss.pdf)\]
+    Mathematical Psychology, 53*, 222-230.
+    \[[pdf](./manuscripts/2009_firstpassage.pdf)\]
   - Grunwald, P. and Navarro, D. J. (2009). NML, Bayes and true
     distributions: A comment on Karabatsos and Walker (2006). *Journal
     of Mathematical Psychology, 53*, 43-51
@@ -262,7 +265,7 @@ to those here.
     (2007). Unifying rational models of categorization via the
     hierarchical Dirichlet process. In D. S. McNamara and J. G. Trafton
     (Eds) *Proceedings of the 29th Annual Conference of the Cognitive
-    Science Society* (pp. 323-328) \[[pdf](./manuscripts/2007_griffiths.pdf)\]
+    Science Society* (pp. 323-328) \[[pdf](./manuscripts/2007_hdp.pdf)\]
   - Myung, J. I., Pitt, M. A. and Navarro, D. J. (2007). Does response
     scaling cause the Generalized Context Model to mimic a prototype
     model? *Psychonomic Bulletin and Review, 14*, 1043-1050.
@@ -292,7 +295,8 @@ to those here.
   - Lee, M. D. and Navarro, D. J. (2005). Minimum description length and
     psychological clustering models. In P. Grunwald, I. J. Myung and M.
     A. Pitt (Eds) *Advances in Minimum Description Length: Theory and
-    Applications* (pp. 355-384) \[[pdf](./manuscripts/2005_lee_navarro.pdf)\]
+    Applications* (pp. 355-384)
+    \[[pdf](./manuscripts/2005_mdlclustering.pdf)\]
 
 ## 2004
 
@@ -303,7 +307,8 @@ to those here.
     [doi](http://dx.doi.org/10.1162/0899766041336378)\]
   - Navarro, D. J. and Lee, M. D. (2004). Common and distinctive
     features in stimulus representation: A modified version of the
-    contrast model. *Psychonomic Bulletin and Review, 11*, 961-974 \[[pdf](./manuscripts/2004_Navarro_Lee.pdf)\]
+    contrast model. *Psychonomic Bulletin and Review, 11*, 961-974.
+    \[[pdf](./manuscripts/contrastmodel.pdf)\]
   - Navarro, D. J., Pitt, M. A. and Myung, I. J. (2004). Assessing the
     distinguishability of models and the informativeness of data.
     *Cognitive Psychology, 49*, 47-84
@@ -322,13 +327,15 @@ to those here.
   - Navarro, D. J. and Lee, M. D. (2003). Combining dimensions and
     features in similarity-based representations. In S. Becker, S. Thrun
     and K. Obermayer (Ed.) *Advances in Neural Information Processing
-    Systems* (pp. 67-74) \[[pdf](./manuscripts/2003_navarro_lee.pdf)\]
+    Systems* (pp. 67-74).
+    \[[pdf](./manuscripts/2003_hybridsimilarity.pdf)\]
 
 ## 2002
 
   - Lee, M. D. and Navarro, D. J. (2002). Extending the ALCOVE model of
     category learning to featural stimulus domains. *Psychonomic
-    Bulletin and Review, 9*, 43-58 \[[pdf](./manuscripts/2002_LeeNavarro.pdf)\]
+    Bulletin and Review, 9*, 43-58.
+    \[[pdf](./manuscripts/2002_alcove.pdf)\]
 
 ## Books
 
