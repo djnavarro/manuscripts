@@ -290,7 +290,8 @@ to those here.
     model? *Psychonomic Bulletin and Review, 14*, 1043-1050.
     [[pdf](./manuscripts/2007_catmimic.pdf),
     [source](./source/2007_catmimic/),
-    [doi](http://dx.doi.org/10.3758/BF03193089)]
+    [doi](http://dx.doi.org/10.3758/BF03193089),
+    [psyarxiv](http://dx.doi.org/10.31234/osf.io/ucrq3)]
 
 ## 2006
 
