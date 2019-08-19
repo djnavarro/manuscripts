@@ -1,0 +1,1283 @@
+
+% header
+\documentclass[authoryear]{elsarticle}
+\usepackage{amssymb,amsmath,latexsym}
+
+	\usepackage{epsfig}
+	\usepackage{bm}
+	\usepackage{epstopdf}
+%	\usepackage{amssymb}
+	\usepackage[left=2.5cm, right=2.5cm,top=4cm, bottom=4cm]{geometry}
+
+	\newcommand{\sectionX}[1]{\section{#1}}
+	\newcommand{\subsectionX}[1]{\subsection{#1}}
+	\newcommand{\subsubsectionX}[1]{\subsubsection{#1}}
+
+  \newcommand{\condon}{|}
+  \newcommand{\commentout}[1]{}
+  \newcommand{\loss}{\mbox{\sc loss}}
+  \newcommand{\model}{\mathcal{M}}
+	\newcommand{\sspace}[2]{\mathcal{#1}^{#2}}
+	\newcommand{\iid}{{\it i.i.d.}}
+	\newcommand{\leaveout}[2]{\mathbf{#1} \setminus {#1}_{#2}}
+
+  \newtheorem{example}{Example}
+  \newcommand{\kw}{KW}
+  \newcommand{\vx}{\ensuremath{{\bf x}}}
+  \newcommand{\vy}{\ensuremath{{\bf y}}}
+
+
+
+% ---------- watermark -----------
+\usepackage[firstpage]{draftwatermark}
+\SetWatermarkAngle{0}
+\SetWatermarkFontSize{0.25cm}
+\SetWatermarkVerCenter{1.15cm}
+\SetWatermarkLightness{0.5}
+\SetWatermarkHorCenter{14cm}
+\SetWatermarkText{\shortstack[l]{
+Grunwald, P. and Navarro, D. J. (2009). NML, Bayes and true distributions: \\
+A comment on Karabatsos and Walker (2006). Journal of Mathematical Psychology, \\
+53, 43-51. http://dx.doi.org/10.1016/j.jmp.2008.11.005}}
+\SetWatermarkScale{1}
+% -------------------------------
+
+\begin{document}
+
+\begin{frontmatter}
+
+\title{NML, Bayes and true distributions: \\A comment on Karabatsos and Walker (2006)}
+
+\journal{}
+
+\author[cwi]{Peter Gr\"{u}nwald\corref{cor1}}
+
+\author[adel]{Danielle J. Navarro}
+
+\cortext[cor1]{Corresponding author}
+
+\address[cwi]{Centrum voor Wiskunde en Informatica, Netherlands}
+\address[adel]{School of Psychology, University of Adelaide, Australia}
+
+
+%%%%%%%%% abstract %%%%%%%%%
+
+	\begin{abstract}
+        We review the normalized maximum likelihood (NML)
+        criterion for selecting among competing models. NML is
+        generally justified on information-theoretic grounds, via the
+        principle of minimum description length (MDL), in a derivation
+        that ``does not assume the existence of a true,
+        data-generating distribution.'' Since this
+        ``agnostic'' claim has been a source of some recent confusion in
+        the psychological literature, we explain in detail what is meant by
+        this statement. In doing so we discuss the work presented by
+        Karabatsos and Walker (2006), who propose an alternative Bayesian
+        decision-theoretic characterization of NML, which leads them
+        to conclude that the claim of agnosticity is meaningless.  In
+        the \kw\ derivation, one part of the NML criterion (the
+        likelihood term) arises from placing a Dirichlet process prior
+        over possible data-generating distributions, and the other
+        part (the complexity term) is folded into a loss function.
+        Whereas in the original derivations of NML, the complexity
+        term arises naturally, in the \kw\ derivation its mathematical
+        form is taken for granted and not explained any further. We
+        argue that for this reason, the \kw\ characterization is
+        incomplete; relatedly, we question the relevance of the
+        characterization and we argue that their main conclusion about
+        agnosticity does
+        not follow. \\ \\
+        {\it Keywords:} Minimum description length; normalized maximum
+        likelihood; Bayesian inference \normalsize\\ \\
+	\end{abstract}
+
+\end{frontmatter}
+
+%%%%%%%%%% start content %%%%%%%%%%
+\newpage
+\sectionX{Introduction}
+
+The normalized maximum likelihood (NML) criterion for the selection
+among a collection of models $\model_1, \ldots, \model_D$ in light of
+observed data $\vx =(x_1 \ldots x_n)$ states that, where possible, we
+should prefer the model $\model$ that maximizes the following
+probability,
+
+\vspace*{-12pt}
+\begin{equation} \label{nml}
+p^*(\vx \condon \model) =\frac{f(\vx \condon \hat{\theta}(\vx,\model))}
+{ \int_{\mathcal{X}^n} f(\vy \condon \hat{\theta}(\vy,\model)) d\vy}
+\end{equation}
+
+where $f(\vx \condon \theta, \model)$ denotes the probability of the
+data according to model $\model$ with parameter values $\theta$. In
+this expression, $\sspace{X}{n}$ denotes the sample space of possible
+data sets of size $n$, and $\hat{\theta}(\vy,\model)$ is the maximum
+likelihood estimate obtained when model $\model$ is fit to data $\vy$.
+
+The NML probability can be derived as the solution to a number of
+different optimality problems (Shtarkov, 1987; Rissanen, 2001).  It
+plays a prominent role in the minimum description length (MDL)
+approach to statistical inference, originating from information
+theory. However, the NML distribution has also been given an
+interpretation from other statistical perspectives. Apart from the
+information-theoretic derivation, there are three other standard
+derivations of the NML probability (see Gr\"unwald 2007): the {\em
+  prequential\/} interpretation (briefly discussed in the appendix), a
+{\em differential-geometric interpretation\/} (in which the
+denominator in (\ref{nml}) is interpreted as a volume; see, e.g.,
+Balasubramanian 2005) and a {\em Bayesian interpretation}\/ (which
+links (\ref{nml}) to Bayes factor model selection based on a Jeffreys'
+prior). Importantly, the information-theoretic and prequential
+derivations of NML do not rely on the assumption of a ``true'',
+data-generating distribution. In this sense, NML is an ``agnostic''
+method, which suggests that it behaves robustly in situations in which
+all models under consideration are wrong, yet some are useful.
+
+In a recent paper, Karabatsos and Walker (2006) (\kw \ from now on)
+propose an alternative Bayesian decision theoretic interpretation for
+the NML criterion, from which they argue that it is meaningless
+to make claims about NML being an agnostic method. However, there
+are a number of difficulties with their proposal,  which we discuss in
+this paper. The plan of this paper is as follows: we begin by providing
+a brief discussion of the information-theoretic view of NML
+(Section~\ref{sec:mdlview}). Following this, in
+Section~\ref{sec:true}, we explain in detail the meaning and
+implication of the ``agnostic'' property of NML. We then turn to the
+\kw\ characterization itself (Section~\ref{sec:kw}), and our concerns
+with it (Sections~\ref{sec:caveats} and~\ref{sec:minor}). We make some
+concluding remarks in Section~\ref{sec:undefined}.  For the benefit of
+readers who are not familiar with information theory, the paper ends
+with an appendix in which one of the alternative interpretations of
+NML --- the prequential one --- is explained in some detail.
+
+\section{The Information-Theoretic View on NML}
+\label{sec:mdlview}
+
+The MDL principle states that we should prefer
+those models that allow us to compress the data set
+$\vx$ to the greatest possible extent. That is, if
+the codelength $L_C(\vx)$ denotes the number of bits
+required to describe $\vx$ using some code $C$, then we
+should prefer those models that allows us to produce short
+codelengths. We are able to talk about data compression
+using probabilistic language thanks to the Kraft inequality, which
+tells us that for any probability mass function $f$ defined on a
+sample space $\sspace{X}{n}$, there exists a uniquely decodable code $C$
+such that, for all $\vy \in \sspace{X}{n}$, the codelength
+is given by $L_C(\vy) = - \log
+f(\vy)$. Vice versa, for any uniquely decodable
+code $C$, there exists a mass function $f$ that satisfies this
+equality. This
+establishes a 1-to-1 correspondence between probability
+mass functions and uniquely decodable codes. Essentially the same
+correspondence holds, after appropriate discretization, if $f$ is a
+density rather than a mass function.
+
+The most well-known derivation of the NML distribution from the MDL
+perspective is Rissanen's (2001) work, which slightly extends
+an earlier derivation by Shtarkov (1987).
+Given a model $\model$ that is parametrized by $\theta \in
+\Theta$, Shtarkov  demonstrates that the NML probability $p^*(\vx \condon
+\model)$ in Equation~\ref{nml} corresponds to the ``best'' possible
+coding that can be achieved using $\model$. Shtarkov defines the
+best coding scheme that a model can achieve in a minimax
+sense, as the one that satisfies the following equality:
+
+\vspace*{-12pt}
+\begin{equation}\label{minimax}
+p^* = \displaystyle\arg _{p} \min_{p} \max_{\vy}
+\left[ \ \left(- \log p(\vy) \right) - \left( - \log f(\vy \condon
+  \hat{\theta}(\vy,\model)) \right) \ \right],
+\end{equation}
+
+\noindent
+where the minimum is over all distributions $p$ that can be defined on
+$\sspace{X}{n}$, and the maximum is over all possible datasets $\vy
+\in \sspace{X}{n}$. The expression in square brackets is called the
+{\em regret\/}: when applied to the actually-observed data $\vx$, it
+is the additional number of bits one needs to code the data $\vx$
+using (the code based on) $p$, compared to the code in $\model$ that,
+with hindsight, turns out to minimize the codelength (maximize the
+probability) of $\vx$. The latter code is invariably the code based on
+the ML (maximum likelihood) estimator $f(\cdot \condon
+\hat{\theta}(\vx,\model))$.  Thus, we seek, among all distributions
+(codes) $p$ on $\sspace{X}{n}$, the one such that the worst-case
+regret is minimized. Regarding the more general question of why it
+makes sense to solve a minimax problem of this kind, the appendix
+contains a brief discussion; but the interested reader is referred to
+Gr\"unwald (2007) for an extensive discussion. For the current
+purposes, it suffices to note that a key point in the specification of
+this minimax problem is that it does not matter what probability
+distribution generated the data $\vx$, or whether such a ``true''
+distribution even exists: the NML distribution satisfies certain
+optimality criteria that depend only on the data. We elaborate this
+point in detail in the following section. Then, in
+Section~\ref{sec:kw}--\ref{sec:minor}, we discuss the \kw\
+derivation and our criticisms of it.
+\section{The Role of True Distributions}
+\label{sec:true}
+It is useful to think of hypothesis testing and model selection
+methods as algorithms. These algorithms usually take as input a finite
+or countably infinite list $\model_1, \model_2, \ldots$ of models
+(families of probability distributions), as well as data ${\bf x} =
+(x_1, \ldots, x_n) \in {\cal X}^n$. They output a particular model
+$\model$ from the list, or, more generally, they assign a weight or
+probability to each model on the list.  We now look at the role of
+``true'' distributions, first (Section~\ref{sec:design}) in the {\em
+  design\/} of such algorithms, and then (Section~\ref{sec:analysis})
+in the {\em analysis\/} of such algorithms.  For the specific case of
+MDL algorithms such as (but not restricted to) NML, Gr\"unwald (2007,
+ch. 16 and 17) discusses these issues in far more detail.
+
+\subsection{True Distributions in the Design of Algorithms}
+\label{sec:design}
+For some methods, such as  traditional Neyman-Pearson hypothesis
+testing and AIC model selection, the corresponding
+algorithms have explicitly been designed to achieve a certain specified
+performance {\em under the assumption that one of the distributions
+  $p$ in one of the models under consideration is exactly true, i.e.
+  the data are sampled from $p$}. Other methods, such as
+cross-validation and NML-based model selection, do not rely on such an
+assumption in order to construct the algorithm. For instance, Shtarkov's
+derivation of NML as the solution to the minimax problem in Equation
+\ref{minimax} treats the observed data ${\bf x}$ as fixed, without
+invoking any assumptions about what mechanism produced those
+data in the first place.
+
+ As an example of a procedure for which the design explicitly relies
+ on some
+ assumptions about the true generating mechanism,
+ consider the following simple problem. Suppose we
+ we want to choose between a model $\model_1 = \{
+  f(\cdot \mid \mu) \mid \mu \in {\mathbb R} \}$ and its submodel
+  $\model_0 = \{ f(\cdot \mid \mu) \mid \mu = 0)$, where, for ${\bf x}
+  \in {\cal X}^n$, $f({\bf x} \mid \mu)$ is the standard normal
+  density, extended to $n$ outcomes by independence.
+  In the
+  Neyman-Pearson approach to this problem, we perform a hypothesis
+  test with $\mu=0$ as the null hypothesis, and $\mu \neq 0$ as the
+  alternative. Viewed as an algorithm, such a test takes data ${\bf x}
+  \in {\cal X}^n$ as input, and it outputs ``reject $\model_0$,'' or
+  ``accept $\model_0$'', possibly together with a $p$-value. For
+  simplicity, we assume the significance level is fixed at $0.01$.
+  This means that the  test (algorithm) has been designed such
+  that the type-I error is at
+  most $0.01$: {\em if\/} the data are sampled from $\model_0$,
+  the probability of output ``reject'' is at most $0.01$; moreover,
+  among all algorithms with this property, we use the one for
+  which the type-II error is minimized. Now, notice that the
+  type-I error is defined in terms of the probability of obtaining a
+  particular kind of data set  {\em if model $\model_0$ is true}.
+  Similarly, the type-II error describes the probability of obtaining a
+  different kind of data set {\em if (some element of) model $\model_1$
+    is true}.  The design of the algorithm thus crucially
+  depends on the data being sampled either from $\model_0$ or
+  $\model_1$. As a consequence, an awkward problem arises if
+  the data are not sampled from either of the two models. Under
+  such circumstances, both
+  the accept/reject decision and the corresponding $p$-value have
+    no clear interpretation any more, as they are probabilities of
+  events according to some distributions that we already know are not
+  the data-generating distributions.
+  This situation is by no means uncommon:
+  in practice, we often know in advance that all models under
+consideration are, to some extent, wrong. Instead of trying to
+identify the true model, in such a situation we may
+want to choose the model that, hopefully, is the ``best'' in the sense
+that it leads to the best predictions about future data coming from the
+same source.
+The Neyman-Pearson test has
+not been designed for such a situation, and, as we have just seen, its
+outputs cannot easily be interpreted any more.
+In particular, even though we put
+  our significance level at $0.01$, we certainly cannot claim anymore
+  that, by following the procedure repeatedly in a variety of
+  contexts, only once in  about a 100 times will
+  we encounter the situation that we
+reject $\model_0$ even though it leads to better predictions than $\model_1$.
+
+The example suggests that if none of
+our models are perfect -- as is usually the case -- then we should
+use statistical algorithms whose output is a function {\em only\/} of how well the
+actually observed sequence of data can be {\em predicted\/} based on
+the given models. To make this precise, we need to define what it
+means to ``predict based on a given model.'' This can be done in
+various ways.  Let us consider two examples: leave-one-out
+cross-validation (LOOCV; see Browne 2000), an approach to
+model selection that is popular
+in the machine learning community; and NML. In LOOCV, for all outcomes
+$x_i$, one predicts $x_i$ on the basis of the maximum likelihood (ML)
+estimator $\hat{\theta}(\leaveout{x}{i})$, i.e. based on all
+observed data except $x_i$ itself. The quality of predicting $x_i$
+with density or mass function $f_{\theta}$ is measured in terms of the
+log loss, defined as $\loss(x_i,f) := - \log f(x_i)$: the smaller the
+loss, the better the prediction. According to LOOCV,
+we should select the model $\model_j$ which minimizes the sum of all
+prediction errors, $\sum_{i=1}^n \loss(x_i,f(\cdot \mid
+\hat{\theta}(\leaveout{x}{i}, \model_j)))$. The NML approach is
+based on the same loss function, but, as explained in the
+appendix, rather than predicting by using the
+leave-one-out ML estimator, one sequentially predicts the full
+sequence ${\bf x} = (x_1, \ldots, x_n)$ using the prediction strategy
+that is worst-case optimal relative to the element of $\model$ that
+one should have used with hindsight, the worst-case being taken over
+all possible data sequences.
+
+Summarizing, we may broadly distinguish between {\em
+  truth-dependent\/} approaches such as Neyman-Pearson tests and
+  AIC,\footnote{To see that AIC is a
+truth-dependent approach, note that it tells us to select the model
+minimizing $\mbox{AIC}({\bf x},d) = - \log f({\bf x} \mid
+\hat{\theta}({\bf x}, \model_d)) + d$, where $d$ is the model
+dimension. While the first term is ``agnostic'', the second term ($d$)
+is truth-dependent, since it has been designed to make
+$\mbox{AIC}({\bf x},d)$ an unbiased estimator of the prediction
+loss that can be achieved with model $\model_d$. ``Unbiased''
+means ``giving the right answer in expectation,'' the expectation
+being taken under a distribution $p$ that is assumed to be in a
+(suitably defined) closure of the list of models $\model_1, \model_2,
+\ldots$.  We note that Bayesian inference cannot easily be put into
+one of the two categories: some variations may be called
+truth-dependent, others may not (Gr\"unwald 2007, ch. 17).}
+  and
+{\em agnostic approaches\/} such as cross-validation and NML.
+Truth-dependent approaches are designed to give good results with high
+probability or in expectation according to some distribution $p$. In
+agnostic approaches, distributions are only used as predictors, and
+the merit of a model in light of the data $\bf x$ is solely determined
+by how well such distributions predict $\bf x$. It is in this sense that
+introductory papers (e.g., Myung et al. 2006) describe NML as being
+``free'' from assumptions about true distribution: it is an agnostic
+method by design.
+
+Having made this distinction between agnostic and truth-dependent
+procedures, it is worth considering the advantages built into the
+agnostic methods.  Besides avoiding the previously-discussed problem
+of non-interpretable outputs, agnostic methods also have another
+advantage: {\em when comparing a finite number of models with an
+  agnostic approach, the better model must win, eventually}. To
+explain what this means (see Section~\ref{sec:analysis} for more
+details) consider the case of just two models, $\model_a$ and
+$\model_b$. Suppose one observes more and more data $x_1, x_2,
+\ldots$, the sequence being such that the best predictor of the data
+in $\model_a$ eventually keeps outperforming the best predictor of the
+data in $\model_b$.  Given such a sequence, the agnostic approaches
+will eventually select $\model_a$. Specifically, for an agnostic
+approach it is guaranteed that, for {\em all\/} infinite sequences
+$x_1, x_2, \ldots$ such that
+
+\vspace*{-24pt}
+\begin{equation}
+\label{eq:event}
+\min_{f(\cdot \mid \theta) \in \model_a}
+\lim_{n \rightarrow \infty} \frac{1}{n} \sum_{i=1}^n
+\loss(x_i,f(\cdot \mid \theta,\model_a))
+<  \min_{f(\cdot \mid \theta) \in \model_b}
+\lim_{n \rightarrow \infty} \frac{1}{n} \sum_{i=1}^n
+\loss(x_i,f(\cdot \mid {\theta}, \model_b)),
+\end{equation}
+one has the assurance that, for {\em all\/} large $n$ larger than some
+$n_0$, the model $\model_a$ will be selected rather than $\model_b$.
+Here the number $n_0$ may depend on the particular sequence $x_1, x_2,
+\ldots$: for some sequences, the better model will be identified
+earlier than for others.
+
+For truth-dependent approaches, the guarantee that the best model will
+eventually be selected can only be given for a small subset of the
+sequences satisfying (\ref{eq:event}), namely those sequences $x_1,
+x_2, \ldots$ for which there exists a distribution $f$ in $\model_a
+\cup \model_b$, so that $x_1, x_2, \ldots$ may be regarded as a
+``typical outcome'' of $f$. In practice, however, we often have to
+deal with atypical outcomes: supposedly real-valued variables (e.g.,
+normally distributed data) can very easily contain repeated values --
+cases where $x_i = x_j$ for some $i \neq j$) -- due to round-off
+errors and other imperfections, an occurrence that should have
+probability 0 (see, e.g., Gr\"unwald, 2007, ch. 17). More generally,
+real-world data sets tend to be riddled with data missing not at
+random, data entry errors, and (particularly in the social sciences) a
+host of weak correlations (e.g., Meehl 1990). The net result is that,
+in many cases, even very large empirical data sets will have some
+characteristics that make them rather atypical sequences. It is also for
+this reason that the predictive guarantees for the agnostic approaches
+are in practice somewhat reassuring.
+
+The previous remarks notwithstanding, it is worth pointing out that there
+is, of course, a weak spot in the agnostic approaches: one can
+measure prediction error in many different ways, so why should one
+focus on the log loss? The model that predicts best in terms of log
+loss may not be the best in terms of some other loss functions such as
+$0/1$-loss. Indeed, there are approaches which try to extend MDL and
+related approaches beyond the log loss (Gr\"unwald 2007, ch.  17); the
+methodology of {\em structural risk minimization\/} (Vapnik, 1998) may
+also be viewed in this manner.  Nevertheless, there are certain
+properties of the log loss which make it particularly attractive, such
+as the fact that it is the only local proper scoring rule (Bernardo \&
+Smith, 1994), that it has a clear interpretation in terms of data
+compression and sequential gambling (Gr\"unwald, 2007), and, as we
+discuss below, that it has good convergence properties in the
+hypothetical case in which the true distribution does reside in one of
+the models after all.
+
+\subsection{True Distributions in the Analysis of Algorithms}
+\label{sec:analysis}
+
+At this point, we turn to a discussion of the performance of different model
+selection algorithms. As with the previous discussion regarding the design
+of the methods, it is useful to analyze the methods under
+different assumptions about the nature of the data generating mechanism.
+Suppose that a method is applied to data ${\bf x} = x_1, \ldots, x_n$, and the
+inferred model is then used to make predictions about future data
+${\bf y} = x_{n+1}, \ldots, x_{n+m}$. If the data generating machinery may
+change in arbitrary ways at time $n+1$, then {\em no\/}
+method can be expected to work well. In such extreme scenarios,
+agnostic approaches will fail to make good predictions just as much as
+truth-dependent methods. In order for any  method to work well,
+there has to be some kind of constraining mechanism which pertains to both
+${\bf x}$ and ${\bf y}$. It is therefore of some interest to compare
+the actual behavior of some well-known agnostic and truth-dependent
+model selection methods for a variety of such constraining
+mechanisms. Following Gr\"unwald (2007), let us consider what are arguably the four most important
+cases:
+\begin{description}
+\item[1. Mechanism satisfies Equation \ref{eq:event}.] Suppose we are
+  to choose between two possible models $\model_0$ and $\model_1$, and
+  that the constraining mechanism is such that Equation \ref{eq:event} holds,
+  either for $a=0, b= 1$ or vice versa. This may be one of the weakest
+  assumptions under which some form of inductive inference is possible
+  at all. In this case, NML, the Bayes factor method, BIC, LOOCV and
+  AIC will all select the best-predicting model $\model_a$ for all
+  large enough samples. In such cases, for large $n$, the
+  truth-dependent component of $\mbox{AIC}({\bf x},d)$ becomes
+  negligible compared to its agnostic component. If, however, we
+  assume that $\model_0$ is nested into $\model_1$, and
+  Equation~\ref{eq:event} holds with equality, then NML, BIC and the Bayes
+  factor method will select $\model_0$ for large $n$ (a form of
+  Occam's razor), whereas for many sequences, AIC and LOOCV will
+  not. Gr\"unwald (2007) argues extensively why such a version of Occam's
+  razor is desirable. Note that all this holds quite irrespective of
+  whether the ``true'' data generating mechanism is in any of the
+  models, or is even a probability distribution; it may just as well
+  be deterministic.
+
+  If we allow the list of models to contain an arbitrary but finite
+  number of elements, then the same story still holds.  However, in
+  practice, this list is often countably infinite, or (equivalently,
+  as it turns out), it is allowed to grow with $n$. The prototypical
+  example is linear regression with polynomials, where the outcomes
+  are pairs $(Z,X)$, with, say, $Z \in [-1,1]$ and $X \in {\mathbb R}$.
+  Model $\model_d$ prescribes that $X = \sum_{j=0}^{d-1} \alpha_j Z^j
+  + U$, where $(\alpha_0, \ldots, \alpha_{d-1})$ is a parameter vector
+  and $U$ is normally distributed noise with mean $0$. We would like
+  to learn the best polynomial model of the data, without assuming any
+  a
+  priori  bound on the degree $d$. In such cases, there can be data
+  sequences for which a particular degree $d_0$ leads, asymptotically,
+  to the best predictions, yet, no matter how many data are observed,
+  none of the methods will select degree $d_0$, not even the agnostic
+  ones. \vspace*{12pt}
+
+\item[2. True distribution in one of the models.]
+  At the other extreme, suppose we have the collection of models
+  $\model_1, \model_2, \ldots$, where the $k$-th model has $k$ free
+  parameters. Moreover, the data are sampled from a distribution
+  $f(\cdot \mid \theta, \model_d)$
+  that  falls inside the $d$-th model.
+  In this situation, NML and other MDL-related methods,
+  as well as BIC and the Bayes factor method, perform very well in the
+  sense that, for all $d$ such that $\model_d$ is on the list, for almost all
+  $f(\cdot \mid\theta, \model_d)$, with $f(\cdot \mid\theta,
+  \model_d)$-probability 1, they output ``$\model_d$'' for all large
+  $n$. For an explanation of the ``almost'', see Gr\"unwald (2007).
+  AIC and leave-one-out cross-validation do not share this property of
+  statistical consistency, and may, with positive probability, output
+  a model of larger dimension than the minimal $d$ for which
+  $\model_d$ contains the true
+  distribution. These results hold both if the list of models is
+  finite and if it is countably infinite.\vspace*{12pt}
+
+\item[3. True distribution in model closure.] A commonly studied
+  situation in statistics is to assume that the list $\model_1,
+  \model_2, \ldots$ is countable, and that data are sampled from some
+  distribution $p$, which is not in any of the models of the list, but
+  which can be arbitrarily well-approximated by the list, in the sense
+  that $\lim_{d \rightarrow \infty} \min_{f \in \model_d} D(p,f) = 0$.
+  Here $D$ is some suitably chosen distance measure for probability
+  distributions. In our polynomial example, this would correspond to
+  the true $p$ stating that $X= g(Z) +U$, where $g$ is a continuous
+  function on $[-1,1]$ that is, however, not itself a polynomial. In
+  such cases, the best predictions can be obtained by choosing a small
+  model at small sample sizes, and gradually choosing more complex
+  models (higher-order polynomials) as the sample size increases.
+  Qualitatively speaking, Bayes factor, BIC, AIC, NML and LOOCV all
+  behave in this manner. But a more detailed view reveals important
+  differences: if the models $\model_1, \model_2, \ldots$ are
+  sufficiently regular, and the distribution $p$ is sufficiently
+  smooth, then AIC and LOOCV will converge faster than NML, BIC and
+  Bayes. More precisely, suppose we fix a method and for each $n$, we
+  use it to infer a model and then predict future data based on that
+  model. For all methods, the expected prediction loss will get
+  smaller as $n$ increases, and it will converge to the same
+  asymptotic optimum. However, the convergence is slower (by a
+  logarithmic factor) for Bayes, BIC and NML. On the other hand, if
+  either (a) the models $\model_1, \model_2, \ldots$ are not
+  ``regular'', or, (b), if the true $p$ is not smooth, then AIC may
+  fail dramatically, whereas Bayes factor, LOOCV and NML will still
+  tend to converge. A common example of (a) is model selection for feature
+  selection models, in which the number of considered models
+  with $d$ degrees of freedom is exponential in $d$ (Yang 1999). An
+  example of (b) within the polynomial setting arises if the
+  function $g$ is discontinuous, or if it tends to $\pm \infty$ at
+  the boundaries of its domain. This failure of AIC is due to its
+  truth-dependent nature: it has simply not been designed to work well
+  for true distributions that are as in situation (a) and (b). \vspace*{12pt}
+
+\item[4. True distribution not in model closure.] Finally, consider
+  the possibility that there exists a true distribution $p$ that
+  cannot be arbitrarily well-approximated by members of models
+  $\model_1, \model_2, \ldots$, while nevertheless, some model
+  $\model_d$ contains a useful $f$ that is ``close'' to $p$ in that it
+  tends to predict data reasonably well.  This case is related to but
+  less general than scenario 1 above, and essentially the same facts
+  hold. To illustrate, suppose for simplicity that the data are i.i.d.
+  according to both the `true' $p$ and all $f$ in all of the
+  $\model_1, \model_2, \ldots$ under consideration, and suppose that
+  one of the models is ``best'' in the sense that the following
+  analogue of (\ref{eq:event}) holds: for some model $\model_a$ on the
+  list,
+
+\vspace*{-12pt}
+\begin{equation}
+\label{eq:lucia}
+\min_{f(\cdot \mid \theta) \in \model_a}
+E_{p} [\loss(X,f(\cdot \mid \theta,\model_a))]
+<  \min_{b: b \neq a, \text{$\model_b$ on the list}} \min_{f(\cdot \mid \theta) \in \model_b}
+E_{p} [
+\loss(X,f(\cdot \mid {\theta}, \model_b))].
+\end{equation}
+If the list is finite, say $\model_1, \ldots, \model_D$, and
+(\ref{eq:lucia}) holds, then, with $p$-probability 1, all methods will
+select model $\model_a$ for all large enough sample sizes $n$. This
+means that, the $p$-probability that a suboptimal model $\model_b, b
+\neq a$ is selected based on data $X_1, \ldots, X_n$ goes to $0$ with
+increasing $n$, where the exact rate at which it goes to $0$ may
+depend on the precise relation between $p$ and the various models on
+the list. In case that the models are nested and (\ref{eq:lucia})
+holds with equality, then, once again, for large $n$, NML, Bayes
+factor and BIC will tend to select the {\em smallest\/} model
+$\model_a$ that achieves the minimum in (\ref{eq:lucia}), whereas, for
+some combinations of $p$ and $\model_1, \ldots, \model_D$, AIC and
+LOOCV will not.  In case (\ref{eq:lucia}) holds but the list is
+countably infinite, then there exist scenarios in which none of the
+methods work fine for large samples, i.e. they keep selecting models
+that are further than some $\epsilon$ from the minimum
+(\ref{eq:lucia}), no matter how large $n$.  Here $\epsilon$ is a
+positive constant, and, being a constant, it does not tend to $0$ with
+increasing $n$ (Gr\"unwald and Langford 2007).  Thus, neither NML
+(despite its agnosticity) nor the Bayes factor method are guaranteed
+to work in such a scenario.  The only methods we are aware of that
+handle such a scenario well are those developed in the structural risk
+minimization literature (Vapnik, 1998), but they tend to perform less
+than optimal in scenario 2 and 3 (Gr\"unwald 2007).
+\end{description}
+The upshot is that even agnostic methods may not always work well in
+all relevant settings. Nevertheless, we may still expect agnostic
+methods to be more robust than truth-dependent methods. Moreover, {\em
+  if\/} a method that performs well in all settings 1--4 will ever be
+found, it is sure to be a method of the distribution-free kind. As an
+aside, Van Erven, Gr\"unwald \& De Rooij (2007) present an agnostic
+approach that combines the best of NML and LOOCV, and is probably the
+first known method that provably performs well in all cases discussed
+under settings 2 and 3 above; yet it still fails with countably
+infinite lists in settings 1 and 4.
+
+To summarize, in this section we have aimed to give a general
+overview of the role played by the concept of a ``true distribution''
+for a variety of different model selection algorithms. We have done so in
+part because we think it provides a useful expansion of the
+necessarily-oversimplified
+treatment given in tutorial papers (e.g., Myung et al. 2006). However,
+it also provides an appropriate foundation for our discussion of the
+claims made recently by \kw. It is to this topic that we now turn.
+
+
+\section{A Bayesian Decision-Theoretic View on NML}
+\label{sec:kw}
+
+In a recent paper, \kw \ provide a Bayesian decision theoretic
+interpretation for the NML criterion, and use this interpretation to suggest
+that it is meaningless to refer to NML as an agnostic method.
+In order to characterize NML in terms of the more general Bayesian
+decision-theoretic framework, tshe derivation relies on three key premises:
+\begin{enumerate}
+\item Data arise from some unknown distribution (i.e., $\vx \sim G$),
+  and we have a prior over this distribution described by a Dirichlet
+  process (DP; see Ferguson, 1973) with concentration parameter
+  $c \rightarrow 0$ (i.e., $G \sim \mbox{DP}(G_0,0)$).
+\item We want to select a parameter $\dot{\theta}$ that belongs to
+  one of the models $\model_1, \ldots, \model_D$, and in addition to
+  the loss incurred due to the expected Kullback-Leibler discrepancy
+  between $f(\cdot \condon \dot{\theta},\model)$ and the true distribution
+  $G$, we suffer a ``complexity penalty'' $v(\model,n)$ that depends only on the
+  model $\model$ from which $\dot{\theta}$ is drawn and the sample size
+  $n$.
+\item The complexity penalty $v(\model,n)$
+  is defined by
+
+\begin{equation} \label{penalty}
+v(\model,n) =   \log \int_{\sspace{X}{n}} f(\vy \condon \hat{\theta}(\vy,\model)) d\vy.
+\end{equation}
+
+\end{enumerate}
+\kw\ show that under conditions (1) and (2), the optimal Bayesian choice for
+$\dot{\theta}$ is the ML estimator $\hat{\theta}(\vx,\model_d)$ within
+the model $\model_d$ that minimizes, over all $d \in \{1, \ldots, D\}$,
+
+\vspace*{-12pt}
+\begin{equation}
+\label{generic}
+- \log f(\vx \condon \hat{\theta}(\vx,\model_d)) + v(\model_d,n).
+\end{equation}
+
+Thus, they conclude, if the penalty term (\ref{penalty}) is plugged
+into (\ref{generic}), then the optimal Bayesian choice is to select
+$\dot{\theta}$ from the model $\model_{d^*}$, where $d^*$ is given by
+
+\vspace*{-12pt}
+\begin{equation}
+\label{eq:banana}
+\begin{array}{rcl}
+d^* &=& \arg \min_d \ \bigg\{ - \log f(\vx \condon \hat{\theta}(\vx,\model_d)) + \log
+\int_{\sspace{X}{n}} f(\vy \condon \hat{\theta}(\vy,\model_d)) d\vy
+\bigg\} \\
+&=& \arg \max_d \ p^*(\vx \mid \model_d), \end{array}
+\end{equation}
+
+where $p^*$ is given by (\ref{nml}), and the second equality follows because
+the logarithm is a monotonically increasing function.  Hence, when assumptions
+(1)-(3) are met, the Bayes optimal model coincides
+with the model preferred under the NML criterion.  In the following sections
+we critically discuss this derivation and its supposed implications. In doing
+so, we distinguish between two major problems (Section~\ref{sec:caveats})
+and three minor concerns (Section~\ref{sec:minor}). We
+also briefly comment on
+another issue brought up by \kw, namely the
+fact that for many models, the NML is undefined
+(Section~\ref{sec:undefined}).
+
+\section{Major Problems}
+\label{sec:caveats}
+In this section, we raise two major sources of concern with the \kw\
+derivation, namely that it is incomplete in an essential sense
+(Section~\ref{sec:incomplete}), and that the main conclusion drawn from
+the derivation does not follow (Section~\ref{sec:nonseq}). However, we
+wish to emphasize that our concerns do not lie with the formal
+aspects to the derivation itself, which appears to be entirely correct.
+
+\subsection{Incompleteness of the Characterization}
+\label{sec:incomplete}
+In the context of discussing what conclusions can be drawn from their
+derivation, \kw\ (p. 520) state that they have ``{\it discovered} the NML
+criterion using Bayesian decision theory.'' (emphasis added). This
+statement highlights one of the main problems we have with their
+characterization, namely that it
+ does not provide any Bayesian interpretation,
+characterization or explanation of the complexity term (\ref{penalty}).
+Rather, they show that any model selection criterion of a
+``fit plus complexity'' format is consistent with the Bayesian framework,
+using assumptions (1) and (2) above. The specific application to NML
+via assumption (3) is not explained anywhere in their paper -- it is
+simply introduced on p. 519 with no justification given other than the
+statement that it is ``[an] alternative penalty term \ldots\/ for model
+simplicity''. They do not state {\it why} this particular penalty
+term would be of interest to the statistician, even though it is clearly
+an essential component to NML. After all, it is exactly this term that
+distinguishes the NML criterion from many other existing criteria such
+as AIC and BIC. In our view, this is not really a ``discovery'' at all, and
+it makes it hard to see how their characterization is helpful or informative
+as to the nature of NML itself.
+Indeed, the \kw\ derivation can also be used to ``discover'' BIC and
+(as \kw\ in fact point out themselves) AIC --- two criteria that
+behave very differently from NML in many situations (see Section
+\ref{sec:true}).
+This is achieved simply by replacing
+$v(\model_d,n)$ as in (\ref{penalty}) by $(k_d/2) \log n$ (which yields
+BIC) or $k_d$ (producing AIC), where $k_d$ is the dimensionality of
+model  $\model_d$. There is no particular reason given for the use
+of one penalty function over any other one.
+This differs from all four previously existing
+interpretations of NML, each of which derives the penalty term from
+some more basic considerations.\footnote{Moreover, this is also the
+case for the original derivations of the AIC and the BIC.
+Akaike (1973) derived AIC
+by correcting for a  bias in the model selection procedure implied by
+maximum likelihood methods, while Schwarz (1978) derived BIC by
+taking an asymptotic expansion of the logarithm of the Bayesian
+marginal probabilities.} In short, it seems to us that the \kw\ derivation
+is incomplete in a very fundamental sense, because it does not
+give any reason why a statistical decision-maker should adopt
+a complexity term that has the specific mathematical form specified
+in  assumption (\ref{penalty}).
+
+To illustrate the point, consider the following (highly exaggerated)
+example. To our knowledge, no-one has seriously proposed the use
+of a penalty function of the form
+
+\vspace*{-12pt}
+\begin{equation}
+v(\model_d,n)= \left\{ \begin{array}{rl} 0 & \mbox{ if $\model_d$ is
+Favorite Model X} \\
+\infty & \mbox{ otherwise} \end{array} \right.
+\end{equation}
+
+but clearly, it would be straightforward to substitute this penalty function
+into the derivation provided by \kw\ and thereby
+  ``discover'' a model selection criterion that always
+prefers Favorite Model X. Taking \kw\ at face value, we would
+be able to say that we have derived the criterion using Bayesian
+decision theory. However, it would be entirely unreasonable
+to specify $v(\model_d,n)$ in this fashion, and (we hope) no-one
+would accept the proposition that Bayesian methods actually justify
+this sort of behavior. Obviously, the problem is that we have provided
+no justification whatsoever for adopting this particular choice of
+$v(\model_d,n)$, and so any analyses we conduct on the basis of
+this choice would be of little interest to any statistician, Bayesian or
+otherwise. The point here is that the ``Bayesian discovery'' of NML
+made by \kw\ is of exactly the same character as the ``discovery''
+of the criterion that always prefers model X: namely, it demonstrates
+that NML is consistent with Bayesian theory, but provides no
+actual reason to use it in any practical situation. Their derivation is
+so broad as to encompass {\it any} criterion of a ``fit plus penalty''
+format. This, in our view,
+cannot be called a ``discovery'' in any interesting sense.
+
+The point of the previous example is to illustrate the importance
+of having some reason for choosing a particular penalty function.
+With that in mind, one way to think about our argument is to ask
+the following question: ``if
+someone else had not already proposed the NML approach, would any
+Bayesian ever have contemplated the complexity term (\ref{penalty})
+in combination with this particular Dirichlet process prior?'' It seems
+unlikely -- indeed, \kw\ state
+explicitly that it ``is difficult to understand as a penalty term''
+(p.\ 520), with the implication that this is an inherent problem for
+NML. This is somewhat unfortunate, since the information-theoretic
+perspective provides a very natural interpretation of this term,
+ as the minimax coding or prediction regret (Appendix A).
+ Accordingly,  we have a good
+{\it information-theoretic} reason to use NML.  The problem
+here is that there is no corresponding
+{\it Bayesian} interpretation provided by \kw. Without having been
+implicitly guided by the information-theoretic results provided by
+Rissanen (2001), Shtarkov (1987) and others, it seems highly unlikely
+that any Bayesian would be inclined to choose $v(\model,n)$ in the
+manner specified in (\ref{penalty}),
+making \kw's (2006) derivation somewhat post hoc at best.
+
+\subsection{Unjustified Conclusions}
+
+\label{sec:nonseq}
+In the previous section, we raised the concern that \kw's derivation is
+incomplete, since it provides no basis for the choice of penalty function.
+In essence, we were arguing that the derivation -- though technically
+correct -- is not particularly helpful. In this section, we raise a different
+concern, namely the fact that \kw\ appear to assert some kind of special
+privilege to their proof over other proofs, somehow invalidating the
+logic of previous justifications for the use of NML. The relevant quote
+from their paper is as follows:  after completing their derivation,
+\kw\  (p.\ 520) suggest that
+\begin{quote} [T]he idea that NML makes no mention of a true
+  distribution is a meaningless point. We have discovered the NML
+  criterion using Bayesian decision theory and have, as a component of
+  this procedure, explicitly introduced the notion of a true
+  distribution function.
+\end{quote}
+Importantly, this is the main conclusion of the paper. The
+{\em premise\/} here appears to be that ``NML can be derived when
+we assume that a true distribution exists'', from which they draw the
+{\em conclusion} that ``previous derivations that did not need this
+assumption are meaningless''.
+
+We have four problems with this statement. Firstly and most
+importantly, it is hard to
+see how this conclusion can possibly follow from the premise.
+Nothing in \kw's derivation falsifies the logic of the previous
+constructions provided by Shtarkov and Rissanen, so to the extent
+that those derivations were valid previously, they remain so now.
+Accordingly, there is still a perfectly good reason to use NML even if
+no data-generating distribution exists (see Section~\ref{sec:true}).
+While
+ we agree that NML can be derived when a true distribution {\it is}
+ assumed, it is hardly meaningless to observe that we can derive NML
+ {\it without} having to make this assumption.
+
+Our second problem is somewhat related to the first, in that one of
+the strengths of the original NML proof is that it makes only very weak
+assumptions (though, even so they are sometimes violated; see
+Section~\ref{sec:undefined}), implying that NML may be used in a
+broad range of situations. By contrast, the three conditions that apply to
+\kw's derivation are fairly restrictive, and would only justify the use
+of NML in a few specific situations: for instance, \kw\ require that
+our prior beliefs about the true
+data-generating distribution be captured by the statement
+$G \sim \mbox{DP}(G_0, 0)$, whereas no such restrictions are
+required for Rissanen's or Shtarkov's proofs to hold.
+ Thirdly, as argued previously in Section~\ref{sec:incomplete}, the
+ \kw\  derivation is incomplete in a fashion that other derivations are
+ not, so in our view it would be preferable to use one of the other
+ proofs to justify the use of NML. Finally, as we will discuss in
+ Section~\ref{sec:minor},  there are some doubts as to how
+ reasonable the underlying assumptions are, so unlike the other
+ derivations of NML that hold quite generally, the \kw\ approach
+ does not necessarily apply in practical situations.
+
+Similarly, though it is somewhat tangential to their derivation, \kw\ also
+note that NML sometimes corresponds to the Bayes factor
+approach to model selection with Jeffreys' prior, and write (on p. 519)
+\begin{quote}
+Bayes factors are recognized as being based on a 0-1 loss function
+which implicitly assumes that one of the models under consideration is
+the true model. This contradicts one of the key ideas for
+NML, namely that it is free from assumptions of a true model.
+\end{quote}
+The first criticism of the previous statement still applies here:
+neither Rissanen's derivation, nor the prequential derivation given in
+the appendix, require the existence of a true distribution or a $0/1$-loss
+function. The fact that there is {\it also} a Bayesian derivation
+that does assume these things and establishes a correspondence to
+Jeffreys' prior is irrelevant; it simply does not make the various other
+derivations meaningless or false.
+
+
+\section{Minor Issues}
+\label{sec:minor}
+
+We proceed to discuss some minor concerns about the KW derivation,
+relating to the specification of the prior, the characterization
+of the decision problem, and inconsistencies with the assumptions used
+in previous work. Unlike the problems raised in the previous section,
+none of these issues should be taken to be strong criticisms of the
+paper, so much as minor caveats. We consider each of these in turn.
+
+\subsection{Specification of the prior}
+
+The \kw\ paper relies on a Bayesian decision-maker who places a Dirichlet
+process (DP) prior (Ferguson, 1973) to describe his or her prior beliefs
+about an unknown
+probability distribution $G$. The DP prior is used to place a
+``nonparametric'' prior over $G$, in which one seeks to avoid
+making restrictive assumptions about the family of distributions
+to which $G$ might belong. From a Bayesian perspective, the
+nonparametric approach requires us to select a prior distribution that
+has broad support across the space of probability distributions. The
+DP prior serves this purpose, and specifies a distribution over random
+probability measures, parametrized by the base distribution $G_0$
+(corresponding roughly to one's initial guess about $G$), and a
+concentration parameter $c$. However, although the DP has full
+(weak) support, it concentrates (with probability 1) on a set of
+discrete distributions (e.g., Sethuraman, 1994), which tends to
+limit its usefulness as a generic prior in some cases
+(e.g., Petrone \& Raftery, 1997).
+In some contexts, however, the restriction to discrete distributions
+is actually quite useful, and for this very reason the DP has become a
+popular choice for specifying priors over countable
+mixtures (e.g., Escobar \& West 1995).
+
+It is important to note that \kw\ use the DP in the general sense,
+using the limiting DP prior with $c \rightarrow 0$ to describe the
+prior belief about a {\it generic} unknown distribution $G$.  The
+result is that, as they note, they rely on a prior that concentrates
+with probability 1 on point-mass distributions.  This reliance plays
+an important role in their subsequent derivation: under this limiting
+prior, the Bayesian predictive distribution for future data converges
+to the empirical distribution of $\vx$ (e.g., Ghosh \& Ramamoorthi,
+2003, Theorem 3.2.7). This in turn implies that the Bayesian maximum
+utility parameter estimate under Kullback-Leibler loss is equivalent
+to the frequentist MLE $\hat{\theta}(\vx,\model)$ (as discussed by
+\kw).  Obviously, this does not hold for other values of $c$, since in
+general the predictive distribution under a DP prior is a weighted
+mixture of $G_0$ and the empirical distribution.  In short, although
+technically correct, the correspondence that they establish holds only
+for this rather odd special case; a case that \kw\ appear to have
+chosen primarily to ensure that their Bayesian parameter estimation
+procedure mimics a frequentist one.\footnote{Moreover, although it appears in
+the {\em model-selection} procedure described by Equation~\ref{nml},
+when using MDL one would generally {\em not\/} use the MLE as one's
+optimal parameter choice within the selected model. This point is
+particularly important and we will return to it in Section~\ref{incompatibility}.}
+
+
+\subsection{Specification of the decision problem}
+
+A second issue relates to the manner in which \kw\
+specify the decision problem. The Bayesian decision procedure described by
+\kw\ equates the utility of a model with the utility of its best parameter
+value. This manner of setting up the problem is highly biased
+towards complex models, since in its simplest form
+it reduces to picking the model that can provide the best fit in a maximum
+likelihood sense. In order to redress this, they then introduce a complexity
+penalty into the utility function, as suggested by Kadane and Dickey (1980).
+We note that such an approach, while certainly correct, is by
+no means standard Bayesian practice. In a standard Bayesian textbook,
+Berger (1985, p. 284) argues that one of the advantages of the
+Bayesian approach is that it {\em automatically\/} takes model
+complexity into account, without the need for any explicit penalties
+(Mackay (2003) refers to this as the ``Bayesian Occam's razor'').
+Indeed, this does happen under standard parametric priors and standard
+utility functions (possibly, but not necessarily of the $0/1$-type;
+see, e.g. Bernardo \& Smith 1994, ch. 6). However, by associating model
+utility with maximum likelihood parameter utility, \kw\
+are unable to take advantage of one of the most useful features of
+Bayesian inference, and are forced to reintroduce it via the
+unexplained penalty function $v(\model,n)$.
+
+
+
+
+\subsection{Incompatibility with assumptions of the original derivation}
+\label{incompatibility}
+
+A third point to make is that \kw's characterization actually discards
+a number of the existing parallels between MDL and Bayesian methods.
+As discussed, the NML criterion originally arose as a specific instance
+of the broader MDL approach to inductive inference, which is
+in fact closely related to Bayesian inference (see Gr\"unwald
+2007, p. 531-550). Just as in the Bayesian approach, MDL inference
+invariably starts by putting a distribution on observables. In the NML
+version of MDL discussed here, one actually puts a uniform prior
+$\pi(d) = 1/D$ on the model set $\{ \model_1, \ldots, \model_D \}$
+(and indeed when one compares countably infinitely many models,
+the prior on the model index $d$  becomes {\em essential\/} in the
+MDL approach; see Gr\"unwald, 2007, p. 406 \& p. 423).
+One then associates each model $\model_d$ with a distribution on
+$\sspace{X}{n}$, in this case the NML distribution $p^*(\vx \mid
+\model_d)$ given by (\ref{nml}). Thus, under the more typical Bayesian
+characterization of NML, the criterion may be
+interpreted as advocating a ``maximum posterior model'' $\model_d$
+under a uniform prior distribution on $d$.
+Accordingly, the NML criterion (as with other versions of MDL)
+already has a Bayesian flavor, with the NML distribution
+$p^*(\vx \mid \model_d)$ playing a role similar to the
+Bayesian marginal distribution $p(\vx \mid \model_d) = \int_\Theta p(\vx \mid
+\theta, \model_d) \ d w(\theta)$, for some prior distribution $w$. In fact,
+although we do not do so here, it is not too difficult to construct
+cases in which the Bayesian marginal probability corresponds to the
+NML probability more or less exactly (this can be made to hold for any sample
+size $n$, with the usual convergence to a Jeffreys' prior as $n \rightarrow \infty$).
+ These relationships, however,
+are completely lost in the \kw\ derivation, because \kw\
+decouple the two terms that
+comprise the NML criterion. In their approach, the numerator $f(\vx
+\condon \hat{\theta}(\vx,\model))$ arises as a consequence of the
+DP$(G_0,0)$ prior, while the denominator $\int_{\sspace{X}{n}} f(\vy
+\condon \hat{\theta}(\vy,\model)) d\vy$ is a consequence of the loss
+function. The fact that the denominator is in fact the integral of the
+maximized likelihood in the numerator (hence giving rise to the name
+{\it normalized} maximum likelihood, and making $p^*(\cdot \mid
+\model_d)$ a distribution over possible data sets) actually becomes irrelevant in \kw's approach.
+
+In much the same manner, it should be noted that in MDL approaches to density
+estimation relative to a parametric model $\model_d$, one generally
+does {\em not\/} use a maximum likelihood estimator (this is explained
+further in the final paragraph of the appendix). Instead, MDL's
+information-theoretic derivations lead one to adopt either a truncated
+ML estimator (in ``two-part MDL'') or a {\em predictive
+  distribution\/} (in ``predictive MDL'') corresponding to a Bayesian
+predictive distribution relative to $\model_d$ and some smooth prior
+on the model $\model_d$ which varies from case to case. For example,
+with the Bernoulli model, the ML estimator after observing $n$ biased
+coin tosses with $h$ heads and $n-h$ tails, would be $p(\mbox{heads})
+= h/n$, whereas the predictive MDL estimator would be a smoothed
+version thereof, $p(\mbox{heads}) = (h+\frac{1}{2})/(n+1)$ (Gr\"unwald, 2007,
+section 15.4). It is then surprising to see that \kw's derivation is
+based on a special nonparametric prior under which the Bayesian
+predictive distribution coincides with the maximum likelihood
+estimate. Whereas most Bayesians, when working with a fixed parametric
+model, would prefer using a Bayesian predictive distribution based on
+a smooth prior defined relative to model $\model_d$, and MDL
+prescribes the use of the same or similar predictive distributions,
+\kw\ rederive NML using a {\em different\/} predictive distribution.
+
+Summarizing, \kw\ have discarded two facts which already make MDL inference
+closely related to mainstream Bayesian inference: the fact that the NML
+distribution is a distribution, and the fact that MDL
+estimates/predictive distributions often coincide with Bayesian
+predictive distributions, but not with ML estimators. Of course,
+discarding these facts does not introduce any errors into their
+derivation, but it does mean that they are  missing
+some of the very key components of the original work.
+
+
+
+\section{Concluding Remarks}
+\label{sec:undefined}
+
+Our main goal in this paper has been to discuss some of the problems
+associated with the \kw\ derivation of NML probabilities, and to
+elaborate on the claim that NML does not depend on the assumption of a
+true distribution. However, we would like to end the paper by
+noting that there is one serious issue in which we agree with \kw's
+position: the NML approach has some technical difficulties which (at
+least in the simple form presented here), make it useless for many
+practical model selection tasks. The main problem is that the integral
+in the denominator diverges for some of the simplest and most often
+used parametric models, including the normal location and scale
+families. This issue has in fact been known since 1996 and is the
+subject of considerable discussion in the literature (see Gr\"unwald
+2007, ch. 11). Although it is not central to their derivation, the
+issue is briefly raised by \kw\ (on p. 520), so it is worth explicitly
+stating that we agree that this is a genuine, and quite serious, issue
+with the NML approach.
+
+More generally, we suspect that it may be the case that
+some researchers (including us)
+have at times overemphasized the importance of NML within the MDL framework,
+perhaps giving the impression that the two are equivalent.
+Given this possibility, it is important to note that the central
+idea in MDL is to base statistical inference on universal coding
+(see Gr\"unwald 2007, for an extensive discussion): as it happens,
+the NML method is only one of at least five good methods for constructing
+universal codes, so the MDL framework is much broader than NML
+(only two of the 19 chapters in Gr\"unwald's (2007) book deal primarily
+with NML, for instance).  That said, because it has certain optimality
+properties which the other methods lack, NML has tended to be the
+preferred method in recent years. However, in those cases
+where NML cannot be applied, the other methods usually still can.
+Importantly, one of these five types of universal codes is based
+on Bayesian marginal likelihoods, and so it should be no surprise that
+there is generally a close correspondence between Bayesian and MDL methods.
+Nevertheless, this correspondence is of quite a different type than
+the \kw\ derivation suggests.
+
+\section{Acknowledgements}
+We sincerely thank the anonymous reviewer who suggested that the meaning of ``assuming a true
+distribution'' should be discussed in more detail. This led to some
+essential additions to the text. This work was
+supported in part by the IST Programme of the European Community,
+under the PASCAL Network of Excellence, IST-2002-506778, and
+by an Australian Research Fellowship (ARC grant DP-0773794).
+This publication only reflects the authors' views.
+
+\section*{References}
+\vspace*{2pt}
+\begin{list}{}{\setlength{\leftmargin}{12pt}\setlength{\itemindent}{-12pt}
+\setlength{\parsep}{0pt}}
+\item Akaike, H. (1973). Information theory and an extension of the maximum
+  likelihood principle. In B. Petrov \& F. Csaki (Eds.) {\it Second International
+  Symposium on Information Theory} (pp. 267-281). Budapest: Akademiai Kiado
+\item Balasubramanian, V. (2005). {MDL}, {B}ayesian inference and the
+  geometry of the space of probability distributions. In
+  P. Gr\"unwald, J.~I. Myung, and M.~A. Pitt (Eds.), {\em Advances
+    in Minimum Description Length: Theory and Applications}.
+  Cambridge, MA: MIT Press.
+\item Berger, J. (1985).
+{\em Statistical Decision Theory and {B}ayesian Analysis,} revised
+  and expanded 2nd edition. Springer Series in Statistics. New York: Springer-Verlag.
+\item Bernardo, J. \& Smith, A. (1994). {\it Bayesian
+  Theory}. Chichester, UK: Wiley.
+\item Browne (2000). Cross-validation methods. {\it Journal
+of Mathematical Psychology, 44}, 108-132.
+\item Dawid, A.P. (1984). Present position and potential developments:
+  some personal views, statistical theory, the prequential approach.
+  {\em Journal of the Royal Statistical Society, Series A 147\/}(2), 278-292.
+\item Escobar, M. D. \& West, M. (1995). Bayesian density estimation and
+  inference using mixtures. {\it Journal of the American Statistical Association, 90},
+  577-588.
+\item Ferguson, T. S. (1973). A Bayesian analysis of some nonparametric problems.
+  {\it Annals of Statistics, 1}, 209-230.
+\item Ghosh, J. \& Ramamoorthi, R. (2003). {\it Bayesian Nonparametrics}.
+  New York: Springer
+\item Gr\"{u}nwald, P. (2005). Minimum description length tutorial. In P. Gr\"{u}nwald,
+  J. I. Myung \& M. A. Pitt (Eds). {\it Advances in Minimum Description Length: Theory
+  \& Applications}. Cambridge, MA: MIT Press. Note that Chapter 17,
+the most relevant chapter for this article, is available freely on the
+web.
+\item Gr\"{u}nwald, P. (2007). {\it The Minimum Description Length Principle}.
+  Cambridge, MA: MIT Press
+\item Gr\"{u}nwald, P. \& J. Langford (2007). Suboptimal behavior of
+  Bayes and MDL in classification under misspecification. {\it Machine Learning  66\/}(2-3), pages 119-149.
+  Cambridge, MA: MIT Press
+\item Van Erven, T., Gr\"{u}nwald, P. \&  de Rooij, S. (2008) Catching up faster
+in Bayesian model selection and model averaging. {\it Advances in Neural Information Processing Systems, 20}.
+\item Karabatsos, G. \& Walker, S. G. (2006). On the normalized
+  maximum likelihood and Bayesian decision theory. {\it Journal of
+    Mathematical Psychology, 50}, 517-520.
+\item Kadane, J. \& Dickey, J. (1980). Bayesian decision theory and
+  the simplification of models. In J. Kmenta, \& J. Ramsey (Eds.),
+  {\em Evaluation of Econometric Models}. New York: Academic Press.
+\item Mackay, D. J. C. (2003). {\it Information Theory, Inference, and Learning
+  Algorithms}. Cambridge, UK: Cambridge University Press.
+\item Meehl (1990). Why summaries of research on psychological theories are often
+  uninterpretable. {\it Psychological Reports, 66,} 195-244 (Monograph supplement
+  1-V66).
+\item Myung, J. A., Navarro, D. J. \& Pitt, M. A. (2006). Model selection by normalized
+maximum likelihood. {\it Journal of Mathematical Psychology, 50}, 167-179.
+\item Petrone, S. \& Raftery, A.E. (1997). A note on the Dirichlet
+  process prior in Bayesian nonparametric inference with partial
+  exchangeability. {\it Statistics and Probability Letters, 36}, 69-83.
+\item Rissanen, J. (2001). Strong optimality of the normalized ML models
+  as universal codes and information in data. {\it IEEE Transactions on
+  Information Theory, 47}, 1712-1717.
+\item Schwarz, G. (1978). Estimating the dimension of a model. {The Annals of
+  Statistics, 6}, 461-464.
+\item Sethuraman, J. (1994). A constructive definition of Dirichlet priors.
+  {\it Statistica Sinica, 4}, 639-650.
+\item Shtarkov, Y. M. (1987). Universal sequential coding of single messages.
+  {\it Problems of Information Transmission}~{\em 23\/}(3), 3--17.
+\item Vapnik, V. (1998). Statistical Learning Theory. New York: John Wiley
+\item Yang, Y. (1999). Model Selection for Nonparametric
+  Regression. {\it Statistica Sinica 9}, 475--499.
+\end{list}
+
+
+\appendix
+\section{The Prequential Interpretation of NML}
+Suppose we want to predict a sequence of outcomes $\vx =(x_1,
+x_2, \ldots, x_n)$ where each $x_i$ is an element of some space
+${\sspace{X}{}}$. The $x_i$ are given to us one at a time. At each point in time
+$i$, we want to predict the next outcome $x_i$, and, as we have already observed $x_1,
+\ldots, x_{i-1}$, we can use these previous outcomes to guide our
+prediction. We assume that our predictions are probabilistic, i.e.
+they take the form of a probability distribution on ${\sspace{X}{}}$,
+identified with its density or mass function $f$. We measure the loss
+of predicting with $f$ when the actual outcome is $x_i$ by
+$\loss(x_i,f) := - \log f(x_i)$. This loss function arises naturally
+in data compression and gambling (Gr\"unwald 2007), but, being the
+only so-called ``local proper scoring rule'' (Bernardo \& Smith,
+1994), it is also frequently used in Bayesian statistics, where it is
+known as the ``logarithmic score''.
+
+A {\em sequential prediction strategy\/} $S$ is a function that maps from
+the union of sample spaces $\cup_{n \geq 0} \ {\sspace{X}{n}}$ to the
+set $\sspace{P}{}$ of distributions on $\sspace{X}{}$ where the
+distributions are again identified with their
+densities or mass functions. That is,
+
+\vspace*{-12pt}
+$$S: \cup_{n
+  \geq 0} \/ {\sspace{X}{n}} \rightarrow {\sspace{P}{}}.$$
+
+In other words, a strategy $S$ maps each possible sequence of arbitrary
+length (i.e., each element of $\cup_{n \geq 0} \ {\sspace{X}{n}}$) to
+a probabilistic prediction (i.e., an element of $\sspace{P}{}$) for the
+next outcome.
+Thus $S(x_1, \ldots, x_{i-1}) = q$ means that somebody who uses
+strategy $S$ will, upon observing sequence $x_1, \ldots, x_{i-1}$,
+predict the next observation using the distribution $q$. If we adopt the
+standard convention that $X_i$ denotes the $i$th random variable and $x_i$ denotes
+its observed outcome, then we would say that
+strategy $S$ predicts that $X_i \mid x_1, \ldots, x_{i-1} \sim q$. When the actual outcome $x_i$ is then
+observed, we would suffer the loss $\loss(x_i,q) = - \log q(x_i)$. We
+define the loss of strategy $S$ as the sum of its individual losses:
+
+\vspace*{-12pt}
+$$\loss(x_1, \ldots, x_n, S) := \sum_{i=1}^n \loss(x_i,S(x_1, \ldots, x_{i-1})).$$
+
+In a seminal paper, Dawid (1984) called such strategies {\em prequential forecasting systems\/};
+for this reason we also call the following interpretation of NML ``prequential''.
+
+Let $\model$ be a statistical model, i.e. a family of
+distributions on ${\sspace{X}{n}}$. Each distribution $f(\cdot \mid
+\theta)$ in $\model$ can be used as a sequential prediction strategy $S_{\theta}$
+in a straightforward fashion. To do so, we observe that
+$x_1, \ldots, x_i \in {\sspace{X}{i}}$ for all $i$, and so we can define
+
+\vspace*{-12pt}
+$$
+S_\theta(x_1, \ldots, x_i) := f(X_{i+1} = \cdot \mid x_1, \ldots, x_i, \theta).
+$$
+
+That is, the $(i+1)$-st outcome is predicted using the conditional
+distribution for this outcome, given all past outcomes $x_1, \ldots,
+x_i$. If the model assumes that data are \iid, then the parameter set
+$\theta$ produces the simple prediction strategy
+$S_{\theta}(x_1, \ldots, x_i) = f(\cdot \mid \theta)$, in which the
+predictions for each variable $X_{i+1}$ are the same, irrespective of
+the previously observed outcomes. For simplicity,
+we will henceforth assume that this simplification holds for the model
+$\model$ under consideration.
+
+Among all strategies $S_{\theta}$ corresponding to some $f(\cdot \mid
+\theta) \in \model$, the best predictor for any given full sequence
+$\vx = (x_1, \ldots, x_n)$ is given by $S_{\hat{\theta}(\vx)}$, where
+$\hat{\theta}(\vx)$ is the maximum likelihood distribution for
+$\vx$. To see this, note that for each $S_\theta$, the loss incurred on
+$\vx$ is
+
+ \vspace*{-12pt}
+$$
+\sum_{i=1}^n - \log f(x_i \mid \theta) = - \log \prod_{i=1}^n f(x_i
+\mid \theta) = - \log f(\vx \mid \theta),
+$$
+
+so that the higher $f(\vx \mid \theta)$, the smaller the loss. The
+loss is minimized for $\hat{\theta}(\vx)$, which is thus optimal among
+all $f(\cdot \mid \theta) \in \model$ {\em
+  with hindsight}. In reality, we do not have hindsight: we do not know $\hat{\theta}(\vx)$
+until we have seen all $x_i$, so we cannot expect to predict, for all
+$\vx \in {\sspace{X}{n}}$, as well
+as $\hat{\theta}(\vx)$. But we can design a prediction strategy which,
+for each $\vx$,
+is {\em almost\/} as good as $\hat{\theta}(\vx)$, in the sense that
+the additional loss it incurs overs $\hat{\theta}(\vx)$ is as small as
+possible in the worst case over all $\vx$. Thus, we look for a
+prediction strategy $S$ such that
+
+\vspace*{-12pt}
+\begin{equation}
+\label{eq:apple}
+\max_{\vx \in {\sspace{X}{n}}} \left[ \loss(\vx,S) - \loss(\vx,S_{\hat{\theta}(\vx)}) \right]
+\end{equation}
+
+is as small as possible. The expression between square brackets is
+called the {\em prediction regret\/} of strategy $S$ relative to model
+$\model$. It is straightforward to show that, whenever $\model$ is such
+that a minimax
+optimal strategy minimizing (\ref{eq:apple}) exists, then, for all $i$, all
+$x_1, \ldots, x_i \in {\sspace{X}{i}}$, its
+predictions $S(x_1, \ldots, x_i)$ coincide with
+$p^*(X_{i+1} = \cdot\mid x_1, \ldots, x_i)$ where $p^*$ is the NML
+distribution (\ref{nml}). In other words, the NML distribution can be
+thought of as a sequential prediction strategy that achieves the
+minimax optimal regret under logarithmic score. We emphasize that,
+even if the data are \iid\ according to each $f(\cdot \mid \theta)$,
+they are certainly not \iid\ according to $p^*$: $p^*(X_{i+1} \mid
+x_1, \ldots, x_i)$ will strongly depend on $x_1, \ldots, x_i$, and
+will essentially behave like a smoothed version of the ML estimator
+$f(\cdot \mid \hat{\theta}(x_1, \ldots, x_i))$.
+
+Thus, if we use NML to select between a finite number of models
+$\model_1, \ldots, \model_D$, we are effectively, for each $\model_d$,
+sequentially predicting $x_1, \ldots, x_n$ using the strategy that is
+optimal {\em relative\/} to $\model_d$, and in the end we select the
+model whose predictions yield the smallest total loss. Thus, we select
+the model that allows for the best possible sequential prediction of
+{\em unseen\/} data. As will be clear from the discussion in
+Section~\ref{sec:design}, this scheme is quite reminiscent of
+leave-one-out cross-validation with a logarithmic score. The precise
+relationship is discussed by Gr\"unwald (2007, ch. 17).
+
+Finally, we note that, just as there is an MDL approach to model
+selection, there also exist MDL methods for prediction and density
+estimation.  One standard way to define such MDL predictions and
+estimates based on a sample $x_1, \ldots, x_i$ is in fact based on the
+``prequential'' setup above. The distribution $f(\cdot \mid \theta)
+\in \model$ that is imagined to have generated the data is estimated
+as $p^*(X_{i+1}  = \cdot\mid x_1, \ldots x_i)$, i.e. the conditional
+distribution of $x_{i+1}$ according to the NML distribution $p^*$,
+defined relative to some $n \gg i$. As we have said before, in general
+$p^*(X_{i+1} \mid x_1, \ldots x_i)$ is
+{\em not\/} the maximum likelihood distribution $f(\cdot \mid
+\hat{\theta}(x_1, \ldots, x_i))$. It is a complicated distribution
+that can usually be very well approximated by the predictive
+distribution based on Jeffreys' prior (for large enough $i$, this
+predictive distribution is well-defined even if Jeffreys' prior is
+improper). The goal in MDL is to design an estimator that, when used
+for sequentially predicting outcomes, predicts nearly
+as well as the ML estimator for the final sample $x_1, \ldots, x_n$.
+This goal, however,  is {\em not\/} achieved by predicting the individual $x_{i+1}$
+based on the ML estimator for $x_1, \ldots, x_i$. Therefore, MDL parameter
+estimation is, in general, quite different from ML parameter
+estimation.
+
+\end{document}

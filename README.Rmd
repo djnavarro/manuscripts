@@ -260,7 +260,11 @@ to those here.
     [[pdf](./manuscripts/2009_firstpassage.pdf)]
   - Grunwald, P. and Navarro, D. J. (2009). NML, Bayes and true
     distributions: A comment on Karabatsos and Walker (2006). *Journal
-    of Mathematical Psychology, 53*, 43-51
+    of Mathematical Psychology, 53*, 43-51.
+    [[pdf](./manuscripts/2009_nmlbayes.pdf),
+    [source](./source/2009_nmlbayes/),
+    [doi](http://dx.doi.org/10.1016/j.jmp.2008.11.005)]
+
 
 ## 2008
 
