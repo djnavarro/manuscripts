@@ -282,7 +282,9 @@ to those here.
     (2007). Unifying rational models of categorization via the
     hierarchical Dirichlet process. In D. S. McNamara and J. G. Trafton
     (Eds) *Proceedings of the 29th Annual Conference of the Cognitive
-    Science Society* (pp. 323-328) [[pdf](./manuscripts/2007_hdp.pdf)]
+    Science Society* (pp. 323-328).
+    [[pdf](./manuscripts/2007_hdp.pdf),
+    [psyarxiv](http://dx.doi.org/10.31234/osf.io/ketw3)]
   - Myung, J. I., Pitt, M. A. and Navarro, D. J. (2007). Does response
     scaling cause the Generalized Context Model to mimic a prototype
     model? *Psychonomic Bulletin and Review, 14*, 1043-1050.
