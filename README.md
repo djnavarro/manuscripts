@@ -309,7 +309,8 @@ to those here.
     approximations. *Neural Computation, 16*, 1763-1768.
     \[[pdf](./manuscripts/2004_mdlnote.pdf),
     [source](./source/2004_mdlnote/),
-    [doi](http://dx.doi.org/10.1162/0899766041336378)\]
+    [doi](http://dx.doi.org/10.1162/0899766041336378),
+    [psyarxiv](10.31234/osf.io/upf42)\]
   - Navarro, D. J. and Lee, M. D. (2004). Common and distinctive
     features in stimulus representation: A modified version of the
     contrast model. *Psychonomic Bulletin and Review, 11*, 961-974.
