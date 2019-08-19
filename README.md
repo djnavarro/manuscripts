@@ -321,7 +321,8 @@ to those here.
     *Cognitive Psychology, 49*, 47-84
     \[[pdf](./manuscripts/2004_informativeness.pdf),
     [source](./source/2004_informativeness/),
-    [doi](http://dx.doi.org/10.1016/j.cogpsych.2003.11.001)\]
+    [doi](http://dx.doi.org/10.1016/j.cogpsych.2003.11.001),
+    [psyarxiv](http://dx.doi.org/10.31234/osf.io/7u3vc)\]
 
 ## 2003
 
