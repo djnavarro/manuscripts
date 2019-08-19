@@ -186,7 +186,8 @@ to those here.
     structure. *Psychonomic Bulletin and Review, 23*, 230-238
     [[pdf](./manuscripts/2016_semisupervised.pdf),
     [source](./source/2016_semisupervised/),
-    [doi](https://dx.doi.org/10.3758/s13423-015-0857-9)]
+    [doi](https://dx.doi.org/10.3758/s13423-015-0857-9),
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/6ygzj)]
 
 ## 2015
 
