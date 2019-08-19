@@ -349,7 +349,9 @@ to those here.
 
   - Lee, M. D. and Navarro, D. J. (2002). Extending the ALCOVE model of
     category learning to featural stimulus domains. *Psychonomic
-    Bulletin and Review, 9*, 43-58. [[pdf](./manuscripts/2002_alcove.pdf)]
+    Bulletin and Review, 9*, 43-58. [[pdf](./manuscripts/2002_alcove.pdf),
+    [doi](https://doi.org/10.3758/BF03196256),
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/uvtbf)]
 
 ## Books
 
