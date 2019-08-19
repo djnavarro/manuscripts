@@ -263,7 +263,8 @@ to those here.
     of Mathematical Psychology, 53*, 43-51.
     [[pdf](./manuscripts/2009_nmlbayes.pdf),
     [source](./source/2009_nmlbayes/),
-    [doi](http://dx.doi.org/10.1016/j.jmp.2008.11.005)]
+    [doi](http://dx.doi.org/10.1016/j.jmp.2008.11.005), 
+    [psyarxiv](http://dx.doi.org/10.31234/osf.io/szv7n)]
 
 
 ## 2008
