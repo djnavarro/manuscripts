@@ -239,7 +239,9 @@ to those here.
   - Sanborn, A. N., Griffiths, T. L. and Navarro, D. J. (2010). Rational
     approximations to rational models: Alternative algorithms for
     category learning. *Psychological Review, 117*, 1144-1167.
-    \[[pdf](./manuscripts/2010_particlefilters.pdf)\]
+    \[[pdf](./manuscripts/2010_particlefilters.pdf),
+    [doi](https://dx.doi.org/10.1037/a0020511),
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/qj42m)\]
 
 ## 2009
 
