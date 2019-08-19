@@ -193,7 +193,8 @@ to those here.
     and Cognitive Processes, 29*, 568-583.
     \[[pdf](./manuscripts/2014_adjectives.pdf),
     [source](./source/2014_adjectives/),
-    [doi](http://dx.doi.org/10.1080/01690965.2013.794294)\]
+    [doi](http://dx.doi.org/10.1080/01690965.2013.794294),
+    [psyarxiv](http://dx.doi.org/10.31234/osf.io/9bfrd)\]
   - Perfors, A. and Navarro, D. J. (2014). Language evolution can be
     shaped by the structure of the world. *Cognitive Science, 38*,
     775-793 \[[pdf](./manuscripts/2014_iterated.pdf),
