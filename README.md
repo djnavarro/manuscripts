@@ -334,7 +334,8 @@ to those here.
     features in similarity-based representations. In S. Becker, S. Thrun
     and K. Obermayer (Ed.) *Advances in Neural Information Processing
     Systems* (pp. 67-74).
-    \[[pdf](./manuscripts/2003_hybridsimilarity.pdf)\]
+    \[[pdf](./manuscripts/2003_hybridsimilarity.pdf),
+    [psyarxiv](http://dx.doi.org/10.31234/osf.io/qejyb)\]
 
 ## 2002
 
