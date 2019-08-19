@@ -161,7 +161,8 @@ to those here.
     Psychology: General, 145*, 110-123
     [[pdf](./manuscripts/2016_sequential.pdf),
     [source](./source/2016_sequential/),
-    [doi](http://dx.doi.org/10.1037/xge0000106)]
+    [doi](http://dx.doi.org/10.1037/xge0000106),
+    [psyarxiv](http://dx.doi.org/10.31234/osf.io/y5e2s)]
   - Hendrickson, A., Navarro D. J. and Perfors, A. (2016). Sensitivity
     to hypothesis size during information search. *Decision, 3*, 62-80.
     [[pdf](./manuscripts/2016_battleships.pdf), 
