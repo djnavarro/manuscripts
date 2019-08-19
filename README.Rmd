@@ -193,7 +193,8 @@ to those here.
     *Cognitive Psychology, 81*, 1-25.
     [[pdf](./manuscripts/2015_negativeevidence.pdf),
     [source](./source/2015_negativeevidence/),
-    [doi](http://dx.doi.org/10.1016/j.cogpsych.2015.07.001)]
+    [doi](http://dx.doi.org/10.1016/j.cogpsych.2015.07.001), 
+    [psyarxiv](10.31234/osf.io/urgxh)]
 
 ## 2014
 
