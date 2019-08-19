@@ -172,7 +172,8 @@ to those here.
     *Cognitive Science, 40*, 1775-1796
     \[[pdf](./manuscripts/2016_samplinginreasoning.pdf),
     [source](./source/2016_samplinginreasoning/),
-    [doi](https://doi.org/10.1111/cogs.12308)\]
+    [doi](https://doi.org/10.1111/cogs.12308),
+    [psyarxiv](https://doi.org/10.31234/osf.io/wm3xg)\]
   - Vong, W. K., Navarro, D. J. and Perfors, A. (2016). The helpfulness
     of category labels in semi-supervised learning depends on category
     structure. *Psychonomic Bulletin and Review, 23*, 230-238
