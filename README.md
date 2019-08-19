@@ -153,7 +153,9 @@ to those here.
     [doi](http://dx.doi.org/10.1037/xge0000106)\]
   - Hendrickson, A., Navarro D. J. and Perfors, A. (2016). Sensitivity
     to hypothesis size during information search. *Decision, 3*, 62-80.
-    \[[pdf](./manuscripts/2016_battleships.pdf)\]
+    \[[pdf](./manuscripts/2016_battleships.pdf),
+    [doi](http://dx.doi.org/10.1037/dec0000039),
+    [psyarxiv](http://dx.doi.org/10.31234/osf.io/7wz5b)\]
   - Navarro, D. J., Newell, B. and Schulze, C. (2016). Learning and
     choosing in an uncertain world: An investigation of the
     explore-exploit dilemma in static and dynamic environments.
