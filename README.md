@@ -246,7 +246,9 @@ to those here.
   - Navarro, D. J. and Fuss, I. (2009). Fast and accurate calculations
     for first-passage times in Wiener diffusion models. *Journal of
     Mathematical Psychology, 53*, 222-230.
-    \[[pdf](./manuscripts/2009_firstpassage.pdf)\]
+    \[[pdf](./manuscripts/2009_firstpassage.pdf),
+    [doi](https://doi.org/10.1016/j.jmp.2009.02.003),
+    [psyarxiv](http://dx.doi.org/10.31234/osf.io/4v9xt)\]
   - Grunwald, P. and Navarro, D. J. (2009). NML, Bayes and true
     distributions: A comment on Karabatsos and Walker (2006). *Journal
     of Mathematical Psychology, 53*, 43-51.
