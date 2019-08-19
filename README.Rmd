@@ -274,7 +274,8 @@ to those here.
     Computation, 20*, 2597-2628.
     [[pdf](./manuscripts/2008_ibpadclus.pdf),
     [source](./source/2008_ibpadclus/),
-    [doi](http://dx.doi.org/10.1162/neco.2008.04-07-504)]
+    [doi](http://dx.doi.org/10.1162/neco.2008.04-07-504),
+    [psyarxiv](http://dx.doi.org/10.31234/osf.io/47cz2)]
 
 ## 2007
 
