@@ -324,7 +324,9 @@ to those here.
   - Navarro, D. J. and Lee, M. D. (2004). Common and distinctive
     features in stimulus representation: A modified version of the
     contrast model. *Psychonomic Bulletin and Review, 11*, 961-974. 
-    [[pdf](./manuscripts/contrastmodel.pdf)]
+    [[pdf](./manuscripts/2004_contrastmodel.pdf),
+    [doi](http://dx.doi.org/10.3758/BF03196728),
+    [psyarxiv](http://dx.doi.org/10.31234/osf.io/pq5kr)]
   - Navarro, D. J., Pitt, M. A. and Myung, I. J. (2004). Assessing the
     distinguishability of models and the informativeness of data.
     *Cognitive Psychology, 49*, 47-84
