@@ -55,7 +55,7 @@ to those here.
   - Lee, J. C., Lovibond, P. F., Hayes, B. K. and Navarro, D. J. (2019).
     Negative evidence and inductive reasoning in generalization of
     associative learning. *Journal of Experimental Psychology: General*,
-    148, 289-303
+    148, 289-303. \[[pdf](./manuscripts/2019_negevassoc.pdf)\]
   - Navarro, D. J. (2019). Between the devil and the deep blue sea:
     Tensions between scientific judgement and statistical model
     selection. *Computational Brain and Behavior, 2*, 28-34
