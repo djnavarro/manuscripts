@@ -144,7 +144,8 @@ to those here.
     Experimental Psychology: General, 145*, 1228-1254
     \[[pdf](./manuscripts/2016_weaksimilarity.pdf),
     [source](./source/2016_weaksimilarity/),
-    [doi](https://doi.org/10.1037/xge0000192)\]
+    [doi](https://doi.org/10.1037/xge0000192),
+    [psyarxiv](https://doi.org/10.31234/osf.io/s3k79)\]
   - Gokaydin, D. Navarro, D. J., Ma-Wyatt, A. and Perfors, A. (2016).
     The structure of sequential effects. *Journal of Experimental
     Psychology: General, 145*, 110-123
