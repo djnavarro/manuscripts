@@ -199,7 +199,8 @@ to those here.
     shaped by the structure of the world. *Cognitive Science, 38*,
     775-793 \[[pdf](./manuscripts/2014_iterated.pdf),
     [source](./source/2014_iterated/),
-    [doi](http://dx.doi.org/10.1111/cogs.12102)\]
+    [doi](http://dx.doi.org/10.1111/cogs.12102),
+    [psyarxiv](http://dx.doi.org/10.31234/osf.io/m738c)\]
 
 ## 2013
 
