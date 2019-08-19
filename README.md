@@ -328,7 +328,8 @@ to those here.
     Psychology, 47*, 241-243.
     \[[pdf](./manuscripts/2003_adclusnote.pdf),
     [source](./source/2003_adclusnote/),
-    [doi](http://dx.doi.org/10.1016/S0022-2496%2802%2900026-3)\]
+    [doi](http://dx.doi.org/10.1016/S0022-2496%2802%2900026-3),
+    [psyarxiv](http://dx.doi.org/10.31234/osf.io/akbyv)\]
   - Navarro, D. J. and Lee, M. D. (2003). Combining dimensions and
     features in similarity-based representations. In S. Becker, S. Thrun
     and K. Obermayer (Ed.) *Advances in Neural Information Processing
