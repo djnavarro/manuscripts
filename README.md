@@ -161,6 +161,7 @@ to those here.
     \[[pdf](./manuscripts/2016_exploreexploit.pdf),
     [source](./source/2016_exploreexploit/),
     [doi](https://doi.org/10.1016/j.cogpsych.2016.01.001),
+    [psyarxiv](https://doi.org/10.31234/osf.io/dv8qg),
     [github](https://github.com/djnavarro/observeorbet)\]
   - Ransom, K., Perfors, A. and Navarro, D. J. (2016). Leaping to
     conclusions: Why premise relevance affects argument strength.
