@@ -238,7 +238,8 @@ to those here.
     positive test strategy, and sparse categories. *Psychological
     Review, 118*, 120-34 [[pdf](./manuscripts/2011_positivetest.pdf),
     [source](./source/2011_positivetest/),
-    [doi](http://dx.doi.org/10.1037/a0021110)]
+    [doi](http://dx.doi.org/10.1037/a0021110),
+    [psyarxiv](http://dx.doi.org/10.31234/osf.io/rj9kt)]
 
 ## 2010
 
