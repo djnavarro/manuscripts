@@ -219,7 +219,9 @@ to those here.
   - Shafto, P., Eaves, B., Navarro, D. J. and Perfors, A. (2012).
     Epistemic trust: Modeling children’s reasoning about others’
     knowledge and intent. *Developmental Science, 15,* 436-447.
-    \[[pdf](./2012_epistemictrust.pdf)\]
+    \[[pdf](./manuscripts/2012_epistemictrust.pdf),
+    [doi](http://dx.doi.org/10.1111/j.1467-7687.2012.01135.x),
+    [psyarxiv](http://dx.doi.org/10.31234/osf.io/v8z7x)\]
 
 ## 2011
 
