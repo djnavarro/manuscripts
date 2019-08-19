@@ -312,7 +312,9 @@ to those here.
   - Lee, M. D. and Navarro, D. J. (2005). Minimum description length and
     psychological clustering models. In P. Grunwald, I. J. Myung and M.
     A. Pitt (Eds) *Advances in Minimum Description Length: Theory and
-    Applications* (pp. 355-384) [[pdf](./manuscripts/2005_mdlclustering.pdf)]
+    Applications* (pp. 355-384).
+    [[pdf](./manuscripts/2005_mdlclustering.pdf),
+    [psyarxiv](http://dx.doi.org/10.31234/osf.io/s4vbz)]
 
 ## 2004
 
