@@ -37,7 +37,8 @@ to those here.
     G. (2019). The Small World of Words: English word association norms
     for over 12,000 cue words. *Behavior Research Methods, 51*, 987-1006
     [[pdf](./manuscripts/2019_swow.pdf), [source](./source/2019_swow/),
-    [doi](https://doi.org/10.3758/s13428-018-1115-7)]
+    [doi](https://doi.org/10.3758/s13428-018-1115-7),
+    [psyarxiv](https://doi.org/10.31234/osf.io/mb93p)]
   - Hayes, B. K., Banner, S., Forrester, S. and Navarro, D. J. (2019).
     Selective sampling and inductive inference: Drawing inferences based
     on observed and missing evidence. *Cognitive Psychology, 113*.
