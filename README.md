@@ -80,7 +80,8 @@ to those here.
     Journal of General Linguistics, 3*, 37.
     \[[pdf](./manuscripts/2018_grammaticality.pdf),
     [source](./source/2018_grammaticality),
-    [doi](http://doi.org/10.5334/gjgl.396)\]
+    [doi](http://doi.org/10.5334/gjgl.396),
+    [psyarxiv](http://doi.org/10.31234/osf.io/vrfxn)\]
   - Martire, K. A., Growns, B. and Navarro, D. J. (2018). What do the
     experts know? Calibration, precision, and the wisdom of crowds among
     forensic handwriting experts. *Psychonomic Bulletin and Review, 25*,
