@@ -120,7 +120,8 @@ to those here.
     On the likelihood of ‘encapsulating all uncertainty’. *Science and
     Justice, 57*, 76-79 \[[pdf](./manuscripts/2017_scijust.pdf),
     [source](./source/2017_scijust/),
-    [doi](https://doi.org/10.1016/j.scijus.2016.10.004)\]
+    [doi](https://doi.org/10.1016/j.scijus.2016.10.004),
+    [psyarxiv](https://doi.org/10.31234/osf.io/suf8p)\]
   - Navarro, D. J. and Kemp, C. (2017). None of the above: A Bayesian
     account of the detection of novel categories. *Psychological Review,
     124*, 643-677 \[[pdf](./manuscripts/2017_noneoftheabove.pdf),
