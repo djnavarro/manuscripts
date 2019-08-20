@@ -137,7 +137,8 @@ to those here.
     account of the detection of novel categories. *Psychological Review,
     124*, 643-677 [[pdf](./manuscripts/2017_noneoftheabove.pdf),
     [source](./source/2017_noneoftheabove/),
-    [doi](https://doi.org/10.1037/rev0000077)]
+    [doi](https://doi.org/10.1037/rev0000077),
+    [psyarxiv](https://doi.org/10.31234/osf.io/szr4u)]
   - Tauber, S., Navarro, D. J., Perfors A. and Steyvers, M. (2017).
     Bayesian models of cognition revisited: Setting optimality aside and
     letting data drive psychological theory. *Psychological Review,
