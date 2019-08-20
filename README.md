@@ -42,6 +42,7 @@ to those here.
     1043-1050. \[[pdf](./manuscripts/2019_diversitysampling.pdf),
     [source](./source/2019_diversitysampling),
     [doi](https://doi.org/10.3758/s13423-018-1562-2),
+    [psyarxiv](https://doi.org/10.31234/osf.io/ve9sa),
     [osf](https://osf.io/fpx9k/),
     [github](https://github.com/djnavarro/samplingframes)\]
   - Hendrickson, A., Perfors, A., Navarro, D. J. and Ransom, K. (2019).
