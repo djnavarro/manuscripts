@@ -70,8 +70,8 @@ to those here.
     associative learning. *Journal of Experimental Psychology: General*,
     148, 289-303. 
     [[pdf](./manuscripts/2019_negevassoc.pdf),
-    [doi](http://dx.doi.org/10.1037/xge0000496),
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/umven)]
+    [doi](https://dx.doi.org/10.1037/xge0000496),
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/umven)]
   - Navarro, D. J. (2019). Between the devil and the deep blue sea:
     Tensions between scientific judgement and statistical model
     selection. *Computational Brain and Behavior, 2*, 28-34
@@ -85,7 +85,7 @@ to those here.
     dimensionality in human learners. *Cognitive Science, 43*, e12724
     [[pdf](./manuscripts/2019_curse.pdf),
     [source](./source/2019_curse),
-    [doi](http://dx.doi.org/10.1111/cogs.12724),
+    [doi](https://dx.doi.org/10.1111/cogs.12724),
     [psyarxiv](https://dx.doi.org/10.17605/OSF.IO/BJH68)]
 
 ## 2018
@@ -96,8 +96,8 @@ to those here.
     Journal of General Linguistics, 3*, 37.
     [[pdf](./manuscripts/2018_grammaticality.pdf),
     [source](./source/2018_grammaticality),
-    [doi](http://doi.org/10.5334/gjgl.396),
-    [psyarxiv](http://doi.org/10.31234/osf.io/vrfxn)]
+    [doi](https://doi.org/10.5334/gjgl.396),
+    [psyarxiv](https://doi.org/10.31234/osf.io/vrfxn)]
   - Martire, K. A., Growns, B. and Navarro, D. J. (2018). What do the
     experts know? Calibration, precision, and the wisdom of crowds among
     forensic handwriting experts. *Psychonomic Bulletin and Review, 25*,
@@ -112,8 +112,8 @@ to those here.
     learning when priors are heterogeneous. *Cognitive Science, 42*,
     2108-2149. [[pdf](./manuscripts/2018_extremists.pdf),
     [source](./source/2018_extremists),
-    [doi](http://dx.doi.org/10.1111/cogs.12667),
-    [psyarxiv](http://dx.doi.org/10.17605/OSF.IO/7NPQ6),
+    [doi](https://dx.doi.org/10.1111/cogs.12667),
+    [psyarxiv](https://dx.doi.org/10.17605/OSF.IO/7NPQ6),
     [osf](https://osf.io/2xq5k/),
     [github](https://github.com/djnavarro/mixedchains)]
   - Navarro, D. J., Tran, P. and Baz, N. (2018). Aversion to option loss
@@ -174,13 +174,13 @@ to those here.
     Psychology: General, 145*, 110-123
     [[pdf](./manuscripts/2016_sequential.pdf),
     [source](./source/2016_sequential/),
-    [doi](http://dx.doi.org/10.1037/xge0000106),
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/y5e2s)]
+    [doi](https://dx.doi.org/10.1037/xge0000106),
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/y5e2s)]
   - Hendrickson, A., Navarro D. J. and Perfors, A. (2016). Sensitivity
     to hypothesis size during information search. *Decision, 3*, 62-80.
     [[pdf](./manuscripts/2016_battleships.pdf), 
-    [doi](http://dx.doi.org/10.1037/dec0000039),
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/7wz5b)]
+    [doi](https://dx.doi.org/10.1037/dec0000039),
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/7wz5b)]
   - Navarro, D. J., Newell, B. and Schulze, C. (2016). Learning and
     choosing in an uncertain world: An investigation of the
     explore-exploit dilemma in static and dynamic environments.
@@ -213,7 +213,7 @@ to those here.
     *Cognitive Psychology, 81*, 1-25.
     [[pdf](./manuscripts/2015_negativeevidence.pdf),
     [source](./source/2015_negativeevidence/),
-    [doi](http://dx.doi.org/10.1016/j.cogpsych.2015.07.001), 
+    [doi](https://dx.doi.org/10.1016/j.cogpsych.2015.07.001), 
     [psyarxiv](10.31234/osf.io/urgxh)]
 
 ## 2014
@@ -224,14 +224,14 @@ to those here.
     and Cognitive Processes, 29*, 568-583.
     [[pdf](./manuscripts/2014_adjectives.pdf),
     [source](./source/2014_adjectives/),
-    [doi](http://dx.doi.org/10.1080/01690965.2013.794294),
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/9bfrd)]
+    [doi](https://dx.doi.org/10.1080/01690965.2013.794294),
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/9bfrd)]
   - Perfors, A. and Navarro, D. J. (2014). Language evolution can be
     shaped by the structure of the world. *Cognitive Science, 38*,
     775-793 [[pdf](./manuscripts/2014_iterated.pdf),
     [source](./source/2014_iterated/),
-    [doi](http://dx.doi.org/10.1111/cogs.12102), 
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/m738c)]
+    [doi](https://dx.doi.org/10.1111/cogs.12102), 
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/m738c)]
 
 ## 2013
 
@@ -241,8 +241,8 @@ to those here.
     *Behavior Research Methods, 45*, 480-498.
     [[pdf](./manuscripts/2013_swow.pdf), 
     [source](./source/2013_swow/),
-    [doi](http://dx.doi.org/10.3758/s13428-012-0260-7),
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/kumwj)]
+    [doi](https://dx.doi.org/10.3758/s13428-012-0260-7),
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/kumwj)]
 
 ## 2012
 
@@ -250,14 +250,14 @@ to those here.
     assumptions in inductive generalization. *Cognitive Science, 36*,
     187-223 [[pdf](./manuscripts/2012_samplingassumptions.pdf),
     [source](./source/2012_samplingassumptions/),
-    [doi](http://dx.doi.org/10.1111/j.1551-6709.2011.01212.x),
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/ab2x6)]
+    [doi](https://dx.doi.org/10.1111/j.1551-6709.2011.01212.x),
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/ab2x6)]
   - Shafto, P., Eaves, B., Navarro, D. J. and Perfors, A. (2012).
     Epistemic trust: Modeling children’s reasoning about others’
     knowledge and intent. *Developmental Science, 15,* 436-447.
     [[pdf](./manuscripts/2012_epistemictrust.pdf), 
-    [doi](http://dx.doi.org/10.1111/j.1467-7687.2012.01135.x),
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/v8z7x)]
+    [doi](https://dx.doi.org/10.1111/j.1467-7687.2012.01135.x),
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/v8z7x)]
 
 ## 2011
 
@@ -265,8 +265,8 @@ to those here.
     positive test strategy, and sparse categories. *Psychological
     Review, 118*, 120-34 [[pdf](./manuscripts/2011_positivetest.pdf),
     [source](./source/2011_positivetest/),
-    [doi](http://dx.doi.org/10.1037/a0021110),
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/rj9kt)]
+    [doi](https://dx.doi.org/10.1037/a0021110),
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/rj9kt)]
 
 ## 2010
 
@@ -274,8 +274,8 @@ to those here.
     discovery, and the size principle. *Acta Psychologica, 133*, 256-268
     [[pdf](./manuscripts/2010_featurediscovery.pdf),
     [source](./source/2010_featurediscovery/),
-    [doi](http://dx.doi.org/10.1016/j.actpsy.2009.10.008), 
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/da4wb)]
+    [doi](https://dx.doi.org/10.1016/j.actpsy.2009.10.008), 
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/da4wb)]
   - Sanborn, A. N., Griffiths, T. L. and Navarro, D. J. (2010). Rational
     approximations to rational models: Alternative algorithms for
     category learning. *Psychological Review, 117*, 1144-1167.
@@ -290,14 +290,14 @@ to those here.
     Mathematical Psychology, 53*, 222-230.
     [[pdf](./manuscripts/2009_firstpassage.pdf), 
     [doi](https://doi.org/10.1016/j.jmp.2009.02.003),
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/4v9xt)]
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/4v9xt)]
   - Grunwald, P. and Navarro, D. J. (2009). NML, Bayes and true
     distributions: A comment on Karabatsos and Walker (2006). *Journal
     of Mathematical Psychology, 53*, 43-51.
     [[pdf](./manuscripts/2009_nmlbayes.pdf),
     [source](./source/2009_nmlbayes/),
-    [doi](http://dx.doi.org/10.1016/j.jmp.2008.11.005), 
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/szv7n)]
+    [doi](https://dx.doi.org/10.1016/j.jmp.2008.11.005), 
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/szv7n)]
 
 
 ## 2008
@@ -307,8 +307,8 @@ to those here.
     Computation, 20*, 2597-2628.
     [[pdf](./manuscripts/2008_ibpadclus.pdf),
     [source](./source/2008_ibpadclus/),
-    [doi](http://dx.doi.org/10.1162/neco.2008.04-07-504),
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/47cz2)]
+    [doi](https://dx.doi.org/10.1162/neco.2008.04-07-504),
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/47cz2)]
 
 ## 2007
 
@@ -318,14 +318,14 @@ to those here.
     (Eds) *Proceedings of the 29th Annual Conference of the Cognitive
     Science Society* (pp. 323-328).
     [[pdf](./manuscripts/2007_hdp.pdf),
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/ketw3)]
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/ketw3)]
   - Myung, J. I., Pitt, M. A. and Navarro, D. J. (2007). Does response
     scaling cause the Generalized Context Model to mimic a prototype
     model? *Psychonomic Bulletin and Review, 14*, 1043-1050.
     [[pdf](./manuscripts/2007_catmimic.pdf),
     [source](./source/2007_catmimic/),
-    [doi](http://dx.doi.org/10.3758/BF03193089),
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/ucrq3)]
+    [doi](https://dx.doi.org/10.3758/BF03193089),
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/ucrq3)]
 
 ## 2006
 
@@ -334,21 +334,21 @@ to those here.
     Psychology, 50*, 167-179. 
     [[pdf](./manuscripts/2006_nml.pdf),
     [source](./source/2006_nml/),
-    [doi](http://dx.doi.org/10.1016/j.jmp.2005.06.008),
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/evtxa)]
+    [doi](https://dx.doi.org/10.1016/j.jmp.2005.06.008),
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/evtxa)]
   - Navarro, D. J., Griffiths, T. L., Steyvers, M. and Lee, M. D.
     (2006). Modeling individual differences using Dirichlet processes.
     *Journal of Mathematical Psychology, 50*, 101-122.
     [[pdf](./manuscripts/2006_indivdiffs.pdf),
     [source](./source/2006_indivdiffs/),
-    [doi](http://dx.doi.org/10.1016/j.jmp.2005.11.006),
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/bc3ya)]
+    [doi](https://dx.doi.org/10.1016/j.jmp.2005.11.006),
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/bc3ya)]
   - Pitt, M. A., Kim, W., Navarro, D. J. and Myung, J. I. (2006). Global
     model analysis by parameter space partitioning. *Psychological
     Review, 113*, 57-83. 
     [[pdf](./manuscripts/2006_psp.pdf),
-    [doi](http://dx.doi.org/10.1037/0033-295X.113.1.57),
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/43auj)]
+    [doi](https://dx.doi.org/10.1037/0033-295X.113.1.57),
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/43auj)]
 
 ## 2005
 
@@ -357,7 +357,7 @@ to those here.
     A. Pitt (Eds) *Advances in Minimum Description Length: Theory and
     Applications* (pp. 355-384).
     [[pdf](./manuscripts/2005_mdlclustering.pdf),
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/s4vbz)]
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/s4vbz)]
 
 ## 2004
 
@@ -365,21 +365,21 @@ to those here.
     approximations. *Neural Computation, 16*, 1763-1768.
     [[pdf](./manuscripts/2004_mdlnote.pdf),
     [source](./source/2004_mdlnote/),
-    [doi](http://dx.doi.org/10.1162/0899766041336378), 
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/upf42)]
+    [doi](https://dx.doi.org/10.1162/0899766041336378), 
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/upf42)]
   - Navarro, D. J. and Lee, M. D. (2004). Common and distinctive
     features in stimulus representation: A modified version of the
     contrast model. *Psychonomic Bulletin and Review, 11*, 961-974. 
     [[pdf](./manuscripts/2004_contrastmodel.pdf),
-    [doi](http://dx.doi.org/10.3758/BF03196728),
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/pq5kr)]
+    [doi](https://dx.doi.org/10.3758/BF03196728),
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/pq5kr)]
   - Navarro, D. J., Pitt, M. A. and Myung, I. J. (2004). Assessing the
     distinguishability of models and the informativeness of data.
     *Cognitive Psychology, 49*, 47-84
     [[pdf](./manuscripts/2004_informativeness.pdf),
     [source](./source/2004_informativeness/),
-    [doi](http://dx.doi.org/10.1016/j.cogpsych.2003.11.001),
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/7u3vc)]
+    [doi](https://dx.doi.org/10.1016/j.cogpsych.2003.11.001),
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/7u3vc)]
 
 ## 2003
 
@@ -388,14 +388,14 @@ to those here.
     Psychology, 47*, 241-243.
     [[pdf](./manuscripts/2003_adclusnote.pdf),
     [source](./source/2003_adclusnote/),
-    [doi](http://dx.doi.org/10.1016/S0022-2496%2802%2900026-3),
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/akbyv)]
+    [doi](https://dx.doi.org/10.1016/S0022-2496%2802%2900026-3),
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/akbyv)]
   - Navarro, D. J. and Lee, M. D. (2003). Combining dimensions and
     features in similarity-based representations. In S. Becker, S. Thrun
     and K. Obermayer (Ed.) *Advances in Neural Information Processing
     Systems* (pp. 67-74). 
     [[pdf](./manuscripts/2003_hybridsimilarity.pdf),
-    [psyarxiv](http://dx.doi.org/10.31234/osf.io/qejyb)]
+    [psyarxiv](https://dx.doi.org/10.31234/osf.io/qejyb)]
 
 ## 2002
 
