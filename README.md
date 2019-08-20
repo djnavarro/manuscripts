@@ -87,6 +87,7 @@ to those here.
     2346–2355. \[[pdf](./manuscripts/2018_handwriting.pdf),
     [source](./source/2018_handwriting),
     [doi](https://doi.org/10.3758/s13423-018-1448-3),
+    [psyarxiv](https://doi.org/10.31234/osf.io/pq7kz),
     [osf](https://osf.io/n2g4v/),
     [github](https://github.com/djnavarro/handwritingwoc)\]
   - Navarro, D. J., Perfors, A., Kary, A., Brown, S. and Donkin, C.
