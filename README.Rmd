@@ -124,7 +124,8 @@ to those here.
     Research Methods, 49*, 2219–2234.
     [[pdf](./manuscripts/2017_robustintervals.pdf),
     [source](./source/2017_robustintervals),
-    [doi](https://doi.org/10.3758/s13428-017-0854-1)]
+    [doi](https://doi.org/10.3758/s13428-017-0854-1),
+    [psyarxiv](https://doi.org/10.31234/osf.io/gqs89)]
   - Martire, K. A., Edmond, G., Navarro, D. J, and Newell, B. R. (2017).
     On the likelihood of ‘encapsulating all uncertainty’. *Science and
     Justice, 57*, 76-79 [[pdf](./manuscripts/2017_scijust.pdf),
