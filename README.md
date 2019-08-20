@@ -128,9 +128,10 @@ to those here.
   - Tauber, S., Navarro, D. J., Perfors A. and Steyvers, M. (2017).
     Bayesian models of cognition revisited: Setting optimality aside and
     letting data drive psychological theory. *Psychological Review,
-    124*, 410-441 \[[pdf](./manuscripts/2017_descriptivebayes.pdf),
+    124*, 410-441. \[[pdf](./manuscripts/2017_descriptivebayes.pdf),
     [source](./source/2017_descriptivebayes/),
-    [doi](https://doi.org/10.1037/rev0000052)\]
+    [doi](https://doi.org/10.1037/rev0000052),
+    [psyarxiv](https://doi.org/10.31234/osf.io/25gcm)\]
 
 ## 2016
 
