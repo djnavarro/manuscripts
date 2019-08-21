@@ -213,7 +213,7 @@ to those here.
     [[pdf](./manuscripts/2015_negativeevidence.pdf),
     [source](./source/2015_negativeevidence/),
     [doi](https://dx.doi.org/10.1016/j.cogpsych.2015.07.001), 
-    [psyarxiv](10.31234/osf.io/urgxh)]
+    [psyarxiv](https://doi.org/10.31234/osf.io/urgxh)]
 
 ## 2014
 
