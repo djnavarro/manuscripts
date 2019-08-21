@@ -63,7 +63,7 @@ to those here.
     [[pdf](./manuscripts/2019_onecattwocat.pdf),
     [source](./source/2019_onecattwocat),
     [doi](https://dx.doi.org/10.1016/j.cogpsych.2019.03.001),
-    [psyarxiv](https://psyarxiv.com/9vc2n/)]
+    [psyarxiv](https://doi.org/10.31234/osf.io/9vc2n)]
   - Lee, J. C., Lovibond, P. F., Hayes, B. K. and Navarro, D. J. (2019).
     Negative evidence and inductive reasoning in generalization of
     associative learning. *Journal of Experimental Psychology: General*,
@@ -78,7 +78,7 @@ to those here.
     [source](./source/2019_devildeepbluesea),
     [doi](https://doi.org/10.1007/s42113-018-0019-z),
     [osf](https://osf.io/5swnm/),
-    [psyarxiv](https://psyarxiv.com/39q8y/)]
+    [psyarxiv](https://doi.org/10.31234/osf.io/39q8y)]
   - Vong, W. K., Hendrickson, A., Navarro, D. J. and Perfors, A. (2019).
     Do additional features help or hurt category learning? The curse of
     dimensionality in human learners. *Cognitive Science, 43*, e12724
