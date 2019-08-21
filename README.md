@@ -3,15 +3,13 @@
 
 # Danielle Navarro: Selected Manuscripts
 
-This is not a complete listing of all my papers (you can find that on my
-website [here](https://compcogscisydney.org/publications)). Instead it
-is a collection of papers that I thought were worth the effort of
-recovering and rebuilding from source so that the paper spells my name
-correctly. At the moment there are a few papers listed but in the readme
-but not in the repository. This is because I have not yet managed to
-track down the source and rebuild the manuscripts with the proper name.
+This repository contains selected papers, cross-posted to my website
+([here](https://compcogscisydney.org/publications)) and to PsyArXiv. It
+is not a complete listing of all my papers, but is instead a collection
+of papers that I thought were worth the effort of recovering and
+rebuilding from source so that the paper spells my name correctly.
 
-This repository includes both the final pdf file in the `manuscript`
+The repository includes both the final pdf file in the `manuscript`
 folder, and the `source` files used to generate it. In each case the
 citation below links to the journal DOI for the version of record, but
 if anyone wishes to share copies of my older papers *without* deadnaming
