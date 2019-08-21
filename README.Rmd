@@ -30,6 +30,10 @@ sets, analyses etc, hosted on OSF or GitHub, or with a preprint (or
 postprint) posted to PsyArXiv. Whenever that is the case, I have linked
 to those here.
 
+The [danielle.bib](./danielle.bib) file contains BibTeX entries for all
+my peer-reviewed publications, including those not included in this
+repository.
+
 ## 2019
 
   - De Deyne, S., Navarro, D. J., Perfors, A., Brysbaert, M. and Storms,
