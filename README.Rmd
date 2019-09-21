@@ -424,3 +424,7 @@ they are:
   - Navarro, D. J. (2015). *Learning statistics with R: A tutorial for
     psychology students and other beginners*.
     [[site](https://learningstatisticswithr.com)]
+
+## Preprints
+
+  - Sumner, E., Li, A. X., Perfors, A., Hayes, B., Navarro, D., & Sarnecka, B. W. (2019). The Exploration advantage: Children’s instinct to explore allows them to find information that adults miss. [[psyarxiv](https://doi.org/10.31234/osf.io/h437v), [osf](https://osf.io/4rzsa/)]
