@@ -412,5 +412,6 @@ they are:
   - Sumner, E., Li, A. X., Perfors, A., Hayes, B., Navarro, D., &
     Sarnecka, B. W. (2019). The Exploration advantage: Children’s
     instinct to explore allows them to find information that adults
-    miss. \[[psyarxiv](https://doi.org/10.31234/osf.io/h437v),
+    miss. \[[pdf](./manuscripts/preprint_kidbandit.pdf),
+    [psyarxiv](https://doi.org/10.31234/osf.io/h437v),
     [osf](https://osf.io/4rzsa/)\]
