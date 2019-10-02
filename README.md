@@ -415,3 +415,7 @@ they are:
     miss. \[[pdf](./manuscripts/preprint_kidbandit.pdf),
     [psyarxiv](https://doi.org/10.31234/osf.io/h437v),
     [osf](https://osf.io/4rzsa/)\]
+  - Ransom, K., Voorspoels, W., Navarro, D., & Perfors, A. (2019). Where
+    the truth lies: how sampling implications drive deception without
+    lying. \[[pdf](./manuscripts/preprint_deception.pdf),
+    [psyarxiv](https://doi.org/10.31234/osf.io/pv5tk)\]
