@@ -399,9 +399,9 @@ repository.
     *Learning statistics with JASP: A tutorial for psychology students
     and other beginners.* \[[site](https://learnstatswithjasp.com/)\]
   - Crump, M. J., Navarro, D. J. and Suzuki, J. (2019). *Answering
-    questions with data*
-    \[[site](https://crumplab.github.io/statistics/),
-    [source](https://osf.io/jze52/)\]
+    questions with data: Introductory statistics for psychology
+    students* \[[site](https://crumplab.github.io/statistics/),
+    [doi](https://doi.org/10.17605/OSF.IO/JZE52)\]
   - Navarro, D. J. (2015). *Learning statistics with R: A tutorial for
     psychology students and other beginners*.
     \[[site](https://learningstatisticswithr.com)\]
