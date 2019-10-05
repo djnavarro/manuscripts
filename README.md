@@ -392,17 +392,16 @@ repository.
 
 ## Books
 
-I’m not really sure how all the *Learning Statistics with {{Software}}*
-books fit into an academic publication list. They seem to sit in their
-own world rather distinct from traditional publication. Anyway, here
-they are:
-
   - Navarro, D. J. and Foxcroft D. R. (2019). *Learning statistics with
     jamovi: A tutorial for psychology students and other beginners.*
     \[[site](https://doi.org/10.24384/hgc3-7p15)\]
   - Navarro, D. J., Foxcroft D. R. and Faulkenberry, T. J. (2019).
     *Learning statistics with JASP: A tutorial for psychology students
     and other beginners.* \[[site](https://learnstatswithjasp.com/)\]
+  - Crump, M. J., Navarro, D. J. and Suzuki, J. (2019). *Answering
+    questions with data*
+    \[[site](https://crumplab.github.io/statistics/),
+    [source](https://osf.io/jze52/)\]
   - Navarro, D. J. (2015). *Learning statistics with R: A tutorial for
     psychology students and other beginners*.
     \[[site](https://learningstatisticswithr.com)\]
