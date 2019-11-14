@@ -392,6 +392,10 @@ repository.
 
 ## Books
 
+  - Navarro, D. J., Foxcroft, D. R. and Meunier, J. M. (2019).
+    *Apprentissage des statistiques avec Jamovi:un tutoriel pour les
+    étudiants en psychologie et autres débutants.* hal-02335912.
+    \[[book](https://hal.archives-ouvertes.fr/hal-02335912/document)\]
   - Navarro, D. J. and Foxcroft D. R. (2019). *Learning statistics with
     jamovi: A tutorial for psychology students and other beginners.*
     \[[site](https://doi.org/10.24384/hgc3-7p15)\]
@@ -408,6 +412,10 @@ repository.
 
 ## Preprints
 
+  - Szollosi, A., Kellen, D., Navarro, D. J., Shiffrin, R., van Rooij,
+    I., Van Zandt, T. and Donkin, C. (2019). Preregistration is
+    redundant, at best.
+    \[[psyarxiv](https://doi.org/10.31234/osf.io/x36pz)\]
   - Sumner, E., Li, A. X., Perfors, A., Hayes, B., Navarro, D., &
     Sarnecka, B. W. (2019). The exploration advantage: Children’s
     instinct to explore allows them to find information that adults
