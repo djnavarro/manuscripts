@@ -23,6 +23,13 @@ The [danielle.bib](./danielle.bib) file contains BibTeX entries for all
 my peer-reviewed publications, including those not included in this
 repository.
 
+## Accepted
+
+  - Szollosi, A., Kellen, D., Navarro, D. J., Shiffrin, R., van Rooij,
+    I., Van Zandt, T. and Donkin, C. (accepted). Is preregistration
+    worthwhile? To appear in *Trends in Cognitive Sciences*. Accepted
+    November 2019 \[[psyarxiv](https://doi.org/10.31234/osf.io/x36pz)\]
+
 ## 2019
 
   - De Deyne, S., Navarro, D. J., Perfors, A., Brysbaert, M. and Storms,
@@ -412,10 +419,6 @@ repository.
 
 ## Preprints
 
-  - Szollosi, A., Kellen, D., Navarro, D. J., Shiffrin, R., van Rooij,
-    I., Van Zandt, T. and Donkin, C. (2019). Preregistration is
-    redundant, at best.
-    \[[psyarxiv](https://doi.org/10.31234/osf.io/x36pz)\]
   - Sumner, E., Li, A. X., Perfors, A., Hayes, B., Navarro, D., &
     Sarnecka, B. W. (2019). The exploration advantage: Children’s
     instinct to explore allows them to find information that adults
