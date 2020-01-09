@@ -40,6 +40,11 @@ repository.
   Van Zandt, T. and Donkin, C. (accepted). Is preregistration worthwhile? 
   To appear in *Trends in Cognitive Sciences*. Accepted November 2019
   [[psyarxiv](https://doi.org/10.31234/osf.io/x36pz)]
+  - Martire, K. A., Edmond, G., & Navarro, D. J. (in press). Exploring juror 
+  evaluations of expert opinions using the Expert Persuasion Expectancy (ExPEx)
+  framework. To appear in *Legal and Criminological Psychology*. Accepted
+  January 2020
+
  
 
 ## 2019
@@ -433,14 +438,10 @@ repository.
     psychology students and other beginners*.
     [[site](https://learningstatisticswithr.com)]
 
-## Under review/revision with preprint
+## Under review/revision
 
   - Sumner, E., Li, A. X., Perfors, A., Hayes, B., Navarro, D., & Sarnecka, B. W. (2019). The exploration advantage: Children’s instinct to explore allows them to find information that adults miss. [[pdf](./manuscripts/preprint_kidbandit.pdf), [psyarxiv](https://doi.org/10.31234/osf.io/h437v), [osf](https://osf.io/4rzsa/)]
   - Ransom, K., Voorspoels, W., Navarro, D., & Perfors, A. (2019). Where the truth lies: how sampling implications drive deception without lying. [[pdf](./manuscripts/preprint_deception.pdf), [psyarxiv](https://doi.org/10.31234/osf.io/pv5tk)]
   
-
-## Under review/revision without preprint
-
- - Martire, K. A., Edmond, G., & Navarro, D. J. (2019). Exploring juror evaluations of expert opinions using the Expert Persuasion Expectancy (ExPEx) framework. 
 
   
