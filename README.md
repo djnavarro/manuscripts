@@ -33,6 +33,8 @@ repository.
     juror evaluations of expert opinions using the Expert Persuasion
     Expectancy (ExPEx) framework. To appear in *Legal and Criminological
     Psychology*. Accepted January 2020
+    \[[psyarxiv](https://psyarxiv.com/euh9g/),
+    [osf](https://osf.io/3pxby/)\]
 
 ## 2019
 
