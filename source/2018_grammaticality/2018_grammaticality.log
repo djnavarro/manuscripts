@@ -1,32 +1,33 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.8.12)  13 AUG 2019 18:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.15)  15 AUG 2020 09:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **2018_grammaticality.tex
 (./2018_grammaticality.tex
-LaTeX2e <2018-12-01>
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-08-07>
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/apa6/apa6.cls
-Document Class: apa6 2018/09/01 v2.33 APA formatting (6th edition)
+Document Class: apa6 2020/01/13 v2.34 APA formatting (6th edition)
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count88
+Package: etoolbox 2020/07/15 v2.5i e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count176
 )
 Class apa6 Info: No bibliography package was specified; defaulting to (but not 
 loading) Biblatex on input line 213.
@@ -67,47 +68,44 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+2.
 
-(/home/danielle/.TinyTeX/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ))
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2018/04/16 v5.8 Page Geometry
+Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
+\KV@toks@=\toks15
 )
-(/home/danielle/.TinyTeX/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
-)
-(/home/danielle/.TinyTeX/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-(/home/danielle/.TinyTeX/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-\Gm@cnth=\count89
-\Gm@cntv=\count90
-\c@Gm@tempcnt=\count91
-\Gm@bindingoffset=\dimen103
-\Gm@wd@mp=\dimen104
-\Gm@odd@mp=\dimen105
-\Gm@even@mp=\dimen106
-\Gm@layoutwidth=\dimen107
-\Gm@layoutheight=\dimen108
-\Gm@layouthoffset=\dimen109
-\Gm@layoutvoffset=\dimen110
-\Gm@dimlist=\toks15
+(/home/danielle/.TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/home/danielle/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count177
+\Gm@cntv=\count178
+\c@Gm@tempcnt=\count179
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks16
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
@@ -115,137 +113,138 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 105.
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen111
-\Gin@req@width=\dimen112
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
-Package: booktabs 2016/04/27 v1.618033 publication quality tables
-\heavyrulewidth=\dimen113
-\lightrulewidth=\dimen114
-\cmidrulewidth=\dimen115
-\belowrulesep=\dimen116
-\belowbottomsep=\dimen117
-\aboverulesep=\dimen118
-\abovetopsep=\dimen119
-\cmidrulesep=\dimen120
-\cmidrulekern=\dimen121
-\defaultaddspace=\dimen122
-\@cmidla=\count92
-\@cmidlb=\count93
-\@aboverulesep=\dimen123
-\@belowrulesep=\dimen124
-\@thisruleclass=\count94
-\@lastruleclass=\count95
-\@thisrulewidth=\dimen125
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen145
+\lightrulewidth=\dimen146
+\cmidrulewidth=\dimen147
+\belowrulesep=\dimen148
+\belowbottomsep=\dimen149
+\aboverulesep=\dimen150
+\abovetopsep=\dimen151
+\cmidrulesep=\dimen152
+\cmidrulekern=\dimen153
+\defaultaddspace=\dimen154
+\@cmidla=\count180
+\@cmidlb=\count181
+\@aboverulesep=\dimen155
+\@belowrulesep=\dimen156
+\@thisruleclass=\count182
+\@lastruleclass=\count183
+\@thisrulewidth=\dimen157
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box27
+\@tempboxb=\box45
 )
-\b@level@one@skip=\skip43
-\e@level@one@skip=\skip44
-\b@level@two@skip=\skip45
-\e@level@two@skip=\skip46
-\b@level@three@skip=\skip47
-\e@level@three@skip=\skip48
-\b@level@four@skip=\skip49
-\e@level@four@skip=\skip50
-\b@level@five@skip=\skip51
-\e@level@five@skip=\skip52
+\b@level@one@skip=\skip49
+\e@level@one@skip=\skip50
+\b@level@two@skip=\skip51
+\e@level@two@skip=\skip52
+\b@level@three@skip=\skip53
+\e@level@three@skip=\skip54
+\b@level@four@skip=\skip55
+\e@level@four@skip=\skip56
+\b@level@five@skip=\skip57
+\e@level@five@skip=\skip58
  (/home/danielle/.TinyTeX/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+Package: caption 2020/05/30 v3.4k Customizing captions (AR)
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen126
-\captionmargin@=\dimen127
-\captionwidth=\dimen128
-\caption@tempdima=\dimen129
-\caption@indent=\dimen130
-\caption@parindent=\dimen131
-\caption@hangindent=\dimen132
+Package: caption3 2020/07/20 v1.12b caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen158
+\captionmargin@=\dimen159
+\captionwidth=\dimen160
+\caption@tempdima=\dimen161
+\caption@indent=\dimen162
+\caption@parindent=\dimen163
+\caption@hangindent=\dimen164
+Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count96
-\c@ContinuedFloat=\count97
+\c@caption@flags=\count184
+\c@continuedfloat=\count185
 Package caption Info: threeparttable package is loaded.
 )
-\c@APAenum=\count98
-\@text@par@indent=\skip53
-\gr@box=\box28
-\gr@boxwidth=\skip54
-\gr@boxheight=\skip55
+\c@APAenum=\count186
+\@text@par@indent=\skip59
+\gr@box=\box46
+\gr@boxwidth=\skip60
+\gr@boxheight=\skip61
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/tools/bm.sty
-Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup4
 \symboldletters=\mathgroup5
 \symboldsymbols=\mathgroup6
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
-LaTeX Info: Redefining \bm on input line 207.
+LaTeX Info: Redefining \bm on input line 209.
 )
-\c@appendix=\count99
+\c@appendix=\count187
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
-\f@nch@headwidth=\skip56
-\f@nch@O@elh=\skip57
-\f@nch@O@erh=\skip58
-\f@nch@O@olh=\skip59
-\f@nch@O@orh=\skip60
-\f@nch@O@elf=\skip61
-\f@nch@O@erf=\skip62
-\f@nch@O@olf=\skip63
-\f@nch@O@orf=\skip64
+\f@nch@headwidth=\skip62
+\f@nch@O@elh=\skip63
+\f@nch@O@erh=\skip64
+\f@nch@O@olh=\skip65
+\f@nch@O@orh=\skip66
+\f@nch@O@elf=\skip67
+\f@nch@O@erf=\skip68
+\f@nch@O@olf=\skip69
+\f@nch@O@orf=\skip70
 ))
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks16
-\inpenc@posthook=\toks17
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
-Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
-\LTleft=\skip65
-\LTright=\skip66
-\LTpre=\skip67
-\LTpost=\skip68
-\LTchunksize=\count100
-\LTcapwidth=\dimen133
-\LT@head=\box29
-\LT@firsthead=\box30
-\LT@foot=\box31
-\LT@lastfoot=\box32
-\LT@cols=\count101
-\LT@rows=\count102
-\c@LT@tables=\count103
-\c@LT@chunks=\count104
-\LT@p@ftn=\toks18
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip71
+\LTright=\skip72
+\LTpre=\skip73
+\LTpost=\skip74
+\LTchunksize=\count188
+\LTcapwidth=\dimen165
+\LT@head=\box47
+\LT@firsthead=\box48
+\LT@foot=\box49
+\LT@lastfoot=\box50
+\LT@cols=\count189
+\LT@rows=\count190
+\c@LT@tables=\count191
+\c@LT@chunks=\count192
+\LT@p@ftn=\toks19
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count105
-\cp@tempcnt=\count106
+\c@cp@cntr=\count193
+\cp@tempcnt=\count194
 )
 (./apacite.sty
 Package: apacite 2012/02/25 v6.01 APA citation
-\c@BibCnt=\count107
-\bibleftmargin=\skip69
-\bibindent=\skip70
-\bibparsep=\skip71
-\bibitemsep=\skip72
-\biblabelsep=\skip73
+\c@BibCnt=\count195
+\bibleftmargin=\skip75
+\bibindent=\skip76
+\bibparsep=\skip77
+\bibitemsep=\skip78
+\biblabelsep=\skip79
 ) (/home/danielle/.TinyTeX/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip74
-\bibsep=\skip75
+\bibhang=\skip80
+\bibsep=\skip81
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count108
+\c@NAT@ctr=\count196
 )
 LaTeX Info: Redefining \BBA on input line 7.
  (/home/danielle/.TinyTeX/texmf-dist/tex/latex/adjustbox/adjustbox.sty
@@ -256,10 +255,10 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks19
-\XKV@tempa@toks=\toks20
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
 )
-\XKV@depth=\count109
+\XKV@depth=\count197
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/adjustbox/adjcalc.sty
@@ -271,29 +270,29 @@ Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/collectbox/collectbox.sty
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
-\collectedbox=\box33
+\collectedbox=\box51
 )
-\tc@llx=\dimen134
-\tc@lly=\dimen135
-\tc@urx=\dimen136
-\tc@ury=\dimen137
+\tc@llx=\dimen166
+\tc@lly=\dimen167
+\tc@urx=\dimen168
+\tc@ury=\dimen169
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
 File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen138
-\adjbox@Height=\dimen139
-\adjbox@Depth=\dimen140
-\adjbox@Totalheight=\dimen141
-\adjbox@pwidth=\dimen142
-\adjbox@pheight=\dimen143
-\adjbox@pdepth=\dimen144
-\adjbox@ptotalheight=\dimen145
+\adjbox@Width=\dimen170
+\adjbox@Height=\dimen171
+\adjbox@Depth=\dimen172
+\adjbox@Totalheight=\dimen173
+\adjbox@pwidth=\dimen174
+\adjbox@pheight=\dimen175
+\adjbox@pdepth=\dimen176
+\adjbox@ptotalheight=\dimen177
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2018/12/01 v2.17b AMS math features
-\@mathmargin=\skip76
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip82
 
 For additional information on amsmath, use the `?' option.
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -301,59 +300,60 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks21
-\ex@=\dimen146
+\@emptytoks=\toks22
+\ex@=\dimen178
 ))
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 LaTeX Info: Redefining \boldsymbol on input line 28.
-\pmbraise@=\dimen147
+\pmbraise@=\dimen179
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count110
-LaTeX Info: Redefining \frac on input line 223.
-\uproot@=\count111
-\leftroot@=\count112
-LaTeX Info: Redefining \overline on input line 385.
-\classnum@=\count113
-\DOTSCASE@=\count114
-LaTeX Info: Redefining \ldots on input line 482.
-LaTeX Info: Redefining \dots on input line 485.
-LaTeX Info: Redefining \cdots on input line 606.
-\Mathstrutbox@=\box34
-\strutbox@=\box35
-\big@size=\dimen148
-LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
-\macc@depth=\count115
-\c@MaxMatrixCols=\count116
-\dotsspace@=\muskip10
-\c@parentequation=\count117
-\dspbrk@lvl=\count118
-\tag@help=\toks22
-\row@=\count119
-\column@=\count120
-\maxfields@=\count121
-\andhelp@=\toks23
-\eqnshift@=\dimen149
-\alignsep@=\dimen150
-\tagshift@=\dimen151
-\tagwidth@=\dimen152
-\totwidth@=\dimen153
-\lineht@=\dimen154
-\@envbody=\toks24
-\multlinegap=\skip77
-\multlinetaggap=\skip78
-\mathdisplay@stack=\toks25
-LaTeX Info: Redefining \[ on input line 2844.
-LaTeX Info: Redefining \] on input line 2845.
+\inf@bad=\count198
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count199
+\leftroot@=\count266
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count267
+\DOTSCASE@=\count268
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+\big@size=\dimen180
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count269
+\c@MaxMatrixCols=\count270
+\dotsspace@=\muskip16
+\c@parentequation=\count271
+\dspbrk@lvl=\count272
+\tag@help=\toks23
+\row@=\count273
+\column@=\count274
+\maxfields@=\count275
+\andhelp@=\toks24
+\eqnshift@=\dimen181
+\alignsep@=\dimen182
+\tagshift@=\dimen183
+\tagwidth@=\dimen184
+\totwidth@=\dimen185
+\lineht@=\dimen186
+\@envbody=\toks25
+\multlinegap=\skip83
+\multlinetaggap=\skip84
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup7
 \symAMSb=\mathgroup8
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
@@ -362,78 +362,78 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
 x
-\pgfutil@everybye=\toks26
-\pgfutil@tempdima=\dimen155
-\pgfutil@tempdimb=\dimen156
+\pgfutil@everybye=\toks27
+\pgfutil@tempdima=\dimen187
+\pgfutil@tempdimb=\dimen188
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
 sts.tex))
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box36
+\pgfutil@abb=\box54
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2019/07/17 v3.1.4a (3.1.4a)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
 ))
-Package: pgf 2019/07/17 v3.1.4a (3.1.4a)
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2019/07/17 v3.1.4a (3.1.4a)
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks27
-\pgfkeys@temptoks=\toks28
+\pgfkeys@pathtoks=\toks28
+\pgfkeys@temptoks=\toks29
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
 ode.tex
-\pgfkeys@tmptoks=\toks29
+\pgfkeys@tmptoks=\toks30
 ))
-\pgf@x=\dimen157
-\pgf@y=\dimen158
-\pgf@xa=\dimen159
-\pgf@ya=\dimen160
-\pgf@xb=\dimen161
-\pgf@yb=\dimen162
-\pgf@xc=\dimen163
-\pgf@yc=\dimen164
-\pgf@xd=\dimen165
-\pgf@yd=\dimen166
+\pgf@x=\dimen189
+\pgf@y=\dimen190
+\pgf@xa=\dimen191
+\pgf@ya=\dimen192
+\pgf@xb=\dimen193
+\pgf@yb=\dimen194
+\pgf@xc=\dimen195
+\pgf@yc=\dimen196
+\pgf@xd=\dimen197
+\pgf@yd=\dimen198
 \w@pgf@writea=\write3
-\r@pgf@reada=\read1
-\c@pgf@counta=\count122
-\c@pgf@countb=\count123
-\c@pgf@countc=\count124
-\c@pgf@countd=\count125
-\t@pgf@toka=\toks30
-\t@pgf@tokb=\toks31
-\t@pgf@tokc=\toks32
-\pgf@sys@id@count=\count126
+\r@pgf@reada=\read2
+\c@pgf@counta=\count276
+\c@pgf@countb=\count277
+\c@pgf@countc=\count278
+\c@pgf@countd=\count279
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
+\pgf@sys@id@count=\count280
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2019/07/17 v3.1.4a (3.1.4a)
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
 ef
-File: pgfsys-pdftex.def 2019/07/17 v3.1.4a (3.1.4a)
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
 df.def
-File: pgfsys-common-pdf.def 2019/07/17 v3.1.4a (3.1.4a)
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
 )))
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
-File: pgfsyssoftpath.code.tex 2019/07/17 v3.1.4a (3.1.4a)
-\pgfsyssoftpath@smallbuffer@items=\count127
-\pgfsyssoftpath@bigbuffer@items=\count128
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count281
+\pgfsyssoftpath@bigbuffer@items=\count282
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
-File: pgfsysprotocol.code.tex 2019/07/17 v3.1.4a (3.1.4a)
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )) (/home/danielle/.TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
@@ -452,17 +452,17 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2019/07/17 v3.1.4a (3.1.4a)
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen167
-\pgfmath@count=\count129
-\pgfmath@box=\box37
-\pgfmath@toks=\toks33
-\pgfmath@stack@operand=\toks34
-\pgfmath@stack@operation=\toks35
+\pgfmath@dimen=\dimen199
+\pgfmath@count=\count283
+\pgfmath@box=\box55
+\pgfmath@toks=\toks34
+\pgfmath@stack@operand=\toks35
+\pgfmath@stack@operation=\toks36
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
 tex
@@ -483,125 +483,125 @@ code.tex)
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
 erarithmetics.code.tex)))
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count130
+\c@pgfmathroundto@lastzeros=\count284
 )) (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
-File: pgfcorepoints.code.tex 2019/07/17 v3.1.4a (3.1.4a)
-\pgf@picminx=\dimen168
-\pgf@picmaxx=\dimen169
-\pgf@picminy=\dimen170
-\pgf@picmaxy=\dimen171
-\pgf@pathminx=\dimen172
-\pgf@pathmaxx=\dimen173
-\pgf@pathminy=\dimen174
-\pgf@pathmaxy=\dimen175
-\pgf@xx=\dimen176
-\pgf@xy=\dimen177
-\pgf@yx=\dimen178
-\pgf@yy=\dimen179
-\pgf@zx=\dimen180
-\pgf@zy=\dimen181
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen256
+\pgf@picmaxx=\dimen257
+\pgf@picminy=\dimen258
+\pgf@picmaxy=\dimen259
+\pgf@pathminx=\dimen260
+\pgf@pathmaxx=\dimen261
+\pgf@pathminy=\dimen262
+\pgf@pathmaxy=\dimen263
+\pgf@xx=\dimen264
+\pgf@xy=\dimen265
+\pgf@yx=\dimen266
+\pgf@yy=\dimen267
+\pgf@zx=\dimen268
+\pgf@zy=\dimen269
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
 ruct.code.tex
-File: pgfcorepathconstruct.code.tex 2019/07/17 v3.1.4a (3.1.4a)
-\pgf@path@lastx=\dimen182
-\pgf@path@lasty=\dimen183
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen270
+\pgf@path@lasty=\dimen271
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
 .code.tex
-File: pgfcorepathusage.code.tex 2019/07/17 v3.1.4a (3.1.4a)
-\pgf@shorten@end@additional=\dimen184
-\pgf@shorten@start@additional=\dimen185
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen272
+\pgf@shorten@start@additional=\dimen273
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
 de.tex
-File: pgfcorescopes.code.tex 2019/07/17 v3.1.4a (3.1.4a)
-\pgfpic=\box38
-\pgf@hbox=\box39
-\pgf@layerbox@main=\box40
-\pgf@picture@serial@count=\count131
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count285
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
-File: pgfcoregraphicstate.code.tex 2019/07/17 v3.1.4a (3.1.4a)
-\pgflinewidth=\dimen186
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen274
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
 ations.code.tex
-File: pgfcoretransformations.code.tex 2019/07/17 v3.1.4a (3.1.4a)
-\pgf@pt@x=\dimen187
-\pgf@pt@y=\dimen188
-\pgf@pt@temp=\dimen189
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen275
+\pgf@pt@y=\dimen276
+\pgf@pt@temp=\dimen277
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
 e.tex
-File: pgfcorequick.code.tex 2019/07/17 v3.1.4a (3.1.4a)
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
 ode.tex
-File: pgfcoreobjects.code.tex 2019/07/17 v3.1.4a (3.1.4a)
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
 ssing.code.tex
-File: pgfcorepathprocessing.code.tex 2019/07/17 v3.1.4a (3.1.4a)
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
 de.tex
-File: pgfcorearrows.code.tex 2019/07/17 v3.1.4a (3.1.4a)
-\pgfarrowsep=\dimen190
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen278
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
 e.tex
-File: pgfcoreshade.code.tex 2019/07/17 v3.1.4a (3.1.4a)
-\pgf@max=\dimen191
-\pgf@sys@shading@range@num=\count132
-\pgf@shadingcount=\count133
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen279
+\pgf@sys@shading@range@num=\count286
+\pgf@shadingcount=\count287
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
 e.tex
-File: pgfcoreimage.code.tex 2019/07/17 v3.1.4a (3.1.4a)
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
 code.tex
-File: pgfcoreexternal.code.tex 2019/07/17 v3.1.4a (3.1.4a)
-\pgfexternal@startupbox=\box41
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box59
 ))
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
 de.tex
-File: pgfcorelayers.code.tex 2019/07/17 v3.1.4a (3.1.4a)
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
 ncy.code.tex
-File: pgfcoretransparency.code.tex 2019/07/17 v3.1.4a (3.1.4a)
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
 code.tex
-File: pgfcorepatterns.code.tex 2019/07/17 v3.1.4a (3.1.4a)
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
 tex
-File: pgfcorerdf.code.tex 2019/07/17 v3.1.4a (3.1.4a)
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
 e.tex
-File: pgfmoduleshapes.code.tex 2019/07/17 v3.1.4a (3.1.4a)
-\pgfnodeparttextbox=\box42
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box60
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
 tex
-File: pgfmoduleplot.code.tex 2019/07/17 v3.1.4a (3.1.4a)
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -0-65.sty
-Package: pgfcomp-version-0-65 2019/07/17 v3.1.4a (3.1.4a)
-\pgf@nodesepstart=\dimen192
-\pgf@nodesepend=\dimen193
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen280
+\pgf@nodesepend=\dimen281
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -1-18.sty
-Package: pgfcomp-version-1-18 2019/07/17 v3.1.4a (3.1.4a)
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
 ))
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
@@ -609,102 +609,110 @@ Package: pgfcomp-version-1-18 2019/07/17 v3.1.4a (3.1.4a)
 ) (/home/danielle/.TinyTeX/texmf-dist/tex/latex/pgf/math/pgfmath.sty
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2019/07/17 v3.1.4a (3.1.4a)
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen194
-\pgffor@skip=\dimen195
-\pgffor@stack=\toks36
-\pgffor@toks=\toks37
+\pgffor@iter=\dimen282
+\pgffor@skip=\dimen283
+\pgffor@stack=\toks37
+\pgffor@toks=\toks38
 ))
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
 e.tex
-Package: tikz 2019/07/17 v3.1.4a (3.1.4a)
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
-File: pgflibraryplothandlers.code.tex 2019/07/17 v3.1.4a (3.1.4a)
-\pgf@plot@mark@count=\count134
-\pgfplotmarksize=\dimen196
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count288
+\pgfplotmarksize=\dimen284
 )
-\tikz@lastx=\dimen197
-\tikz@lasty=\dimen198
-\tikz@lastxsaved=\dimen199
-\tikz@lastysaved=\dimen256
-\tikz@lastmovetox=\dimen257
-\tikz@lastmovetoy=\dimen258
-\tikzleveldistance=\dimen259
-\tikzsiblingdistance=\dimen260
-\tikz@figbox=\box43
-\tikz@figbox@bg=\box44
-\tikz@tempbox=\box45
-\tikz@tempbox@bg=\box46
-\tikztreelevel=\count135
-\tikznumberofchildren=\count136
-\tikznumberofcurrentchild=\count137
-\tikz@fig@count=\count138
+\tikz@lastx=\dimen285
+\tikz@lasty=\dimen286
+\tikz@lastxsaved=\dimen287
+\tikz@lastysaved=\dimen288
+\tikz@lastmovetox=\dimen289
+\tikz@lastmovetoy=\dimen290
+\tikzleveldistance=\dimen291
+\tikzsiblingdistance=\dimen292
+\tikz@figbox=\box61
+\tikz@figbox@bg=\box62
+\tikz@tempbox=\box63
+\tikz@tempbox@bg=\box64
+\tikztreelevel=\count289
+\tikznumberofchildren=\count290
+\tikznumberofcurrentchild=\count291
+\tikz@fig@count=\count292
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
-File: pgfmodulematrix.code.tex 2019/07/17 v3.1.4a (3.1.4a)
-\pgfmatrixcurrentrow=\count139
-\pgfmatrixcurrentcolumn=\count140
-\pgf@matrix@numberofcolumns=\count141
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count293
+\pgfmatrixcurrentcolumn=\count294
+\pgf@matrix@numberofcolumns=\count295
 )
-\tikz@expandcount=\count142
+\tikz@expandcount=\count296
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2019/07/17 v3.1.4a (3.1.4a)
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibraryfit.code.tex
-File: tikzlibraryfit.code.tex 2019/07/17 v3.1.4a (3.1.4a)
+File: tikzlibraryfit.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2019/07/17 v3.1.4a (3.1.4a)
+File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/draftwatermark/draftwatermark.sty
-Package: draftwatermark 2015/02/19 1.2 Put a gray textual watermark on document
+Package: draftwatermark 2020/06/29 2.2 Put a gray textual watermark on document
  pages
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+(/home/danielle/.TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/home/danielle/.TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/everypage/everypage.sty
 Package: everypage 2007/06/20 1.1 Hooks to run on every page
-)
-\sc@wm@hcenter=\skip79
-\sc@wm@vcenter=\skip80
-\sc@wm@fontsize=\skip81
-)
+))
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/tools/array.sty
-Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
-\col@sep=\dimen261
-\ar@mcellbox=\box47
-\extrarowheight=\dimen262
-\NC@list=\toks38
-\extratabsurround=\skip82
-\backup@length=\skip83
-\ar@cellbox=\box48
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen293
+\ar@mcellbox=\box65
+\extrarowheight=\dimen294
+\NC@list=\toks39
+\extratabsurround=\skip85
+\backup@length=\skip86
+\ar@cellbox=\box66
+)
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-08-07 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count297
+\l__pdf_internal_box=\box67
 )
 (./2018_grammaticality.aux)
 \openout1 = `2018_grammaticality.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
 LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
 LaTeX Font Info:    ... okay on input line 69.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
 LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
 LaTeX Font Info:    ... okay on input line 69.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
 LaTeX Font Info:    ... okay on input line 69.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
 LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 69.
 
-(/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
-File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -739,48 +747,10 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/home/danielle/.TinyTeX/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/home/danielle/.TinyTeX/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/home/danielle/.TinyTeX/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-(/home/danielle/.TinyTeX/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-
-(/home/danielle/.TinyTeX/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)))
-(/home/danielle/.TinyTeX/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-(/home/danielle/.TinyTeX/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/home/danielle/.TinyTeX/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-(/home/danielle/.TinyTeX/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-))))
-(/home/danielle/.TinyTeX/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
+(/home/danielle/.TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
+85.
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
@@ -790,13 +760,16 @@ e
 File: APAamerican.txt 2012/02/23 v1.25 apa6 configuration for American English
 )
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen295
+\caption@adjustwidth@linewidth=\dimen296
 Package caption Info: longtable package is loaded.
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/caption/ltcaption.sty
-Package: ltcaption 2018/08/26 v1.4-95 longtable captions (AR)
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-\c@maskedRefs=\count143
+\c@maskedRefs=\count298
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/apacite/english.apc
 File: english.apc 2013/07/21 v6.03 apacite language file
@@ -805,23 +778,25 @@ LaTeX Info: Redefining \BHBI on input line 130.
 )
 ABD: EveryShipout initializing macros
 Using title for running head
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 71.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 7
+1.
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 71.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 7
+1.
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 71.
-
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+71.
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 71.
-
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+71.
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -832,12 +807,14 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 71.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 71.
-LaTeX Font Info:    Try loading font information for U+msa on input line 71.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 71.
+
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 71.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 71.
+
 
 (/home/danielle/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -921,14 +898,11 @@ Overfull \hbox (26.58798pt too wide) in paragraph at lines 485--488
  []
 
 [24] [25] [26] [27]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 548.
-
- (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/omslmr.fd
-File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 548.
-[28]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 5
+48.
+ (/home/danielle/.TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [28]
 Underfull \hbox (badness 10000) in paragraph at lines 557--558
 
  []
@@ -1056,36 +1030,37 @@ liability_decisions.png (PNG copy)>] [44 <./figures/nulls_and_reversals.png (PN
 G copy)>] [45 <./figures/scoreAgreement.png>] [46] (./2018_grammaticality.aux) 
 ) 
 Here is how much of TeX's memory you used:
- 17602 strings out of 494553
- 336462 string characters out of 6176983
- 427457 words of memory out of 5000000
- 20850 multiletter control sequences out of 15000+600000
- 105068 words of font info for 88 fonts, out of 8000000 for 9000
+ 17904 strings out of 482841
+ 343301 string characters out of 5957101
+ 610326 words of memory out of 5000000
+ 32857 multiletter control sequences out of 15000+600000
+ 636112 words of font info for 103 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,13n,60p,2330b,962s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/home/danielle/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/home/daniel
-le/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/home/danielle/.TinyTe
-X/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/home/danielle/.TinyTeX/texmf-di
-st/fonts/enc/dvips/lm/lm-mathit.enc}{/home/danielle/.TinyTeX/texmf-dist/fonts/e
-nc/dvips/lm/lm-ec.enc}</home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm
-/lmbx10.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmcsc10.p
-fb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmex10.pfb></home/
-danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></home/danielle/.
-TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></home/danielle/.TinyTeX/tex
-mf-dist/fonts/type1/public/lm/lmmi9.pfb></home/danielle/.TinyTeX/texmf-dist/fon
-ts/type1/public/lm/lmr10.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/pu
-blic/lm/lmr17.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr
-6.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></home
-/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></home/danielle/.T
-inyTeX/texmf-dist/fonts/type1/public/lm/lmr9.pfb></home/danielle/.TinyTeX/texmf
--dist/fonts/type1/public/lm/lmri10.pfb></home/danielle/.TinyTeX/texmf-dist/font
-s/type1/public/lm/lmsy10.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/pu
-blic/lm/lmsy8.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/amsfon
-ts/symbols/msam10.pfb>
-Output written on 2018_grammaticality.pdf (46 pages, 2305882 bytes).
+ 60i,12n,60p,1978b,920s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/home/danielle/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/home/danie
+lle/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/home/danielle/.TinyTeX/t
+exmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/home/danielle/.TinyTeX/texmf-dist/
+fonts/enc/dvips/lm/lm-mathex.enc}{/home/danielle/.TinyTeX/texmf-dist/fonts/enc/
+dvips/lm/lm-mathit.enc}{/home/danielle/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/l
+m-ec.enc}</home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><
+/home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></home/dan
+ielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmex10.pfb></home/danielle/.Tin
+yTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></home/danielle/.TinyTeX/texmf
+-dist/fonts/type1/public/lm/lmmi8.pfb></home/danielle/.TinyTeX/texmf-dist/fonts
+/type1/public/lm/lmmi9.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/publ
+ic/lm/lmr10.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17
+.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr6.pfb></home/
+danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr7.pfb></home/danielle/.Ti
+nyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></home/danielle/.TinyTeX/texmf-
+dist/fonts/type1/public/lm/lmr9.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/t
+ype1/public/lm/lmri10.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/publi
+c/lm/lmsy10.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy8
+.pfb></home/danielle/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/symbols/ms
+am10.pfb>
+Output written on 2018_grammaticality.pdf (46 pages, 2305866 bytes).
 PDF statistics:
- 243 PDF objects out of 1000 (max. 8388607)
- 167 compressed objects within 2 object streams
+ 246 PDF objects out of 1000 (max. 8388607)
+ 170 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
